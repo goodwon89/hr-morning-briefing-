@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HR Morning Briefing | 상상인그룹 인재경영실</title>
+  <style>
+    :root {
+      --green:      #2d8653;
+      --green-lt:   #e7f0e9;
+      --green-mid:  #a7d9b8;
+      --dark:       #1a3a2a;
+      --gray-text:  #4b5563;
+      --gray-lt:    #9ca3af;
+      --border:     #e5e7eb;
+      --bg:         #f3f6f4;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;
+      background: var(--bg); color: #1f2937; min-height: 100vh;
+    }
+
+    /* ── 헤더 ── */
+    header {
+      background: linear-gradient(135deg, #1a3a2a 0%, #2d8653 100%);
+      padding: 40px 24px 32px; text-align: center;
+    }
+    header .brand { font-size: 13px; color: var(--green-mid); font-weight: 500;
+                    letter-spacing: 1px; margin-bottom: 8px; }
+    header h1 { font-size: 28px; font-weight: 900; color: #fff;
+                letter-spacing: -0.5px; margin-bottom: 6px; }
+    header .sub { font-size: 13px; color: #86c89e; }
+
+    /* ── 검색·필터 바 ── */
+    .toolbar {
+      max-width: 900px; margin: 0 auto; padding: 20px 16px 0;
+      display: flex; gap: 10px; flex-wrap: wrap;
+    }
+    .toolbar input {
+      flex: 1; min-width: 200px; padding: 9px 14px; border-radius: 8px;
+      border: 1px solid var(--border); font-size: 14px; background: #fff;
+      outline: none; transition: border .2s;
+    }
+    .toolbar input:focus { border-color: var(--green); }
+    .toolbar select {
+      padding: 9px 12px; border-radius: 8px; border: 1px solid var(--border);
+      font-size: 13px; background: #fff; cursor: pointer;
+    }
+
+    /* ── 날짜 섹션 ── */
+    .date-section { max-width: 900px; margin: 20px auto 0; padding: 0 16px; }
+    .date-label {
+      font-size: 13px; font-weight: 700; color: var(--green); background: var(--green-lt);
+      border-radius: 20px; display: inline-block; padding: 4px 14px; margin-bottom: 14px;
+    }
+
+    /* ── 카테고리 카드 ── */
+    .section-card {
+      background: #fff; border-radius: 12px; margin-bottom: 16px;
+      overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .section-header {
+      background: #f0f7f3; padding: 12px 18px;
+      border-left: 4px solid var(--green);
+      display: flex; align-items: baseline; gap: 8px;
+    }
+    .section-header .s-title { font-size: 14px; font-weight: 700; color: var(--dark); }
+    .section-header .s-desc  { font-size: 11px; color: #6b8c7a; }
+    .articles { padding: 4px 18px 8px; }
+
+    /* ── 기사 행 ── */
+    .article-row {
+      padding: 11px 0; border-bottom: 1px solid #f3f4f6;
+    }
+    .article-row:last-child { border-bottom: none; }
+    .article-text {
+      font-size: 13px; line-height: 1.7; color: #374151; margin-bottom: 3px;
+    }
+    .article-text a {
+      color: var(--green); font-weight: 700; text-decoration: none;
+      border-bottom: 1px solid var(--green-mid);
+    }
+    .article-text a:hover { color: #1a5c36; }
+    .article-source { font-size: 11px; color: var(--gray-lt); }
+
+    /* ── 빈 상태 ── */
+    .empty { text-align: center; padding: 60px 20px; color: var(--gray-lt); font-size: 14px; }
+
+    /* ── 푸터 ── */
+    footer {
+      text-align: center; padding: 32px 20px;
+      color: var(--gray-lt); font-size: 11px; line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="brand">상상인그룹 인재경영실</div>
+  <h1>📰 HR Morning Briefing</h1>
+  <div class="sub">Top HR Trends · 매일 오전 9시 자동 업데이트</div>
+</header>
+
+<div class="toolbar">
+  <input type="text" id="searchInput" placeholder="🔍 키워드 검색...">
+  <select id="monthFilter"><option value="">전체 기간</option></select>
+</div>
+
+<div id="archiveRoot"></div>
+
+<footer>
+  상상인그룹 인재경영실 · HR Morning Briefing 아카이브<br>
+  뉴스 출처: Google News RSS · 매일 평일 오전 9시 자동 업데이트
+</footer>
+
+<script>
+const SECTION_META = {
+  ai_hr:       { icon: "🤖", title: "AI·AX × HR 인사이트",  desc: "AI Transformation이 HR에 미치는 영향" },
+  hr_insight:  { icon: "📋", title: "HR 인사이트",          desc: "인사기획·평가·조직문화 필수 이슈" },
+  labor:       { icon: "💼", title: "노동·고용 트렌드",     desc: "노동시장·임금·고용 정책 동향" },
+  org_culture: { icon: "🏢", title: "조직문화·리더십",      desc: "기업문화·리더십·ESG 경영" },
+};
+const SECTION_ORDER = ["ai_hr","hr_insight","labor","org_culture"];
+
+let allData = [];
+
+async function loadArchive() {
+  try {
+    const resp = await fetch("news_archive.json?" + Date.now());
+    allData = await resp.json();
+    populateMonthFilter();
+    render();
+  } catch(e) {
+    document.getElementById("archiveRoot").innerHTML =
+      '<div class="empty">아카이브를 불러오는 중입니다...<br>첫 실행 후 자동으로 데이터가 채워집니다.</div>';
+  }
+}
+
+function populateMonthFilter() {
+  const months = new Set();
+  allData.forEach(e => months.add(e.date.slice(0,7)));
+  const sel = document.getElementById("monthFilter");
+  [...months].sort().reverse().forEach(m => {
+    const opt = document.createElement("option");
+    opt.value = m;
+    opt.textContent = m.replace("-","년 ") + "월";
+    sel.appendChild(opt);
+  });
+}
+
+function formatDate(dateStr) {
+  const d = new Date(dateStr + "T00:00:00+09:00");
+  const days = ["일","월","화","수","목","금","토"];
+  return `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
+}
+
+function makeLinkedText(title, url, description) {
+  const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+  const linkStyle = 'color:#2d8653;font-weight:700;text-decoration:none;border-bottom:1px solid #a7d9b8;';
+
+  const clean = description ? description.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim() : "";
+
+  if (!clean || clean.length < 20) {
+    return `• <a href="${url}" target="_blank" style="${linkStyle}">${esc(title)}</a>`;
+  }
+
+  // 제목에서 핵심 키워드 추출
+  let key = "";
+  const numMatch = title.match(/\d+[%억만년차개명건배]\S{0,3}/);
+  if (numMatch) key = numMatch[0];
+  if (!key) { const qm = title.match(/["""](.*?)["""]/); if(qm && qm[1].length>3) key=qm[1]; }
+  if (!key) {
+    const skip = new Set(["AI","HR","ESG","IT","CEO","MZ","HRD","OKR","KPI"]);
+    const em = title.match(/\b[A-Z][A-Za-z]{2,}\b/g) || [];
+    key = em.find(w => !skip.has(w)) || "";
+  }
+
+  const escDesc = esc(clean);
+  if (key && escDesc.includes(key)) {
+    return `• ${escDesc.replace(key, `<a href="${url}" target="_blank" style="${linkStyle}">${key}</a>`, 1)}`;
+  }
+  return `• <a href="${url}" target="_blank" style="${linkStyle}">${esc(title)}</a> — ${escDesc.slice(0,120)}`;
+}
+
+function render() {
+  const query  = document.getElementById("searchInput").value.toLowerCase();
+  const month  = document.getElementById("monthFilter").value;
+  const root   = document.getElementById("archiveRoot");
+
+  let filtered = allData;
+  if (month)  filtered = filtered.filter(e => e.date.startsWith(month));
+  if (query)  filtered = filtered.filter(e =>
+    e.news.some(a => (a.title||"").toLowerCase().includes(query) ||
+                     (a.description||"").toLowerCase().includes(query))
+  );
+
+  if (!filtered.length) {
+    root.innerHTML = '<div class="empty">검색 결과가 없습니다.</div>';
+    return;
+  }
+
+  root.innerHTML = filtered.map(entry => {
+    const bySection = {};
+    (entry.news || []).forEach(a => {
+      const s = a.section || "etc";
+      (bySection[s] = bySection[s] || []).push(a);
+    });
+
+    const sectionsHtml = SECTION_ORDER.filter(k => bySection[k]?.length).map(k => {
+      const meta = SECTION_META[k] || { icon:"📌", title:k, desc:"" };
+      const rows = bySection[k].map(a => {
+        const linkedText = makeLinkedText(a.title||"", a.url||"#", a.description||"");
+        return `<div class="article-row">
+          <div class="article-text">${linkedText}</div>
+          <div class="article-source">${a.source || ""}</div>
+        </div>`;
+      }).join("");
+      return `<div class="section-card">
+        <div class="section-header">
+          <span class="s-title">${meta.icon} ${meta.title}</span>
+          <span class="s-desc">${meta.desc}</span>
+        </div>
+        <div class="articles">${rows}</div>
+      </div>`;
+    }).join("");
+
+    return `<div class="date-section">
+      <div class="date-label">📅 ${formatDate(entry.date)}</div>
+      ${sectionsHtml || '<div class="empty" style="padding:20px">기사 없음</div>'}
+    </div>`;
+  }).join("");
+}
+
+document.getElementById("searchInput").addEventListener("input", render);
+document.getElementById("monthFilter").addEventListener("change", render);
+
+loadArchive();
+</script>
+</body>
+</html>
