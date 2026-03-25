@@ -89,10 +89,20 @@
 
     /* ── 섹션 ── */
     .section-title-row {
-      font-size: 16px; font-weight: 800; color: var(--black);
-      padding: 16px 0 10px; letter-spacing: -0.3px;
-      border-top: 1px solid var(--black);
+      font-size: 15px; font-weight: 800; color: var(--black);
+      padding: 14px 0 8px; letter-spacing: -0.3px;
+      border-top: 2px solid var(--black);
       font-family: var(--font);
+      display: flex; align-items: flex-end;
+      justify-content: space-between; gap: 12px;
+    }
+    .section-desc {
+      font-size: 11px; font-weight: 400; color: var(--gray);
+      white-space: nowrap; flex-shrink: 0;
+      font-family: var(--font);
+    }
+    @media (max-width: 500px) {
+      .section-desc { display: none; }
     }
 
     /* ── 기사 행 ── */
@@ -182,12 +192,13 @@
 
 <script>
 const SECTION_META = {
-  ai_hr:       { icon: "🤖", title: "AI·AX × HR 인사이트" },
-  hr_insight:  { icon: "📋", title: "HR 인사이트" },
-  labor:       { icon: "💼", title: "노동·고용 트렌드" },
-  org_culture: { icon: "🏢", title: "조직문화·리더십" },
+  hr:             { icon: "👥", title: "HR",            desc: "인사기획·평가·조직문화·노동법 및 Data 기반 HR 핵심 이슈" },
+  ai_tech:        { icon: "🤖", title: "AI / 기술",     desc: "AI·디지털 전환(DX)이 기업 생산성과 조직에 미치는 영향" },
+  macro_industry: { icon: "🌐", title: "거시 / 산업",   desc: "국내외 주요 경제 지표 및 그룹사 연관 산업의 핵심 동향" },
+  invest_ma:      { icon: "💰", title: "투자 / M&A",    desc: "국내외 스타트업 투자·VC·IPO 및 주요 기업 인수합병 동향" },
+  innovation:     { icon: "🚀", title: "혁신 생태계",   desc: "신규 비즈니스 모델·해외 진출·규제 및 창업 생태계 이슈" },
 };
-const SECTION_ORDER = ["ai_hr","hr_insight","labor","org_culture"];
+const SECTION_ORDER = ["hr","ai_tech","macro_industry","invest_ma","innovation"];
 
 let allData = [];
 
@@ -292,7 +303,10 @@ function render() {
       }).join("");
 
       return `<div class="section-block">
-        <div class="section-title-row">${meta.icon}&nbsp; ${meta.title}</div>
+        <div class="section-title-row">
+          <span>${meta.icon}&nbsp; ${meta.title}</span>
+          <span class="section-desc">${meta.desc || ""}</span>
+        </div>
         <table class="article-table"><tbody>${rows}</tbody></table>
       </div>`;
     }).join("");

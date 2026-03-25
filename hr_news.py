@@ -31,48 +31,83 @@ LOGO_URL          = ""   # GitHub Pages 배포 후 로고 URL 입력 (예: https
 INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 SUBSCRIBE_SUBJ    = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
-NEWS_MAX_AGE_DAYS = 7    # 발행 후 이 일수 이내 기사만 수집
+NEWS_MAX_AGE_DAYS = 14   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
 TARGET = {
-    "ai_hr":       3,
-    "hr_insight":  3,
-    "labor":       2,
-    "org_culture": 2,
+    "hr":               3,
+    "ai_tech":          3,
+    "macro_industry":   3,
+    "invest_ma":        3,
+    "innovation":       3,
 }
-TOTAL_TARGET = sum(TARGET.values())  # 10
+TOTAL_TARGET = sum(TARGET.values())  # 15
 
 # ──────────────────────────────────────────────────────────────
 # 3. 카테고리별 검색 쿼리
 # ──────────────────────────────────────────────────────────────
 QUERIES = {
-    "ai_hr": [
-        "AI HR 인공지능 인사관리",
-        "AI 채용 면접 자동화",
-        "HR Tech AI 기업 도입",
-        "생성형 AI 직원 업무 활용",
-        "AX AI 전환 HR 인사",
-    ],
-    "hr_insight": [
-        "인사제도 HR 트렌드",
-        "채용 공채 방식 변화",
-        "성과평가 OKR KPI 기업",
-        "조직문화 직원경험 EX",
-        "인재개발 HRD 교육 연수",
-    ],
-    "labor": [
-        "노동시장 고용 동향",
-        "임금 연봉 인상 현황",
-        "유연근무 재택 하이브리드",
+    "hr": [
+        "인사기획 HR 제도 기업",
+        "성과평가 인사평가 개편",
+        "조직문화 기업문화 변화",
         "노동법 근로기준법 개정",
+        "HR 데이터 분석 인재",
+        "채용 전략 인사 트렌드",
+        "직원경험 EX 몰입도",
+        "인재경영 HRD 역량개발",
+        "고용노동부 정책 인사",
+        "임금 보상 인사제도",
     ],
-    "org_culture": [
-        "조직문화 기업문화 사례",
-        "리더십 경영 트렌드",
-        "ESG 인사 경영 기업",
-        "MZ세대 직장 세대 문화",
+    "ai_tech": [
+        "AI 기업 생산성 도입",
+        "디지털 전환 DX 기업",
+        "생성형 AI 업무 활용",
+        "AI 자동화 업무 혁신",
+        "기업 AI 도입 사례",
+        "AI 에이전트 기업 적용",
+        "챗GPT 클로드 기업 활용",
+        "AI 기술 혁신 조직",
+        "로봇 자동화 제조 기업",
+        "클라우드 SaaS 기업 전환",
+    ],
+    "macro_industry": [
+        "국내 경제 지표 전망",
+        "금리 환율 경제 동향",
+        "부동산 건설 시장 동향",
+        "금융 투자 산업 트렌드",
+        "글로벌 경제 한국 영향",
+        "수출 제조업 경기 동향",
+        "소비자 물가 경제 지표",
+        "반도체 배터리 산업 동향",
+        "에너지 원자재 가격 동향",
+        "미국 중국 경제 정책 영향",
+    ],
+    "invest_ma": [
+        "스타트업 투자 유치 라운드",
+        "벤처캐피털 VC 투자",
+        "기업 인수합병 M&A",
+        "IPO 상장 기업",
+        "시리즈 투자 스타트업",
+        "PE 사모펀드 투자",
+        "유니콘 기업 투자",
+        "해외 투자 유치 한국 기업",
+        "전략적 투자 기업 파트너십",
+        "딜 클로징 기업 인수",
+    ],
+    "innovation": [
+        "스타트업 새 비즈니스 모델",
+        "해외 진출 글로벌 한국 기업",
+        "규제 샌드박스 혁신",
+        "창업 생태계 스타트업",
+        "신사업 플랫폼 서비스 출시",
+        "디지털 혁신 새 서비스",
+        "규제 완화 산업 혁신",
+        "딥테크 바이오 신산업",
+        "글로벌 진출 K스타트업",
+        "정부 지원 창업 혁신 정책",
     ],
 }
 
@@ -80,32 +115,38 @@ QUERIES = {
 # 4. 섹션 메타 (이메일 + Pages 공통)
 # ──────────────────────────────────────────────────────────────
 SECTION_META = {
-    "ai_hr":       {
+    "hr": {
+        "icon": "👥",
+        "title": "HR",
+        "desc": "인사기획·평가·조직문화·노동법 및 Data 기반 HR 핵심 이슈",
+        "color": "#1d6f42",
+    },
+    "ai_tech": {
         "icon": "🤖",
-        "title": "AI·AX × HR 인사이트",
-        "desc": "AI Transformation이 HR 영역에 미치는 영향 및 기업 적용 사례",
+        "title": "AI / 기술",
+        "desc": "AI·디지털 전환(DX)이 기업 생산성과 조직에 미치는 영향",
         "color": "#1d6f42",
     },
-    "hr_insight":  {
-        "icon": "📋",
-        "title": "HR 인사이트",
-        "desc": "인사기획·평가·조직문화 담당자 필수 이슈",
+    "macro_industry": {
+        "icon": "🌐",
+        "title": "거시 / 산업",
+        "desc": "국내외 주요 경제 지표 및 그룹사 연관 산업의 핵심 동향",
         "color": "#1d6f42",
     },
-    "labor":       {
-        "icon": "💼",
-        "title": "노동·고용 트렌드",
-        "desc": "노동시장·임금·고용 정책 동향",
+    "invest_ma": {
+        "icon": "💰",
+        "title": "투자 / M&A",
+        "desc": "국내외 스타트업 투자·VC·IPO 및 주요 기업 인수합병 동향",
         "color": "#1d6f42",
     },
-    "org_culture": {
-        "icon": "🏢",
-        "title": "조직문화·리더십",
-        "desc": "기업문화·리더십·ESG 경영 트렌드",
+    "innovation": {
+        "icon": "🚀",
+        "title": "혁신 생태계",
+        "desc": "신규 비즈니스 모델·해외 진출·규제 및 창업 생태계 이슈",
         "color": "#1d6f42",
     },
 }
-SECTION_ORDER = ["ai_hr", "hr_insight", "labor", "org_culture"]
+SECTION_ORDER = ["hr", "ai_tech", "macro_industry", "invest_ma", "innovation"]
 
 
 # ──────────────────────────────────────────────────────────────
@@ -413,22 +454,38 @@ def build_article_row(item: dict) -> str:
 
 
 def build_section_html(section_key: str, items: list) -> str:
-    """카테고리 섹션 HTML 생성 (Neusral 스타일: 굵은 제목 + 구분선)"""
+    """카테고리 섹션 HTML 생성 (Neusral 스타일: 굵은 제목(좌) + desc 설명(우))"""
     meta       = SECTION_META.get(section_key, {})
     icon       = meta.get("icon", "📌")
     title      = meta.get("title", section_key)
+    desc       = meta.get("desc", "")
 
     rows = "".join(build_article_row(item) for item in items)
 
     return f"""
   <!-- 섹션: {title} -->
   <div style="margin-bottom:8px;">
-    <div style="font-size:16px; font-weight:800; color:#1a1a2a;
-                padding:18px 0 10px; letter-spacing:-0.3px;">
-      {icon}&nbsp; {title}
-    </div>
+    <!-- 섹션 헤더: 제목(좌) + 설명(우) -->
     <table width="100%" cellpadding="0" cellspacing="0"
-           style="border-collapse:collapse; border-top:1px solid #1a1a2a;">
+           style="border-collapse:collapse; border-top:2px solid #1a1a2a;
+                  padding-top:0;">
+      <tr>
+        <td style="padding:14px 0 8px; vertical-align:bottom;">
+          <span style="font-size:15px; font-weight:800; color:#1a1a2a;
+                       letter-spacing:-0.3px;">
+            {icon}&nbsp; {title}
+          </span>
+        </td>
+        <td style="padding:14px 0 8px; vertical-align:bottom;
+                   text-align:right; white-space:nowrap;">
+          <span style="font-size:11px; color:#9ca3af; font-weight:400;">
+            {desc}
+          </span>
+        </td>
+      </tr>
+    </table>
+    <table width="100%" cellpadding="0" cellspacing="0"
+           style="border-collapse:collapse; border-top:1px solid #e5e7eb;">
       {rows}
     </table>
   </div>"""
