@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>인재경영실 Morning Briefing | 상상인그룹 인재경영실</title>
+  <title>HR Morning Briefing | 상상인그룹 인재경영실</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
@@ -218,10 +218,9 @@ function insertLogos() {
 function setupMailLinks() {
   const subj_sub   = encodeURIComponent("HR Morning Briefing 구독 신청");
   const subj_unsub = encodeURIComponent("HR Morning Briefing 구독 취소");
-  // mailto는 수신자 이메일을 모르므로 빈 링크로 두거나 담당자 메일로 설정
-  // 실제 운영 시 아래 이메일 주소를 담당자 이메일로 교체하세요
-  document.getElementById("btnSubscribe").href   = `mailto:?subject=${subj_sub}`;
-  document.getElementById("btnUnsubscribe").href = `mailto:?subject=${subj_unsub}`;
+  const adminEmail = "kwjang@sangsanginworld.co.kr";
+  document.getElementById("btnSubscribe").href   = `mailto:${adminEmail}?subject=${subj_sub}`;
+  document.getElementById("btnUnsubscribe").href = `mailto:${adminEmail}?subject=${subj_unsub}`;
 }
 
 async function loadArchive() {
