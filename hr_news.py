@@ -262,68 +262,35 @@ def get_rss_description(entry) -> str:
 # 헬퍼: 핵심 키워드 추출 + 하이퍼링크 삽입
 # ──────────────────────────────────────────────────────────────
 
-def extract_key_phrase(title: str) -> str:
-    """
-    기사 제목에서 링크 걸기 가장 적합한 핵심 구절을 추출.
-    우선순위: 큰따옴표 내용 > 작은 따옴표 내용 > 숫자+단위 > 구체적 영어 고유명사 > 앞 2어절
-    """
-    # 1. 숫자+단위 (예: 62%, 10년차, 30억원)
-    m = re.search(r"\d+[%억만년차개명건배]\S{0,3}", title)
-    if m:
-        return m.group()
-
-    # 2. 큰따옴표 또는 작은따옴표 안의 내용
-    m = re.search(r'["\'"](.*?)["\'""]', title)
-    if m and 3 < len(m.group(1)) < 20:
-        return m.group(1)
-
-    # 3. 영어 대문자 고유명사 (AI·HR·ESG 제외, 3자 이상 구체적 명사)
-    skip = {"AI", "HR", "ESG", "IT", "CEO", "MZ", "HRD", "OKR", "KPI", "AX"}
-    eng_words = re.findall(r"\b[A-Z][A-Za-z]{2,}\b", title)
-    for w in eng_words:
-        if w not in skip:
-            return w
-
-    # 4. 두 번째 ·, 로, 가, 이, 은, 는 앞 구절 (한국어 주어부)
-    m = re.search(r"^(.{4,15}?)[이가은는][\s,]", title)
-    if m:
-        return m.group(1)
-
-    # 5. 첫 두 어절 (최종 fallback)
-    words = title.split()
-    return " ".join(words[:2]) if len(words) >= 2 else title[:12]
-
-
 def make_linked_text(title: str, url: str, description: str) -> str:
     """
-    description에 title의 핵심 키워드를 하이퍼링크로 삽입.
-    description이 없거나 키워드 매칭 실패 시 title 자체를 링크로 반환.
+    기사 전체 텍스트에 링크를 걸고, 한 줄을 초과하지 않도록 글자 수를 제한합니다.
     """
+    # 1. 글자 수 제한 설정 (띄어쓰기 포함, 한글 기준)
+    # 660px 너비 이메일 템플릿의 75% 영역에는 보통 35~40자가 적당합니다.
+    MAX_CHARS = 38 
+    
+    # 2. 텍스트가 제한 길이를 넘으면 자르고 말줄임표(...) 추가
+    display_text = title
+    if len(display_text) > MAX_CHARS:
+        display_text = display_text[:MAX_CHARS] + "..."
+        
+    # 3. HTML 특수문자 이스케이프 처리 (오류 방지)
+    esc_text = display_text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+    # 4. 링크 스타일 지정
+    # - font-weight: 500 (또는 normal)로 일반 텍스트 굵기 유지
+    # - text-decoration: none (밑줄 제거)
+    # - white-space: nowrap (CSS 레벨에서 줄바꿈 강제 방지)
+    # - text-overflow: ellipsis (영역을 넘어가면 CSS로도 ... 처리)
     LINK_STYLE = (
-        "color:#1a1a2a; font-weight:600; text-decoration:none;"
+        "color:#1a1a2a; text-decoration:none; font-weight:500; "
+        "display:block; width:100%; white-space:nowrap; "
+        "overflow:hidden; text-overflow:ellipsis;"
     )
 
-    esc_title = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    title_link = f'<a href="{url}" target="_blank" style="{LINK_STYLE}">{esc_title}</a>'
-
-    if not description or len(description) < 20:
-        return title_link
-
-    key = extract_key_phrase(title)
-    esc_desc = description.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-    # description 안에 핵심 키워드가 있으면 그것을 링크로 교체
-    if key and key in esc_desc:
-        linked = esc_desc.replace(
-            key,
-            f'<a href="{url}" target="_blank" style="{LINK_STYLE}">{key}</a>',
-            1,
-        )
-        return linked
-
-    # 매칭 안 되면: [title 링크] — description
-    return f"{title_link} — {esc_desc}"
-
+    # 5. 전체 텍스트를 하나의 하이퍼링크(<a>)로 묶어서 반환
+    return f'<a href="{url}" target="_blank" style="{LINK_STYLE}">{esc_text}</a>'
 
 # ──────────────────────────────────────────────────────────────
 # 뉴스 수집
