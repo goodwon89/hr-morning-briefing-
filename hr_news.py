@@ -22,7 +22,7 @@ KST          = timezone(timedelta(hours=9))
 ARCHIVE_FILE = "news_archive.json"
 ARCHIVE_DAYS = 7
 
-NEWSLETTER_TITLE  = "HR Morning Briefing"
+NEWSLETTER_TITLE  = "인재경영실 Morning Briefing"
 NEWSLETTER_SUBTLT = "Top 10 Trends to Start Your Day"
 EMAIL_FROM_NAME   = "상상인그룹 인재경영실"
 LOGO_URL          = ""   # GitHub Pages 배포 후 로고 URL 입력 (예: https://user.github.io/repo/logo.png)
