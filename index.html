@@ -56,20 +56,19 @@
       transition: opacity .15s;
     }
     .btn:hover { opacity: .85; }
-    .btn-archive {
-      background: var(--yellow); color: var(--black);
-      border: 1px solid var(--yellow-bd);
-    }
     .btn-subscribe {
       background: var(--black); color: #fff; border: 1px solid var(--black);
     }
     .btn-unsub {
       background: #f3f4f6; color: #6b7280; border: 1px solid var(--gray-lt);
     }
-    .btn-intro {
-      background: var(--green-lt); color: var(--green);
-      border: 1px solid var(--green-bd);
+    .btn-intro-text {
+      background: none; border: none; color: var(--black);
+      font-weight: 800; font-size: 13px; padding: 9px 2px;
+      text-decoration: none; display: inline-flex; align-items: center; gap: 5px;
+      font-family: var(--font); cursor: pointer;
     }
+    .btn-intro-text:hover { text-decoration: underline; }
 
     /* ── 검색·필터 바 ── */
     .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 24px; }
@@ -132,7 +131,6 @@
     .site-footer .copy {
       font-size: 11px; color: var(--gray); line-height: 1.7; font-family: var(--font);
     }
-    .site-footer .logo-wrap img { height: 28px; opacity: .6; }
 
     @media (max-width: 600px) {
       .page-wrap { padding: 24px 18px 48px; }
@@ -157,12 +155,9 @@
 
   <!-- 액션 버튼 바 -->
   <div class="action-bar">
-    <a id="btnArchive" href="#archiveRoot" class="btn btn-archive">
-      📁 전체 뉴스 아카이브 보기
-    </a>
     <a id="btnSubscribe"   href="#" class="btn btn-subscribe">✉ 구독 신청</a>
     <a id="btnUnsubscribe" href="#" class="btn btn-unsub">구독 취소</a>
-    <a href="https://ssihr.oopy.io" target="_blank" class="btn btn-intro">
+    <a href="https://ssihr.oopy.io" target="_blank" class="btn-intro-text">
       🏢 인재경영실 소개
     </a>
   </div>
@@ -181,7 +176,6 @@
     <div class="copy">
       Copyright 2026 상상인그룹 인재경영실, All rights reserved.
     </div>
-    <div class="logo-wrap" id="footerLogo"></div>
   </footer>
 
 </div>
@@ -199,19 +193,16 @@ let allData = [];
 
 /* 로고 삽입 */
 function insertLogos() {
-  [{ id:"headerLogo", h:"40px" }, { id:"footerLogo", h:"28px" }].forEach(({ id, h }) => {
-    const el = document.getElementById(id);
-    if (!el) return;
-    const img = document.createElement("img");
-    img.src = "logo.png"; img.alt = "상상인그룹";
-    img.style.cssText = `height:${h};display:block;${id==="footerLogo"?"opacity:0.6;":""}`;
-    img.onerror = function() {
-      el.innerHTML = `<span style="font-size:${id==="headerLogo"?"14":"12"}px;
-        font-weight:800;color:${id==="headerLogo"?"#1a1a2a":"#9ca3af"};
-        font-family:'Pretendard',sans-serif;">상상인그룹</span>`;
-    };
-    el.appendChild(img);
-  });
+  const el = document.getElementById("headerLogo");
+  if (!el) return;
+  const img = document.createElement("img");
+  img.src = "logo.png"; img.alt = "상상인그룹";
+  img.style.cssText = "height:32px;display:block;";   /* 40px × 80% = 32px */
+  img.onerror = function() {
+    el.innerHTML = `<span style="font-size:13px;font-weight:800;color:#1a1a2a;
+      font-family:'Pretendard',sans-serif;">상상인그룹</span>`;
+  };
+  el.appendChild(img);
 }
 
 /* 구독 메일 링크 설정 */

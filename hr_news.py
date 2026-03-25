@@ -448,11 +448,11 @@ def build_email_html(news_items: list, today_str: str,
         if k in by_section and by_section[k]
     )
 
-    # 로고 HTML
+    # 헤더 로고 HTML (36px × 80% ≈ 29px)
     logo_img = (
-        f'<img src="{logo_url}" alt="상상인그룹" style="height:36px; display:block;">'
+        f'<img src="{logo_url}" alt="상상인그룹" style="height:29px; display:block;">'
         if logo_url
-        else '<span style="font-size:13px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
+        else '<span style="font-size:12px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
     )
 
     # 발신자 이메일 (구독/취소 mailto용)
@@ -488,7 +488,8 @@ def build_email_html(news_items: list, today_str: str,
             뉴스레터 &nbsp;|&nbsp; {today_str}
           </div>
         </td>
-        <td style="vertical-align:top; text-align:right; white-space:nowrap;">
+        <td style="vertical-align:top; text-align:right; white-space:nowrap;
+                   padding-left:20px; width:1%;">
           {logo_img}
         </td>
       </tr>
@@ -503,7 +504,7 @@ def build_email_html(news_items: list, today_str: str,
     <!-- 하단 구분선 -->
     <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0 20px;">
 
-    <!-- 액션 버튼 4개 -->
+    <!-- 액션 버튼 3개 (아카이브 보기 / 구독 신청 / 구독 취소 / 인재경영실 소개) -->
     <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
       <tr>
         <td style="padding:4px;">
@@ -530,18 +531,15 @@ def build_email_html(news_items: list, today_str: str,
              style="display:inline-block; background:#f3f4f6; color:#6b7280;
                     font-size:13px; font-weight:600; padding:10px 14px;
                     border-radius:8px; text-decoration:none; border:1px solid #e5e7eb;
+                    margin-right:8px;
                     font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             구독 취소
           </a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding:4px;">
-          <!-- 인재경영실 소개 -->
+          <!-- 인재경영실 소개: 배경·테두리 없이 검정 볼드 텍스트 -->
           <a href="{INTRO_URL}" target="_blank"
-             style="display:inline-block; background:#f0fdf4; color:#16a34a;
-                    font-size:13px; font-weight:700; padding:10px 18px;
-                    border-radius:8px; text-decoration:none; border:1px solid #bbf7d0;
+             style="display:inline-block; background:none; color:#1a1a2a;
+                    font-size:13px; font-weight:800; padding:10px 4px;
+                    text-decoration:none;
                     font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             🏢 인재경영실 소개
           </a>
@@ -552,19 +550,11 @@ def build_email_html(news_items: list, today_str: str,
     <!-- 최종 구분선 -->
     <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;">
 
-    <!-- 푸터: 저작권(좌) + 로고(우) -->
-    <table width="100%" cellpadding="0" cellspacing="0">
-      <tr>
-        <td style="font-size:11px; color:#9ca3af; line-height:1.7;
-                   vertical-align:middle;
-                   font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
-          Copyright 2026 {EMAIL_FROM_NAME}, All rights reserved.
-        </td>
-        <td style="text-align:right; vertical-align:middle;">
-          {logo_img}
-        </td>
-      </tr>
-    </table>
+    <!-- 푸터: 저작권만 -->
+    <div style="font-size:11px; color:#9ca3af; line-height:1.7;
+                font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+      Copyright 2026 {EMAIL_FROM_NAME}, All rights reserved.
+    </div>
 
   </div>
 </body>
