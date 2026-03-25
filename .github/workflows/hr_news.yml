@@ -1,4 +1,4 @@
-name: HR Morning Briefing 자동 발송
+name: 인재경영실 Morning Briefing 자동 발송
 
 on:
   schedule:
