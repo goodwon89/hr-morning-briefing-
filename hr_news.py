@@ -3,8 +3,8 @@
 ================================================
 개선사항:
   - Google News RSS description에서 기사 핵심 문장 자동 발췌
-  - 기사 제목의 핵심 키워드를 본문에 하이퍼링크로 자동 삽입
-  - 번호+버튼 방식 → 자연스러운 문장+키워드링크 방식으로 전환
+  - 기사 제목 전체를 본문에 하이퍼링크로 자동 삽입 (글자수 제한 포함)
+  - 각 쿼리별 최상단(대장) 기사만 수집 후 최신순으로 정렬하여 트래픽 반영
 """
 
 import os, re, json, base64, smtplib, html as html_lib
@@ -32,7 +32,7 @@ INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
-NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
+NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
@@ -44,7 +44,7 @@ TARGET = {
     "invest_ma":        4,
     "innovation":       4,
 }
-TOTAL_TARGET = sum(TARGET.values())  # 15
+TOTAL_TARGET = sum(TARGET.values())  # 22
 
 # ──────────────────────────────────────────────────────────────
 # 3. 카테고리별 검색 쿼리
@@ -175,10 +175,8 @@ def normalize_title(title: str) -> str:
 
 def enrich_title(title: str, description: str) -> str:
     """제목이 너무 짧으면 description으로 보완 (기관명만 있는 경우 등)"""
-    # 10자 미만이거나 단어가 1개뿐이면 너무 짧은 제목으로 판단
     if len(title) < 10 or " " not in title.strip():
         if description and len(description) >= 15:
-            # 첫 문장 추출, 없으면 앞 70자 사용
             first_sentence = description.split(".")[0].strip()
             snippet = first_sentence if len(first_sentence) >= 15 else description[:70]
             return snippet[:80].strip()
@@ -192,12 +190,7 @@ def title_tokens(title: str) -> frozenset:
 
 
 def char_bigrams(title: str) -> frozenset:
-    """
-    문자 단위 2-gram 집합.
-    공백·특수문자를 제거한 뒤 연속 2글자를 추출 →
-    '작년'↔'지난해', '3만4천500명'↔'3만4500명' 같은
-    동의어·숫자 표기 차이도 높은 유사도로 잡아냄.
-    """
+    """문자 단위 2-gram 집합."""
     s = re.sub(r'[\s\W]+', '', normalize_title(title))
     return frozenset(s[i:i+2] for i in range(len(s) - 1))
 
@@ -205,16 +198,10 @@ def char_bigrams(title: str) -> frozenset:
 def is_similar_title(a: str, b: str,
                      word_thr: float = 0.45,
                      char_thr: float = 0.35) -> bool:
-    """
-    단어 Jaccard OR 문자 bigram Jaccard 중 하나라도 임계값 이상이면 동일 사건 판단.
-    - word_thr: 단어 수준 유사도 (기본 0.45)
-    - char_thr: 문자 bigram 수준 유사도 (기본 0.35) — 표기 차이·동의어 대응
-    """
-    # ① 단어 Jaccard
+    """단어 Jaccard OR 문자 bigram Jaccard 중 하나라도 임계값 이상이면 동일 사건 판단."""
     s1, s2 = title_tokens(a), title_tokens(b)
     if s1 and s2 and len(s1 & s2) / len(s1 | s2) >= word_thr:
         return True
-    # ② 문자 bigram Jaccard
     b1, b2 = char_bigrams(a), char_bigrams(b)
     if b1 and b2 and len(b1 & b2) / len(b1 | b2) >= char_thr:
         return True
@@ -230,11 +217,7 @@ def strip_html(text: str) -> str:
 
 
 def get_rss_description(entry) -> str:
-    """
-    RSS entry에서 기사 요약문 추출.
-    Google News는 종종 <ol><li> 형태로 관련 기사 묶음을 반환하므로,
-    그 경우 첫 번째 <li> 텍스트만 사용하거나 빈 문자열 반환.
-    """
+    """RSS entry에서 기사 요약문 추출."""
     raw = ""
     if hasattr(entry, "summary"):
         raw = entry.summary or ""
@@ -244,56 +227,42 @@ def get_rss_description(entry) -> str:
     if not raw:
         return ""
 
-    # Google News 클러스터 형태(<ol>/<li>) → 리스트 첫 항목 텍스트만 추출
     if "<li>" in raw.lower():
         first = re.search(r"<li>(.*?)</li>", raw, re.IGNORECASE | re.DOTALL)
         raw = first.group(1) if first else ""
 
     text = strip_html(raw)
 
-    # 너무 짧거나 출처명만 남은 경우 제거
     if len(text) < 15:
         return ""
-    # 제목과 동일하거나 출처+날짜만 있는 경우 제거
     if re.fullmatch(r"[\w\s\.\-·,]+\d{4}", text):
         return ""
 
-    return text[:200]  # 최대 200자
+    return text[:200]  
 
 
 # ──────────────────────────────────────────────────────────────
-# 헬퍼: 핵심 키워드 추출 + 하이퍼링크 삽입
+# 헬퍼: 하이퍼링크 삽입
 # ──────────────────────────────────────────────────────────────
 
 def make_linked_text(title: str, url: str, description: str) -> str:
-    """
-    기사 전체 텍스트에 링크를 걸고, 한 줄을 초과하지 않도록 글자 수를 제한합니다.
-    """
-    # 1. 글자 수 제한 설정 (띄어쓰기 포함, 한글 기준)
-    # 660px 너비 이메일 템플릿의 75% 영역에는 보통 35~40자가 적당합니다.
+    """기사 전체 텍스트에 링크를 걸고, 한 줄을 초과하지 않도록 글자 수를 제한합니다."""
     MAX_CHARS = 38 
     
-    # 2. 텍스트가 제한 길이를 넘으면 자르고 말줄임표(...) 추가
     display_text = title
     if len(display_text) > MAX_CHARS:
         display_text = display_text[:MAX_CHARS] + "..."
         
-    # 3. HTML 특수문자 이스케이프 처리 (오류 방지)
     esc_text = display_text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-    # 4. 링크 스타일 지정
-    # - font-weight: 500 (또는 normal)로 일반 텍스트 굵기 유지
-    # - text-decoration: none (밑줄 제거)
-    # - white-space: nowrap (CSS 레벨에서 줄바꿈 강제 방지)
-    # - text-overflow: ellipsis (영역을 넘어가면 CSS로도 ... 처리)
     LINK_STYLE = (
         "color:#1a1a2a; text-decoration:none; font-weight:500; "
         "display:block; width:100%; white-space:nowrap; "
         "overflow:hidden; text-overflow:ellipsis;"
     )
 
-    # 5. 전체 텍스트를 하나의 하이퍼링크(<a>)로 묶어서 반환
     return f'<a href="{url}" target="_blank" style="{LINK_STYLE}">{esc_text}</a>'
+
 
 # ──────────────────────────────────────────────────────────────
 # 뉴스 수집
@@ -326,10 +295,7 @@ def _norm_key(text: str) -> str:
 
 
 def load_recent_archive_keys(archive: list) -> set:
-    """
-    전체 아카이브의 기사 제목+URL 집합 반환 (중복 방지 강화).
-    - 원본 문자열 + 정규화 문자열 둘 다 등록해 유사 제목도 차단
-    """
+    """전체 아카이브의 기사 제목+URL 집합 반환 (중복 방지 강화)"""
     keys = set()
     for entry in archive:
         for item in entry.get("news", []):
@@ -341,7 +307,6 @@ def load_recent_archive_keys(archive: list) -> set:
                 if item.get("url"):
                     u = item["url"].strip()
                     keys.add(u)
-                    # URL에서 쿼리스트링 제거한 버전도 등록
                     keys.add(u.split("?")[0])
     return keys
 
@@ -362,7 +327,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         except Exception:
             continue
 
-        # 각 쿼리당 화제성(관련성)이 가장 높은 상위 3개 기사만 추출
+        # [핵심 개선] 각 쿼리당 화제성(관련성)이 가장 높은 상위 3개 기사만 추출
         top_entries = feed.entries[:3]
 
         for entry in top_entries:
@@ -382,8 +347,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             title = enrich_title(title, description)
 
             pub_date = ""
-            # 오류 방지를 위해 시간 객체 대신 숫자(Timestamp) 사용
-            pub_dt_ts = datetime.now(KST).timestamp() 
+            pub_dt_ts = datetime.now(KST).timestamp() # 에러 방지를 위한 Timestamp 변환
             is_recent = False
 
             if hasattr(entry, "published_parsed") and entry.published_parsed:
@@ -395,7 +359,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                     if days_old <= NEWS_MAX_AGE_DAYS:
                         is_recent = True
                     pub_date = pub_dt.strftime("%y.%m.%d")
-                    pub_dt_ts = pub_dt.timestamp() # 성공 시 실제 시간 숫자로 덮어쓰기
+                    pub_dt_ts = pub_dt.timestamp() 
                 except Exception:
                     is_recent = True
             else:
@@ -410,11 +374,11 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                 "source":      source,
                 "description": description,
                 "pub_date":    pub_date,
-                "pub_dt_ts":   pub_dt_ts, # 시간 정렬용 숫자 데이터
+                "pub_dt_ts":   pub_dt_ts, # 시간 정렬용 숨김 데이터 (숫자)
                 "section":     section_key,
             })
 
-    # 모인 기사들을 최신 발행 시간순(숫자가 큰 순)으로 안전하게 정렬
+    # [핵심 개선] 모인 '각 쿼리별 화제성 1~3위 기사'들을 최신 발행 시간순으로 정렬
     candidates.sort(key=lambda x: x["pub_dt_ts"], reverse=True)
 
     # ── 중복 제거 로직 ──
@@ -440,7 +404,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         seen.add(t_norm)
         seen_titles.append(t)
         
-        # 정렬용으로 썼던 pub_dt_ts는 최종 결과에서 제거
+        # 정렬용으로 썼던 데이터는 최종 결과에서 제거
         a.pop("pub_dt_ts", None) 
         
         result.append(a)
@@ -448,6 +412,18 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             break
 
     return result
+
+
+def collect_all_news(archive_keys: set) -> list:
+    """전체 카테고리 뉴스 수집"""
+    all_news = []
+    for key in SECTION_ORDER:
+        if key not in TARGET:
+            continue
+        items = fetch_section_news(key, QUERIES.get(key, []), TARGET[key], archive_keys)
+        all_news.extend(items)
+        print(f"  [{key}] {len(items)}건 수집")
+    return all_news
 
 
 # ──────────────────────────────────────────────────────────────
@@ -497,9 +473,7 @@ def build_section_html(section_key: str, items: list) -> str:
     rows = "".join(build_article_row(item) for item in items)
 
     return f"""
-  <!-- 섹션: {title} -->
   <div style="margin-bottom:8px;">
-    <!-- 섹션 헤더 -->
     <div style="border-top:2px solid #1a1a2a; padding:14px 0 8px;">
       <span style="font-size:15px; font-weight:800; color:#1a1a2a;
                    letter-spacing:-0.3px; vertical-align:baseline;">
@@ -531,14 +505,12 @@ def build_email_html(news_items: list, today_str: str,
         if k in by_section and by_section[k]
     )
 
-    # 헤더 로고 HTML (36px × 80% ≈ 29px)
     logo_img = (
         f'<img src="{logo_url}" alt="상상인그룹" style="height:29px; display:block;">'
         if logo_url
         else '<span style="font-size:12px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
     )
 
-    # 구독/취소 수신 담당자 메일로 고정
     subscribe_href   = f"mailto:{ADMIN_EMAIL}?subject={SUBSCRIBE_SUBJ}"
     unsubscribe_href = f"mailto:{ADMIN_EMAIL}?subject={UNSUBSCRIBE_SUBJ}"
 
@@ -556,7 +528,6 @@ def build_email_html(news_items: list, today_str: str,
              'Noto Sans KR',sans-serif;">
   <div style="max-width:660px; margin:0 auto; padding:32px 28px;">
 
-    <!-- 헤더: 제목(좌) + 로고(우) -->
     <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:6px;">
       <tr>
         <td style="vertical-align:bottom;">
@@ -577,20 +548,15 @@ def build_email_html(news_items: list, today_str: str,
       </tr>
     </table>
 
-    <!-- 상단 구분선 -->
     <div style="height: 20px;"></div>
 
-    <!-- 뉴스 섹션들 -->
     {sections_html}
 
-    <!-- 하단 구분선 -->
     <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0 20px;">
 
-    <!-- 액션 버튼 3개 (아카이브 보기 / 구독 신청 / 구독 취소 / 인재경영실 소개) -->
     <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
       <tr>
         <td style="padding:4px;">
-          <!-- 전체 뉴스 아카이브 보기 -->
           <a href="{pages_url}" target="_blank"
              style="display:inline-block; background:#fef9c3; color:#1a1a2a;
                     font-size:13px; font-weight:700; padding:10px 18px;
@@ -600,7 +566,6 @@ def build_email_html(news_items: list, today_str: str,
           </a>
         </td>
         <td style="padding:4px; text-align:right; white-space:nowrap;">
-          <!-- 구독 신청 -->
           <a href="{subscribe_href}"
              style="display:inline-block; background:#1a1a2a; color:#ffffff;
                     font-size:13px; font-weight:700; padding:10px 16px;
@@ -608,7 +573,6 @@ def build_email_html(news_items: list, today_str: str,
                     font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             ✉ 구독 신청
           </a>
-          <!-- 구독 취소 -->
           <a href="{unsubscribe_href}"
              style="display:inline-block; background:#f3f4f6; color:#6b7280;
                     font-size:13px; font-weight:600; padding:10px 14px;
@@ -617,7 +581,6 @@ def build_email_html(news_items: list, today_str: str,
                     font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             구독 취소
           </a>
-          <!-- 인재경영실 소개: 배경·테두리 없이 검정 볼드 텍스트 -->
           <a href="{INTRO_URL}" target="_blank"
              style="display:inline-block; background:none; color:#1a1a2a;
                     font-size:13px; font-weight:800; padding:10px 4px;
@@ -629,10 +592,8 @@ def build_email_html(news_items: list, today_str: str,
       </tr>
     </table>
 
-    <!-- 최종 구분선 -->
     <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;">
 
-    <!-- 푸터: 저작권만 -->
     <div style="font-size:11px; color:#9ca3af; line-height:1.7;
                 font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
       Copyright 2026 {EMAIL_FROM_NAME}, All rights reserved.
@@ -721,7 +682,7 @@ def main():
 
     # 1. 아카이브 로드
     print("\n[1] 아카이브 로드 중...")
-    archive     = load_archive()
+    archive      = load_archive()
     archive_keys = load_recent_archive_keys(archive)
     print(f"  최근 {ARCHIVE_DAYS}일 기사 {len(archive_keys)}건 캐시")
 
