@@ -155,7 +155,7 @@
   <header class="site-header">
     <div>
       <h1>HR Morning Briefing</h1>
-      <div class="sub-info">상상인그룹 인재경영실 · 매일 오전 9시 자동 업데이트</div>
+      <div class="sub-info">상상인그룹 인재경영실 · 매일 오전 업데이트</div>
     </div>
     <div class="logo-wrap" id="headerLogo"></div>
   </header>
@@ -216,8 +216,8 @@ function insertLogos() {
 
 /* 구독 메일 링크 설정 */
 function setupMailLinks() {
-  const subj_sub   = encodeURIComponent("HR Morning Briefing 구독 신청");
-  const subj_unsub = encodeURIComponent("HR Morning Briefing 구독 취소");
+  const subj_sub   = encodeURIComponent("인재경영실 Morning Briefing 구독 신청");
+  const subj_unsub = encodeURIComponent("인재경영실 Morning Briefing 구독 취소");
   const adminEmail = "jangkeunwon@gmail.com";
   document.getElementById("btnSubscribe").href   = `mailto:${adminEmail}?subject=${subj_sub}`;
   document.getElementById("btnUnsubscribe").href = `mailto:${adminEmail}?subject=${subj_unsub}`;
