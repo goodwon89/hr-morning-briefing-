@@ -32,7 +32,7 @@ INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
-NEWS_MAX_AGE_DAYS = 14   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
+NEWS_MAX_AGE_DAYS = 7   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
@@ -61,6 +61,14 @@ QUERIES = {
         "인재경영 HRD 역량개발",
         "임금 보상 인사제도",
         "인건비 생산성 효율 통계",
+        "유연근무제 재택근무 생산성 통계",
+        "주4일제 주 4.5일제 도입 실적 근로시간",
+        "사내복지 복리후생 비용 효율",
+        "이직률 RSU 주식 보상 인재",
+        "스톡옵션 양도제한조건부주식 인센티브",
+        "핵심인재 유출 방지 보상 체계",
+        "인재 유치 이직률 통계 비교",
+        "글로벌 기업 임원 직원 주식 보상",
     ],
     "ai_tech": [
         "AI 기업 생산성 도입",
