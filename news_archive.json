@@ -3,73 +3,83 @@
     "date": "2026-03-25",
     "news": [
       {
-        "title": "왜 AI는 인사 분야를 첫 번째 공략 대상으로 삼았나?",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03N25mRkdRdDR6U0NDRkRaU1huMGJIMmZxMmw1OHJlY0pmQTRsRlVINDFvTkdvX0VrNHdaczgtT1FVcVgzSndHbFB0TG55Y0tJWTJyTU5EeW43Rzlmb25uQ2kxcGpmY2RzUlBRVXNNMmpjdw?oc=5",
+        "title": "인공지능 HR, 효율의 약속 뒤에 감춰진 균열",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PNnpYcERxLWNzcWFoSzUxVHV6Nk9qeVFFMng1VGxNX1lkYjc3bksxTC1aZkxZNVU2RVZwSF80T29tTTV1Qy03a2tLV3F6UkI3OG1RdC1pSk1KUVBuMEpzTlFrZUNmeGdEZVhqMQ?oc=5",
+        "source": "디지털포용뉴스",
+        "description": "인공지능 HR, 효율의 약속 뒤에 감춰진 균열 디지털포용뉴스",
+        "pub_date": "25.11.16",
+        "section": "ai_hr"
+      },
+      {
+        "title": "AI 인사관리의 그림자, ‘법적 리스크’와 신뢰의 문제",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3T0dkX3dmdnc1RF9vTk5JWkM0UUgyaEx2VFRSNjVFZEhqRVVSV3BDNDd3bGNXMWx3eXE3d0Q5aGQxYnY2ZU84cEZKaEFYV3NTeVJRU0psM01DVlpMZTVn?oc=5",
+        "source": "보안뉴스",
+        "description": "[이슈칼럼] AI 인사관리의 그림자, ‘법적 리스크’와 신뢰의 문제 보안뉴스",
+        "pub_date": "25.10.24",
+        "section": "ai_hr"
+      },
+      {
+        "title": "악사손보, 한불상공회의소 컨퍼런스서 ‘HR 혁신’ 노하우 공유",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6a1BlWGpYWWF5b2Rmb1NmSVpvdFRzamRsUUJWWlJpVXo2MF84dl8zaUdIYjVSRFNkM0V6VkpxRkp1am1fdjN1djlKcG1LZGVxaHRZbVE2bVdySHFnbHktN3dNREpjWVA2YmhB0gFvQVVfeXFMTkFLN1Rzcmg2a25FWmVFSjdoNHQ1VzA1b2cxVl9TUnNiZWFla3Iza3l4NFVWNUdwNzl4YWQyaUJYQTdaWG1qN3RpOW1sQndYeHFkTTZYNzFQLWRGWXJtVmptc3ZfM3JqVUhzN2cxMHlj?oc=5",
+        "source": "한국보험신문",
+        "description": "악사손보, 한불상공회의소 컨퍼런스서 ‘HR 혁신’ 노하우 공유 한국보험신문",
+        "pub_date": "26.03.11",
+        "section": "ai_hr"
+      },
+      {
+        "title": "\"공채로 뽑아 평생 쓴다? 꿈 깨시라\"... 2025년 HR, '언테더드'가 지배",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGVWNGUW4zdjRNa3RaOGVSQW1uY3k3c2tTeFlLWnVkV3o1dlVmQ2xwZXhFa3VKejRLYXppMTkxb20xNTNiUlZmLW9rak1majV3OExKVHRhMFRUWEYtZkh0dnFlRWNqUE9xcW5RdDFmOEVNUQ?oc=5",
         "source": "아웃소싱타임스",
-        "description": "[초점] 왜 AI는 인사(HR) 분야를 첫 번째 공략 대상으로 삼았나? 아웃소싱타임스",
-        "section": "ai_hr"
-      },
-      {
-        "title": "AI 시대에 맞는 HR의 목적과 역할은?",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWDRBY1FDYkVSTGZsaUNrTmdTSkljRUZCM0NlUHlOU3ZqMTVzdWxIc0xCaXBfV3ZJeVlaRkhDaC1iRVItUWlCQlRTcF9lcFlBamdpODhXUWVVbWVpNzJoeHpmeVAzTjluVkdQVTlYRTQtZ0x1UU5neXNzakJWYnc0b05maUwzVldMZmxFb29Rd0FrRHUyQWozbkw0VHpuVVBsU0lESlRQVk9EUmg2WFB1NzhtZlV3Ym5IU2dwTE5GUThXSGhWQnd1ZTJIaWtFZ3ZVQmRxdmF5WkpvR0FqV3RYNExNSE1FNlJD?oc=5",
-        "source": "SAP News Center",
-        "description": "AI 시대에 맞는 HR의 목적과 역할은? SAP News Center",
-        "section": "ai_hr"
-      },
-      {
-        "title": "AI가 바꾸는 인사관리 패러다임...채용부터 평가, 조직문화까지",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsMTl2dUlnMy1RYlNPOUthMFd3Ym80RjJRRDAxZk9RSmJJWHNHRDkyaFNqZzZqYllMdEtoYjk2ODR1azVzNkFGS3BqMGVNS2pFZU5UN2JUMEFVS25yaF9ZV1hwLVI5YlRoQXdr0gFvQVVfeXFMTnd5VFl4MWFBWFBqRFRmSWFPdF9OejhQd3R3akdFZVBWWDVqUEN2QlJsRV9GbnRrQWpWRFd2SFlGa2l2aUdzZzFiTnNqb19EeFZZd3FZa0FQRTFMRlF0OTg0aUpmSDEyZzRNWk5fdmJN?oc=5",
-        "source": "사례뉴스",
-        "description": "AI가 바꾸는 인사관리 패러다임...채용부터 평가, 조직문화까지 사례뉴스",
-        "section": "ai_hr"
-      },
-      {
-        "title": "지금 HR이 반드시 준비해야 할 5가지 변화",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZUZDWmd4bDNkRjlidmhsRjl4b0s0M0Vua3hXenNCVDRVdVJEbV92elo4Z3pXTGthUEpHMjIxc09qa1VjZDhkYkVGZDhvdGl1Mi1VUmhaYlRMVHl6Wk1TZmJxNlU1MHNV?oc=5",
-        "source": "오픈애즈",
-        "description": "[2026 HR 트렌드 총정리] 지금 HR이 반드시 준비해야 할 5가지 변화 오픈애즈",
+        "description": "[HR트렌드] \"공채로 뽑아 평생 쓴다? 꿈 깨시라\"... 2025년 HR, '언테더드'가 지배 아웃소싱타임스",
+        "pub_date": "25.12.24",
         "section": "hr_insight"
       },
       {
-        "title": "대륜, ‘2026 노동정책’ 세미나 성료…“기업 인사·보상 전략 점검”",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02OEctZERMWjNIVWpXcE0tcnRTOHZobHJKZjFCNHVSVmNGTXNCeG5TRHhCTmRWNlMzNGVwNXU4eDZBaGlELXlId29zejRlZURPSVhwWjFpRXFBVkU?oc=5",
-        "source": "경기일보",
-        "description": "대륜, ‘2026 노동정책’ 세미나 성료…“기업 인사·보상 전략 점검” 경기일보",
+        "title": "디지털전환과 초개인화의 만남",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5VGhvQlRDcW5SSlBUMmNqQW1EcVhodFBmX0w4ckVXVkxrWHg5NFJ2RDdaMHVXTFVpdnUxbzNJemZnbC1jaHFjNWtHeUQ4RlNtOTdqWkgzX3FSNTh2cEtTN1VqemgyQVpCdFI3YmFhRkJvZw?oc=5",
+        "source": "포브스코리아",
+        "description": "디지털전환과 초개인화의 만남 포브스코리아",
+        "pub_date": "25.05.29",
         "section": "hr_insight"
       },
       {
-        "title": "에프엠어소시에이츠, ‘2026년 HR 트렌드 키워드 Top 5’ 발표",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UNWtTekN2ckZnSjhsLU5KVXEzM1BVYnhnczNxS1RJVlR2OWdGY0lqMlBWenk0UmhUcFExRFdwRlRmSWpTQXZ3Mmlnc2V5cWRHS3lMeTNkRWVDOTV5ZDVSRm5LdmM?oc=5",
-        "source": "서울경제TV",
-        "description": "에프엠어소시에이츠, ‘2026년 HR 트렌드 키워드 Top 5’ 발표 서울경제TV",
+        "title": "2025 HR 트렌드 3가지, 이제 직원 ‘관리’의 시대는 끝났습니다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZZzZrdlZWWDVPT2hwMDBQYTlTVzdCNDR0Z015dHRzRlpid3dUU0lBU0x5YmRrSlZyMmlDMmg2cDR1bklzcUREU3lVSWxMNnBsTzZoT093?oc=5",
+        "source": "뉴닉",
+        "description": "2025 HR 트렌드 3가지, 이제 직원 ‘관리’의 시대는 끝났습니다 뉴닉",
+        "pub_date": "25.04.11",
         "section": "hr_insight"
       },
       {
-        "title": "2026년 2월 고용행정 통계로 본 노동시장 동향 발표",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BeDlBR3Q3NGhaWFg4bWwwZ3piRWhnWUdobFBJejdBUXNaZWxMMUZVOUwyOVhkYTFWMExnSE9KZVNRVnI2QmxVRnFKUXNIY25xVnNtdFp4UDI4eFhDLXhXOGMycG5HWFR0Y1hzOXp4MGkwdXJxTG1z?oc=5",
-        "source": "대한민국 정책브리핑",
-        "description": "2026년 2월 고용행정 통계로 본 노동시장 동향 발표 대한민국 정책브리핑",
+        "title": "2025년 7월 고용행정 통계로 본 노동시장 동향",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHNNRlFJVkZMWU42S21nVm9aVEcwSnBxVHlqZVpBS0RkVDJRR0picGRyVlF1MmZFMVZJYTg3TWxDT0pBbVFYcVA0LTNOOXc2VXZGMlVqY19BMFJzVGpyR1BfdzFSSXRxNXNSQ2FFUWFLY1RPc3lKY1ByeGxhNXpDVWJralQzZXhOYmdz?oc=5",
+        "source": "서울Pn",
+        "description": "2025년 7월 고용행정 통계로 본 노동시장 동향 서울Pn",
+        "pub_date": "26.03.21",
         "section": "labor"
       },
       {
-        "title": "2월 노동시장 동향 발표",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZ3ZMZlV0angwQmd4TzJKYnUtWHRSOHVRT0ZKVDUtME96dkM1b0t2LWFqM0s3TlpqUVRXV2Y4U093V09fUUlDS2gwLVpfY01RWlF5NGw5WERYU2PSAWBBVV95cUxPS1RENnpDX3FsSmMxX3BXeVExRmhwVlZmcnJ1Z0lhWlI2YmVCekR3ak9OSWRzMWJ2WGJFc0hVS2hCalNCd3lrZ0ZLZHA2MUJBWkk2eE1wSHhNRFBpeE5xbnk?oc=5",
-        "source": "연합뉴스",
-        "description": "2월 노동시장 동향 발표 연합뉴스",
+        "title": "‘시트리니 보고서’ 파장 속 2월 고용동향에 촉각",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2hfdEhjaFF1NThobjBiYi1ZQnR1X24xazBNbmNESU1xcGNyd21lbGNDUF82bEptM3dxdVhrek5JZHBLMktTdV9FY2xCU2p2QllkOVlDaDJvcEY5bkNmUldreDd1dXdSTHp4cm4xdWZoX3NRTUNhV1ZNUEV6ZE9PLWdhbjMzUU9i?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "[뉴욕증시 주간전망] ‘시트리니 보고서’ 파장 속 2월 고용동향에 촉각 글로벌이코노믹",
+        "pub_date": "26.03.01",
         "section": "labor"
       },
       {
-        "title": "조직문화를 굴러가게 하는 힘, ‘문화캘린더’",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pVWdhUnZxRVRTbE1QN19HeTZQTjdQdG1uRDk4OGRUTHZFZnBrMk1udlBWcW5HRU5ncmtpTVdpRWZ0UFp3dWJCMktEdmh1b1JaVHNxYm5ISXFLeURWdmlkUTRHMDM4OEdpa0hr0gFvQVVfeXFMTkR6MXJiNWt3N0tzTUh1Z1pwR3FlcnYtejVSeDNSWFdfa3hGUXJoN0RkUGNQVjBSdDVVWmI3aWpzTUhnT0VPcXRPT2VQSTh4TzFFd3VSbUpCRDVIMmVyVW9qMXROeVUxY1h4bzd4ZjFR?oc=5",
-        "source": "사례뉴스",
-        "description": "조직문화를 굴러가게 하는 힘, ‘문화캘린더’ 사례뉴스",
+        "title": "조직문화의 범위는 어디까지인가",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CanFiek55R0JFa282elMxeXN3OG5FZXhNYU5kY0NRdUVTVGtQT1J2MndRVmZNRVJXSHBtNmp5RUQ5VHozdDE3WFFEcGhsUDR1TzIxa1pB?oc=5",
+        "source": "지디넷코리아",
+        "description": "조직문화의 범위는 어디까지인가 지디넷코리아",
+        "pub_date": "25.09.09",
         "section": "org_culture"
       },
       {
-        "title": "조직문화 개선 방안 총정리: 문제 인식부터 실전 적용 사례까지",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlh2eXktVGV0TTdNMzhWNGpRZGlzczllOTdnTjhuMDdnYnpRM1oycE1BY1ZHS205ZVFrbVBCeWc4Z0JqWTRXcHNwdW5JeDVjYmF3dTRlWUI1UWdnRHppblhLdnVZNmFDamZjRmdBTWl6WElDa1RtcWZSd0lwX19RN0NnOA?oc=5",
-        "source": "mobiinside.co.kr",
-        "description": "[클랩의 리더 Insight] 조직문화 개선 방안 총정리: 문제 인식부터 실전 적용 사례까지 mobiinside.co.kr",
+        "title": "성과를 만드는 조직 문화, 제조업 생성형 AI 1등 기업",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZS0hVTUc0SmpyQmtmWXUtM1RDSlhoOFc1QVFoNm1RSE1vd01DS1dQRThQM1dGLUlQekZ4d2V4QnpNV1pYODA1U0dWYzJTMWxtdjQtTWdR?oc=5",
+        "source": "뉴닉",
+        "description": "[기업 인터뷰] 성과를 만드는 조직 문화, 제조업 생성형 AI 1등 기업 뉴닉",
+        "pub_date": "25.08.06",
         "section": "org_culture"
       }
     ]
