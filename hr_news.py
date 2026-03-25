@@ -465,25 +465,17 @@ def build_section_html(section_key: str, items: list) -> str:
     return f"""
   <!-- 섹션: {title} -->
   <div style="margin-bottom:8px;">
-    <!-- 섹션 헤더: 제목(좌) + 설명(우) -->
-    <table width="100%" cellpadding="0" cellspacing="0"
-           style="border-collapse:collapse; border-top:2px solid #1a1a2a;
-                  padding-top:0;">
-      <tr>
-        <td style="padding:14px 0 8px; vertical-align:bottom;">
-          <span style="font-size:15px; font-weight:800; color:#1a1a2a;
-                       letter-spacing:-0.3px;">
-            {icon}&nbsp; {title}
-          </span>
-        </td>
-        <td style="padding:14px 0 8px; vertical-align:bottom;
-                   text-align:right; white-space:nowrap;">
-          <span style="font-size:11px; color:#9ca3af; font-weight:400;">
-            {desc}
-          </span>
-        </td>
-      </tr>
-    </table>
+    <!-- 섹션 헤더 -->
+    <div style="border-top:2px solid #1a1a2a; padding:14px 0 8px;">
+      <span style="font-size:15px; font-weight:800; color:#1a1a2a;
+                   letter-spacing:-0.3px; vertical-align:baseline;">
+        {icon}&nbsp; {title}
+      </span>
+      <span style="font-size:11px; color:#9ca3af; font-weight:400;
+                   margin-left:8px; vertical-align:baseline;">
+        {desc}
+      </span>
+    </div>
     <table width="100%" cellpadding="0" cellspacing="0"
            style="border-collapse:collapse; border-top:1px solid #e5e7eb;">
       {rows}
