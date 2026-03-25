@@ -140,22 +140,75 @@
       font-size: 11px; color: var(--gray); line-height: 1.7; font-family: var(--font);
     }
 
+    /* ── 날짜 네비게이션 버튼 ── */
+    .date-nav-btn {
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+      background: #374151;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      padding: 14px 14px;
+      cursor: pointer;
+      font-family: var(--font);
+      font-size: 11px;
+      font-weight: 700;
+      line-height: 1.6;
+      text-align: center;
+      transition: background .15s, opacity .2s;
+      z-index: 100;
+      min-width: 76px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.18);
+    }
+    .date-nav-btn:hover:not(:disabled) { background: #1f2937; }
+    .date-nav-btn:disabled {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .date-nav-btn.prev { left: calc(50% - 420px); }
+    .date-nav-btn.next { right: calc(50% - 420px); }
+    .nav-arrow { font-size: 18px; display: block; line-height: 1.2; }
+    .nav-date  { display: block; font-size: 11px; font-weight: 700; margin-top: 2px; }
+
+    /* 화면이 좁으면 버튼을 하단에 배치 */
+    @media (max-width: 960px) {
+      .date-nav-btn.prev { left: 8px; }
+      .date-nav-btn.next { right: 8px; }
+    }
     @media (max-width: 600px) {
-      .page-wrap { padding: 24px 18px 48px; }
+      .page-wrap { padding: 24px 18px 80px; }
       .site-header h1 { font-size: 22px; }
       .article-meta-cell { display: none; }
       .article-title-cell { width: 100%; padding-right: 0; }
+      .date-nav-btn {
+        top: auto; bottom: 20px; transform: none;
+        padding: 10px 12px; min-width: 64px;
+      }
+      .date-nav-btn.prev { left: 12px; }
+      .date-nav-btn.next { right: 12px; }
     }
   </style>
 </head>
 <body>
+
+<!-- 날짜 이전/다음 버튼 (검색 모드가 아닐 때만 표시) -->
+<button id="btnPrev" class="date-nav-btn prev" onclick="navigateDate(-1)" disabled>
+  <span class="nav-arrow">‹</span>
+  <span class="nav-date" id="prevDateLabel"></span>
+</button>
+<button id="btnNext" class="date-nav-btn next" onclick="navigateDate(1)" disabled>
+  <span class="nav-arrow">›</span>
+  <span class="nav-date" id="nextDateLabel"></span>
+</button>
+
 <div class="page-wrap">
 
   <!-- 헤더 -->
   <header class="site-header">
     <div>
       <h1>인재경영실 Morning Briefing</h1>
-      <div class="sub-info">상상인그룹 인재경영실 · 매일 오전 업데이트</div>
+      <div class="sub-info">상상인그룹 인재경영실 · 매일 오전 9시 자동 업데이트</div>
     </div>
     <div class="logo-wrap" id="headerLogo"></div>
   </header>
@@ -194,19 +247,20 @@ const SECTION_META = {
   ai_tech:        { icon: "🤖", title: "AI / 기술",     desc: "AI·디지털 전환(DX)이 기업 생산성과 조직에 미치는 영향" },
   macro_industry: { icon: "🌐", title: "거시 / 산업",   desc: "국내외 주요 경제 지표 및 그룹사 연관 산업의 핵심 동향" },
   invest_ma:      { icon: "💰", title: "투자 / M&A",    desc: "국내외 스타트업 투자·VC·IPO 및 주요 기업 인수합병 동향" },
-  innovation:     { icon: "🚀", title: "비즈니스 트렌드",   desc: "신규 비즈니스 모델·해외 진출·규제 및 창업 생태계 이슈" },
+  innovation:     { icon: "🚀", title: "혁신 생태계",   desc: "신규 비즈니스 모델·해외 진출·규제 및 창업 생태계 이슈" },
 };
 const SECTION_ORDER = ["hr","ai_tech","macro_industry","invest_ma","innovation"];
 
 let allData = [];
+let currentDateIdx = 0;  // 0 = 가장 최신 날짜
 
-/* 로고 삽입 */
+/* ── 로고 삽입 ── */
 function insertLogos() {
   const el = document.getElementById("headerLogo");
   if (!el) return;
   const img = document.createElement("img");
   img.src = "logo.png"; img.alt = "상상인그룹";
-  img.style.cssText = "height:32px;display:block;";   /* 40px × 80% = 32px */
+  img.style.cssText = "height:32px;display:block;";
   img.onerror = function() {
     el.innerHTML = `<span style="font-size:13px;font-weight:800;color:#1a1a2a;
       font-family:'Pretendard',sans-serif;">상상인그룹</span>`;
@@ -214,7 +268,7 @@ function insertLogos() {
   el.appendChild(img);
 }
 
-/* 구독 메일 링크 설정 */
+/* ── 구독 메일 링크 설정 ── */
 function setupMailLinks() {
   const subj_sub   = encodeURIComponent("인재경영실 Morning Briefing 구독 신청");
   const subj_unsub = encodeURIComponent("인재경영실 Morning Briefing 구독 취소");
@@ -223,6 +277,7 @@ function setupMailLinks() {
   document.getElementById("btnUnsubscribe").href = `mailto:${adminEmail}?subject=${subj_unsub}`;
 }
 
+/* ── 아카이브 로드 ── */
 async function loadArchive() {
   try {
     const resp = await fetch("news_archive.json?" + Date.now());
@@ -236,6 +291,7 @@ async function loadArchive() {
   }
 }
 
+/* ── 월 필터 옵션 생성 ── */
 function populateMonthFilter() {
   const months = [...new Set(allData.map(e => e.date.slice(0,7)))].sort().reverse();
   const sel = document.getElementById("monthFilter");
@@ -247,6 +303,7 @@ function populateMonthFilter() {
   });
 }
 
+/* ── 날짜 포맷 ── */
 function fmtDate(dateStr) {
   const d = new Date(dateStr + "T00:00:00+09:00");
   const days = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
@@ -259,64 +316,128 @@ function esc(s) {
   return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 }
 
-function render() {
+/* ── 필터링된 데이터 반환 ── */
+function getFiltered() {
   const query = document.getElementById("searchInput").value.toLowerCase();
   const month = document.getElementById("monthFilter").value;
-  const root  = document.getElementById("archiveRoot");
-
-  let filtered = allData;
-  if (month) filtered = filtered.filter(e => e.date.startsWith(month));
-  if (query) filtered = filtered.filter(e =>
+  let data = allData;
+  if (month) data = data.filter(e => e.date.startsWith(month));
+  if (query) data = data.filter(e =>
     e.news && e.news.some(a =>
       (a.title||"").toLowerCase().includes(query) ||
       (a.description||"").toLowerCase().includes(query)
     )
   );
+  return { data, isSearch: query.length > 0 };
+}
 
-  if (!filtered.length) {
-    root.innerHTML = '<div class="empty-state">검색 결과가 없습니다.</div>';
+/* ── 날짜 네비게이션 ── */
+function navigateDate(dir) {
+  // dir: -1 = 이전(더 오래된), +1 = 다음(더 최신)
+  // 데이터는 최신순(index 0 = 가장 최신)
+  // 이전(왼쪽) = index 증가, 다음(오른쪽) = index 감소
+  const { data } = getFiltered();
+  currentDateIdx = Math.max(0, Math.min(data.length - 1, currentDateIdx + (dir === -1 ? 1 : -1)));
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+/* ── 네비게이션 버튼 상태 업데이트 ── */
+function updateNavButtons(data, isSearch) {
+  const btnPrev = document.getElementById("btnPrev");
+  const btnNext = document.getElementById("btnNext");
+
+  if (isSearch || data.length <= 1) {
+    btnPrev.disabled = true;
+    btnNext.disabled = true;
     return;
   }
 
-  root.innerHTML = filtered.map(entry => {
-    const bySection = {};
-    (entry.news || []).forEach(a => {
-      const s = a.section || "etc";
-      (bySection[s] = bySection[s]||[]).push(a);
-    });
+  // 이전(왼쪽) = 더 오래된 날짜 = 높은 인덱스
+  const hasPrev = currentDateIdx < data.length - 1;
+  // 다음(오른쪽) = 더 최신 날짜 = 낮은 인덱스
+  const hasNext = currentDateIdx > 0;
 
-    const sectionsHtml = SECTION_ORDER.filter(k => bySection[k]?.length).map(k => {
-      const meta = SECTION_META[k] || { icon:"📌", title:k };
-      const rows = bySection[k].map(a => {
-        const src     = a.source  || "";
-        const pubDate = a.pub_date || "";
-        const meta2   = [src, pubDate].filter(Boolean).join(" | ");
-        return `<tr>
-          <td class="article-title-cell">
-            <a href="${a.url||'#'}" target="_blank">${esc(a.title||"")}</a>
-          </td>
-          <td class="article-meta-cell">${meta2}</td>
-        </tr>`;
-      }).join("");
+  btnPrev.disabled = !hasPrev;
+  btnNext.disabled = !hasNext;
 
-      return `<div class="section-block">
-        <div class="section-title-row">
-          <span>${meta.icon}&nbsp; ${meta.title}</span>
-          <span class="section-desc">${meta.desc || ""}</span>
-        </div>
-        <table class="article-table"><tbody>${rows}</tbody></table>
-      </div>`;
-    }).join("");
-
-    return `<div class="date-block">
-      <div class="date-heading">📅 ${fmtDate(entry.date)}</div>
-      ${sectionsHtml || '<div class="empty-state" style="padding:16px 0">기사 없음</div>'}
-    </div>`;
-  }).join("");
+  document.getElementById("prevDateLabel").textContent =
+    hasPrev ? fmtDate(data[currentDateIdx + 1].date) : "";
+  document.getElementById("nextDateLabel").textContent =
+    hasNext ? fmtDate(data[currentDateIdx - 1].date) : "";
 }
 
-document.getElementById("searchInput").addEventListener("input", render);
-document.getElementById("monthFilter").addEventListener("change", render);
+/* ── 하나의 날짜 entry 렌더링 ── */
+function renderEntry(entry) {
+  const bySection = {};
+  (entry.news || []).forEach(a => {
+    const s = a.section || "etc";
+    (bySection[s] = bySection[s]||[]).push(a);
+  });
+
+  const sectionsHtml = SECTION_ORDER.filter(k => bySection[k]?.length).map(k => {
+    const meta = SECTION_META[k] || { icon:"📌", title:k };
+    const rows = bySection[k].map(a => {
+      const src     = a.source  || "";
+      const pubDate = a.pub_date || "";
+      const meta2   = [src, pubDate].filter(Boolean).join(" | ");
+      return `<tr>
+        <td class="article-title-cell">
+          <a href="${a.url||'#'}" target="_blank">${esc(a.title||"")}</a>
+        </td>
+        <td class="article-meta-cell">${meta2}</td>
+      </tr>`;
+    }).join("");
+
+    return `<div class="section-block">
+      <div class="section-title-row">
+        <span>${meta.icon}&nbsp; ${meta.title}</span>
+        <span class="section-desc">${meta.desc || ""}</span>
+      </div>
+      <table class="article-table"><tbody>${rows}</tbody></table>
+    </div>`;
+  }).join("");
+
+  return `<div class="date-block">
+    <div class="date-heading">📅 ${fmtDate(entry.date)}</div>
+    ${sectionsHtml || '<div class="empty-state" style="padding:16px 0">기사 없음</div>'}
+  </div>`;
+}
+
+/* ── 메인 렌더 ── */
+function render() {
+  const { data: filtered, isSearch } = getFiltered();
+  const root = document.getElementById("archiveRoot");
+
+  if (!filtered.length) {
+    root.innerHTML = '<div class="empty-state">검색 결과가 없습니다.</div>';
+    updateNavButtons([], isSearch);
+    return;
+  }
+
+  // 인덱스 범위 보정 (필터 변경 시)
+  if (currentDateIdx >= filtered.length) currentDateIdx = 0;
+
+  updateNavButtons(filtered, isSearch);
+
+  if (isSearch) {
+    // 검색 모드: 전체 날짜 결과 표시
+    root.innerHTML = filtered.map(entry => renderEntry(entry)).join("");
+  } else {
+    // 일반 모드: 현재 날짜 1개만 표시
+    root.innerHTML = renderEntry(filtered[currentDateIdx]);
+  }
+}
+
+/* ── 이벤트 ── */
+document.getElementById("searchInput").addEventListener("input", () => {
+  currentDateIdx = 0;
+  render();
+});
+document.getElementById("monthFilter").addEventListener("change", () => {
+  currentDateIdx = 0;
+  render();
+});
 
 insertLogos();
 setupMailLinks();
