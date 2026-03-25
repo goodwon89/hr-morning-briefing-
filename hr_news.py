@@ -29,7 +29,7 @@ LOGO_URL          = ""   # GitHub Pages 배포 후 로고 URL 입력 (예: https
 
 # ─── 버튼 링크 ───
 INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
-ADMIN_EMAIL       = "kwjang@sangsanginworld.co.kr"    # 구독 신청·취소 수신 담당자
+ADMIN_EMAIL       = "jangkeunwon@gmail.com"    # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
 NEWS_MAX_AGE_DAYS = 14   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
