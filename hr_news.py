@@ -23,7 +23,7 @@ ARCHIVE_FILE = "news_archive.json"
 ARCHIVE_DAYS = 7
 
 NEWSLETTER_TITLE  = "인재경영실 Morning Briefing"
-NEWSLETTER_SUBTLT = "Top Trends to Start Your Day"
+NEWSLETTER_SUBTLT = "Top 15 Trends to Start Your Day"
 EMAIL_FROM_NAME   = "상상인그룹 인재경영실"
 LOGO_URL          = ""   # GitHub Pages 배포 후 로고 URL 입력 (예: https://user.github.io/repo/logo.png)
 
@@ -32,17 +32,17 @@ INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
-NEWS_MAX_AGE_DAYS = 7   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
+NEWS_MAX_AGE_DAYS = 14   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
 TARGET = {
-    "hr":               4,
-    "ai_tech":          4,
-    "macro_industry":   4,
-    "invest_ma":        4,
-    "innovation":       4,
+    "hr":               3,
+    "ai_tech":          3,
+    "macro_industry":   3,
+    "invest_ma":        3,
+    "innovation":       3,
 }
 TOTAL_TARGET = sum(TARGET.values())  # 15
 
@@ -55,20 +55,12 @@ QUERIES = {
         "성과평가 인사평가 개편",
         "조직문화 기업문화 변화",
         "노동법 근로기준법 개정",
-        "피플애널리틱스 HR 데이터 인재",
+        "HR 데이터 분석 인재",
         "채용 전략 인사 트렌드",
         "직원경험 EX 몰입도",
         "인재경영 HRD 역량개발",
+        "고용노동부 정책 인사",
         "임금 보상 인사제도",
-        "인건비 생산성 효율 통계",
-        "유연근무제 재택근무 생산성 통계",
-        "주4일제 주 4.5일제 도입 실적 근로시간",
-        "사내복지 복리후생 비용 효율",
-        "이직률 RSU 주식 보상 인재",
-        "스톡옵션 양도제한조건부주식 인센티브",
-        "핵심인재 유출 방지 보상 체계",
-        "인재 유치 이직률 통계 비교",
-        "글로벌 기업 임원 직원 주식 보상",
     ],
     "ai_tech": [
         "AI 기업 생산성 도입",
@@ -188,12 +180,34 @@ def title_tokens(title: str) -> frozenset:
     return frozenset(tok for tok in re.split(r'[\s,·\-\|/…「」『』<>]+', t) if len(tok) >= 2)
 
 
-def is_similar_title(a: str, b: str, threshold: float = 0.45) -> bool:
-    """Jaccard 유사도가 threshold 이상이면 동일 사건으로 판단"""
+def char_bigrams(title: str) -> frozenset:
+    """
+    문자 단위 2-gram 집합.
+    공백·특수문자를 제거한 뒤 연속 2글자를 추출 →
+    '작년'↔'지난해', '3만4천500명'↔'3만4500명' 같은
+    동의어·숫자 표기 차이도 높은 유사도로 잡아냄.
+    """
+    s = re.sub(r'[\s\W]+', '', normalize_title(title))
+    return frozenset(s[i:i+2] for i in range(len(s) - 1))
+
+
+def is_similar_title(a: str, b: str,
+                     word_thr: float = 0.45,
+                     char_thr: float = 0.35) -> bool:
+    """
+    단어 Jaccard OR 문자 bigram Jaccard 중 하나라도 임계값 이상이면 동일 사건 판단.
+    - word_thr: 단어 수준 유사도 (기본 0.45)
+    - char_thr: 문자 bigram 수준 유사도 (기본 0.35) — 표기 차이·동의어 대응
+    """
+    # ① 단어 Jaccard
     s1, s2 = title_tokens(a), title_tokens(b)
-    if not s1 or not s2:
-        return False
-    return len(s1 & s2) / len(s1 | s2) >= threshold
+    if s1 and s2 and len(s1 & s2) / len(s1 | s2) >= word_thr:
+        return True
+    # ② 문자 bigram Jaccard
+    b1, b2 = char_bigrams(a), char_bigrams(b)
+    if b1 and b2 and len(b1 & b2) / len(b1 | b2) >= char_thr:
+        return True
+    return False
 
 
 def strip_html(text: str) -> str:
