@@ -608,7 +608,7 @@ def build_email_html(news_items: list, today_str: str,
     </table>
 
     <!-- 상단 구분선 -->
-    <hr style="border:none; border-top:2px solid #1a1a2a; margin:14px 0 20px;">
+    <div style="height: 20px;"></div>
 
     <!-- 뉴스 섹션들 -->
     {sections_html}
