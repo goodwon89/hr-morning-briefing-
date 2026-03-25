@@ -27,6 +27,12 @@ NEWSLETTER_SUBTLT = "Top 10 Trends to Start Your Day"
 EMAIL_FROM_NAME   = "상상인그룹 인재경영실"
 LOGO_URL          = ""   # GitHub Pages 배포 후 로고 URL 입력 (예: https://user.github.io/repo/logo.png)
 
+# ─── 버튼 링크 ───
+INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
+SUBSCRIBE_SUBJ    = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
+UNSUBSCRIBE_SUBJ  = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
+NEWS_MAX_AGE_DAYS = 7    # 발행 후 이 일수 이내 기사만 수집
+
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
@@ -246,18 +252,29 @@ def load_archive() -> list:
     return []
 
 
+def _norm_key(text: str) -> str:
+    """비교용 정규화: 소문자 + 공백 제거"""
+    return re.sub(r"\s+", "", text).lower()
+
+
 def load_recent_archive_keys(archive: list) -> set:
-    """최근 ARCHIVE_DAYS일 이내 기사 제목+URL 집합 (중복 방지)"""
-    cutoff = (datetime.now(KST) - timedelta(days=ARCHIVE_DAYS)).strftime("%Y-%m-%d")
+    """
+    전체 아카이브의 기사 제목+URL 집합 반환 (중복 방지 강화).
+    - 원본 문자열 + 정규화 문자열 둘 다 등록해 유사 제목도 차단
+    """
     keys = set()
     for entry in archive:
-        if entry.get("date", "") >= cutoff:
-            for item in entry.get("news", []):
-                if isinstance(item, dict):
-                    if item.get("title"):
-                        keys.add(item["title"].strip())
-                    if item.get("url"):
-                        keys.add(item["url"].strip())
+        for item in entry.get("news", []):
+            if isinstance(item, dict):
+                if item.get("title"):
+                    t = item["title"].strip()
+                    keys.add(t)
+                    keys.add(_norm_key(t))
+                if item.get("url"):
+                    u = item["url"].strip()
+                    keys.add(u)
+                    # URL에서 쿼리스트링 제거한 버전도 등록
+                    keys.add(u.split("?")[0])
     return keys
 
 
@@ -292,15 +309,27 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             )
             description = get_rss_description(entry)
 
-            # 기사 발행 날짜 추출
-            pub_date = ""
+            # ── 기사 발행 날짜 추출 + 최신성 필터 ──────────────────
+            pub_date    = ""
+            is_recent   = False   # 날짜 확인 불가 기사는 기본 제외
+
             if hasattr(entry, "published_parsed") and entry.published_parsed:
                 try:
-                    from datetime import datetime as _dt
-                    d = _dt(*entry.published_parsed[:6], tzinfo=timezone.utc).astimezone(KST)
-                    pub_date = d.strftime("%y.%m.%d")
+                    pub_dt   = datetime(
+                        *entry.published_parsed[:6], tzinfo=timezone.utc
+                    ).astimezone(KST)
+                    days_old = (datetime.now(KST) - pub_dt).days
+                    if days_old <= NEWS_MAX_AGE_DAYS:
+                        is_recent = True
+                    pub_date = pub_dt.strftime("%y.%m.%d")
                 except Exception:
-                    pass
+                    is_recent = True   # 파싱 오류 시 일단 포함
+            else:
+                # published_parsed 없으면 포함 (날짜 알 수 없음)
+                is_recent = True
+
+            if not is_recent:
+                continue   # 7일 초과 기사 제외
 
             candidates.append({
                 "title":       title,
@@ -311,14 +340,22 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                 "section":     section_key,
             })
 
-    # 중복 제거
+    # ── 중복 제거 (제목 원본 + 정규화 + URL 쿼리스트링 제거 4중 체크) ──
     seen = set()
     result = []
     for a in candidates:
-        key = a["title"]
-        if key in seen or key in archive_keys or a.get("url", "") in archive_keys:
+        t       = a["title"]
+        t_norm  = _norm_key(t)
+        u       = a.get("url", "")
+        u_base  = u.split("?")[0]
+
+        if (t      in seen or t      in archive_keys or
+            t_norm in seen or t_norm in archive_keys or
+            u      in archive_keys or u_base in archive_keys):
             continue
-        seen.add(key)
+
+        seen.add(t)
+        seen.add(t_norm)
         result.append(a)
         if len(result) >= target_count:
             break
@@ -397,7 +434,8 @@ def build_section_html(section_key: str, items: list) -> str:
   </div>"""
 
 
-def build_email_html(news_items: list, today_str: str, logo_url: str = "") -> str:
+def build_email_html(news_items: list, today_str: str,
+                     logo_url: str = "", pages_url: str = "#") -> str:
     """전체 이메일 HTML 생성 (Neusral 레이아웃)"""
     by_section: dict = {}
     for item in news_items:
@@ -417,15 +455,23 @@ def build_email_html(news_items: list, today_str: str, logo_url: str = "") -> st
         else '<span style="font-size:13px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
     )
 
+    # 발신자 이메일 (구독/취소 mailto용)
+    sender_email = os.environ.get("GMAIL_USER", "")
+    subscribe_href   = f"mailto:{sender_email}?subject={SUBSCRIBE_SUBJ}"
+    unsubscribe_href = f"mailto:{sender_email}?subject={UNSUBSCRIBE_SUBJ}"
+
     return f"""<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{NEWSLETTER_TITLE}</title>
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 </head>
 <body style="margin:0; padding:0; background:#ffffff;
-             font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;">
+             font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic',
+             'Noto Sans KR',sans-serif;">
   <div style="max-width:660px; margin:0 auto; padding:32px 28px;">
 
     <!-- 헤더: 제목(좌) + 로고(우) -->
@@ -433,10 +479,12 @@ def build_email_html(news_items: list, today_str: str, logo_url: str = "") -> st
       <tr>
         <td style="vertical-align:bottom;">
           <div style="font-size:24px; font-weight:900; color:#1a1a2a;
-                      letter-spacing:-0.5px; line-height:1.2;">
+                      letter-spacing:-0.5px; line-height:1.2;
+                      font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             {NEWSLETTER_TITLE}
           </div>
-          <div style="font-size:12px; color:#9ca3af; margin-top:6px;">
+          <div style="font-size:12px; color:#9ca3af; margin-top:6px;
+                      font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             뉴스레터 &nbsp;|&nbsp; {today_str}
           </div>
         </td>
@@ -453,13 +501,63 @@ def build_email_html(news_items: list, today_str: str, logo_url: str = "") -> st
     {sections_html}
 
     <!-- 하단 구분선 -->
-    <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0 16px;">
+    <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0 20px;">
+
+    <!-- 액션 버튼 4개 -->
+    <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
+      <tr>
+        <td style="padding:4px;">
+          <!-- 전체 뉴스 아카이브 보기 -->
+          <a href="{pages_url}" target="_blank"
+             style="display:inline-block; background:#fef9c3; color:#1a1a2a;
+                    font-size:13px; font-weight:700; padding:10px 18px;
+                    border-radius:8px; text-decoration:none; border:1px solid #fde047;
+                    font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+            📁 전체 뉴스 아카이브 보기
+          </a>
+        </td>
+        <td style="padding:4px; text-align:right; white-space:nowrap;">
+          <!-- 구독 신청 -->
+          <a href="{subscribe_href}"
+             style="display:inline-block; background:#1a1a2a; color:#ffffff;
+                    font-size:13px; font-weight:700; padding:10px 16px;
+                    border-radius:8px; text-decoration:none; margin-right:6px;
+                    font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+            ✉ 구독 신청
+          </a>
+          <!-- 구독 취소 -->
+          <a href="{unsubscribe_href}"
+             style="display:inline-block; background:#f3f4f6; color:#6b7280;
+                    font-size:13px; font-weight:600; padding:10px 14px;
+                    border-radius:8px; text-decoration:none; border:1px solid #e5e7eb;
+                    font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+            구독 취소
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding:4px;">
+          <!-- 인재경영실 소개 -->
+          <a href="{INTRO_URL}" target="_blank"
+             style="display:inline-block; background:#f0fdf4; color:#16a34a;
+                    font-size:13px; font-weight:700; padding:10px 18px;
+                    border-radius:8px; text-decoration:none; border:1px solid #bbf7d0;
+                    font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+            🏢 인재경영실 소개
+          </a>
+        </td>
+      </tr>
+    </table>
+
+    <!-- 최종 구분선 -->
+    <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;">
 
     <!-- 푸터: 저작권(좌) + 로고(우) -->
     <table width="100%" cellpadding="0" cellspacing="0">
       <tr>
         <td style="font-size:11px; color:#9ca3af; line-height:1.7;
-                   vertical-align:middle;">
+                   vertical-align:middle;
+                   font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
           Copyright 2026 {EMAIL_FROM_NAME}, All rights reserved.
         </td>
         <td style="text-align:right; vertical-align:middle;">
@@ -538,10 +636,11 @@ def main():
     today_str = now_kst.strftime("%y.%m.%d") + " " + day_map.get(day_abbr, "")
     today_key = now_kst.strftime("%Y-%m-%d")
 
-    # 이메일용 로고 URL (GitHub Raw)
-    owner    = os.environ.get("GITHUB_OWNER", "")
-    repo     = os.environ.get("GITHUB_REPO", "")
-    logo_url = f"https://raw.githubusercontent.com/{owner}/{repo}/main/logo.png" if owner and repo else ""
+    # 이메일용 URL 구성
+    owner      = os.environ.get("GITHUB_OWNER", "")
+    repo       = os.environ.get("GITHUB_REPO", "")
+    logo_url   = f"https://raw.githubusercontent.com/{owner}/{repo}/main/logo.png" if owner and repo else ""
+    pages_url  = f"https://{owner}.github.io/{repo}" if owner and repo else "#"
 
     print("=" * 50)
     print(f"  HR Morning Briefing 자동화 시작")
@@ -570,7 +669,7 @@ def main():
 
     if recipients:
         subject   = f"[HR 브리핑] {today_str} 주요 뉴스 {len(news_items)}선"
-        html_body = build_email_html(news_items, today_str, logo_url)
+        html_body = build_email_html(news_items, today_str, logo_url, pages_url)
         send_email(subject, html_body, recipients)
     else:
         print("  EMAIL_RECIPIENTS 미설정 — 이메일 발송 건너뜀")

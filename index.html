@@ -4,115 +4,135 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HR Morning Briefing | 상상인그룹 인재경영실</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
   <style>
+    :root {
+      --font: 'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;
+      --black:    #1a1a2a;
+      --gray:     #9ca3af;
+      --gray-lt:  #e5e7eb;
+      --green:    #16a34a;
+      --green-lt: #f0fdf4;
+      --green-bd: #bbf7d0;
+      --yellow:   #fef9c3;
+      --yellow-bd:#fde047;
+    }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      font-family: 'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;
-      background: #ffffff; color: #1a1a2a; min-height: 100vh;
+      font-family: var(--font);
+      background: #ffffff; color: var(--black); min-height: 100vh;
     }
+    a { font-family: var(--font); }
 
-    /* ── 페이지 래퍼 ── */
-    .page-wrap {
-      max-width: 720px; margin: 0 auto; padding: 40px 32px 60px;
-    }
+    .page-wrap { max-width: 720px; margin: 0 auto; padding: 40px 32px 60px; }
 
-    /* ── 헤더: 제목(좌) + 로고(우) ── */
+    /* ── 헤더 ── */
     .site-header {
       display: flex; align-items: flex-end;
-      justify-content: space-between; gap: 16px;
-      padding-bottom: 14px;
+      justify-content: space-between; gap: 16px; padding-bottom: 14px;
     }
     .site-header h1 {
-      font-size: 28px; font-weight: 900; color: #1a1a2a;
+      font-size: 28px; font-weight: 900; color: var(--black);
       letter-spacing: -0.5px; line-height: 1.1;
+      font-family: var(--font);
     }
     .site-header .sub-info {
-      font-size: 12px; color: #9ca3af; margin-top: 6px;
+      font-size: 12px; color: var(--gray); margin-top: 6px; font-family: var(--font);
     }
-    .site-header .logo-wrap img {
-      height: 40px; display: block;
+    .site-header .logo-wrap img { height: 40px; display: block; }
+    .header-rule { border: none; border-top: 2px solid var(--black); margin: 0 0 20px; }
+
+    /* ── 액션 버튼 바 ── */
+    .action-bar {
+      display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px;
     }
-    .site-header .logo-text {
-      font-size: 14px; font-weight: 800; color: #1a1a2a;
+    .btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 9px 16px; border-radius: 8px; font-size: 13px;
+      font-weight: 700; text-decoration: none; cursor: pointer;
+      white-space: nowrap; font-family: var(--font);
+      transition: opacity .15s;
     }
-    .header-rule {
-      border: none; border-top: 2px solid #1a1a2a; margin: 0 0 28px;
+    .btn:hover { opacity: .85; }
+    .btn-archive {
+      background: var(--yellow); color: var(--black);
+      border: 1px solid var(--yellow-bd);
+    }
+    .btn-subscribe {
+      background: var(--black); color: #fff; border: 1px solid var(--black);
+    }
+    .btn-unsub {
+      background: #f3f4f6; color: #6b7280; border: 1px solid var(--gray-lt);
+    }
+    .btn-intro {
+      background: var(--green-lt); color: var(--green);
+      border: 1px solid var(--green-bd);
     }
 
     /* ── 검색·필터 바 ── */
-    .toolbar {
-      display: flex; gap: 10px; flex-wrap: wrap;
-      margin-bottom: 24px;
-    }
+    .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 24px; }
     .toolbar input {
       flex: 1; min-width: 200px; padding: 9px 14px; border-radius: 6px;
-      border: 1px solid #e5e7eb; font-size: 13px; background: #fafafa;
-      outline: none; transition: border .15s;
+      border: 1px solid var(--gray-lt); font-size: 13px; background: #fafafa;
+      outline: none; transition: border .15s; font-family: var(--font);
     }
-    .toolbar input:focus { border-color: #1a1a2a; background: #fff; }
+    .toolbar input:focus { border-color: var(--black); background: #fff; }
     .toolbar select {
-      padding: 9px 12px; border-radius: 6px; border: 1px solid #e5e7eb;
-      font-size: 13px; background: #fafafa; cursor: pointer;
+      padding: 9px 12px; border-radius: 6px; border: 1px solid var(--gray-lt);
+      font-size: 13px; background: #fafafa; cursor: pointer; font-family: var(--font);
     }
 
     /* ── 날짜 구분 ── */
     .date-block { margin-bottom: 36px; }
-    .date-heading {
-      font-size: 12px; color: #9ca3af; font-weight: 500;
-      padding-bottom: 10px; margin-bottom: 0;
-    }
+    .date-heading { font-size: 12px; color: var(--gray); font-weight: 500; padding-bottom: 10px; }
 
     /* ── 섹션 ── */
-    .section-block { margin-bottom: 4px; }
     .section-title-row {
-      font-size: 16px; font-weight: 800; color: #1a1a2a;
+      font-size: 16px; font-weight: 800; color: var(--black);
       padding: 16px 0 10px; letter-spacing: -0.3px;
-      border-top: 1px solid #1a1a2a;
+      border-top: 1px solid var(--black);
+      font-family: var(--font);
     }
 
     /* ── 기사 행 ── */
-    .article-table {
-      width: 100%; border-collapse: collapse;
-      margin-bottom: 0;
-    }
+    .article-table { width: 100%; border-collapse: collapse; }
     .article-table tr td { border-bottom: 1px solid #f0f0f0; }
     .article-table tr:last-child td { border-bottom: none; }
-
     .article-title-cell {
-      padding: 11px 16px 11px 0;
-      font-size: 13.5px; line-height: 1.65; color: #1a1a2a;
-      vertical-align: top; width: 75%;
+      padding: 11px 16px 11px 0; font-size: 13.5px; line-height: 1.65;
+      color: var(--black); vertical-align: top; width: 75%;
+      font-family: var(--font);
     }
     .article-title-cell a {
-      color: #1a1a2a; font-weight: 600; text-decoration: none;
+      color: var(--black); font-weight: 600; text-decoration: none;
+      font-family: var(--font);
     }
     .article-title-cell a:hover { text-decoration: underline; }
-
     .article-meta-cell {
-      padding: 11px 0 11px 8px;
-      font-size: 12px; color: #9ca3af;
-      white-space: nowrap; vertical-align: top;
-      text-align: right; width: 25%;
+      padding: 11px 0 11px 8px; font-size: 12px; color: var(--gray);
+      white-space: nowrap; vertical-align: top; text-align: right; width: 25%;
+      font-family: var(--font);
     }
 
     /* ── 빈 상태 ── */
     .empty-state {
       text-align: center; padding: 60px 20px;
-      color: #9ca3af; font-size: 14px; line-height: 1.8;
+      color: var(--gray); font-size: 14px; line-height: 1.8; font-family: var(--font);
     }
 
     /* ── 푸터 ── */
     .site-footer {
       display: flex; align-items: center;
       justify-content: space-between;
-      border-top: 1px solid #e5e7eb;
+      border-top: 1px solid var(--gray-lt);
       margin-top: 40px; padding-top: 20px;
     }
     .site-footer .copy {
-      font-size: 11px; color: #9ca3af; line-height: 1.7;
+      font-size: 11px; color: var(--gray); line-height: 1.7; font-family: var(--font);
     }
-    .site-footer .logo-wrap img { height: 28px; opacity: 0.6; }
-    .site-footer .logo-text { font-size: 12px; font-weight: 700; color: #9ca3af; }
+    .site-footer .logo-wrap img { height: 28px; opacity: .6; }
 
     @media (max-width: 600px) {
       .page-wrap { padding: 24px 18px 48px; }
@@ -131,11 +151,21 @@
       <h1>HR Morning Briefing</h1>
       <div class="sub-info">상상인그룹 인재경영실 · 매일 오전 9시 자동 업데이트</div>
     </div>
-    <div class="logo-wrap" id="headerLogo">
-      <!-- JS로 로고 삽입 -->
-    </div>
+    <div class="logo-wrap" id="headerLogo"></div>
   </header>
   <hr class="header-rule">
+
+  <!-- 액션 버튼 바 -->
+  <div class="action-bar">
+    <a id="btnArchive" href="#archiveRoot" class="btn btn-archive">
+      📁 전체 뉴스 아카이브 보기
+    </a>
+    <a id="btnSubscribe"   href="#" class="btn btn-subscribe">✉ 구독 신청</a>
+    <a id="btnUnsubscribe" href="#" class="btn btn-unsub">구독 취소</a>
+    <a href="https://ssihr.oopy.io" target="_blank" class="btn btn-intro">
+      🏢 인재경영실 소개
+    </a>
+  </div>
 
   <!-- 검색·필터 -->
   <div class="toolbar">
@@ -151,9 +181,7 @@
     <div class="copy">
       Copyright 2026 상상인그룹 인재경영실, All rights reserved.
     </div>
-    <div class="logo-wrap" id="footerLogo">
-      <!-- JS로 로고 삽입 -->
-    </div>
+    <div class="logo-wrap" id="footerLogo"></div>
   </footer>
 
 </div>
@@ -171,20 +199,29 @@ let allData = [];
 
 /* 로고 삽입 */
 function insertLogos() {
-  const logoImg = '<img src="logo.png" alt="상상인그룹">';
-  const fallback = '<span class="logo-text">상상인그룹</span>';
-  ["headerLogo","footerLogo"].forEach(id => {
+  [{ id:"headerLogo", h:"40px" }, { id:"footerLogo", h:"28px" }].forEach(({ id, h }) => {
     const el = document.getElementById(id);
     if (!el) return;
     const img = document.createElement("img");
-    img.src = "logo.png";
-    img.alt = "상상인그룹";
-    img.style.cssText = id === "headerLogo" ? "height:40px;display:block;" : "height:28px;opacity:0.6;";
+    img.src = "logo.png"; img.alt = "상상인그룹";
+    img.style.cssText = `height:${h};display:block;${id==="footerLogo"?"opacity:0.6;":""}`;
     img.onerror = function() {
-      el.innerHTML = `<span style="font-size:${id==='headerLogo'?'14':'12'}px;font-weight:800;color:${id==='headerLogo'?'#1a1a2a':'#9ca3af'};">상상인그룹</span>`;
+      el.innerHTML = `<span style="font-size:${id==="headerLogo"?"14":"12"}px;
+        font-weight:800;color:${id==="headerLogo"?"#1a1a2a":"#9ca3af"};
+        font-family:'Pretendard',sans-serif;">상상인그룹</span>`;
     };
     el.appendChild(img);
   });
+}
+
+/* 구독 메일 링크 설정 */
+function setupMailLinks() {
+  const subj_sub   = encodeURIComponent("HR Morning Briefing 구독 신청");
+  const subj_unsub = encodeURIComponent("HR Morning Briefing 구독 취소");
+  // mailto는 수신자 이메일을 모르므로 빈 링크로 두거나 담당자 메일로 설정
+  // 실제 운영 시 아래 이메일 주소를 담당자 이메일로 교체하세요
+  document.getElementById("btnSubscribe").href   = `mailto:?subject=${subj_sub}`;
+  document.getElementById("btnUnsubscribe").href = `mailto:?subject=${subj_unsub}`;
 }
 
 async function loadArchive() {
@@ -219,9 +256,8 @@ function fmtDate(dateStr) {
   return `${String(d.getFullYear()).slice(2)}.${mm}.${dd} (${days[d.getDay()]})`;
 }
 
-function makeLinkedText(title, url) {
-  const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
-  return `<a href="${url}" target="_blank">${esc(title)}</a>`;
+function esc(s) {
+  return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 }
 
 function render() {
@@ -230,8 +266,8 @@ function render() {
   const root  = document.getElementById("archiveRoot");
 
   let filtered = allData;
-  if (month)  filtered = filtered.filter(e => e.date.startsWith(month));
-  if (query)  filtered = filtered.filter(e =>
+  if (month) filtered = filtered.filter(e => e.date.startsWith(month));
+  if (query) filtered = filtered.filter(e =>
     e.news && e.news.some(a =>
       (a.title||"").toLowerCase().includes(query) ||
       (a.description||"").toLowerCase().includes(query)
@@ -247,17 +283,19 @@ function render() {
     const bySection = {};
     (entry.news || []).forEach(a => {
       const s = a.section || "etc";
-      (bySection[s] = bySection[s] || []).push(a);
+      (bySection[s] = bySection[s]||[]).push(a);
     });
 
     const sectionsHtml = SECTION_ORDER.filter(k => bySection[k]?.length).map(k => {
       const meta = SECTION_META[k] || { icon:"📌", title:k };
       const rows = bySection[k].map(a => {
-        const pubDate = a.pub_date || "";
         const src     = a.source  || "";
+        const pubDate = a.pub_date || "";
         const meta2   = [src, pubDate].filter(Boolean).join(" | ");
         return `<tr>
-          <td class="article-title-cell">${makeLinkedText(a.title||"", a.url||"#")}</td>
+          <td class="article-title-cell">
+            <a href="${a.url||'#'}" target="_blank">${esc(a.title||"")}</a>
+          </td>
           <td class="article-meta-cell">${meta2}</td>
         </tr>`;
       }).join("");
@@ -279,6 +317,7 @@ document.getElementById("searchInput").addEventListener("input", render);
 document.getElementById("monthFilter").addEventListener("change", render);
 
 insertLogos();
+setupMailLinks();
 loadArchive();
 </script>
 </body>
