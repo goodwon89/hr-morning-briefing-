@@ -362,7 +362,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         except Exception:
             continue
 
-        # [핵심 개선] 각 쿼리당 화제성(관련성)이 가장 높은 상위 3개 기사만 추출
+        # 각 쿼리당 화제성(관련성)이 가장 높은 상위 3개 기사만 추출
         top_entries = feed.entries[:3]
 
         for entry in top_entries:
@@ -382,7 +382,8 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             title = enrich_title(title, description)
 
             pub_date = ""
-            pub_dt_obj = datetime.now(KST) # 정렬을 위한 기본값
+            # 오류 방지를 위해 시간 객체 대신 숫자(Timestamp) 사용
+            pub_dt_ts = datetime.now(KST).timestamp() 
             is_recent = False
 
             if hasattr(entry, "published_parsed") and entry.published_parsed:
@@ -394,7 +395,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                     if days_old <= NEWS_MAX_AGE_DAYS:
                         is_recent = True
                     pub_date = pub_dt.strftime("%y.%m.%d")
-                    pub_dt_obj = pub_dt # 실제 발행 시간 저장
+                    pub_dt_ts = pub_dt.timestamp() # 성공 시 실제 시간 숫자로 덮어쓰기
                 except Exception:
                     is_recent = True
             else:
@@ -409,12 +410,12 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                 "source":      source,
                 "description": description,
                 "pub_date":    pub_date,
-                "pub_dt_obj":  pub_dt_obj, # 시간 정렬용 숨김 데이터
+                "pub_dt_ts":   pub_dt_ts, # 시간 정렬용 숫자 데이터
                 "section":     section_key,
             })
 
-    # [핵심 개선] 모인 '각 쿼리별 화제성 1~3위 기사'들을 최신 발행 시간순으로 정렬
-    candidates.sort(key=lambda x: x["pub_dt_obj"], reverse=True)
+    # 모인 기사들을 최신 발행 시간순(숫자가 큰 순)으로 안전하게 정렬
+    candidates.sort(key=lambda x: x["pub_dt_ts"], reverse=True)
 
     # ── 중복 제거 로직 ──
     seen = set()
@@ -439,8 +440,8 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         seen.add(t_norm)
         seen_titles.append(t)
         
-        # 정렬용으로 썼던 pub_dt_obj는 최종 결과에서 제거해도 무방합니다
-        a.pop("pub_dt_obj", None) 
+        # 정렬용으로 썼던 pub_dt_ts는 최종 결과에서 제거
+        a.pop("pub_dt_ts", None) 
         
         result.append(a)
         if len(result) >= target_count:
