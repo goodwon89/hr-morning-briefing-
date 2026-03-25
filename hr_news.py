@@ -196,8 +196,7 @@ def make_linked_text(title: str, url: str, description: str) -> str:
     description이 없거나 키워드 매칭 실패 시 title 자체를 링크로 반환.
     """
     LINK_STYLE = (
-        "color:#1a6b3c; font-weight:700; text-decoration:none;"
-        "border-bottom:1px solid #a7d9b8;"
+        "color:#1a1a2a; font-weight:600; text-decoration:none;"
     )
 
     esc_title = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -293,11 +292,22 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             )
             description = get_rss_description(entry)
 
+            # 기사 발행 날짜 추출
+            pub_date = ""
+            if hasattr(entry, "published_parsed") and entry.published_parsed:
+                try:
+                    from datetime import datetime as _dt
+                    d = _dt(*entry.published_parsed[:6], tzinfo=timezone.utc).astimezone(KST)
+                    pub_date = d.strftime("%y.%m.%d")
+                except Exception:
+                    pass
+
             candidates.append({
                 "title":       title,
                 "url":         url,
                 "source":      source,
                 "description": description,
+                "pub_date":    pub_date,
                 "section":     section_key,
             })
 
@@ -333,55 +343,62 @@ def collect_all_news(archive_keys: set) -> list:
 # ──────────────────────────────────────────────────────────────
 
 def build_article_row(item: dict) -> str:
-    """기사 1건 → 키워드링크+요약 형식의 HTML 행"""
-    title       = item.get("title", "")
-    url         = item.get("url", "#")
-    source      = item.get("source", "")
-    description = item.get("description", "")
+    """기사 1건 → 제목(좌)+출처·날짜(우) 테이블 행 (Neusral 스타일)"""
+    title    = item.get("title", "")
+    url      = item.get("url", "#")
+    source   = item.get("source", "")
+    desc     = item.get("description", "")
+    pub_date = item.get("pub_date", "")
 
-    linked_text = make_linked_text(title, url, description)
+    linked_text = make_linked_text(title, url, desc)
+
+    source_date = ""
+    if source and pub_date:
+        source_date = f"{source} | {pub_date}"
+    elif source:
+        source_date = source
+    elif pub_date:
+        source_date = pub_date
 
     return f"""
-        <div style="padding:12px 0; border-bottom:1px solid #f0f2f4;">
-          <p style="margin:0 0 4px 0; font-size:14px; line-height:1.75;
-                    color:#1f2937; letter-spacing:-0.2px;">
-            • {linked_text}
-          </p>
-          <span style="font-size:11px; color:#9ca3af;">{source}</span>
-        </div>"""
+      <tr>
+        <td style="padding:11px 16px 11px 0; border-bottom:1px solid #f0f0f0;
+                   font-size:13.5px; line-height:1.65; color:#1a1a2a;
+                   vertical-align:top; width:75%;">
+          {linked_text}
+        </td>
+        <td style="padding:11px 0 11px 8px; border-bottom:1px solid #f0f0f0;
+                   font-size:12px; color:#9ca3af; white-space:nowrap;
+                   vertical-align:top; text-align:right; width:25%;">
+          {source_date}
+        </td>
+      </tr>"""
 
 
 def build_section_html(section_key: str, items: list) -> str:
-    """카테고리 섹션 HTML 생성"""
-    meta  = SECTION_META.get(section_key, {})
-    icon  = meta.get("icon", "📌")
-    title = meta.get("title", section_key)
-    desc  = meta.get("desc", "")
+    """카테고리 섹션 HTML 생성 (Neusral 스타일: 굵은 제목 + 구분선)"""
+    meta       = SECTION_META.get(section_key, {})
+    icon       = meta.get("icon", "📌")
+    title      = meta.get("title", section_key)
 
     rows = "".join(build_article_row(item) for item in items)
 
     return f"""
-  <div style="background:#ffffff; border-radius:12px; margin-bottom:20px;
-              overflow:hidden; box-shadow:0 1px 6px rgba(0,0,0,0.07);">
-
-    <!-- 섹션 헤더 -->
-    <div style="background:#f0f7f3; padding:13px 20px;
-                border-left:4px solid #2d8653;">
-      <div style="font-size:15px; font-weight:700; color:#1a3a2a;">
-        {icon} {title}
-      </div>
-      <div style="font-size:12px; color:#6b8c7a; margin-top:2px;">{desc}</div>
+  <!-- 섹션: {title} -->
+  <div style="margin-bottom:8px;">
+    <div style="font-size:16px; font-weight:800; color:#1a1a2a;
+                padding:18px 0 10px; letter-spacing:-0.3px;">
+      {icon}&nbsp; {title}
     </div>
-
-    <!-- 기사 목록 -->
-    <div style="padding:4px 20px 8px;">
+    <table width="100%" cellpadding="0" cellspacing="0"
+           style="border-collapse:collapse; border-top:1px solid #1a1a2a;">
       {rows}
-    </div>
+    </table>
   </div>"""
 
 
-def build_email_html(news_items: list, today_str: str) -> str:
-    """전체 이메일 HTML 생성"""
+def build_email_html(news_items: list, today_str: str, logo_url: str = "") -> str:
+    """전체 이메일 HTML 생성 (Neusral 레이아웃)"""
     by_section: dict = {}
     for item in news_items:
         s = item.get("section", "etc")
@@ -393,13 +410,11 @@ def build_email_html(news_items: list, today_str: str) -> str:
         if k in by_section and by_section[k]
     )
 
-    total = len(news_items)
-
-    # 로고: LOGO_URL이 있으면 이미지, 없으면 텍스트
-    logo_html = (
-        f'<img src="{LOGO_URL}" alt="상상인그룹" style="height:48px; margin-bottom:10px;">'
-        if LOGO_URL
-        else '<div style="font-size:20px; font-weight:900; color:#2d8653; margin-bottom:6px;">상상인그룹</div>'
+    # 로고 HTML
+    logo_img = (
+        f'<img src="{logo_url}" alt="상상인그룹" style="height:36px; display:block;">'
+        if logo_url
+        else '<span style="font-size:13px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
     )
 
     return f"""<!DOCTYPE html>
@@ -409,39 +424,50 @@ def build_email_html(news_items: list, today_str: str) -> str:
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{NEWSLETTER_TITLE}</title>
 </head>
-<body style="margin:0; padding:0; background:#f3f4f6;
+<body style="margin:0; padding:0; background:#ffffff;
              font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;">
-  <div style="max-width:680px; margin:0 auto; padding:24px 16px;">
+  <div style="max-width:660px; margin:0 auto; padding:32px 28px;">
 
-    <!-- 헤더 -->
-    <div style="background:linear-gradient(135deg,#e7f0e9 0%,#c8e6d0 100%);
-                border-radius:16px; padding:30px 32px 24px; margin-bottom:24px;
-                text-align:center; border:1px solid #b2d8bc;">
-      {logo_html}
-      <div style="font-size:26px; font-weight:900; color:#1a3a2a;
-                  letter-spacing:-0.5px; margin-bottom:4px;">
-        {NEWSLETTER_TITLE}
-      </div>
-      <div style="font-size:13px; color:#4a7a5a; font-weight:500;
-                  margin-bottom:10px;">
-        {NEWSLETTER_SUBTLT}
-      </div>
-      <div style="display:inline-block; background:#2d8653; color:#fff;
-                  font-size:12px; font-weight:600; padding:4px 14px;
-                  border-radius:20px; letter-spacing:0.3px;">
-        {today_str} · 총 {total}선
-      </div>
-    </div>
+    <!-- 헤더: 제목(좌) + 로고(우) -->
+    <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:6px;">
+      <tr>
+        <td style="vertical-align:bottom;">
+          <div style="font-size:24px; font-weight:900; color:#1a1a2a;
+                      letter-spacing:-0.5px; line-height:1.2;">
+            {NEWSLETTER_TITLE}
+          </div>
+          <div style="font-size:12px; color:#9ca3af; margin-top:6px;">
+            뉴스레터 &nbsp;|&nbsp; {today_str}
+          </div>
+        </td>
+        <td style="vertical-align:top; text-align:right; white-space:nowrap;">
+          {logo_img}
+        </td>
+      </tr>
+    </table>
+
+    <!-- 상단 구분선 -->
+    <hr style="border:none; border-top:2px solid #1a1a2a; margin:14px 0 20px;">
 
     <!-- 뉴스 섹션들 -->
     {sections_html}
 
-    <!-- 푸터 -->
-    <div style="text-align:center; padding:20px 0 10px; color:#9ca3af; font-size:11px;
-                border-top:1px solid #e5e7eb; margin-top:8px;">
-      본 메일은 {EMAIL_FROM_NAME}에서 자동 발송됩니다.<br>
-      뉴스 출처: Google News RSS · 수신 거부 문의: HR 담당자
-    </div>
+    <!-- 하단 구분선 -->
+    <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0 16px;">
+
+    <!-- 푸터: 저작권(좌) + 로고(우) -->
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="font-size:11px; color:#9ca3af; line-height:1.7;
+                   vertical-align:middle;">
+          Copyright 2026 {EMAIL_FROM_NAME}, All rights reserved.
+        </td>
+        <td style="text-align:right; vertical-align:middle;">
+          {logo_img}
+        </td>
+      </tr>
+    </table>
+
   </div>
 </body>
 </html>"""
@@ -506,10 +532,16 @@ def push_file_to_github(content_str: str, path: str, message: str) -> None:
 
 def main():
     now_kst   = datetime.now(KST)
-    today_str = now_kst.strftime("%Y년 %m월 %d일 (%a)").replace(
-        "Mon", "월").replace("Tue", "화").replace("Wed", "수").replace(
-        "Thu", "목").replace("Fri", "금").replace("Sat", "토").replace("Sun", "일")
+    day_map   = {"Mon":"(Mon)","Tue":"(Tue)","Wed":"(Wed)",
+                 "Thu":"(Thu)","Fri":"(Fri)","Sat":"(Sat)","Sun":"(Sun)"}
+    day_abbr  = now_kst.strftime("%a")
+    today_str = now_kst.strftime("%y.%m.%d") + " " + day_map.get(day_abbr, "")
     today_key = now_kst.strftime("%Y-%m-%d")
+
+    # 이메일용 로고 URL (GitHub Raw)
+    owner    = os.environ.get("GITHUB_OWNER", "")
+    repo     = os.environ.get("GITHUB_REPO", "")
+    logo_url = f"https://raw.githubusercontent.com/{owner}/{repo}/main/logo.png" if owner and repo else ""
 
     print("=" * 50)
     print(f"  HR Morning Briefing 자동화 시작")
@@ -538,7 +570,7 @@ def main():
 
     if recipients:
         subject   = f"[HR 브리핑] {today_str} 주요 뉴스 {len(news_items)}선"
-        html_body = build_email_html(news_items, today_str)
+        html_body = build_email_html(news_items, today_str, logo_url)
         send_email(subject, html_body, recipients)
     else:
         print("  EMAIL_RECIPIENTS 미설정 — 이메일 발송 건너뜀")
