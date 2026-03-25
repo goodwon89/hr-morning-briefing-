@@ -32,13 +32,13 @@ INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
-NEWS_MAX_AGE_DAYS = 2   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
+NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
 TARGET = {
-    "hr":               8,
+    "hr":               6,
     "ai_tech":          4,
     "macro_industry":   4,
     "invest_ma":        4,
@@ -348,7 +348,7 @@ def load_recent_archive_keys(archive: list) -> set:
 
 def fetch_section_news(section_key: str, queries: list, target_count: int,
                        archive_keys: set) -> list:
-    """Google News RSS에서 카테고리별 기사 수집"""
+    """Google News RSS에서 카테고리별 핵심 기사 수집 (화제성 상위 기사 우선)"""
     candidates = []
 
     for q in queries:
@@ -362,7 +362,10 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         except Exception:
             continue
 
-        for entry in feed.entries:
+        # [핵심 개선] 각 쿼리당 화제성(관련성)이 가장 높은 상위 3개 기사만 추출
+        top_entries = feed.entries[:3]
+
+        for entry in top_entries:
             raw_title = entry.get("title", "")
             title = normalize_title(raw_title)
             if not title:
@@ -376,29 +379,29 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                 else str(source_obj)
             )
             description = get_rss_description(entry)
-            title = enrich_title(title, description)   # 짧은 제목 보완
+            title = enrich_title(title, description)
 
-            # ── 기사 발행 날짜 추출 + 최신성 필터 ──────────────────
-            pub_date    = ""
-            is_recent   = False   # 날짜 확인 불가 기사는 기본 제외
+            pub_date = ""
+            pub_dt_obj = datetime.now(KST) # 정렬을 위한 기본값
+            is_recent = False
 
             if hasattr(entry, "published_parsed") and entry.published_parsed:
                 try:
-                    pub_dt   = datetime(
+                    pub_dt = datetime(
                         *entry.published_parsed[:6], tzinfo=timezone.utc
                     ).astimezone(KST)
                     days_old = (datetime.now(KST) - pub_dt).days
                     if days_old <= NEWS_MAX_AGE_DAYS:
                         is_recent = True
                     pub_date = pub_dt.strftime("%y.%m.%d")
+                    pub_dt_obj = pub_dt # 실제 발행 시간 저장
                 except Exception:
-                    is_recent = True   # 파싱 오류 시 일단 포함
+                    is_recent = True
             else:
-                # published_parsed 없으면 포함 (날짜 알 수 없음)
                 is_recent = True
 
             if not is_recent:
-                continue   # 7일 초과 기사 제외
+                continue
 
             candidates.append({
                 "title":       title,
@@ -406,13 +409,18 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                 "source":      source,
                 "description": description,
                 "pub_date":    pub_date,
+                "pub_dt_obj":  pub_dt_obj, # 시간 정렬용 숨김 데이터
                 "section":     section_key,
             })
 
-    # ── 중복 제거 (제목 원본 + 정규화 + URL + 유사 제목 5중 체크) ──
+    # [핵심 개선] 모인 '각 쿼리별 화제성 1~3위 기사'들을 최신 발행 시간순으로 정렬
+    candidates.sort(key=lambda x: x["pub_dt_obj"], reverse=True)
+
+    # ── 중복 제거 로직 ──
     seen = set()
-    seen_titles = []   # 유사도 비교용 누적 리스트
+    seen_titles = []
     result = []
+    
     for a in candidates:
         t       = a["title"]
         t_norm  = _norm_key(t)
@@ -424,30 +432,21 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             u      in archive_keys or u_base in archive_keys):
             continue
 
-        # 유사 제목 체크 — 같은 사건의 다른 출처 기사 필터링
         if any(is_similar_title(t, st) for st in seen_titles):
             continue
 
         seen.add(t)
         seen.add(t_norm)
         seen_titles.append(t)
+        
+        # 정렬용으로 썼던 pub_dt_obj는 최종 결과에서 제거해도 무방합니다
+        a.pop("pub_dt_obj", None) 
+        
         result.append(a)
         if len(result) >= target_count:
             break
 
     return result
-
-
-def collect_all_news(archive_keys: set) -> list:
-    """전체 카테고리 뉴스 수집"""
-    all_news = []
-    for key in SECTION_ORDER:
-        if key not in TARGET:
-            continue
-        items = fetch_section_news(key, QUERIES.get(key, []), TARGET[key], archive_keys)
-        all_news.extend(items)
-        print(f"  [{key}] {len(items)}건 수집")
-    return all_news
 
 
 # ──────────────────────────────────────────────────────────────
