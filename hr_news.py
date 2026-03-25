@@ -1,5 +1,5 @@
 """
-상상인그룹 HR Morning Briefing - 자동화 뉴스레터
+상상인그룹 인재경영실 Morning Briefing - 자동화 뉴스레터
 ================================================
 개선사항:
   - Google News RSS description에서 기사 핵심 문장 자동 발췌
@@ -23,26 +23,26 @@ ARCHIVE_FILE = "news_archive.json"
 ARCHIVE_DAYS = 7
 
 NEWSLETTER_TITLE  = "인재경영실 Morning Briefing"
-NEWSLETTER_SUBTLT = "Trends to Start Your Day"
+NEWSLETTER_SUBTLT = "Top 15 Trends to Start Your Day"
 EMAIL_FROM_NAME   = "상상인그룹 인재경영실"
 LOGO_URL          = ""   # GitHub Pages 배포 후 로고 URL 입력 (예: https://user.github.io/repo/logo.png)
 
 # ─── 버튼 링크 ───
 INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
-ADMIN_EMAIL       = "jangkeunwon@gmail.com"    # 구독 신청·취소 수신 담당자
-SUBSCRIBE_SUBJ    = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
-UNSUBSCRIBE_SUBJ  = "HR%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
+ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
+SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
+UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
 NEWS_MAX_AGE_DAYS = 14   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
 TARGET = {
-    "hr":               4,
-    "ai_tech":          4,
-    "macro_industry":   4,
-    "invest_ma":        4,
-    "innovation":       4,
+    "hr":               3,
+    "ai_tech":          3,
+    "macro_industry":   3,
+    "invest_ma":        3,
+    "innovation":       3,
 }
 TOTAL_TARGET = sum(TARGET.values())  # 15
 
@@ -682,7 +682,7 @@ def main():
     pages_url  = f"https://{owner}.github.io/{repo}" if owner and repo else "#"
 
     print("=" * 50)
-    print(f"  HR Morning Briefing 자동화 시작")
+    print(f"  인재경영실 Morning Briefing 자동화 시작")
     print(f"  날짜: {today_str}")
     print("=" * 50)
 
