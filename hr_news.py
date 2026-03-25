@@ -707,7 +707,7 @@ def main():
     recipients = [r.strip() for r in recipients_env.split(",") if r.strip()]
 
     if recipients:
-        subject   = f"[HR 브리핑] {today_str} 주요 뉴스 {len(news_items)}선"
+        subject   = f"[Morning Briefing] {today_str} 주요 뉴스 {len(news_items)}선"
         html_body = build_email_html(news_items, today_str, logo_url, pages_url)
         send_email(subject, html_body, recipients)
     else:
