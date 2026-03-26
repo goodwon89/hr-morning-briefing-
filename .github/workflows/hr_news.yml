@@ -2,7 +2,7 @@ name: 인재경영실 Morning Briefing 자동 발송
 
 on:
   schedule:
-    - cron: '0 0 * * 1-5'   # 평일 오전 9시 KST (= UTC 00:00), 주말 제외
+    - cron: '0 0 * * 1-5'   # 평일 오전 9시 KST (= UTC 00:00), 주말 제외 [schedule-refresh-20260326]
   workflow_dispatch:          # GitHub 웹에서 수동 실행 가능 (테스트용)
 
 jobs:
