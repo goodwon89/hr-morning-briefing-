@@ -1,5 +1,130 @@
 [
   {
+    "date": "2026-03-27",
+    "news": [
+      {
+        "title": "복리후생 A to Z 💓 복지를 늘려도 직원들이 체감을 못한다면?",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tT19vcUpUdXp0a2VyWmh2ZGtqMDFzRE42dnlqY0hHUGdPS3ZUSzN4eUpYNlpQU3hBWUI0X1dSRl9ZR2NIWFVCQnd6TjlPajlVRFhKQ3h3?oc=5",
+        "source": "뉴닉",
+        "description": "복리후생 A to Z 💓 복지를 늘려도 직원들이 체감을 못한다면? 뉴닉",
+        "pub_date": "26.03.25",
+        "section": "hr"
+      },
+      {
+        "title": "\"많이 팔아라\"에서 \"사고 막아라\"로…'소비자' 꽂힌 은행 KPI 손본다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KbmZtcU9zSzFjblZTVEMyTnVwVFNZZDdxekhRN1VrRnBHREZkVWY4X0x2U244SGpfOWs3TG9MQlNyQzBsVEZVUjZ5a1RuTzcyalNhTmY3ekJxSF9IUUdzc0o2Szc1bVU?oc=5",
+        "source": "뉴스1",
+        "description": "\"많이 팔아라\"에서 \"사고 막아라\"로…'소비자' 꽂힌 은행 KPI 손본다 뉴스1",
+        "pub_date": "26.03.25",
+        "section": "hr"
+      },
+      {
+        "title": "'노타이'·'노담'·'스마일' 제일파마홀딩스, 조직문화 개선",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZZFpqWkxBeDhvNWx4RDBCUmVBXzY1bW1CUHNGTHFXeUtNdXZQWVp0SVNaUHVJZk1kQm55NkhuYWdJY0tqeVJCdWY0T1RqbzFzTDFuMHExTkozZjJCNzc1V1lYV2d0bUZWd1Jr?oc=5",
+        "source": "히트뉴스",
+        "description": "'노타이'·'노담'·'스마일' 제일파마홀딩스, 조직문화 개선 히트뉴스",
+        "pub_date": "26.03.13",
+        "section": "hr"
+      },
+      {
+        "title": "AI 도입 부담 낮추고 생산성 높일 해법은···베스핀글로벌, 전략 컨퍼런스 개최",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBobVQ1VmlKLXplTkZ5WGROS3FmeVlrRENkOGtDNjlrUTY3ZU9XT0l0RUJKQnRySmhsdDdKSUlJSmVMU0xLR0ctRTZhcjJCdw?oc=5",
+        "source": "매일경제",
+        "description": "AI 도입 부담 낮추고 생산성 높일 해법은···베스핀글로벌, 전략 컨퍼런스 개최 매일경제",
+        "pub_date": "26.03.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입할수록 운영은 더 복잡해진다…베스핀글로벌, 해법 찾는 ‘AI 파트너스 데이 2026’ 개최",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWXlBaWVOSzdQdThBLUM3QmF5a0pFbHVYMFVQWkVEQWZMYm9XNFZvSTE4R2RZbTNlbHlDYUNZRzJEc0t6cFJ3YzVqR3V1dmd3cjE0azBPeS1fdGJ0MGx0VHUwTDJBNzVzSzVQTg?oc=5",
+        "source": "뉴스탭",
+        "description": "AI 도입할수록 운영은 더 복잡해진다…베스핀글로벌, 해법 찾는 ‘AI 파트너스 데이 2026’ 개최 뉴스탭",
+        "pub_date": "26.03.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "기업시장 겨냥한 글로벌 AI… 국내도 도입·구축 경쟁 확대",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HdlIwandEazFpanFCak1sLVlQM1JLWGEtZmdzUG5GSlVCcDBia2NhLVcwc2o2a3JLT2FXMEpwRkxueVRXcG1VZ2E2NkwzQl9KU1VjWVc0X1BfQzNDYWhwZDVoTmtHTEllVnRweHVmcErSAXRBVV95cUxON3JIWVFNTi1OUkxHQWlScExYUDZudktCdkpETm9naVBtWFBOQnA4QjZDeF9EdE1oZHdxMUJBaGRiUVZMc2l5ZG1EdFA4N1pHbERzSXppdnFKWUEtSDRqb3UyZ0dDQW5pUUJjT0VCLTg3MDBpeg?oc=5",
+        "source": "IT조선",
+        "description": "기업시장 겨냥한 글로벌 AI… 국내도 도입·구축 경쟁 확대 IT조선",
+        "pub_date": "26.03.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "코스피 반등에도 美 증시 급락…금리 상승·원자재 혼조",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TZmNlSWhJSWlXbDZ2UUN6SG4xb3BxUXVQSjJSN21IYjI1VjAwVExnRzJ3YlZaRU5SSnNpTDdsVGhyWU5VOUFQdGtNZmZjWGJfRlJReXQ5UGp6bThwRDVEZ1B2RVdHTGtuQm1Dbkt1UQ?oc=5",
+        "source": "기호일보",
+        "description": "[3월 셋째 주 세계경제동향 브리핑] 코스피 반등에도 美 증시 급락…금리 상승·원자재 혼조 기호일보",
+        "pub_date": "26.03.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "글로벌 금융시장 ‘조정 국면’…금리·달러 상승 속 위험자산 혼조",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUUdrT3dDZ1NNY21tSl9udnJTV0tGMC1lNW9OcWE4dG40cGM0Wm5KTHUzcHU2WUpyNWpQeG82Q1hDX094NXdQdjZGVjdhNk5wcnRvM1A3bWtncEs4aDJVSkJzTlU4U3V6TVhfUktscw?oc=5",
+        "source": "기호일보",
+        "description": "[3월 둘째 주 세계경제동향 브리핑] 글로벌 금융시장 ‘조정 국면’…금리·달러 상승 속 위험자산 혼조 기호일보",
+        "pub_date": "26.03.14",
+        "section": "macro_industry"
+      },
+      {
+        "title": "환율 1517원..중동발 불확실성으로 고유가 장기화 우려",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KU0hOa1ZTX2hIdmpka0R3WmtzM2NyU2Q5aG43LXVINFZ0SXplekpBYlJIYXctT2tmbU5DcDJYcnV2Q2NPZ3c2bzN6WExwUkxpYU1URFluUGNNMkxNODNCNDhSZDVhR0RqUExzVA?oc=5",
+        "source": "데일리경제",
+        "description": "환율 1517원..중동발 불확실성으로 고유가 장기화 우려 데일리경제",
+        "pub_date": "26.03.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "외환 스타트업 XFX, $1700만 투자 유치… 스테이블코인 환전 인프라 구축",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aSXVNRTc0V2FNS3NfMGRpcVZDOWl1SUVnRDhZSlVKMHY2dDQtekhZMXo0UW1NWkV6OWR4MHpHTC1SNFc4TW5iQQ?oc=5",
+        "source": "코인니스",
+        "description": "외환 스타트업 XFX, $1700만 투자 유치… 스테이블코인 환전 인프라 구축 코인니스",
+        "pub_date": "26.03.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "자율주행 시장 '딥시크' 중국 스타트업 큐크래프트, 1억 달러 D라운드 추가 유치",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CaGs3SjVSXzRGbDd1RjRLaUwweWd5dVU3QUs1Wl9JakZKTjYwRDctOEttbklvTDNZU0dkTVBQamVzV3g1b05LSE5KcUFPOWptN2NnZjdJbmp4LU9Ua3hUUWoySmFXcGZZ?oc=5",
+        "source": "KIPOST",
+        "description": "자율주행 시장 '딥시크' 중국 스타트업 큐크래프트, 1억 달러 D라운드 추가 유치 KIPOST",
+        "pub_date": "26.03.25",
+        "section": "invest_ma"
+      },
+      {
+        "title": "우주·AI·바이오로 쏠린 투자…3월 셋째주 VC 시장 '온기 확산'",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ob3pOZ2NJNk1waWlSS1oyZjNPSEc5UG9OV2JZT25kSlkzWkh4bXVKaGJVM0MtS21pQmFtbjFONUJJZVJOa2FZX2E5emJhUmhjdkxHNDA2d2MtVm05dFpMbVZmWG9wZlQxQmc?oc=5",
+        "source": "mt.co.kr",
+        "description": "우주·AI·바이오로 쏠린 투자…3월 셋째주 VC 시장 '온기 확산' mt.co.kr",
+        "pub_date": "26.03.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "건설연, ‘2026 스마트건설 창업 아이디어 공모전’ 개최… 새 비즈니스 모델 발굴한다",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10akdobF9pR21FbzA2UDFRWTRfczgxaFdqZlNhRW45Uld1amlTWklhZ0NnblhjU2hRMHVRNDBKTUFsYV9ueUxITlBBcU9Dc09sSUZhZDE1clRBdVhlUGFFTWlUaw?oc=5",
+        "source": "국토일보",
+        "description": "건설연, ‘2026 스마트건설 창업 아이디어 공모전’ 개최… 새 비즈니스 모델 발굴한다 국토일보",
+        "pub_date": "26.03.23",
+        "section": "innovation"
+      },
+      {
+        "title": "극동대, 교원창업 3개사 공식 출범...산학협력 새 지평 연다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02US1PdWVIc2pILW03MmNFdkJCUVpaSHdtWGdsVjVQblJhQnZ2aHBNelNucFJQNFVYV2tYNDdQbmF0aXJFbGlPSUZuemNFRnVraEdRVGdwLXFOUmt0RlhOdEFBNnFkckQzTHc?oc=5",
+        "source": "mt.co.kr",
+        "description": "극동대, 교원창업 3개사 공식 출범...산학협력 새 지평 연다 mt.co.kr",
+        "pub_date": "26.03.26",
+        "section": "innovation"
+      },
+      {
+        "title": "첨단산업 생태계 새 판 짜는 의정부 ‘스케일UP’",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5ak9fQWR4ODRRSFVUTXgwVlZGZHFFMW9RZ1ZtekVTSnNrcng5ckQyMjBGMVFiUzNOWmM5TkwwUm9yMGZSS3o1dWcwb3kyTXlwNE1zSUNYTEJRcVB2RzQ0elg1a3dXRmtSSG9VcThn?oc=5",
+        "source": "현대일보",
+        "description": "첨단산업 생태계 새 판 짜는 의정부 ‘스케일UP’ 현대일보",
+        "pub_date": "26.03.19",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-03-26",
     "news": [
       {
