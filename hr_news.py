@@ -32,17 +32,17 @@ INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
-NEWS_MAX_AGE_DAYS = 14   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
+NEWS_MAX_AGE_DAYS = 7   # 발행 후 이 일수 이내 기사만 수집 (7일은 너무 좁음)
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
 TARGET = {
-    "hr":               3,
-    "ai_tech":          3,
-    "macro_industry":   3,
-    "invest_ma":        3,
-    "innovation":       3,
+    "hr":               6,
+    "ai_tech":          4,
+    "macro_industry":   4,
+    "invest_ma":        4,
+    "innovation":       4,
 }
 TOTAL_TARGET = sum(TARGET.values())  # 15
 
