@@ -166,15 +166,22 @@
       opacity: 0;
       pointer-events: none;
     }
-    .date-nav-btn.prev { left: calc(50% - 400px); }
-    .date-nav-btn.next { right: calc(50% - 400px); }
+    /* 넓은 화면: 콘텐츠(720px) 바깥 좌우에 배치 */
+    .date-nav-btn.prev { left: calc(50% - 410px); }
+    .date-nav-btn.next { right: calc(50% - 410px); }
     .nav-arrow { font-size: 14px; display: block; line-height: 1.2; color: #1a1a2a; }
     .nav-date  { display: block; font-size: 10px; font-weight: 600; margin-top: 1px; color: #1a1a2a; }
 
-    /* 화면이 좁으면 버튼을 콘텐츠 바깥 가장자리에 배치 */
+    /* 콘텐츠와 버튼이 겹치는 폭: 하단 중앙으로 이동 */
     @media (max-width: 960px) {
-      .date-nav-btn.prev { left: 6px; }
-      .date-nav-btn.next { right: 6px; }
+      .page-wrap { padding-bottom: 80px; }
+      .date-nav-btn {
+        top: auto;
+        bottom: 20px;
+        transform: none;
+      }
+      .date-nav-btn.prev { left: calc(50% - 72px); }
+      .date-nav-btn.next { right: calc(50% - 72px); }
     }
     @media (max-width: 600px) {
       .page-wrap { padding: 24px 18px 80px; }
@@ -182,11 +189,10 @@
       .article-meta-cell { display: none; }
       .article-title-cell { width: 100%; padding-right: 0; }
       .date-nav-btn {
-        top: auto; bottom: 20px; transform: none;
         padding: 6px 10px; min-width: 56px;
       }
-      .date-nav-btn.prev { left: 12px; }
-      .date-nav-btn.next { right: 12px; }
+      .date-nav-btn.prev { left: calc(50% - 66px); }
+      .date-nav-btn.next { right: calc(50% - 66px); }
     }
   </style>
 </head>
