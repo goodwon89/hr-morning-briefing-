@@ -305,8 +305,8 @@ def load_recent_archive_keys(archive: list) -> set:
 
 
 def fetch_section_news(section_key: str, queries: list, target_count: int,
-                       archive_keys: set) -> list:
-    """Google News RSS에서 카테고리별 핵심 기사 수집 (화제성 상위 기사 우선)"""
+                       archive_keys: set, top_n: int = 3, max_age: int = NEWS_MAX_AGE_DAYS) -> list:
+    """Google News RSS에서 카테고리별 핵심 기사 수집 (조건 완화 기능 추가)"""
     candidates = []
 
     for q in queries:
@@ -320,8 +320,8 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         except Exception:
             continue
 
-        # [핵심 개선] 각 쿼리당 화제성(관련성)이 가장 높은 상위 3개 기사만 추출
-        top_entries = feed.entries[:3]
+        # [수정] 기본 3개, 조건 완화 시 top_n에 지정된 개수만큼 유동적으로 추출
+        top_entries = feed.entries[:top_n]
 
         for entry in top_entries:
             raw_title = entry.get("title", "")
@@ -340,7 +340,7 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
             title = enrich_title(title, description)
 
             pub_date = ""
-            pub_dt_ts = datetime.now(KST).timestamp() # 에러 방지를 위한 Timestamp 변환
+            pub_dt_ts = datetime.now(KST).timestamp() 
             is_recent = False
 
             if hasattr(entry, "published_parsed") and entry.published_parsed:
@@ -349,7 +349,9 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                         *entry.published_parsed[:6], tzinfo=timezone.utc
                     ).astimezone(KST)
                     days_old = (datetime.now(KST) - pub_dt).days
-                    if days_old <= NEWS_MAX_AGE_DAYS:
+                    
+                    # [수정] 전역 변수 대신 매개변수로 전달받은 max_age(기본 3일, 완화 시 7일 등) 적용
+                    if days_old <= max_age:
                         is_recent = True
                     pub_date = pub_dt.strftime("%y.%m.%d")
                     pub_dt_ts = pub_dt.timestamp() 
@@ -367,14 +369,12 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
                 "source":      source,
                 "description": description,
                 "pub_date":    pub_date,
-                "pub_dt_ts":   pub_dt_ts, # 시간 정렬용 숨김 데이터 (숫자)
+                "pub_dt_ts":   pub_dt_ts, 
                 "section":     section_key,
             })
 
-    # [핵심 개선] 모인 '각 쿼리별 화제성 1~3위 기사'들을 최신 발행 시간순으로 정렬
     candidates.sort(key=lambda x: x["pub_dt_ts"], reverse=True)
 
-    # ── 중복 제거 로직 ──
     seen = set()
     seen_titles = []
     result = []
@@ -397,7 +397,6 @@ def fetch_section_news(section_key: str, queries: list, target_count: int,
         seen.add(t_norm)
         seen_titles.append(t)
         
-        # 정렬용으로 썼던 데이터는 최종 결과에서 제거
         a.pop("pub_dt_ts", None) 
         
         result.append(a)
@@ -413,9 +412,30 @@ def collect_all_news(archive_keys: set) -> list:
     for key in SECTION_ORDER:
         if key not in TARGET:
             continue
-        items = fetch_section_news(key, QUERIES.get(key, []), TARGET[key], archive_keys)
+            
+        # 1. 기본 수집 (최근 3일, 쿼리당 상위 3개)
+        items = fetch_section_news(key, QUERIES.get(key, []), TARGET[key], archive_keys, top_n=3, max_age=NEWS_MAX_AGE_DAYS)
+        
+        # 2. [추가] HR 섹션이 4개 미만일 경우 보완 로직 작동 (중단 없음)
+        if key == "hr" and len(items) < 4:
+            print(f"  [안내] HR 기사가 {len(items)}건으로 4건 미만입니다. 탐색 범위를 넓혀 추가 수집을 시도합니다.")
+            
+            # 이미 수집한 기사가 중복으로 들어가지 않도록 임시 아카이브에 추가
+            temp_archive = archive_keys.copy()
+            for item in items:
+                temp_archive.add(item["title"])
+                temp_archive.add(item.get("url", "").split("?")[0])
+            
+            # 조건 완화: 부족한 개수만큼 추가 수집 (쿼리당 10개 검토, 최근 7일 치 기사 허용)
+            shortfall = TARGET[key] - len(items)
+            fallback_items = fetch_section_news(key, QUERIES.get(key, []), shortfall, temp_archive, top_n=10, max_age=7)
+            
+            items.extend(fallback_items)
+            print(f"  [안내] 보완 수집 완료. HR 최종 확보: {len(items)}건")
+
         all_news.extend(items)
-        print(f"  [{key}] {len(items)}건 수집")
+        print(f"  [{key}] 최종 {len(items)}건 수집 완료")
+        
     return all_news
 
 
