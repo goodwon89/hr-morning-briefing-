@@ -608,11 +608,15 @@ def send_email(subject: str, html_body: str, recipients: list) -> None:
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"]    = f"{EMAIL_FROM_NAME} <{gmail_user}>"
-    msg["To"]      = ", ".join(recipients)
+    
+    # '받는 사람'을 발신자(본인)로 설정하여 다른 수신자가 보이지 않게 처리 (스팸 방지 효과)
+    msg["To"]      = f"{EMAIL_FROM_NAME} <{gmail_user}>" 
+    
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(gmail_user, gmail_pass)
+        # 겉으로 보이는 To 헤더와 무관하게 recipients 전체에게 숨은참조(Bcc) 형태로 메일이 발송됨
         server.sendmail(gmail_user, recipients, msg.as_string())
     print(f"  이메일 발송 완료: {len(recipients)}명")
 
