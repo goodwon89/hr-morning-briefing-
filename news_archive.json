@@ -3,107 +3,163 @@
     "date": "2026-03-27",
     "news": [
       {
-        "title": "한국앤컴퍼니그룹, 컬처 에이전트 도입…\"조직 문화 실행 체계 강화\"",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GMzVWaEtWOVoxSHJ4S093R2RkbkIyTGI3NjdsRHdnQ2lzaTR1Yml3V2NJR1RrRWxaR2FrcWxXcjNNZldMMm81X3VHeURFN0Y4Q3NNTm1DS1NuTE1aa0U2Mkk3U2h5TkMzNVE?oc=5",
-        "source": "뉴스1",
-        "description": "한국앤컴퍼니그룹, 컬처 에이전트 도입…\"조직 문화 실행 체계 강화\" 뉴스1",
+        "title": "이번 해고는 미국 본사뿐만 아니라 글로벌 전역의 직원을 대상으로 한다.",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBkMjdYVXVtTnlIWE4tbHlCOEt6NEhoNWpIR0Nva0ptaFBXMHZYSG1SR1FmN3dRRUpJMmFiVUhNdm0?oc=5",
+        "source": "AI넷",
+        "description": "[메타, AI 투자 속 인력 구조조정 단행... 영업·채용·리얼리티 랩 타격] 이번 해고는 미국 본사뿐만 아니라 글로벌 전역의 직원을 대상으로 한다. AI넷",
         "pub_date": "26.03.26",
         "section": "hr"
       },
       {
-        "title": "포스코그룹 생산 자동화 키 잡은 뉴로메카, 박종훈 올해 '휴머노이드·부품 국산화'로 흑자전환 정조준",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSXlvTUJhN0pXbGFMZHpieXFIelBFU0hsUURsUy1UTktWbUQ2Q3RBN0RoLTc1R2xhUk54UGtTR1RwQ2o5d0hyMEpTR3laMVltdWdodTVzbWljWWRMTVBwNnMzMDhuTERIUHNLNnpneV8xX2M?oc=5",
-        "source": "비즈니스포스트",
-        "description": "포스코그룹 생산 자동화 키 잡은 뉴로메카, 박종훈 올해 '휴머노이드·부품 국산화'로 흑자전환 정조준 비즈니스포스트",
+        "title": "車5부제· 유연근무·AI 전력관리··· 중동전 한 달에 재계 '총력 절전'",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cVh3R1V2aEJidk9CX3EzWGhtR0dFT1hZZnQyV0x3LThhNnhGaHBqaThXNjR6MjhLMGNaN1M3TnlfWkwwSUo4cUl2Nl91T0xyQi1tbXZUYVhzX0JwSmRGOHV2NzZEUkhoLWF0TW1wMThwWVRXeXfSAXpBVV95cUxQU2F0UmQwUFFzZWZDQi1mZE5ZOU1MTEk2UUg4WV9OSEQ3Zkk1b1V3SHVqRjhkZS1pd1dGNTN2dHJmR0ZmclFDTWVmSnRMaVF0XzRYMEc2SDNySDh6Vmh4ckRDQ1gwRlRHRDd5Z2Jwak5aWXdnU0lwcV9Ydw?oc=5",
+        "source": "그린포스트코리아",
+        "description": "車5부제· 유연근무·AI 전력관리··· 중동전 한 달에 재계 '총력 절전' 그린포스트코리아",
+        "pub_date": "26.03.26",
+        "section": "hr"
+      },
+      {
+        "title": "한국앤컴퍼니그룹, ‘컬처 에이전트’ 제도 도입… 조직문화 실행 체계 강화",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RWHJJUnJoWUxqZ1hJSU45YjZSQWt2SUY1VlRPYjM2a2gwM0hROVZiOWZHNkh0cm9acWhUb3RPaGk3YVdUeUFyZEF1bDNSZE9kTzBLNkhUMTRQVm9NTkZSb01IS01WakY1a2lRRWN3cEpGUdIBckFVX3lxTE9RWHJJUnJoWUxqZ1hJSU45YjZSQWt2SUY1VlRPYjM2a2gwM0hROVZiOWZHNkh0cm9acWhUb3RPaGk3YVdUeUFyZEF1bDNSZE9kTzBLNkhUMTRQVm9NTkZSb01IS01WakY1a2lRRWN3cEpGUQ?oc=5",
+        "source": "팝콘뉴스",
+        "description": "한국앤컴퍼니그룹, ‘컬처 에이전트’ 제도 도입… 조직문화 실행 체계 강화 팝콘뉴스",
+        "pub_date": "26.03.26",
+        "section": "hr"
+      },
+      {
+        "title": "헤사이 그룹, 임직원에 78만주 RSU 부여..핵심 인재 확보 강화",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zRi1FNGNKYlVSRkJGSXFSUHVmNmc3UTkwUmdINmtLQjFCT1B5RnV3VWY4Y0NxcXBwZmJFamhZckdsazBFa1ExY2EzdGVPNzFCOVE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "헤사이 그룹, 임직원에 78만주 RSU 부여..핵심 인재 확보 강화 매일경제 마켓",
         "pub_date": "26.03.25",
+        "section": "hr"
+      },
+      {
+        "title": "\"AI개발사 넘어 AI산업 선도\"...아크릴, 창립 15주년 기념식",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fWjZLVTRINlMwbEYyMDJCYk03TGdMQ2F0cWJIN2JETlZSdFIzaDVNVlhCMkVzQ3BETEZGaTBOX0o5MDc1QlRNNFBfRmxHb2VVUFh6aXJB?oc=5",
+        "source": "지디넷코리아",
+        "description": "\"AI개발사 넘어 AI산업 선도\"...아크릴, 창립 15주년 기념식 지디넷코리아",
+        "pub_date": "26.03.26",
         "section": "ai_tech"
       },
       {
-        "title": "AI 도입 부담 낮추고 생산성 높일 해법은···베스핀글로벌, 전략 컨퍼런스 개최",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBobVQ1VmlKLXplTkZ5WGROS3FmeVlrRENkOGtDNjlrUTY3ZU9XT0l0RUJKQnRySmhsdDdKSUlJSmVMU0xLR0ctRTZhcjJCdw?oc=5",
-        "source": "매일경제",
-        "description": "AI 도입 부담 낮추고 생산성 높일 해법은···베스핀글로벌, 전략 컨퍼런스 개최 매일경제",
-        "pub_date": "26.03.25",
+        "title": "MS, 'AI 투어 서울'서 에이전트 도입 사례로 KT·인핸스 소개",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vbVFBMTB4Unp0Y1pOM2xZbU9yWVdiZFhlNWFLMHVkYmpyajMyMFExSExOczVxUmdzVzNvNzA4WFZDclJUeEZxSS1XSVBaclZvVWxzdEJmUGE1Mm4wQTJoMzIxc3JWSVRKaHc?oc=5",
+        "source": "AI타임스",
+        "description": "MS, 'AI 투어 서울'서 에이전트 도입 사례로 KT·인핸스 소개 AI타임스",
+        "pub_date": "26.03.26",
         "section": "ai_tech"
       },
       {
-        "title": "ChatGPT Enterprise 전문가 인터뷰 | 기업 환경에서 ChatGPT Enterprise를 성공적으로 도입하는 전략",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3NUaHFnM2JZYnNiRTlObE1jVXNIb0F2R0dfU0kzNzBZaFNRUGk0c2x3RmZCZFJSb0k4YnlselFXajVQbmJ5emVwRE8wSTQzV0I2QmZrT1dwNzF1VVJFSmJCUnpXc2NVTDFHa1VYSFdGU0l1Q1puUTVBZ0dYMTJ6a1VDSWtmcHNyRG56VERmSzlSUjRNUVE?oc=5",
-        "source": "Samsung SDS",
-        "description": "ChatGPT Enterprise 전문가 인터뷰 | 기업 환경에서 ChatGPT Enterprise를 성공적으로 도입하는 전략 Samsung SDS",
-        "pub_date": "26.03.25",
+        "title": "영남이공대, 재학생·교직원에 LLM 기반 생성형 AI 무료 제공",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tWXRJaGNMUU90Y1BMYWlFVVlWYVRuRVd2YmxpTjFPN3NfNC1obW5YcGdtV1IyYlJDTWpQemhHVEhnSnN2djF1bENHQ25jX1lyeWV4Skp3?oc=5",
+        "source": "중앙일보",
+        "description": "영남이공대, 재학생·교직원에 LLM 기반 생성형 AI 무료 제공 중앙일보",
+        "pub_date": "26.03.26",
         "section": "ai_tech"
       },
       {
-        "title": "AI 도입할수록 운영은 더 복잡해진다…베스핀글로벌, 해법 찾는 ‘AI 파트너스 데이 2026’ 개최",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWXlBaWVOSzdQdThBLUM3QmF5a0pFbHVYMFVQWkVEQWZMYm9XNFZvSTE4R2RZbTNlbHlDYUNZRzJEc0t6cFJ3YzVqR3V1dmd3cjE0azBPeS1fdGJ0MGx0VHUwTDJBNzVzSzVQTg?oc=5",
-        "source": "뉴스탭",
-        "description": "AI 도입할수록 운영은 더 복잡해진다…베스핀글로벌, 해법 찾는 ‘AI 파트너스 데이 2026’ 개최 뉴스탭",
-        "pub_date": "26.03.25",
+        "title": "사천시 ‘AI교육· AI비서’로 공직혁신 가속. 행정현장에 인공지능 바람불어2025년 도내 최초 전직원 AI교육·AI비서 도입 조직명도 ‘AI데이터팀’으로 개편",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMWhkNnhuWTNnT01KaDBWZHpkQ0taTTV3V3JWV29NMXdMbzk4Yi1ETlNncURLR0Q1VWUwNVRXZEI2bzlTYlFoZmRCSFNhU0JtZUNoMzlsR3RnRDB1UVlfV1YxZkvSAWhBVV95cUxOWmcxbl9WUVZMdzFfQUpfQ1JhYlpXYV9ZYjNGUzV6NUdoRXFKc1ZTdG5TRUJWYnhISFVOR3lrY0tQWERaeE9MT21EUXdMV2Y2M3RoZngzVkdYM292dEd2RVltOFRhX1V0VA?oc=5",
+        "source": "경남뉴스통신",
+        "description": "사천시 ‘AI교육· AI비서’로 공직혁신 가속. 행정현장에 인공지능 바람불어2025년 도내 최초 전직원 AI교육·AI비서 도입 조직명도 ‘AI데이터팀’으로 개편 경남뉴스통신",
+        "pub_date": "26.03.26",
         "section": "ai_tech"
       },
       {
-        "title": "지난해 AI에 쏠린 투자금 전체 투자 41% 차지",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPYmtkc1MyRThTemNacDZudXN1VDAzcE9Bcm4zeU5SQ0dKWXRndHZhVHNSVkxFZGt6N2s5MVpzbHU5YjA3M2JXaHNoeGNkRHRrSlVLeW15bw?oc=5",
-        "source": "스타트업레시피",
-        "description": "지난해 AI에 쏠린 투자금 전체 투자 41% 차지 스타트업레시피",
+        "title": "중동 긴장 고조, 글로벌 경제의 향방은?",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03YnlBX2dFX05iN3hWRjlkcXM3YVZQanp5MGNuQkNva2wyU01ETHVmMGlUa0hPeHZBRmxsek95M1dfeUthODItQ1hwVGNzOWc?oc=5",
+        "source": "환경감시일보",
+        "description": "중동 긴장 고조, 글로벌 경제의 향방은? 환경감시일보",
+        "pub_date": "26.03.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "STO 반쪽 도입 우려…“스테이블코인·규제개혁 필요”",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52bXRkanhRdnV3S3VMdVZpczZlXzN2X0tDRlVkRTJ5Q3NQWThEZzJoSVhvcTZfbnhnbmdZRHRSVkx3bWozNWIwWnNZM3BKZXJvajhIcDZHLXlqRUplLUlobW95SHFNOURCaE1EQVlFRGdkSTA?oc=5",
+        "source": "마켓인",
+        "description": "STO 반쪽 도입 우려…“스테이블코인·규제개혁 필요” 마켓인",
+        "pub_date": "26.03.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "미국 경제와 연준의 딜레마: 한국 경제는 안전할까",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0RFhTRW1ZbmJpVFNYYUZoT2MyQVppdnJuLVBYenE4Vk9rYS1fX29lbk1zMkp5VzNvZDdIeHhMcFZSMUxXSEh4UVZTcng?oc=5",
+        "source": "한국AI부동산신문",
+        "description": "미국 경제와 연준의 딜레마: 한국 경제는 안전할까 한국AI부동산신문",
+        "pub_date": "26.03.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "미국 경제의 방향, 한국은 어디로?",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLcGtoR3NHYWNTNldXLXBhNDNqOFZFd2U2X3dvV0Y2Vy1BcWdsWFliUllrMFlGNEhNUVdQSTN0QmJmQ2dUb1hnZnQxSEw?oc=5",
+        "source": "브랜드경제신문",
+        "description": "미국 경제의 방향, 한국은 어디로? 브랜드경제신문",
+        "pub_date": "26.03.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "하이브랩, IPO 주관사에 SK증권 선정…상장 준비 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96eGV1S205SVFiSGJPNkl0ZnZkaHUzMzYxU0Zobm5GZnI5aW5iR1hEekpDYXlxMGlfRkV4WDk0ZWJhZzBNUkxvcXhzZ1hlV242ZGtEMUF2S05iTGFSUERJRdIBeEFVX3lxTFBKNlljRFRqLWxBcTJ6TjI3aEdYekhYMTdPdmdZdXVDbTVQd0dORmEzSzBFUTNhQndFWlY5TnlENk02R1YzLTdhYnBUYUwtVkZlYWtPVTJ2V1UxdEVuTG5RX1RFbkx2Umo2YTFfUFBQR2VHNDJiTVljbg?oc=5",
+        "source": "뉴시스",
+        "description": "하이브랩, IPO 주관사에 SK증권 선정…상장 준비 본격화 뉴시스",
         "pub_date": "26.03.27",
         "section": "invest_ma"
       },
       {
-        "title": "외환 스타트업 XFX, $1700만 투자 유치… 스테이블코인 환전 인프라 구축",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aSXVNRTc0V2FNS3NfMGRpcVZDOWl1SUVnRDhZSlVKMHY2dDQtekhZMXo0UW1NWkV6OWR4MHpHTC1SNFc4TW5iQQ?oc=5",
-        "source": "코인니스",
-        "description": "외환 스타트업 XFX, $1700만 투자 유치… 스테이블코인 환전 인프라 구축 코인니스",
+        "title": "\"인류는 탈모를 극복할 수 있는가\"…탈모시장 향하는 VC들",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVU3dPbVpxU256ZjRpaXdBVmpwQkpqNTAtdU14OFZON2ZZWTRXZ2NHX2lyejVWc2xOSWdJREtHRGN5TVFaY0poV3A5Rjc4Z0d6RXY2N21JVVVkMmk3dW9MTldR?oc=5",
+        "source": "아시아경제",
+        "description": "[VC는 지금]\"인류는 탈모를 극복할 수 있는가\"…탈모시장 향하는 VC들 아시아경제",
+        "pub_date": "26.03.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "물 만난 방산 드론업체... 니어스랩, 몸값 2000억에 IPO 출격 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajcwQjFkNExjU1ZlVi15Sm5lbDgxU1BFU2xjYVh1bXZVQjk5ZjlzOXRXYkdOdzNoMDg3anF6bzNfZy1zZ045RmE3VUFLeVZZSG5KckNXTnVaMVJhQmxJSElRZDJrNnNGV2dGTWViZHJhYnYwSXJPQXNvSW9ZUUhtdkZfT25nSHfSAZsBQVVfeXFMTWduVFZCaVE2YjZzdTRFcFFvdUk5M0NaOFBTSFJ0dDhLZmdqN3dncFBnX3o0b2tBbDdVTzdtd250cFdIenBOdFMyM1NHZ0FWeEZSYVNub2x0cDRUblRPcVJIa0xVWG5RWWNJdUtZOWVNZlNIa1ZwbDdGcG0yaG4wdWtXVzJ4YnJrbXlrRlNGNWpsSURxOG05WDN0d2M?oc=5",
+        "source": "Chosunbiz",
+        "description": "물 만난 방산 드론업체... 니어스랩, 몸값 2000억에 IPO 출격 - 조선비즈 Chosunbiz",
+        "pub_date": "26.03.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'3000억' 상속세에 가업 포기…'청호나이스' 팔린다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByN1J2ZFJVbDljRUFWS1VSM2xmU1hILVJYREZ3UFBRYUZtZTljbXkzdUFkZ1VYNW14V0Y5ZzhpSHh4OWs4OGF2Vmg0Sm5Uak0wTkRnMG8wcXVEZ9IBVEFVX3lxTFBTZ2hYSlJXRXE5NE5fWktCbUZrSU1GLWFhUWtReHl5ck1pUERhU3BLaEU4NFQ0OTF0WnFqLWJhM0hseTFVaEJwUjZGSmVYQ1hYZEV1aA?oc=5",
+        "source": "한국경제",
+        "description": "'3000억' 상속세에 가업 포기…'청호나이스' 팔린다 한국경제",
         "pub_date": "26.03.26",
         "section": "invest_ma"
       },
       {
-        "title": "스페이스X, 이르면 올 6월 상장…IPO에 관해 궁금한 모든 것",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zUGptdzdhdjdrYkkyM0Y5NTJEc3Z1cTgwTW0waE1iNTNXLWdtYnVCOWlzQ0p6YWxQUUp0R0wxc3Y5TUZPQWFiYk50RzY4ejR6MTJTOGdrSWFucUsyOTZfdVlEZmFlT1g2WjF0ZA?oc=5",
-        "source": "유니콘팩토리",
-        "description": "스페이스X, 이르면 올 6월 상장…IPO에 관해 궁금한 모든 것 유니콘팩토리",
-        "pub_date": "26.03.26",
-        "section": "invest_ma"
+        "title": "3년간 1.1조 계약 터졌다…K-스타트업, 글로벌 교두보 된 '이곳'",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWN2NZOEdSYm9VczdhdGpFNG9lN09HbFdPWlpBcWs3WFJZQXJDNUdza0dQTklySllibE93c2N3WXVKQlN1LWpDNE5lWklwNnFETVluelBHUG1RamNHR1BhWA?oc=5",
+        "source": "네이트",
+        "description": "3년간 1.1조 계약 터졌다…K-스타트업, 글로벌 교두보 된 '이곳' 네이트",
+        "pub_date": "26.03.27",
+        "section": "innovation"
       },
       {
-        "title": "IPO 시장 위축…예심 반토막·상장은 한 자릿수",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUF93WFh5Y0hIalRqUFdzR0ZkSkRkaU83NFlGTklnUk9DbU5MZmFEYzdCSnJkZ204alB5QWdIRUFISFVxRVZ0d3ZDZmZBTkRRSnk5T0ZqcXhGSzNaRTFYME9feGM4cEEx?oc=5",
-        "source": "매일경제TV",
-        "description": "IPO 시장 위축…예심 반토막·상장은 한 자릿수 매일경제TV",
-        "pub_date": "26.03.26",
-        "section": "invest_ma"
-      },
-      {
-        "title": "극동대, 교원창업 3개사 공식 출범...산학협력 새 지평 연다",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02US1PdWVIc2pILW03MmNFdkJCUVpaSHdtWGdsVjVQblJhQnZ2aHBNelNucFJQNFVYV2tYNDdQbmF0aXJFbGlPSUZuemNFRnVraEdRVGdwLXFOUmt0RlhOdEFBNnFkckQzTHc?oc=5",
-        "source": "mt.co.kr",
-        "description": "극동대, 교원창업 3개사 공식 출범...산학협력 새 지평 연다 mt.co.kr",
+        "title": "SK쉴더스, 글로벌 인증기관과 손잡고 국내기업 해외진출 지원",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3MUtNRS1LSGVCOWs1ZWhubmhpWlBGdHFFNnd1cDlpb3pZWGVPNXFQRVVpUFg5QW1MWVd1YWlwTWI2azAxTEF5R2hYZmtKUQ?oc=5",
+        "source": "dt.co.kr",
+        "description": "SK쉴더스, 글로벌 인증기관과 손잡고 국내기업 해외진출 지원 dt.co.kr",
         "pub_date": "26.03.26",
         "section": "innovation"
       },
       {
-        "title": "충북도, 이차전지 창업생태계 활성화를 위한 스타트업 육성 추진",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01U2tsWmtIMmVqMnZIcjh1N0ZsbTZHVWJsWml0cmg3N0ZFeFlnYVFOcFRBRTRvYTZiVFdyY1JoWU1vXzVTeGtnOGRQM3NaeC1RT0VWQUExNkR3djJYNVBNaGw5b0xLOWswRG9ZdNIBcEFVX3lxTE5jREtnZng1MTh1ckdZbEZFcDk1WmlORjFwMDJFaXRtY2Nmem5ZYmZoS1RBUnFFV19kYXFLQnltYkF2NTB1Rkt3N0JXbjNzRXdHTFowYjBPcE9ndmVMaDNRLUw3cEdPSDduVmxpVzVwRXA?oc=5",
-        "source": "엔디엔뉴스",
-        "description": "충북도, 이차전지 창업생태계 활성화를 위한 스타트업 육성 추진 엔디엔뉴스",
+        "title": "‘2026 미국 소재 한국계 스타트업 맵’ 공개 및 현지 진출 동향 세미나 4월 개최",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05eW94bUZPYnRONUhISHFQZEJuVTFtc0pqSWMwSTFaU2VkcWNvTE1saHBuOU1DQXRFdDA3Zm5jbkdqampacFE?oc=5",
+        "source": "beSUCCESS",
+        "description": "‘2026 미국 소재 한국계 스타트업 맵’ 공개 및 현지 진출 동향 세미나 4월 개최 beSUCCESS",
+        "pub_date": "26.03.26",
+        "section": "innovation"
+      },
+      {
+        "title": "정부, '모두의 창업' 추진…국민 창업가 5000명 발굴한다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IV0pBWTFCRlAzbmFPNkxNdG5hcVZSSWNWSVRpcm5nNkpPZVdRaE9mcmwyWGF6MkpybEg2MkRDV21qWmxmakF3dVhGUlZLaHNWZWRINE1iNDlleVVRZ0xyOTAtWWx1cWxxS2JKcw?oc=5",
+        "source": "대한민국 정책브리핑",
+        "description": "정부, '모두의 창업' 추진…국민 창업가 5000명 발굴한다 대한민국 정책브리핑",
         "pub_date": "26.03.25",
-        "section": "innovation"
-      },
-      {
-        "title": "모두의 창업 프로젝트 가동…혁신 창업가 5000명 발굴",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeWIzVzlVTjQybFFhamVlRFFlZzFOSTR6ZVJuR0lKZk4yMDVLZG9HVGNmb25fUTk1cWItUVppU2dYWWljdG1pcGlKNHZFaXBaZHdRcVFNVXBBYmhGRHRYVm1UaU5mMENwT2RzLWJvbzQ?oc=5",
-        "source": "신아일보",
-        "description": "모두의 창업 프로젝트 가동…혁신 창업가 5000명 발굴 신아일보",
-        "pub_date": "26.03.25",
-        "section": "innovation"
-      },
-      {
-        "title": "규제샌드박스 지원센터 출범식",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQlNOTGlVNzg0ejRyRkE1RmttdUt3SnkwQUhmajlJTkNHUC1tcFBvSG00NmRSelZ6eEhwV3pLSUNLRFVKQ3J0QnlBZ093OFphRHhEd2EyTGhQV1hqLTVpSVdaSUVWc21RaThtWVNKX3RUT2ZTdjd3QXZqa3VkN2M2cWxMLXNSNENzZ2hxQg?oc=5",
-        "source": "서울Pn",
-        "description": "[보도자료] 규제샌드박스 지원센터 출범식 서울Pn",
-        "pub_date": "26.03.24",
         "section": "innovation"
       }
     ]
