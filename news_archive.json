@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-03-31",
+    "news": [
+      {
+        "title": "젠틀몬스터의 아이아이컴바인드, SAP 인사관리 솔루션 '석세스팩터스' 도입",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82b0MwMDFuc0YtTzF3N3VxV2dDUEo1WWFyU19oaUkyMHdVeWEtMXNyV2FqVWptd1YxTmZWYUR1MExtNXJYNE0yOXZYZFE2WWNES1VQTXY5QURkTjhtTVRoX2xfa0YtUQ?oc=5",
+        "source": "thelec.kr",
+        "description": "젠틀몬스터의 아이아이컴바인드, SAP 인사관리 솔루션 '석세스팩터스' 도입 thelec.kr",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "박관호 위메이드 대표, 기한 없는 고강도 구조조정...‘생존 모드’ 돌입",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FYTZ4R2hqb0VGWDFURFJWaUVwUGU4RTNBT1hHc3ZZeU5Bb3JSaDdsQ25ZX3Q1VFpCYVBuWnI2UXMyaVdWYVNWSkUwZGxCMEY1MFpwN3JWQ1JIT3VBeHdjMVpNbjM3WnRaSVJEZTVpeFQyczDSAXdBVV95cUxPY2d0MVBSUVA3VGEwZW8wWU5TM09hQTQ4dWI5cHhmUXN4N0RBWkltbFpYaG1LYW00Y2tDckR5bVhoWnFkU1hHcThHYklZcmJ1QzNFMEVuTXZNMG15S0FXaFNaN0VETUEzdVdINW9UcmpvMGdVbEZLOA?oc=5",
+        "source": "insightkorea.co.kr",
+        "description": "박관호 위메이드 대표, 기한 없는 고강도 구조조정...‘생존 모드’ 돌입 insightkorea.co.kr",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "경제자유구역 성과평가 수치·정량 중심으로 개편",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5eUdOVHFkZ1o2THFrQXRBa2tDMGF0WUdQUWYxYi1Ea3UtTDBtMzhlZmY5Q0djLWg0Y3QwR0ZHSk1Qb0NlODcxUjlDMXZuTXFvYnVTbld1US1QM3M1R0YzQ3k3UE9ZS1M0TGd30gFrQVVfeXFMUHl5R05UcWRnWjZMcWtBdEFra0MwYXRZR1BRZjFiLURrdS1MMG0zOGVmZjlDR2MtaDRjdDBHRkdKTVBvQ2U4NzFSOUMxdm5NcW9idVNuV3VRLVAzczVHRjNDeTdQT1lLUzRMZ3c?oc=5",
+        "source": "이투뉴스",
+        "description": "경제자유구역 성과평가 수치·정량 중심으로 개편 이투뉴스",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "매년 2000명 희망퇴직 내보내고, 1000명 재채용…은행권은 왜?",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yQWxHdjRmb19BdHJvRmVpT2JIeEU0eGRZUWRfT3pFYXhMaTlSOVZZNHBqVk8zSGVNTUlVdnRRRXgtUmxRc2hxOTJBRkFXQWhnS3ZkcjlyaENvNWpacHhySnNZSzcyMW5wYkJFTHdWZ1Q?oc=5",
+        "source": "mt.co.kr",
+        "description": "매년 2000명 희망퇴직 내보내고, 1000명 재채용…은행권은 왜? mt.co.kr",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "제일파마홀딩스, 임원 인사·조직개편 단행",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zYnFtN0RGNFNEd2VZVXAzX1dkOWlPVkNobExpSi1McHRhc3RTMV80X1lqa2R2MHpWTnhMQ2NfWHFuNmhnV3g0RVBURkw2c2Zrc09YMUpVWDZ6QjAyT1NCZ1dNZ05BSEF3U1Q0?oc=5",
+        "source": "백세시대",
+        "description": "[인사] 제일파마홀딩스, 임원 인사·조직개편 단행 백세시대",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "SAP코리아, 젠틀몬스터 글로벌 통합 인사 관리 시스템 구축",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZzRzbW5tQWlsdWJwY2xPX241eVRzT080bmNGYzBPYUUzLU9GcTRPMHNJSXpGUHlQYXcxVnF3YzBUajBfZG1YeGJLZzR6OG03dFZuSjZKRklqdkFka2hES2UyUDNWUm85SHo0ZEY2MFpsSk1IZ0ZPYUhyVjhOWHJ2UzJMVlFnLU5VeXlQQmpCckNyM0dMQmVWT1A0Skg3OE92SFZpTENDd2VZMGh2ZnlxMl90VTU4YlU2ekQ0NHhDQWdEd2VVOUZuYjF1TzFfZGc2cmhqXy1feGZ4VVJBXy1waXVWbHd5dHpUbEZyUVZKME1Ed09XcGZtNVhheTJGeVFjWkpsQW5jaVRxWGNlMjhkSGloMHo5YTctbF9NYm1YaTlBMkhYX0hNSVpud3NFU3ZZZDVjakVVNVdDSmEyS0JvZF9SYlhMaGV0?oc=5",
+        "source": "SAP News Center",
+        "description": "SAP코리아, 젠틀몬스터 글로벌 통합 인사 관리 시스템 구축 SAP News Center",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "심평원, ‘AI·RPA 결합’ 업무방식 혁신 가속",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FcnhIakxmdU0zcU14b2tGODFUc2NKXzFDelV3czRtN0NITFpiMWx6cHNPTE5IY25mTTFZTldpTDFubFNzV0ZILXh1MlJMd2F6U0hGckQ4ZHhhUThoWmpPXzlqSVJzaU1j?oc=5",
+        "source": "데일리메디",
+        "description": "심평원, ‘AI·RPA 결합’ 업무방식 혁신 가속 데일리메디",
+        "pub_date": "26.03.31",
+        "section": "ai_tech"
+      },
+      {
+        "title": "포항TP, 실습 중심 AI 교육으로 업무 혁신 기반 마련",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BeUlJdjk5RkJzQTRhSURlTlY1MXNoZ0RjZ3AxWHRMOGswRS1GZF9wcF9KYkRTaTB6eHFKSmo1M2N2R0VNMmNZdW9oVEhuUVpkVWVyZFFsbE4tYVdqXzNNamw0YXRfQUtXcExjM19uMUrSAXRBVV95cUxOMjRmN09tV1J5Zkg2SEdqMGFJMnRaOWpmdlk2eDQyaXVFTzZJTW90UW1jX21hRm0xSXJCT091eGZ0SjJNeFZ0QTQyckxZZXVDbXBnRzR1cXVtRGw4MGgza29ac01YME92c2FEU1Z5Wk0tRm9nVA?oc=5",
+        "source": "이뉴스투데이",
+        "description": "포항TP, 실습 중심 AI 교육으로 업무 혁신 기반 마련 이뉴스투데이",
+        "pub_date": "26.03.31",
+        "section": "ai_tech"
+      },
+      {
+        "title": "오픈소스 AI 에이전트 이메일·협업도구·CRM 접근 권한 중앙 통제 기술 등장",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fd2E5d2hxWUkyMG5JWXhjV2h6XzdyZXl3VjZmRjhpSjZlU2hOcy1JbDhfdHpfTVFWaHFNU2t2eFJvcmZYVUduY2UtWGkyOEhmU0VRa0ZjOU4talpZNVJnQVV3UEFacS1hamc?oc=5",
+        "source": "지티티코리아",
+        "description": "오픈소스 AI 에이전트 이메일·협업도구·CRM 접근 권한 중앙 통제 기술 등장 지티티코리아",
+        "pub_date": "26.03.31",
+        "section": "ai_tech"
+      },
+      {
+        "title": "도로교통공단 생성형 AI 기반 업무활용 서비스 제공",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yajY0aFJrcEg3dnFwYlpmVTlBZHNXS1ZYMWVDRnRnUjBKaXRoR0F5S0FHNnZSNUdKRXBsX2FRc184NmczT0VDQWdKWTVrRThiYnhBNFRuN2JoamhUU3c0RTM3WGJ4alE?oc=5",
+        "source": "강원도민일보",
+        "description": "도로교통공단 생성형 AI 기반 업무활용 서비스 제공 강원도민일보",
+        "pub_date": "26.03.31",
+        "section": "ai_tech"
+      },
+      {
+        "title": "G7 재무장관 회의 결과가 한국 경제에 미칠 영향",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IdHpLR2gzOEdKWGk1ZU9zaXd6YlZBLWtYTG5nRkQwV0lPTEpsQXFHTkk2MFJNOVFBcTJ6MkRDcFNXejU5WDJZZVk0R2FfZzQ?oc=5",
+        "source": "환경감시일보",
+        "description": "G7 재무장관 회의 결과가 한국 경제에 미칠 영향 환경감시일보",
+        "pub_date": "26.03.31",
+        "section": "macro_industry"
+      },
+      {
+        "title": "기후 전환이 한국 경제에 미치는 영향",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YNmpxMktvc3ZoeFctZzVjbXgxVXVYb1gwVTd3Q2pyZFgyazI5OXdCclRQZ045Qk1oanB5UjVjZnFpUmdZZUVaSlc5aHo?oc=5",
+        "source": "브랜드경제신문",
+        "description": "기후 전환이 한국 경제에 미치는 영향 브랜드경제신문",
+        "pub_date": "26.03.31",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한은 4월 금리 셈법의 분수령은 이번주 경제지표",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wVklCMHVOLXhKZDFQemMwdm96NDREa085YlAzQWFUQ2pRdUtpd3RaQlYxSzItSlltRDRjNG5SdFFHYVFmT3pISjktMWxtYUhTTEFzbHd5ZGhXS0czU2RJ?oc=5",
+        "source": "메트로신문",
+        "description": "한은 4월 금리 셈법의 분수령은 이번주 경제지표 메트로신문",
+        "pub_date": "26.03.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "롯데건설, ‘경기광주역 롯데캐슬 시그니처’ 사업설명회 성료",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lblc1T2MyRFFxRFZQWjRDa3FJRXFPaXFJNWNwVUpXNUZTaHJwVnB6SDJEMUdLYW5IQXM0U0VjRTF4YlBDaHBTUXp6cEtJWXAzRXdFVFRiWURFTFJhTlJ2UllWNklBZDRXajZj?oc=5",
+        "source": "서울타임즈뉴스",
+        "description": "롯데건설, ‘경기광주역 롯데캐슬 시그니처’ 사업설명회 성료 서울타임즈뉴스",
+        "pub_date": "26.03.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "파마리서치, 의료기기·화장품 기업 M&A 추진",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Nc0dOTHVaelZRWVJVRVBEenRDWTh1eEh0QVp3bkd2NDhvUWRabzNhdlphR056eUl4c1g1T1ZCU2RRQ1V3YnpnM0w2eVV4MzNRbHdBQjhn?oc=5",
+        "source": "데일리팜",
+        "description": "파마리서치, 의료기기·화장품 기업 M&A 추진 데일리팜",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "AI 칩 스타트업 리벨리온, 프리IPO 라운드서 4억달러 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJbDFlaXNUN2FGd2x1NWdYVkQyeWhvTnp1ZS1rSjFWT2o5c21mVHFOdGlBX1NoTVJNMW1CWmszMHRUcHZveUZ1WUgxOXBnSmhNUjRRWGhsci03dm50YUIwOUN3bWpycVpnemxUTzdTTldFNU0?oc=5",
+        "source": "디지털투데이",
+        "description": "AI 칩 스타트업 리벨리온, 프리IPO 라운드서 4억달러 투자 유치 디지털투데이",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "케이뱅크 상장에 지난달 IPO·유증 3배↑…기업 자금조달 8%↑",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdVpPbGM4eklEMzF1OHVSZHBja3Z4dDV5NWRFZS00bjRpbGtzZzBRT2U4OXdoQklOQW5kalRTbXdYWjQ3dXZMa216VVdUeWk1WW5TTUVEN1BRS05NaUUzT3dtaVFhcHFs?oc=5",
+        "source": "mt.co.kr",
+        "description": "케이뱅크 상장에 지난달 IPO·유증 3배↑…기업 자금조달 8%↑ mt.co.kr",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "“스타트업 키우는데 20년 이상 걸려…긴 호흡 필요\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yZ2diNzA4ay1Sc0ZyaWJoVWU3U2ZLc3JBU2VQOVVFTWV5UFlXanRYT1lEMHRLVzVGMDBkOHp0SmZNbE52NnFfaVBjeURQbVBUVkpVODNTZ3A5V0JweXpybE5VeGZlekJYa0I1OVh5YUdTQQ?oc=5",
+        "source": "마켓인",
+        "description": "“스타트업 키우는데 20년 이상 걸려…긴 호흡 필요\" 마켓인",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "하나증권, 부산창조경제혁신센터와 스타트업 투자 활성화 위한 업무협약 체결",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15a3RSeDQ2MzdLTmdNUVZQV254bjNYMVVTQkVVN3Juc1RqNXVaZ3lFX2RXNGRmbzdla0tOMTlmdWRTM20tekNsWHIyYjg4N0NJbHpvS1J5WW9vOW00alJMUWIwQm1CZw?oc=5",
+        "source": "이슈투데이",
+        "description": "하나증권, 부산창조경제혁신센터와 스타트업 투자 활성화 위한 업무협약 체결 이슈투데이",
+        "pub_date": "26.03.31",
+        "section": "innovation"
+      },
+      {
+        "title": "금융위 \"금융규제 샌드박스 및 망분리 규제 개선 추진 중\"",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sOGJNMTFLc0ZDelZZTDZOM0RQcXl0WHZHVi1IXzVUQndQRHZGcUE3SW5lV0V3YlpVQXhFQS12SzFGUlpHSlNpTDFkYm95SG9ZaDFYMlpWalhpUTk4Y21nRE9VQWRwSlQ2eDZVcE1PRQ?oc=5",
+        "source": "대한민국 정책브리핑",
+        "description": "금융위 \"금융규제 샌드박스 및 망분리 규제 개선 추진 중\" 대한민국 정책브리핑",
+        "pub_date": "26.03.30",
+        "section": "innovation"
+      },
+      {
+        "title": "하나증권, 부산 스타트업 생태계 키운다…투자조합 출자·지역기업 지원 강화",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrem9HbmJDODRidldxOUxzX3RYZjREVXh1YjgwVDdnbHVKZUV0VHdBeUl1aS0wZ2FPNlFhS2tXSnV5NHN6ZzRLLVRybk9pWXQx?oc=5",
+        "source": "문화일보",
+        "description": "하나증권, 부산 스타트업 생태계 키운다…투자조합 출자·지역기업 지원 강화 문화일보",
+        "pub_date": "26.03.30",
+        "section": "innovation"
+      },
+      {
+        "title": "시그코퍼레이션, 중소벤처기업부 '딥테크창업사관학교' 1기 선정",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Qdy1ETlBVeU9QcWpWUmJKaDVvTjVtYllyeGt1OEVkOUFvOEhndXZvZnB6Wi1GeFo2VUhKVTFickg3d3VBbXVmOWk5WXY1UQ?oc=5",
+        "source": "전자신문",
+        "description": "시그코퍼레이션, 중소벤처기업부 '딥테크창업사관학교(수도권)' 1기 선정 전자신문",
+        "pub_date": "26.03.30",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-03-30",
     "news": [
       {
