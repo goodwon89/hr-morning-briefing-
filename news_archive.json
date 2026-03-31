@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-01",
+    "news": [
+      {
+        "title": "비덴덤 주가 1,120억원 규모 부채 구조조정과 전략 개편으로 6% 급등",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4M0VERDZlSTk0WTlLbWxUbXpTOVotMy13R0p2cEdDNElEM0ZHWEFlRDFiQ1pvcHpEV3BFNTBib1VkNjJuNi1sR0dPZ2U2QmY0ZnV4NEV6S1ktT0NwLUtoS2dOeEo?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "비덴덤 주가 1,120억원 규모 부채 구조조정과 전략 개편으로 6% 급등 Investing.com 한국어",
+        "pub_date": "26.03.31",
+        "section": "hr"
+      },
+      {
+        "title": "불황에 짐 싸는 대기업들…통신·석화 인력 구조조정 ‘칼바람’",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uZHhnRzRuYUZ3Zi1fM1VuakFWQlY3N01iSkVqMFNkWmhMZ0Y1eS1PMWJwYWZNelNsMHJIR3o4UmJQcW9MaDJaT29iOUNLd0NwTF9XbVh3SWFSOVJ3RFc4dkQ0YzUwd3BRcjhGY2NEcnJ5VmfSAXNBVV95cUxPbmR4Z0c0bmFGd2YtXzNVbmpBVkJWNzdNYkpFajBTZFpoTGdGNXktTzFicGFmTXpTbDBySEd6OFJiUHFvTGgyWk9vYjlDS3dDcExfV21Yd0lhUjlSd0RXOHZENGM1MHdwUXI4RmNjRHJyeVZn?oc=5",
+        "source": "시사저널",
+        "description": "불황에 짐 싸는 대기업들…통신·석화 인력 구조조정 ‘칼바람’ 시사저널",
+        "pub_date": "26.03.31",
+        "section": "hr"
+      },
+      {
+        "title": "젠틀몬스터의 아이아이컴바인드, SAP 인사관리 솔루션 '석세스팩터스' 도입",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82b0MwMDFuc0YtTzF3N3VxV2dDUEo1WWFyU19oaUkyMHdVeWEtMXNyV2FqVWptd1YxTmZWYUR1MExtNXJYNE0yOXZYZFE2WWNES1VQTXY5QURkTjhtTVRoX2xfa0YtUQ?oc=5",
+        "source": "디일렉",
+        "description": "젠틀몬스터의 아이아이컴바인드, SAP 인사관리 솔루션 '석세스팩터스' 도입 디일렉",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "경제자유구역 성과평가 수치·정량 중심으로 개편",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5eUdOVHFkZ1o2THFrQXRBa2tDMGF0WUdQUWYxYi1Ea3UtTDBtMzhlZmY5Q0djLWg0Y3QwR0ZHSk1Qb0NlODcxUjlDMXZuTXFvYnVTbld1US1QM3M1R0YzQ3k3UE9ZS1M0TGd30gFrQVVfeXFMUHl5R05UcWRnWjZMcWtBdEFra0MwYXRZR1BRZjFiLURrdS1MMG0zOGVmZjlDR2MtaDRjdDBHRkdKTVBvQ2U4NzFSOUMxdm5NcW9idVNuV3VRLVAzczVHRjNDeTdQT1lLUzRMZ3c?oc=5",
+        "source": "이투뉴스",
+        "description": "경제자유구역 성과평가 수치·정량 중심으로 개편 이투뉴스",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "제일파마홀딩스, 임원 인사·조직개편 단행",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zYnFtN0RGNFNEd2VZVXAzX1dkOWlPVkNobExpSi1McHRhc3RTMV80X1lqa2R2MHpWTnhMQ2NfWHFuNmhnV3g0RVBURkw2c2Zrc09YMUpVWDZ6QjAyT1NCZ1dNZ05BSEF3U1Q0?oc=5",
+        "source": "백세시대",
+        "description": "[인사] 제일파마홀딩스, 임원 인사·조직개편 단행 백세시대",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "동국제강그룹, 32년 연속 무분규 임단협 타결…\"노사가 원팀\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TWFBadFJXdzdHTW13aWxyQW1qd0NzRGxXNmlFTmN2dnQ2aC1lblB1c3ViUmRpbm44LXBfTm5EejFaYmlUNDMwd3h1SmxqTHplOGl3V1hqVDJIb1ByVzBNYVgtMGI1aFNxUngtdHd2LTk4QQ?oc=5",
+        "source": "mt.co.kr",
+        "description": "동국제강그룹, 32년 연속 무분규 임단협 타결…\"노사가 원팀\" mt.co.kr",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "사람 없는 ‘다크 팩토리’의 등장…로봇이 야근을 시작했다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wN3Z0MjdheHFMcHVJTGVDOW5GT1lsVHAwekZzaGxlejFHZTVraTFxSmZnQ0NzaWtsWFF4dFl0My1MV3g3MGtocERrMjhnMVhPTXJRNTl3?oc=5",
+        "source": "중앙일보",
+        "description": "사람 없는 ‘다크 팩토리’의 등장…로봇이 야근을 시작했다 [트랜D] 중앙일보",
+        "pub_date": "26.04.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입 격차, 미국이 유럽을 압도한다...생산성 분기의 새 국면",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXcU8tTG83X05WQUFBSnlraUZ3ODc1NXpkRVJlUHNlRnQ1dnpTUEp3clcyN2hNeFdWX1lkaUN0STJTckZiM05xT2xickNqQ2lkMGk0MHUwWW5yS3hsTXpfTXV6cDlmY1BhZGRySg?oc=5",
+        "source": "디지털포용뉴스",
+        "description": "AI 도입 격차, 미국이 유럽을 압도한다...생산성 분기(分岐)의 새 국면 디지털포용뉴스",
+        "pub_date": "26.04.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 클라우드 코어위브 주가 12% 폭등…85억달러 자금 조달 성공",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42N2R2ak1FYXVTUjVHLWRqUFRRUlViTTc5MzcwX3VSSmxFaEs3eXZ6X1RpRVdlRXFNdkhMXzVoMDdXN3dxaXJaRmlwX2pJbUR3NjR4SHRnbHEzVlJjSk16Y0QyQ3BxaTgwUld4bg?oc=5",
+        "source": "뉴스1",
+        "description": "AI 클라우드 코어위브 주가 12% 폭등…85억달러 자금 조달 성공 뉴스1",
+        "pub_date": "26.04.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 인프라, '지구의 한계'를 돌파하다…수익성 증명이 관건",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzY1d3JtbWt3TFAycXlZWTU0WGJsbUZ4M3JvM055YWxFTzNnMFZKUi02YkVHS1drUVpLbTlhVmd1V2p6MVM1b3BrUEVoVVdxSExGMjhUNngxQkZiMWpiVTBweEloLVZPS1BNczE5cnRJV1NpbXNnbk1rcXpUSm1qVy14N1cwckR6?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "AI 인프라, '지구의 한계'를 돌파하다…수익성 증명이 관건 글로벌이코노믹",
+        "pub_date": "26.04.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "정제마진 버틴 SK이노베이션…실적 변수는 '배터리'",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSX1d2UlM1VC13OHVoSUVGSXhuOUtuS0xhMWxlMWh6RERPN1dWLUFzVnFtYUFULUh2Zm1Lc09PUXdtM0JWSGd2T0IyWEtia281dVhoNGtFbXJxaldObGtTYVptRm11Tmt2S25j?oc=5",
+        "source": "뉴스저널리즘",
+        "description": "정제마진 버틴 SK이노베이션…실적 변수는 '배터리' 뉴스저널리즘",
+        "pub_date": "26.04.01",
+        "section": "macro_industry"
+      },
+      {
+        "title": "취약성 드러낸 韓에너지 공급망… ‘경제 안보’ 강화해야",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OX2dqVUpIbGpyRi1ZVms3RjFHUDlZVkhoVVhPY1JPUUVfUTczQW1VNC1KWFFhN0dRcDdNajZBNjBkNDdabHUzVjhPNVZsQnRmZURLN1JOcHZxR016LXVLcU84Wnc0X3dlMjRuV0JaU3cxb1hpWXfSAWZBVV95cUxOWlpOYXNLM2t0NzBWQW9IY0hfamQ5Y0VDSG5iWHZIRU9vdEtxODV2a1IxZ0NiRHZFQ0FDWXhvSDRteTROS0UtM3ZsOE5JUnBoS2ZsVjdRY2dYcmNQQWpnWEhiVl9Nemc?oc=5",
+        "source": "동아일보",
+        "description": "[사설]취약성 드러낸 韓에너지 공급망… ‘경제 안보’ 강화해야 동아일보",
+        "pub_date": "26.03.31",
+        "section": "macro_industry"
+      },
+      {
+        "title": "‘전쟁 추경’ 26조… 에너지·공급망 구조도 완전히 새판을",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSE1iemVQQldLUm13RHVpeUNQdFdMeUo0RjBxaTZ5cjdxZHBiNzNZVFZPYmJyR3RsbEViZG1GZHZiM2hNeFlaak9CbVYtNGU0Z21RNG5QUHpKd3JOUFl3Um5xTDEtM0ZjR2Y4NUlXTV9rRFRuLTFOcHRWcVlQN20yTVJB?oc=5",
+        "source": "서울신문",
+        "description": "[사설] ‘전쟁 추경’ 26조… 에너지·공급망 구조도 완전히 새판을 서울신문",
+        "pub_date": "26.03.31",
+        "section": "macro_industry"
+      },
+      {
+        "title": "2026-03-31 : 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향에 대한 분석 노트입니다.",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdS0tbzlsUzljLVUtb00wODAtNVk1YjZJYkZET2FXaGdZSzJ3aGNhbzFpcEx5UDItbHZQaDg5bTg1WUdiTTIwLWdRUWlPZDFGQ2hDTU5CcV82Vk5QaThvcDhzN1NJNk8zUGYxVFJXNXF4ZTRwYzY1RV9pZ084SXRTcUZieFo?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "description": "[데일리 브리핑] 2026-03-31 : 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향에 대한 분석 노트입니다. 네이버 프리미엄콘텐츠",
+        "pub_date": "26.03.31",
+        "section": "macro_industry"
+      },
+      {
+        "title": "국내 ‘AI칩 유니콘’ 리벨리온, 6400억 투자유치",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBaTRzWWg0MlFGb1IwTVFYenJ2YXRod1Rzbk85eXNRNm51ZkFxSThHQXAzSE11WU02SnRjQW5LcHRZX3YtVzlSeHZVbHRWNFdSUExtT1RTNno3eWFRRzNnVHVCQXRyTUJNdjV2TXBZcFktZFJ5N0HSAWZBVV95cUxQNHQzZWVoOWlIeGV3NEZ6MnJKa1dpTG1JTDlHLVNuRjVyXzFHWjBwSG9FdzkzYWVSWEx2RjFhZDhDenZsWmNxYWZ6b1JpN3ZDSlpCSFZaWGY1MnlSeUdwZnFvUjRVZ1E?oc=5",
+        "source": "동아일보",
+        "description": "국내 ‘AI칩 유니콘’ 리벨리온, 6400억 투자유치 동아일보",
+        "pub_date": "26.04.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "KRX-홍콩 항셍지수회사, 공동지수 개발 ‘글로벌 투자 유치’",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQjkySWNpRm5jaDBGT2hCb2FwWGhFZ2pkbW10WnNacE9qWG5lMFdjMUlZQ3VwdzlXRGpTUzFaa2RfdHF6SmRzZzV1UVRBOVZMT19WdzJfYnhpYkhGWEFoZHVOUkJ3T25DWEVrUGJkQzJVQXJF?oc=5",
+        "source": "부산일보",
+        "description": "KRX-홍콩 항셍지수회사, 공동지수 개발 ‘글로벌 투자 유치’ 부산일보",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘종합 엔지니어링’ JP이노베이션, 상장 예비심사 청구",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQWhZekdWdERoTlNLdkJhaU4xMENmQ0F1cEJtRzJpN1ZlQmxsbGp5cjR1V0VYOHgyQnpaejdsRDlOWVRlX3BDSzU1VnZIWUcyQmc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "‘종합 엔지니어링’ JP이노베이션, 상장 예비심사 청구 매일경제 마켓",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "아이엠바이오로직스, IPO 흥행 속 첫날 유통 물량 약 14%…‘품절주’ 기대감",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS2t5WUhBbkY5ZGtEMC1WMm9jdFVCSEoxdDVxamg0aDdWbW1OdGxVMU0zZDdJU0lqZS1VUkd4YjBNeVRvd1VVYUlNRjFjUjFlYTZLQlk4dU84Y2xaM290RmlVNnJCX1NBeEtETzRlZmRybWM1ajItOXo1WXZrWkRMeFJEZ2VTbnFId19xUkl6Ujk4b3Y2WkJBR3NScUlUQlJfbXRrREVPUDNhNHh4NWE1OGVBblAzT1dkVklBWC05R1YyZHBtYTBvS2VGbUVKMXVIYVlDR3Nsel9TT3FCNXNtUmFhblUwVXJERHBlSkNkeVRVUlMz?oc=5",
+        "source": "yakup.com",
+        "description": "아이엠바이오로직스, IPO 흥행 속 첫날 유통 물량 약 14%…‘품절주’ 기대감 yakup.com",
+        "pub_date": "26.03.31",
+        "section": "invest_ma"
+      },
+      {
+        "title": "기보·독성과학연구소 '바이오·헬스 초격차 혁신스타트업 발굴' MOU",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ZEFvMG5NYUFfenBwTzNwRVFNb3FrazhYNGZ4SWMybThHZ2VFak5fTGNGNlFFVGI4NGpRSlZta2xMZ1N4aUhycGlPN0dDaXFZZXBWdjBWWkFON2I5c2pXVDhjUVQ3ZXVXSHktVA?oc=5",
+        "source": "서울와이어",
+        "description": "기보·독성과학연구소 '바이오·헬스 초격차 혁신스타트업 발굴' MOU 서울와이어",
+        "pub_date": "26.04.01",
+        "section": "innovation"
+      },
+      {
+        "title": "경남TP 우주산업 혁신생태계 조성 지원사업 추진",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xLWpycDJkMDl4cEEwa3ZiUS1samtpQk1YZUszWEtHNk1tZW0xaTJaZGg0YlhUZGpwNjJ5cHJidmY3M0FqZU5pdVRDVzF6UXV0YmVr?oc=5",
+        "source": "네이트",
+        "description": "경남TP 우주산업 혁신생태계 조성 지원사업 추진 네이트",
+        "pub_date": "26.03.31",
+        "section": "innovation"
+      },
+      {
+        "title": "강원연구개발특구, ‘딥테크 창업·성장’ 가속화… 2026년 육성사업 설명회 개최",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kVTdGcVV3ZDNaMU5EaHI2d0doc21OLVVEbFZVOU1GOXMxNDdIc21fUVVvZTU3UFQwMlQ0c1RuYkZORElWTy1jYkxxTkdtbzVtUnZwNVNRa2wxWDdfUGN0Z3M3bUxtT3M?oc=5",
+        "source": "기계신문",
+        "description": "강원연구개발특구, ‘딥테크 창업·성장’ 가속화… 2026년 육성사업 설명회 개최 기계신문",
+        "pub_date": "26.03.31",
+        "section": "innovation"
+      },
+      {
+        "title": "의정부시, 대웅그룹과 손잡고 바이오산업 혁신 거점 구축",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qenFWYi1Wb25wbXA2RGhzQXBTcTR4b2Zmay1tN0w5TW9RWDdXejVDMmpqQ3U2d0V3Q2VNVkhJZDBfY3NhRWs4aDhZMVVaa3FnOEwzLXVSTXJUQQ?oc=5",
+        "source": "브릿지경제",
+        "description": "의정부시, 대웅그룹과 손잡고 바이오산업 혁신 거점 구축 브릿지경제",
+        "pub_date": "26.03.31",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-03-31",
     "news": [
       {
