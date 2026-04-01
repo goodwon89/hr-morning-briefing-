@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-02",
+    "news": [
+      {
+        "title": "포스코인터 세넥스, 대규모 구조조정 돌입 '약 80% 인력' 사라진다",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iODY4V1hfT0pSbHlZZ3pJUlVSSHlPYVZwNGN0VkV5MmM5X01QbjBFd2tfN1hIQ1pyVlR0c3JoMkFldFFYcnJHdC03QXVzMzF5b0Z6eUJFM21rWkdHLWVz?oc=5",
+        "source": "theguru.co.kr",
+        "description": "[단독] 포스코인터 세넥스, 대규모 구조조정 돌입 '약 80% 인력' 사라진다 theguru.co.kr",
+        "pub_date": "26.04.01",
+        "section": "hr"
+      },
+      {
+        "title": "불황에 짐 싸는 대기업들…통신·석화 인력 구조조정 ‘칼바람’",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uZHhnRzRuYUZ3Zi1fM1VuakFWQlY3N01iSkVqMFNkWmhMZ0Y1eS1PMWJwYWZNelNsMHJIR3o4UmJQcW9MaDJaT29iOUNLd0NwTF9XbVh3SWFSOVJ3RFc4dkQ0YzUwd3BRcjhGY2NEcnJ5VmfSAXNBVV95cUxPbmR4Z0c0bmFGd2YtXzNVbmpBVkJWNzdNYkpFajBTZFpoTGdGNXktTzFicGFmTXpTbDBySEd6OFJiUHFvTGgyWk9vYjlDS3dDcExfV21Yd0lhUjlSd0RXOHZENGM1MHdwUXI4RmNjRHJyeVZn?oc=5",
+        "source": "sisajournal.com",
+        "description": "불황에 짐 싸는 대기업들…통신·석화 인력 구조조정 ‘칼바람’ sisajournal.com",
+        "pub_date": "26.03.31",
+        "section": "hr"
+      },
+      {
+        "title": "젠틀몬스터의 아이아이컴바인드, SAP 인사관리 솔루션 '석세스팩터스' 도입",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82b0MwMDFuc0YtTzF3N3VxV2dDUEo1WWFyU19oaUkyMHdVeWEtMXNyV2FqVWptd1YxTmZWYUR1MExtNXJYNE0yOXZYZFE2WWNES1VQTXY5QURkTjhtTVRoX2xfa0YtUQ?oc=5",
+        "source": "디일렉",
+        "description": "젠틀몬스터의 아이아이컴바인드, SAP 인사관리 솔루션 '석세스팩터스' 도입 디일렉",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "경제자유구역 성과평가 수치·정량 중심으로 개편",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5eUdOVHFkZ1o2THFrQXRBa2tDMGF0WUdQUWYxYi1Ea3UtTDBtMzhlZmY5Q0djLWg0Y3QwR0ZHSk1Qb0NlODcxUjlDMXZuTXFvYnVTbld1US1QM3M1R0YzQ3k3UE9ZS1M0TGd30gFrQVVfeXFMUHl5R05UcWRnWjZMcWtBdEFra0MwYXRZR1BRZjFiLURrdS1MMG0zOGVmZjlDR2MtaDRjdDBHRkdKTVBvQ2U4NzFSOUMxdm5NcW9idVNuV3VRLVAzczVHRjNDeTdQT1lLUzRMZ3c?oc=5",
+        "source": "e2news.com",
+        "description": "경제자유구역 성과평가 수치·정량 중심으로 개편 e2news.com",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "제일파마홀딩스, 임원 인사·조직개편 단행",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zYnFtN0RGNFNEd2VZVXAzX1dkOWlPVkNobExpSi1McHRhc3RTMV80X1lqa2R2MHpWTnhMQ2NfWHFuNmhnV3g0RVBURkw2c2Zrc09YMUpVWDZ6QjAyT1NCZ1dNZ05BSEF3U1Q0?oc=5",
+        "source": "100ssd.co.kr",
+        "description": "[인사] 제일파마홀딩스, 임원 인사·조직개편 단행 100ssd.co.kr",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "동국제강그룹, 32년 연속 무분규 임단협 타결…\"노사가 원팀\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TWFBadFJXdzdHTW13aWxyQW1qd0NzRGxXNmlFTmN2dnQ2aC1lblB1c3ViUmRpbm44LXBfTm5EejFaYmlUNDMwd3h1SmxqTHplOGl3V1hqVDJIb1ByVzBNYVgtMGI1aFNxUngtdHd2LTk4QQ?oc=5",
+        "source": "mt.co.kr",
+        "description": "동국제강그룹, 32년 연속 무분규 임단협 타결…\"노사가 원팀\" mt.co.kr",
+        "pub_date": "26.03.30",
+        "section": "hr"
+      },
+      {
+        "title": "신규자금 조달 나선 '베슬에이아이'...글로벌 AI 인프라 확대 속도",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tbGtiZGtCWklQQ1Z0NXBZWUF2RkRhVXN4ZUR3NXlqWXU0TU13Ql9qLXk1OFJfTlVNeU1RQjNTeGw2RTU3QndYTThOTmlIZjBqXzdOLWY4SXlxdXNZZHc?oc=5",
+        "source": "news2day.co.kr",
+        "description": "[VC 포트폴리오] 신규자금 조달 나선 '베슬에이아이'...글로벌 AI 인프라 확대 속도 news2day.co.kr",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"AI 확대 속 GMP 현실은?… 기술 보다 규제·데이터 먼저 살펴야\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CdUs1SkJGSTlOVnBTeHRlS2l6TGMtTjNFdnVTUW5uY0N5SERwb2tPUnVnZElDczZwWldaU0FyWmROR3dsaVhSU3ZLazhISUNxZGVtOEdTTW5DaURIUjFMbUdfZGc1SzUxdjVn?oc=5",
+        "source": "hitnews.co.kr",
+        "description": "\"AI 확대 속 GMP 현실은?… 기술 보다 규제·데이터 먼저 살펴야\" hitnews.co.kr",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "롯데하이마트, 인공지능 쇼핑 에이전트 '하비' 도입",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUmVmdW1uMkNVSWs1b1pjdlJkSG5nTGs2LXJZTWl6LU03RktKb2RGalh2WVJEYy05bmJmUFI3ZFpWSV9DSGJrUDNfTG9xdFU4UXJXRmtONUlRUmFqZTU4anNSb1g1U08yNEs3VFNwc05zdG13?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "롯데하이마트, 인공지능 쇼핑 에이전트 '하비' 도입 연합뉴스 한민족센터",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AWS, 데브옵스·보안 AI에이전트 출시…24시간 장애 감지·침투 테스트 자동화",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yT0I3WDJjNGhWVUxMUi1sci1ReGVCQUx6UnBSSGlDUWNRbEVsbVlfRC13bVl2Y3RidG1WWEVnLVNJdWF1eXlKUVZJMDFsOHM0cExVVWdqZklQeC0wc2ZjRk5iQzRjcnkwSkp2WDFYaFFURjQ?oc=5",
+        "source": "디지털투데이",
+        "description": "AWS, 데브옵스·보안 AI에이전트 출시…24시간 장애 감지·침투 테스트 자동화 디지털투데이",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "3월 소비자물가 2.2% 상승…중동 사태에 경유값 17% 급등",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RM3VXRmEtMVNtT1dXdkxjV3pZMVNhcWthNjVUUGQ4ZXdfQnJ6ZEI0TlJYNm1vRDF3RGFOU1E5OFNCX3N4ck5OY1VZRzU5LXl6S2c?oc=5",
+        "source": "stock.mk.co.kr",
+        "description": "3월 소비자물가 2.2% 상승…중동 사태에 경유값 17% 급등 stock.mk.co.kr",
+        "pub_date": "26.04.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "3월 소비자물가 2.2% 올라…'중동 쇼크'에 석유류 9.9% 급등",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43b0pHWUZJWEowYXczdThMZV9ucjEyT2xXYTdFUFNRWmdpY0paOG9GY3NZN3NMdGV0ckt6MGZQZ1VkWGNLejVMWmxfcVBJcXl6QmFERkpJVDhDUWw1VlJKcEpmV0xDMmRMVU1GZnR1T1VyNWJN?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "[2보] 3월 소비자물가 2.2% 올라…'중동 쇼크'에 석유류 9.9% 급등 연합뉴스 한민족센터",
+        "pub_date": "26.04.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "기후부 차관 \"에너지안보·탄소중립 동시달성…재생에너지 확대\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTdy1IVEtIcTlWMjRpWkk5M0JIbXhXZDZIS0w3Zk5UYXJPQjFIRjNNNGlTeXZ5cGh6ZnV1ek5sU0FWMi13cWVhRXZqaWV1Z1ZwVXVDME9haGVvZlnSAWBBVV95cUxOem4xN0NCRzYydTZCQjQwQWhEMUI0by1qZHlLbFgtSXRrSzNxcFlxeEVHczlFTWVaSlRURGdScFA5Q0xSUGdZVl9ya2pwcGpNcE1UeDVNLS0ySkdXNmRkc0g?oc=5",
+        "source": "연합뉴스",
+        "description": "기후부 차관 \"에너지안보·탄소중립 동시달성…재생에너지 확대\" 연합뉴스",
+        "pub_date": "26.04.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "바디프랜드, 작년 영업이익 115억원…코로나 이후 수익성 최저치",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOHJ2VDVmVV9xTVhmbjlJcDZwcDVrV1Bnejc0T3BJalo4UEtTcW5FV2xMNUFzeXJVV1VWNmtmR2tvdktnZFFQTGdqdnl1NjlIT2FGRzV2STh3WGt5WlBtNDdLUXpnMllK?oc=5",
+        "source": "ceoscoredaily.com",
+        "description": "바디프랜드, 작년 영업이익 115억원…코로나 이후 수익성 최저치 ceoscoredaily.com",
+        "pub_date": "26.04.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "스페이스X, IPO 상장신청서 제출…나스닥 패시브 자금 흐름 바꾸나",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00OUpGUE96S1dPZ2V0d28wVkJpTUFRS0Z6M3VpRzlOY1NpNHA5RF9KYTdvX2NiM2dxcXJ3NUFMeGlaX0NMSFRsaWt6UnVpdU0?oc=5",
+        "source": "v.daum.net",
+        "description": "스페이스X, IPO 상장신청서 제출…나스닥 패시브 자금 흐름 바꾸나 v.daum.net",
+        "pub_date": "26.04.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "케이카로 4배 수익 … 한앤코의 M&A 마법",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdUhEZ0F6Yk5NYTN1M3pxSmhWQ182ajRHMWl4RE9WZU8ycWpVdF9OelhMb0pUNk1ycEF3WWVOTlpJcU1aTS1YLUJJT3pDOHREMFE?oc=5",
+        "source": "stock.mk.co.kr",
+        "description": "[PEF열전] 케이카로 4배 수익 … 한앤코의 M&A 마법 stock.mk.co.kr",
+        "pub_date": "26.04.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "부산진해경자청, APEC 앞둔 중국 심천서 투자유치 설명회",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhUXN4Qmk5RGFxODZjMlJHaXJKWkdITlVXVzNOYXgzaUJvNVJzUFF5V2tZX1lYbFUxOUhVSnBHZ1RFMnJWNllaWGlEcFRzdWhJeDBKbkhBSXA5RE1sVXpqZGh0MmJqTWM0QzFETkt2TVVnTF9B?oc=5",
+        "source": "busan.com",
+        "description": "부산진해경자청, APEC 앞둔 중국 심천서 투자유치 설명회 busan.com",
+        "pub_date": "26.04.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "1분기 신규상장 9곳 그쳐…공모 흥행에도 기업은 ‘타이밍’ 재는 중",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NdXlQMkQtNndncmNaZHh0d1dZajk0R3lja3kxaGVVMWgzMG5XZU9fRC1yeWc2OE41SEozczcxTXNKNi1zdGFnNjZ5SGRaSF9OUFkwcHk1dkZUOWM?oc=5",
+        "source": "에너지경제신문",
+        "description": "1분기 신규상장 9곳 그쳐…공모 흥행에도 기업은 ‘타이밍’ 재는 중[월간IPO] 에너지경제신문",
+        "pub_date": "26.04.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "전북대, 490억 동물의약품 특구 최종 후보…교육·산업 혁신 거점 뜬다",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10bC01cWtJZDZCbFphY1dqenUtNkdia205d3hMSS04RHRWSmpTNW9lRTNDNmsxT1E4Q09Wc3hJVW9TNzZQYl9FMHdFYV9NU0RNZGJWaExYaGRUMDBnYXBYTDQ4VnM1dw?oc=5",
+        "source": "위즈뉴스",
+        "description": "전북대, 490억 동물의약품 특구 최종 후보…교육·산업 혁신 거점 뜬다 위즈뉴스",
+        "pub_date": "26.04.01",
+        "section": "innovation"
+      },
+      {
+        "title": "대전 첫 3칸 굴절버스 운행… 이장우 \"10년 안에 교통체계 바뀐다”",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWVkYzY1Z5eHA4ZTlYdjZDX25TeHktY0FPZW9qc3BZd2NXSklOdzNjZXpMdGxUTGNXSEcxbzRiQ0dBOXRBU25JVGxxbFhwX1BnVjlUM0VBY0l2dk9sTnZDVEFpaXp2Mmx2UUkwYg?oc=5",
+        "source": "굿모닝경제",
+        "description": "대전 첫 3칸 굴절버스 운행… 이장우 \"10년 안에 교통체계 바뀐다” 굿모닝경제",
+        "pub_date": "26.04.01",
+        "section": "innovation"
+      },
+      {
+        "title": "“마이크로니들, 주사기 대체 넘어 플랫폼으로…글로벌 상용화 ‘분기점’”",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGJzbW1BSVpHNU9FNnJFT0RubFA1ZlNqZUJ2T0d5LWR6QVI1RmNtNHVEYzVQYzNFcTlTQ2Itb1NEVHBRX1huYklFbzZiS2stNWV4RkJRRFBFSWxZMXNWQkRySDNfYWZmOFNBTFNRRnFKWnZySi01VDZzUmF5bTkzaFVfQTRIU3JFdTRMZEptaVZoZHc?oc=5",
+        "source": "yakup.com",
+        "description": "“마이크로니들, 주사기 대체 넘어 플랫폼으로…글로벌 상용화 ‘분기점’” yakup.com",
+        "pub_date": "26.04.01",
+        "section": "innovation"
+      },
+      {
+        "title": "바이오플러스, CI KOREA 2026서 재조합 인간 콜라겐 연구개발 내용 발표",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90c1ZBQzdsUkYxZTVGd040SVBLSWtiTFRXVDhBWnFXTUViZkE3VWZTZlhTbmpzaEJmb1duRnpnbjJRZW5HajJsNmpKd0d0VGZ2VkNQdXVpejRpLUFzdjREajI1RlBBc2d3Qlg5VQ?oc=5",
+        "source": "팜뉴스",
+        "description": "바이오플러스, CI KOREA 2026서 재조합 인간 콜라겐(Type III) 연구개발 내용 발표 팜뉴스",
+        "pub_date": "26.04.01",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-01",
     "news": [
       {
