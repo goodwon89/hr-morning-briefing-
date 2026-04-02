@@ -69,6 +69,9 @@
       font-family: var(--font); cursor: pointer;
     }
     .btn-intro-text:hover { text-decoration: underline; }
+    .btn-feedback {
+      background: #00A7A7; color: #fff; border: 1px solid #00A7A7;
+    }
 
     /* ── 검색·필터 바 ── */
     .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 24px; }
@@ -224,6 +227,7 @@
   <div class="action-bar">
     <a id="btnSubscribe"   href="#" class="btn btn-subscribe">✉ 구독 신청</a>
     <a id="btnUnsubscribe" href="#" class="btn btn-unsub">구독 취소</a>
+    <a id="btnFeedback"    href="#" class="btn btn-feedback">💬 Morning Briefing 피드백 보내기</a>
     <a href="https://ssihr.oopy.io" target="_blank" class="btn-intro-text">
       🏢 인재경영실 소개
     </a>
@@ -281,6 +285,22 @@ function setupMailLinks() {
   const adminEmail = "jangkeunwon@gmail.com";
   document.getElementById("btnSubscribe").href   = `mailto:${adminEmail}?subject=${subj_sub}`;
   document.getElementById("btnUnsubscribe").href = `mailto:${adminEmail}?subject=${subj_unsub}`;
+
+  /* ── 피드백 메일 링크 설정 ── */
+  const subj_fb = encodeURIComponent("인재경영실 Morning Briefing 피드백");
+  const body_fb = encodeURIComponent(
+    "[인재경영실 Morning Briefing 피드백]\n" +
+    "─────────────────────────────\n\n" +
+    "◾ 오늘 레터 발행일 (예: 2026-04-07):\n\n" +
+    "◾ 전반적인 만족도 (1~5점, 5점 최고):\n\n" +
+    "◾ 가장 유익했던 카테고리 (해당 항목에 V 표시):\n" +
+    "   □ HR   □ AI/기술   □ 거시/산업   □ 투자/M&A   □ 혁신 생태계\n\n" +
+    "◾ 개선 제안 또는 추가되길 원하는 콘텐츠:\n\n\n" +
+    "◾ 자유 의견:\n\n\n" +
+    "─────────────────────────────\n" +
+    "본 피드백은 레터 콘텐츠 개선에 활용됩니다. 감사합니다."
+  );
+  document.getElementById("btnFeedback").href = `mailto:${adminEmail}?subject=${subj_fb}&body=${body_fb}`;
 }
 
 /* ── 아카이브 로드 ── */
