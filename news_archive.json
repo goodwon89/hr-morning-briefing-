@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-03",
+    "news": [
+      {
+        "title": "2026년 3월 신입 채용 공고 791건…전년 대비 45% 감소",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDemdVUFpJRzd2VWUwcU1wSjZnekF0RnlwMURTSTNGLXh2eEhtVHA4WHZYRWtCVUV1V1h3VWtlX1F3NTFVNlRObHRLeVRLelBrbklDcXhJVVJLQjNNYjl6SU1LSDNwRFhoTTlHM1BwZ3RZUEdOdHZGSmdfZkI?oc=5",
+        "source": "비욘드포스트",
+        "description": "2026년 3월 신입 채용 공고 791건…전년 대비 45% 감소 비욘드포스트",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "기아차, 올해 상반기 ICT 등 34개 부문에서 청년인재 대규모 채용",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Fa2pneHRZbm5jNFljNHZMbGNUemxLTjFJd29vZk9kZWxVT0Rjb2xGME5fa055RnJEakdHMnZZOU0tNlpGVnFtU3kyYUx1S09WMEl4aUJTdmxjMlRPZzNmTG5NSmV1S2hDUlFqdHFCNXNwQQ?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[오늘의 대기업 채용정보] 기아차, 올해 상반기 ICT 등 34개 부문에서 청년인재 대규모 채용 아웃소싱타임스",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "모회사 신입-자회사 10년차…이상한 ’동일노동 동일임금'",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jV2RTa0UwYlpiaU5HbXhRUHZ3a1RQT3VzR0d5TnRWQmwzSjJMMVpYbTJUUmhUZ0FvQ0tSNlRqMVVKN24xZVlDLWxpVXZaclBkUnpvQ2RB0gFQQVVfeXFMTzFMdDUxdFd3cnpYS21wYWctcVBHTXByRGdLeDBYZUlmMkd6cUZHTUdCM0hYMGhJcWNmeUM5b21IbEpxUlFwMnFIU2podFNNX0E?oc=5",
+        "source": "더팩트",
+        "description": "[저임금의 늪⑤] 모회사 신입-자회사 10년차…이상한 ’동일노동 동일임금' 더팩트",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "\"엘칸토 조직문화 혁신으로, 1년 만에 실적 2배 증가\"",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJV0tlS0pGeVhLaEkyalV2eHVtaG13TUZpUlkyLXJfOUp0aFFxZUh4cHVkZ0ZleUhYa3QtOW4ySkM5WXpGOUtyOUR4RFFGUGtzd3FrZURhTkxibGZJczZrWTRIRzV4RjVlV0JvdzdGV1pOTE0x?oc=5",
+        "source": "어패럴뉴스",
+        "description": "\"엘칸토 조직문화 혁신으로, 1년 만에 실적 2배 증가\" 어패럴뉴스",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "美 3월 감원계획 전월비 25% 증가…전년비 78%↓ |",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyZC1TaklaX19Pb05BQWdxWi1uSnFKTmJtWEJkX2NBeFZWZEJLZ241MVkwZDlNRG1RN0FHTUVqY0hBQXk2dHljbV96aWxmdGpfaTBSdDRKbW9qTExrcGYwdGg5MDFqNHdyNXlUNzVDekUzNGl4?oc=5",
+        "source": "연합인포맥스",
+        "description": "美 3월 감원계획 전월비 25% 증가…전년비 78%↓ | 연합인포맥스",
+        "pub_date": "26.04.02",
+        "section": "hr"
+      },
+      {
+        "title": "베트남 최저임금 인상 시행…지역별 최대 531만동 적용",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnb185WXhQNXFidi1SQ2owbVRxUVVFWVdfZFc0Z0ZUbmNEWjBlSlVXQUprRG5JbEh0UFdCVnFqeFBNRWt2OGkzakszUVpMNzJQNS01VUIxdmVkMXVUbGtoNEdxS3TSAWhBVV95cUxNYmNBaEZ2VDFGU3BseDFWQlNJYjJYbzg3NDdiaDB0NjVReHMta0JkSm9wZHpBWk9tSTZIMldYYlc1REVmb0QyVHhFU1hFOHgtcHRDc1A0YnZtcTI0QkJacXROX092Y2NVbw?oc=5",
+        "source": "법치뉴스",
+        "description": "베트남 최저임금 인상 시행…지역별 최대 531만동 적용 법치뉴스",
+        "pub_date": "26.04.02",
+        "section": "hr"
+      },
+      {
+        "title": "네이버클라우드, ‘B2B AI’ 수익화 시동…공공 시장도 뚫었다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LaGlNNEZCRVNhNWpXdG83N3NzbjlYNHByQ3JNMU1yWXV4cklmWlZabGFiYTA3SUFlSzdGZXBGSVdUeFhNdlpZNUp1N0s1X2tsQk9wNk4zUWZFTDdiZDhJZ1Y3akdDS29xQ3c?oc=5",
+        "source": "시사오늘",
+        "description": "네이버클라우드, ‘B2B AI’ 수익화 시동…공공 시장도 뚫었다 시사오늘",
+        "pub_date": "26.04.03",
+        "section": "ai_tech"
+      },
+      {
+        "title": "'터보퀀트' 논쟁... AI 혁신인가 과장된 기대인가",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JVHJVRkg1VjF2a05keDFYZ09BWEs4SlJQZ000Z1BoUEJxRko2cC1SWDVJOVBOdGY0WjBEQlBxS3lReERBVUYxeDJxOHNVeTJBTjN4eW04SkhtLXJfWEYyQjkwdnFMdjQ?oc=5",
+        "source": "인공지능신문",
+        "description": "'터보퀀트' 논쟁... AI 혁신인가 과장된 기대인가 인공지능신문",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "'아날로그'서 '데이터·시스템'으로…벤처투자 패러다임 바뀐다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wNGJzbFpwcG13Y21jcTRNTlRXWWFfaWpMbTNzSE9Na2JBN3VjM1h3TUxDcUlMajdfTVkzcDUyR0tBMWZqT2tvaE96TVZMcHlQNlRqXzZGMkRmdmxOYXpjd1VBdDNjVmkzRW1nd3NRdndkUQ?oc=5",
+        "source": "마켓인",
+        "description": "'아날로그'서 '데이터·시스템'으로…벤처투자 패러다임 바뀐다 마켓인",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“로봇 도입으로 사업 고도화… 여러 공정 추가도입 검토”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JMjN3YW1NcTl3VXJVM2JuZzAzMld0Nms3d1FTcVZucE03cnhzYzFYN3N2Y3pFN0Z2ZEtZcU9QR09OOFU1cVhDampzMW5YWmM?oc=5",
+        "source": "v.daum.net",
+        "description": "[2026 제조로봇 도입지원] “로봇 도입으로 사업 고도화… 여러 공정 추가도입 검토” v.daum.net",
+        "pub_date": "26.04.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "美, 세탁기등 철강 완제품 25% 관세…韓수출기업 부담커지나",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ha1ZISGhwYTJxUEpJa0YxNThlRUlSQ0lYdkRVZzA1N2tCdHBtUEZZd0UxWFlHbjNrMTdWa2xINy1XS0NKd3pleHN2X1VnRFo0d0V1QXZnZGhhQzVHa09nSFc3LWNIa29JWDNTUUJVcGxvNmk0?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "美, 세탁기등 철강 완제품 25% 관세…韓수출기업 부담커지나(종합) 연합뉴스 한민족센터",
+        "pub_date": "26.04.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "IMF “美 올해 금리인하 여지 제한적…1회 인하 전망”",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WdzR0WEo0S1VEX0RNY3JTYnlmYjR4dHJ4eElhTzNyVjJFVm43eEh6dVBwTFpER0JJSzc5TzRZbmlOLURqNy1NcFVlUmo2ekRJdm9XXzdTbEcwTmRWWGVIMTY5VkxYN1RwM2p0WXNCQlJqSnM?oc=5",
+        "source": "마켓인",
+        "description": "IMF “美 올해 금리인하 여지 제한적…1회 인하 전망” 마켓인",
+        "pub_date": "26.04.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "코스피 영업익 30% 증가?… 반도체 투톱 빼면 마이너스",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzhHZDBTblR5T0ZMZFROejR5V3I3ZmVYUGI0WlFLMWVMaFNoR3RJNm1pU2NBRThXbW1LUFlybWNoMlpSb1JYYk9LZnJqclVvVDNlN29sUXZSYTRodlIzVXJOVmVDdHhVZXJEMjc1TEFiZVFpZllsOUlxQ3pXY29velR0YTJoVlJFTG9JdEVn0gGiAUFVX3lxTE5BaTEwVWJGbFNyT3gxdXo1Qi1Jd01ORmR3Si0wRlh5ZnV4bDNqblVRem83bldnazJBVnVwSWF3N3pDZ0RFd2NwZ0VGWXdPX3RUWm9WQVhHam94dThWaFBHTjU2R19iY1VUZmFoU0ZhakJKOTN1VnlPWl9zOFpJbzN2akYxOGJYdmlVUm92eHZsdDdVa3p4LW5WQnFLQ0ZHbmFtQQ?oc=5",
+        "source": "조선일보",
+        "description": "코스피 영업익 30% 증가?… 반도체 투톱 빼면 마이너스 조선일보",
+        "pub_date": "26.04.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한국 에너지 공급망, ‘다변화 착시’에 빠졌다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTFVkRHgwcDRFYlNDZDRqM2ZHU2NFNWVZaDZ4VGlhUTg5YnA3RTV1TmExaEFST2VObXNvZnRzZWF4RDlHdTRjTDV1MWx2RjF4YXV1Z2JkemNLMjhYQ2U2MGZQNl9JTVptOEE?oc=5",
+        "source": "gjdream.com",
+        "description": "한국 에너지 공급망, ‘다변화 착시’에 빠졌다 gjdream.com",
+        "pub_date": "26.04.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "부산진해경자청, 홍콩서 물류협력 확대…글로벌 투자유치 본격화",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZcTZWWDlLNlRteDVhdUlxcWwtMzcwLUFqRzBMVEtPM0VyTmVhdU83TmgyYzROMDJlbm5xV3NuTjh2emo0RGxkOHN4STlZbWhlSktIUVY2Zy1yQldiSmRjOHdtSlpFQkxTanNhejlvNWE0aEdzQlp5eA?oc=5",
+        "source": "news.nate.com",
+        "description": "부산진해경자청, 홍콩서 물류협력 확대…글로벌 투자유치 본격화 news.nate.com",
+        "pub_date": "26.04.03",
+        "section": "invest_ma"
+      },
+      {
+        "title": "인벤테라, 상장 첫날 112% 급등…나노의약품 ‘게임체인저’ 기대감 반영",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uRnkwREVHRG14MzhRTVFnTTVyeWdNb3IydHd6MERCc2ZaT25pYTlzZTByREVrSUVZdEg2R1RNWFU1SmV4cjE1R05DVnBYS0g2QTNBV3FZbWhSUm5wZl82ZXRUMmFKLWZPX1B6Xw?oc=5",
+        "source": "바이오타임즈",
+        "description": "[특징주] 인벤테라, 상장 첫날 112% 급등…나노의약품 ‘게임체인저’ 기대감 반영 바이오타임즈",
+        "pub_date": "26.04.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "경북도 주한 상무관 네트워크로 글로벌 투자유치 영토 확장 > 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXNkxJUmcwb0RmU193Tml5YlhZN010aTVtcmttZFFaMFpuZzhHd3QycFV4c0hTaDljODJuVktYaXJ4RzRWcWt2YnZpbWxtbzFKT3BUVkxiWndmaGVDc3pSM1NZNVhGTjFIMS03bzB4TWs?oc=5",
+        "source": "더코리아",
+        "description": "경북도 주한 상무관 네트워크로 글로벌 투자유치 영토 확장 > 뉴스 더코리아",
+        "pub_date": "26.04.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "케이카로 4배 수익 … 한앤코의 M&A 마법",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdUhEZ0F6Yk5NYTN1M3pxSmhWQ182ajRHMWl4RE9WZU8ycWpVdF9OelhMb0pUNk1ycEF3WWVOTlpJcU1aTS1YLUJJT3pDOHREMFE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "[PEF열전] 케이카로 4배 수익 … 한앤코의 M&A 마법 매일경제 마켓",
+        "pub_date": "26.04.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "신약개발에 정부 적극 지원 필요하다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJWU1pcVdDQTJvZ3NCUmdpYll6NXdtem9QSmVwSDk5c1BUZlYxa1ZvZWRUeDdRZnJiYkNfM1lkR3VvVWR1ZFNudDhLa3U5VG1xTnh4S0w2cnJLRWhJRWJjeDNHTEpsaldPZnc?oc=5",
+        "source": "의학신문",
+        "description": "[일간보사 36주년 특집] 신약개발에 정부 적극 지원 필요하다 의학신문",
+        "pub_date": "26.04.03",
+        "section": "innovation"
+      },
+      {
+        "title": "약가 개편 충격 최소화 총력···비대위, '혁신협의체'로 전환",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qMmFBMFd6TVAtM0lpWnRTTGFQS2tWNmZJNG11OW9McUV2NWwzOV9GWVdobWVjcU1EaXdnaWZUdXpHOXRQeHZCNHE0SjRPcVhhUjN5VTNTY0xkN1BENUR2UUN5c1VIcU1ZcHg4?oc=5",
+        "source": "메디칼업저버",
+        "description": "약가 개편 충격 최소화 총력···비대위, '혁신협의체'로 전환 메디칼업저버",
+        "pub_date": "26.04.03",
+        "section": "innovation"
+      },
+      {
+        "title": "구독형 상품까지…상용화 속도 내는 NPU 스타트업",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNNDdxUWdGRm1ITkxsSXlkdWFEZy1UanFrMHYwLWpaMXp2R1ZIdkt3LVMxSXYwcXd3dEZZX0FMbDJnZGJ6Q05ESHZwTmppQ2hEekHSAVNBVV95cUxPZW01MWpNdEVWTE4zeXllbTQtSWlTbFhwdHVGSlJ6UzVhcVc3Nl9HWlkwSkFnN2N2dTQ0N3hYcmlNcTVqSGtUZ1BNMFNvNTJmVDdqSQ?oc=5",
+        "source": "서울경제",
+        "description": "구독형 상품까지…상용화 속도 내는 NPU 스타트업 서울경제",
+        "pub_date": "26.04.02",
+        "section": "innovation"
+      },
+      {
+        "title": "질소세척에 AI까지…쎄니팡, 스마트 상수도 관리 플랫폼 상용화",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02YXlSNU5lcHJBQ2d2ajg3OEpTdkNIeXh4ajlXeGI2T3lna1ItVGQweHA4RVVtWjJrR3dhWkZzS0x5bmlMdDRqeUEtcm8tbnJpTXB3cVhNeElVbVBIUmVDLUxYa2VsLWs?oc=5",
+        "source": "팍스경제TV",
+        "description": "질소세척에 AI까지…쎄니팡, 스마트 상수도 관리 플랫폼 상용화 팍스경제TV",
+        "pub_date": "26.04.02",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-02",
     "news": [
       {
