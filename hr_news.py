@@ -11,6 +11,7 @@ import os, re, json, base64, smtplib, html as html_lib
 from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from urllib.parse import quote
 
 import feedparser
 import requests
@@ -32,6 +33,23 @@ INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소 수신 담당자
 SUBSCRIBE_SUBJ    = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%8B%A0%EC%B2%AD"
 UNSUBSCRIBE_SUBJ  = "%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%8B%A4%20Morning%20Briefing%20%EA%B5%AC%EB%8F%85%20%EC%B7%A8%EC%86%8C"
+
+# 피드백 mailto 양식
+_FEEDBACK_SUBJ_RAW = "인재경영실 Morning Briefing 피드백"
+_FEEDBACK_BODY_RAW = (
+    "[인재경영실 Morning Briefing 피드백]\n"
+    "─────────────────────────────\n\n"
+    "◾ 오늘 레터 발행일 (예: 2026-04-07):\n\n"
+    "◾ 전반적인 만족도 (1~5점, 5점 최고):\n\n"
+    "◾ 가장 유익했던 카테고리 (해당 항목에 V 표시):\n"
+    "   □ HR   □ AI/기술   □ 거시/산업   □ 투자/M&A   □ 혁신 생태계\n\n"
+    "◾ 개선 제안 또는 추가되길 원하는 콘텐츠:\n\n\n"
+    "◾ 자유 의견:\n\n\n"
+    "─────────────────────────────\n"
+    "본 피드백은 레터 콘텐츠 개선에 활용됩니다. 감사합니다."
+)
+FEEDBACK_SUBJ = quote(_FEEDBACK_SUBJ_RAW)
+FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
 NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 
 # ──────────────────────────────────────────────────────────────
@@ -518,6 +536,7 @@ def build_email_html(news_items: list, today_str: str,
 
     subscribe_href   = f"mailto:{ADMIN_EMAIL}?subject={SUBSCRIBE_SUBJ}"
     unsubscribe_href = f"mailto:{ADMIN_EMAIL}?subject={UNSUBSCRIBE_SUBJ}"
+    feedback_href    = f"mailto:{ADMIN_EMAIL}?subject={FEEDBACK_SUBJ}&body={FEEDBACK_BODY}"
 
     return f"""<!DOCTYPE html>
 <html lang="ko">
@@ -596,6 +615,17 @@ def build_email_html(news_items: list, today_str: str,
         </td>
       </tr>
     </table>
+
+    <!-- 피드백 버튼 -->
+    <div style="text-align:center; margin-bottom:20px;">
+      <a href="{feedback_href}"
+         style="display:inline-block; background:#00A7A7; color:#ffffff;
+                font-size:13px; font-weight:700; padding:11px 28px;
+                border-radius:8px; text-decoration:none;
+                font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+        💬 Morning Briefing 피드백 보내기
+      </a>
+    </div>
 
     <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;">
 
