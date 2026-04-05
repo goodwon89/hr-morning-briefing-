@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-06",
+    "news": [
+      {
+        "title": "기업성과급, 국민경제와 균형 생각해야",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYlRvbGpuVlFlbU1VNW9QLUwyTnNJWm13MzZhX2JsOTk2MlZQOHJKajFDQVRlb2lkQW15RzdROEs4UTZGN1RGbGtGU3RpaWh5NFdyNXdBVm5nQdIBVEFVX3lxTE5DbHZjS085OWY3dGVJajNwa2I4SGZZSEtudGZBalE5aEFlQ0NQcHJISndIdzF1MV9mMlU0LURTWExXa2RUdmFtNWdlU0FzcU94UExyQQ?oc=5",
+        "source": "한국경제",
+        "description": "기업성과급, 국민경제와 균형 생각해야 한국경제",
+        "pub_date": "26.04.05",
+        "section": "hr"
+      },
+      {
+        "title": "정부, 에너지 위기 대책... 재택근무 전격 시행 검토",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ2tSVENfdnlPbUhmclJ5ZGdDU2NtdW5QOGtMNlR6ckFLQV9qcm5qUDhoTHlFbHNZVzZvTXM3Sy1mZGlqQnVGaWd2RjBJWmRpbGNaZ3dMTXcxa1RfLUJYOWhBRUp5VDRYS3lN?oc=5",
+        "source": "knongnews.com",
+        "description": "정부, 에너지 위기 대책... 재택근무 전격 시행 검토 knongnews.com",
+        "pub_date": "26.04.05",
+        "section": "hr"
+      },
+      {
+        "title": "\"272억 받고 일 하실 분\" 직장인 연봉 어마어마...무슨 일이길래",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xUU5ZQ3pfaTRHaGRDVUdxM295UnBGbDQtQkc5a2h5bHcwTktCSFhDNURQSnktZWZRbXBGWDY0WGp3NGhCNnFuZjJpLTVHQWNsWjJoQ2d0akpaazUtZXZmbzJ3bDRhRktI?oc=5",
+        "source": "머니투데이",
+        "description": "\"272억 받고 일 하실 분\" 직장인 연봉 어마어마...무슨 일이길래 머니투데이",
+        "pub_date": "26.04.04",
+        "section": "hr"
+      },
+      {
+        "title": "쿠첸, ‘비전2030’ 선포… 스마트키친 솔루션 기업 도약 外",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MlBHdkZtXzhLYm5lNDI5UzZUeHlpY2dBekRZZWl0Y0huNy04WDhKZE1jU2pjS0YxUXhXcjVNek5hdjU1bEtIdTllNUtKTnRsVGE3TTRzT25SOVV4a0pnbEZCUmZkMTQ?oc=5",
+        "source": "베이비뉴스",
+        "description": "[가전 트렌드] 쿠첸, ‘비전2030’ 선포… 스마트키친 솔루션 기업 도약 外 베이비뉴스",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "“재택근무·보고 15분 제한”…행안부, 업무혁신 실험 추진",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41bHJ6RDh5Ni1hS1FEdVJMazNGM1QwLVZ6a2wzcnNRWEt5WDVDLUhSTUx6cXMzUmFQQ193S1k1Y0pBaGFkenRMcF9XVG0waV9lTTltQnpiZlNoejNaVEpUMU9YblI?oc=5",
+        "source": "디지털데일리",
+        "description": "“재택근무·보고 15분 제한”…행안부, 업무혁신 실험 추진 디지털데일리",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "한국산업인력공단, AI 혁신도 인사가 만사…‘베스트 HRD’ 기업 찾습니다",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZHo4WGFPZldONElicGlQYnVxM1N3c2o5anhyZlcyc2pUby1XbzYyZzYzaUdXM0QtQXhuejdfbjQ1QnlfOE9Bcm9yMmJfcko3TEtVMDVaSjc2TGNLY1E40gFfQVVfeXFMUDFkejhYYU9mV040SWJwaVBidXEzU3dzajlqeHJmVzJzalRvLVdvNjJnNjNpR1czRC1BeG56N19uNDVCeV84T0Fyb3IyYl9ySjdMS1UwNVpKNzZMY0tjUTg?oc=5",
+        "source": "경향신문",
+        "description": "[특집]한국산업인력공단, AI 혁신도 인사가 만사…‘베스트 HRD’ 기업 찾습니다 경향신문",
+        "pub_date": "26.04.03",
+        "section": "hr"
+      },
+      {
+        "title": "AI 잘 활용하는 사람 vs 그렇지 못한 사람 간극 더 커진다",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1Z1hEejRJNEF1TGxRS2hXZkItNndNVHl3ZXRaYnV0N0ZVUmptRXF5XzNXMGdhRnE4Ui14bkl0ZlFLVmdlWkItNHFBdDRMX2ZW?oc=5",
+        "source": "themiilk.com",
+        "description": "AI 잘 활용하는 사람 vs 그렇지 못한 사람 간극 더 커진다 themiilk.com",
+        "pub_date": "26.04.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"AI 시대 고용정책 '고용 보호'서 '고용능력 유지'로 전환해야\"",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOd2Vvbk50ZEJkcXNHRWptMDBhZDQ2aVN0SUVRUkVleHhiUTJLVHl1YkphVkhQNmVUdVk4TUhUSE5kZThkT2JCMWwtTFNERzQwRFE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "\"AI 시대 고용정책 '고용 보호'서 '고용능력 유지'로 전환해야\" 매일경제 마켓",
+        "pub_date": "26.04.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "혁신이라 믿었던 K-교육 AI 플랫폼, 멈칫한 굥교육 틈이 위험하다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wM2MyZTNGSjczRE9uT0Q5NkdiSHpUOHZTZU5sV2daWVpqMW9MVk9vY3o3X0xQWFVwWEF0d09vMmVORGx6X1EtZ0t6MXl3ekk?oc=5",
+        "source": "환경감시일보",
+        "description": "[Pocus 칼럼] 혁신이라 믿었던 K-교육 AI 플랫폼, 멈칫한 굥교육 틈이 위험하다 환경감시일보",
+        "pub_date": "26.04.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "솔라나 재단, AI 에이전트 스킬 출시…개발자 온체인 작업 자동화 지원",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUFZzWnMyMU0yanYzZFRxdy1sT0J0amRxcmtnZmdXdW9YVmx6ODM4Y0RPUm8xb21kNEprLXdKSExvWlMyaFY0U1JCS0x3UGhPQTNMUlpXZ0podmdRT3RXNEFIdmg5cVFDM2NrckxYMmRYOU0?oc=5",
+        "source": "디지털투데이",
+        "description": "솔라나 재단, AI 에이전트 스킬 출시…개발자 온체인 작업 자동화 지원 디지털투데이",
+        "pub_date": "26.04.05",
+        "section": "ai_tech"
+      },
+      {
+        "title": "4월 금통위와 美 소비자물가 주목..기술·주도주 비중 확대",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LU01aTVUM3BBTEljMmVSTk9La2RDc19FbktiSVpCLU0tMGpyZDdNbVoyRjJPTGtBVFlQUGJQOEptNkZKN3ZXYk1kbG8zQURZWHVXQ2JraHVyck5waXfSAW5BVV95cUxQOXJoZ2VrNWZWaXZuSGkzdmZlWXB1NHpoajl4RFRMaDRyYXVRajZmYmVVdzdwb1JfZi1RMmYyeXlFR1I0UnNlc3dCal9YdWxQcWRvWWxrTW1hZUNJRnZIc2F5LTN2RHJ5WTVFMjRYdw?oc=5",
+        "source": "알파경제",
+        "description": "[분석] 4월 금통위와 美 소비자물가 주목..기술·주도주 비중 확대 알파경제",
+        "pub_date": "26.04.06",
+        "section": "macro_industry"
+      },
+      {
+        "title": "부동산PF 시장, 부실 사업장 정리·재구조화 효과 나타나...변수는 중동사태",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JbVBYS3pGdUNnRE9CUDZMcGpWSUJCUkF3cHpCS25yWUNsaGxpZzBEa3M5UHRCS0FQbGtfdTZJLUVsWWhjcW5TODljTFo2andLemFjOHFrRmFJSDdVUFBCangycjNWRUZuQ1pOYjExSQ?oc=5",
+        "source": "조세일보",
+        "description": "부동산PF 시장, 부실 사업장 정리·재구조화 효과 나타나...변수는 중동사태 조세일보",
+        "pub_date": "26.04.06",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美 수출 세탁기·냉장고 등 25% 관세…6일부터 철강 완제품에 부과",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aRTVYb2VtVFVVTVFraUgyOGQyNll3UUhaRGljV3hvYmcxU0RJbFZhWDVkTy16T0g2TTZlVWh1cXAwX3FzWUZnUzBaYzJHbVFwem5SRHd6OFrSAVRBVV95cUxNa3BuQVA1T3pzcnBUSUwyWGZndlhpVkRVc2JISm1yYVIyQzBqN09OTlRCd0ZPOTlMNG9GQVByeGJJNnR4R2RRN1dJdUJVT290MWNFLUc?oc=5",
+        "source": "세계일보",
+        "description": "美 수출 세탁기·냉장고 등 25% 관세…6일부터 철강 완제품에 부과 세계일보",
+        "pub_date": "26.04.06",
+        "section": "macro_industry"
+      },
+      {
+        "title": "미국 의약품 관세 도입…한국 제약바이오 전략 시험대",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oQnhWR0dhX0IwUk8tTW5hOHFZbGt4azZma3RUcl9xZ0Z4OFlqeGxueDZkTjZFRk51UUdCZnRHNXQ1MDhQM3FKXzRfdzBzMjZjMjR3amZhZVRqU2xxTXVZTzhZQjRhRVhheVh0SQ?oc=5",
+        "source": "약사공론",
+        "description": "미국 의약품 관세 도입…한국 제약바이오 전략 시험대 약사공론",
+        "pub_date": "26.04.06",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한국판 코너스톤 투자자, 공모주 '단타 구조' 바꿀까",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVUxwQ3NEemJTeUJuZHJsNmJnWUh4Uk9xUVRhOTJQMEx3NEw2dkJxLWFPUWpvNWpqbE5tMDZKTG81VEFJZVNlX0hqcEVJdlNNNkdxZHNackhjWDR6OURVeVRxaHc4bXUtOEY1eTMzWQ?oc=5",
+        "source": "뉴스톱",
+        "description": "한국판 코너스톤 투자자, 공모주 '단타 구조' 바꿀까 뉴스톱",
+        "pub_date": "26.04.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "올해 첫 AI 상장 마키나락스… 국방·제조 AX 정조준",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oZ2pDTmV4ZkhvNmRLd2oyeEFRbkNxMUVwQ0VrMEw1VE51aGwyT0wtb0xCdldYTlZpSUZBQVRkYThwZzV1Nl9mTnRVdmRUVG9kMTRNVkwxUWFhbVlkWkIySzd1c3M?oc=5",
+        "source": "디지털데일리",
+        "description": "[AI 클로즈업] 올해 첫 AI 상장 마키나락스… 국방·제조 AX 정조준 디지털데일리",
+        "pub_date": "26.04.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'기본 단위가 수백억'…반도체 스타트업들 벤처투자 시장 훈풍 주도",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1WlpBYmVjV2wzenhuVVp6ODA0Z0pIVHFSSC10VHFrS3JqZFBfTGtVLV9KY2xvZTBhVUw0bkJqa3lBVlVIRFoyNkhwVHI1eENrWTRj?oc=5",
+        "source": "네이트",
+        "description": "'기본 단위가 수백억'…반도체 스타트업들 벤처투자 시장 훈풍 주도 네이트",
+        "pub_date": "26.04.05",
+        "section": "invest_ma"
+      },
+      {
+        "title": "4월 IPO 시장 코스닥 4곳 '조용한 출발'…코스피 대어급은 중복상장 규제에 발목",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ucEd4aWZ2LWtabE9PRUlhT2R4eDF1RnhnZHlqdkx2OWdQMHFfYXJNdXpDc0YzWEZxbU5PLTFRb0lBTXplclcxOU5RSG41TTF3WnJIOWJEZEFnNl9BZHNkNXJ2MEpCWEpR?oc=5",
+        "source": "매일경제TV",
+        "description": "4월 IPO 시장 코스닥 4곳 '조용한 출발'…코스피 대어급은 중복상장 규제에 발목 매일경제TV",
+        "pub_date": "26.04.05",
+        "section": "invest_ma"
+      },
+      {
+        "title": "태백시 - ‘규제 완화’가 능사인가? 태백시 경석 자원화 장밋빛 홍보의 ‘그늘’",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdV93TUdsS09LdHhiRnNKNzVfQlFUZFFiOHBUQXZpcGVPaUZXVFhZXzhNZmUyTWZIS3dQbkZ2MU5NLUFWbEltcnFyTkhYWmJZcnJlR3R1a0lGZkphSXBEUlFkQUNoRTls?oc=5",
+        "source": "경남대학교 대표",
+        "description": "[비판] 태백시 - ‘규제 완화’가 능사인가? 태백시 경석 자원화 장밋빛 홍보의 ‘그늘’ 경남대학교 대표",
+        "pub_date": "26.04.04",
+        "section": "innovation"
+      },
+      {
+        "title": "식품진흥원 15년의 성과…식품산업 혁신 생태계 구축",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5taENPNVducExBdW5ua2gzWFdDbVNocUtvamZ1OU9DYTRVdEdRcFFBbThQVjFGUzdzeHlyQ1Yxb1NTeHR6M0FBYVFQSTJfREdOUExfWDNJM1hwOTFrV2RSQUxVYUU?oc=5",
+        "source": "MTN 머니투데이방송",
+        "description": "식품진흥원 15년의 성과…식품산업 혁신 생태계 구축 MTN 머니투데이방송",
+        "pub_date": "26.04.04",
+        "section": "innovation"
+      },
+      {
+        "title": "' 한·프랑스 수교 140년' 딥테크 등 경제 협력 확대…\"혁신의 파트너십\"",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzdkpsM0RGNDFmbXNxTmlHTXkxcWFKUDdXamN1RHlIUXBsekxweC1jZTlJR3hZQVhHblZhcno5NENDb201Yl9ZTS1xU2xDSW96RlBjdkZYSHBHSGJ1TFNmbHBPWU8yVlE?oc=5",
+        "source": "연합뉴스TV",
+        "description": "' 한·프랑스 수교 140년' 딥테크 등 경제 협력 확대…\"혁신의 파트너십\" 연합뉴스TV",
+        "pub_date": "26.04.03",
+        "section": "innovation"
+      },
+      {
+        "title": "에듀테크 기업 ‘멋쟁이사자처럼’, 중기부 ‘초격차 스타트업 프로젝트’ 선정…오라클과 AI 교육 플랫폼 상용화",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwSVFYVnhlbXdRUHRJQUpqd1RPWVJqQTNubGg4NzM1YTl2UF9YcGZBdlFyWXR6eW9yY3Rla2g4VUdzRkI5aWc?oc=5",
+        "source": "beSUCCESS",
+        "description": "에듀테크 기업 ‘멋쟁이사자처럼’, 중기부 ‘초격차 스타트업 프로젝트’ 선정…오라클과 AI 교육 플랫폼 상용화 beSUCCESS",
+        "pub_date": "26.04.03",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-03",
     "news": [
       {
