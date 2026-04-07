@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-08",
+    "news": [
+      {
+        "title": "남녀 임금차 커지고 육휴 사용률도 '뚝'…신한證, '유리천장' 견고해졌다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Nm4tWFpxNFoyeWlmTHA4bU5wYWRNZmctTFpNbmprNTd0NlhCTTBqREZ2S1hBYzM2WWZFODRCQTJJUUNMbGt0d3Jaa29QVU1hcllveG5tLXJYUdIBVEFVX3lxTE1XazBtMlZwa2I3VEJXTXhjamNLT0ZnNkpydk4yYlU4SktHQzVkWERlcEltY2VBdUdHRWZwdlVJZFVGSTl0NE92TkdzQm42RVBLRzU4Sg?oc=5",
+        "source": "더팩트",
+        "description": "남녀 임금차 커지고 육휴 사용률도 '뚝'…신한證, '유리천장' 견고해졌다 더팩트",
+        "pub_date": "26.04.08",
+        "section": "hr"
+      },
+      {
+        "title": "재택근무부터 시차출퇴근까지…“워라밸 기업이 인재를 잡는다”",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WRFBzU1BKTTRLU1dnU0RPQ1Y0OU5WaWZuYlpQY1o1SHpON0txeUVXNFltWTZrOElMTEhxUVR1Q3Z2bkZQVzFEZ3VJY0s?oc=5",
+        "source": "브랜드경제신문",
+        "description": "재택근무부터 시차출퇴근까지…“워라밸 기업이 인재를 잡는다” 브랜드경제신문",
+        "pub_date": "26.04.08",
+        "section": "hr"
+      },
+      {
+        "title": "언유주얼 머신스, 경영진 연봉 인상 승인",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jTnhMbzhJZkNpenRsQkRIa3BRd2wya3gtdnhPdGM5ZUZUVnp3QVdPTW1aLTBudURjdWZ2cC1yN1dYY2ZsY1V5c2ZRbDZvdF9iQThReF9QaVlTbzN1Wkc1MzJpTkxEZzR6UzVIa2tRdjBUeXM?oc=5",
+        "source": "데이터투자",
+        "description": "언유주얼 머신스(UMAC), 경영진 연봉 인상 승인 데이터투자",
+        "pub_date": "26.04.08",
+        "section": "hr"
+      },
+      {
+        "title": "소니 픽처스, 대규모 구조조정으로 수백 명 감원 전망 By Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oNjRxUGZZU3Bob1QtVlpHSG5Vcm9oQlRUS2VSYTF2SHNfUHpWWVJsd2dZb05pMzhxdVFxQThpaEg0MF8zam95TWlJSGQ0bzNwM3gtaDJRRnROUzhxRkdMeHJMSXp5UVJ4S19OdERjZDdHM2JxQVZF?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "소니 픽처스, 대규모 구조조정으로 수백 명 감원 전망 By Investing.com Investing.com 한국어",
+        "pub_date": "26.04.08",
+        "section": "hr"
+      },
+      {
+        "title": "페이로시티, AI 채용 기업 Grayscale Labs 인수 By Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Fc3RKM2JFR2prZUgyOGQzMDUxalFzNmZRT2tfYnluUU9JYnRad3NQNkdYSEhWYVJCWDFxQTA4eFd5ZE1QOTltNHBhdlRKQ2MwSHRmSkd6cGpONDhtYTlLRlVpR3U3YndqUTV4VVp3UWw?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "페이로시티, AI 채용 기업 Grayscale Labs 인수 By Investing.com Investing.com 한국어",
+        "pub_date": "26.04.07",
+        "section": "hr"
+      },
+      {
+        "title": "KISA, 기업 채용 연계 화이트해커 양성 첫 시행",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QWlYzRnA5dEpyVzI5c21uV1ZLNGVWZ0tXWU1tOWRNZG1JSmdxOVNYZ1BYd3dhbi1tM1k2VUMySWVNR3F4TmR4Qzh2b05Na0hVdWlXUzRR?oc=5",
+        "source": "지디넷코리아",
+        "description": "KISA, 기업 채용 연계 화이트해커 양성 첫 시행 지디넷코리아",
+        "pub_date": "26.04.07",
+        "section": "hr"
+      },
+      {
+        "title": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’",
+        "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOTzlnczRxblNxM01UMm5iRk9xbVpXZHp4TERRMExENUZNd1Ztd0hRaWFHaWNNY0RfZW9Fcy1rLTFvOW80VGhhQWZfaVdtSGJCOWFWRlFnemVPRWNvYXdwaklmV3VRQXE1TWY1SVpEeE1IeE03NDBLUWpRWDBKalZPS2dzaEt4NklLZkt3NVZZMXhWdVV2WDNSQV9CZ0huUklnVGotRnVKejF6cm9GWDlPR1BwRDdZR0hpaFMyOXRodWFrZElUSWsxM013ZTRfbzl3YjZ2QU5VQjYyZWg2elhOZzBoRERjRk5UcU90MFNBbnBVb1ZZSVJhdlh6dXZFcnUtcDh0NHNuQm9zZXpiSWJSUkVXd0pZcFBlTGtGSzkzQXA4M0s0Wm5aRTVQV25LeGxXR1pSWENUNm1rSk5PaUtUMzZMOFU2aFU3UFFXajlJT2F3d28xMzZMVTlvZXBrQTk5blgxdlV1blNqWWpCeXlpQ3FsN3p1bURMSHo5NFlTZ0JEMTg2WXRUeGxkZ2dMY3VtNGh5YzI4NGM0aWdObENEZDJOZlZYZWJfQ1lidWpDV21GN2FPQ1ZIbzV2N3JqMDRFRWRiQ1h6LVFvY0FDclFndXMtVS12NFlWT1lvaV9lbkU1aWdScW1nMTZFNGJfZ0V2SS1iSVkwTmJTUjZOcXdMd1BIbDZ2MkVBSEJnLS1sRjJjRGtZYVFKMzVRRzVvV1g5eThKU2lfUEtPakp0Z2xlWTFZLWIydDhQZDBzb0pVV2Y3Rkp3OGNxbTBJTEpMc0NhVXllOFUtUE90Rk14MENoVlMxbWlxZmN1Q1pPZzdJNWtUcWxuVWdhMkpWNjNwZEZkM2l6ZzFnZ1hJRnJvazE1d0V6aGsxOEVMM09FU2tmcXAzWVA4MmFDUmZEY2F0SXdBVWlScjhnTnFSem9Pb2VIMnBxdUhNZ1FRY0k5c0FpSjdLNk9WbDJLaTkydDd0aG5ON0pNQTIyaEtKUGttVXUxc3YwelNUNzN1c2hvem5uRzVLR0daem1NTEF3UkRmN3U1VlczUHFlbWN4MTRXWXBIcXFlSjFZU05ySHRUVW91bzJMZVpXV0N0WWNkTUx6NHVmTmVYYS12ci02S1FyWVhrRWM1VFdLSFdKc05tLWlBaHBtZ2tpUG42R0lrbS11WFVLRWhFd3NzakZlNFhPSmpKYUo1MGxxelc4dldJMXBmY3ZMaG5JX01MUklPNA?oc=5",
+        "source": "디지털데일리",
+        "description": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’ 디지털데일리",
+        "pub_date": "26.04.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "제4회 콜드체인산업전 성료⋯ 친환경·물류AI 혁신기술 한자리에",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42eWdGcWxsTDU1azJZT2twUFVEWGdnZW9jVkI1czBRU3RHbEVMY2o3Mk95RlMtYnl2ZktUQmp0U2w2cng1SUtDa0szZWltVGNiNjBsdHRoakg2RE9Tcko2YlFaQ1lVQQ?oc=5",
+        "source": "coldchainnews.kr",
+        "description": "제4회 콜드체인산업전 성료⋯ 친환경·물류AI 혁신기술 한자리에 coldchainnews.kr",
+        "pub_date": "26.04.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "포스코그룹, 로봇 자동화 기업 ‘브릴스’에 70억 투자",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PckxUUWFkUEQ4VElpMmEwNXVuMXhBbWlBQUJPcThSdWpfWDFzaGU0eWFDMHM0M0wycWc1YnJZQ2tZZE90NVF5azNuWjBvbFRYVEx4YkFrclVvU3RRMzVUMm9vQ0pKV3VUSVE?oc=5",
+        "source": "hidomin.com",
+        "description": "포스코그룹, 로봇 자동화 기업 ‘브릴스’에 70억 투자 hidomin.com",
+        "pub_date": "26.04.07",
+        "section": "ai_tech"
+      },
+      {
+        "title": "이노그리드-르몽, AI 사업 협력…인프라·SaaS 결합 확대",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uV1QydjlUTGxzM21nVWUzYmJGZ3JveV9Mb3c4WldGcEFaS1RtcnlVQWstYmRCRDdYU25hRmNvbnVhdGo2UE1vYUdXSEVlNS00ZGN1clpwUExuNkJnS1hvTkMtdHRGLV9B?oc=5",
+        "source": "테크월드",
+        "description": "이노그리드-르몽, AI 사업 협력…인프라·SaaS 결합 확대 테크월드",
+        "pub_date": "26.04.07",
+        "section": "ai_tech"
+      },
+      {
+        "title": "나스닥, 파키스탄 발표에 낙폭 축소…美 국채금리 하락",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pNTU2bGVTdkIzR2VOQ0ZNSU9JUzJPLVZTcS1aMFNHa0g4NER2QUtEZ2NISU5MVEVWNEJRZ2s1eDdRckVOUHFveGpaZkZHMDI4aG1ubE5xTFpmUHhQMDg2cHZ5MzdLZENVNElPNzBqbjfSAXRBVV95cUxNUHltbHRvN3VUMEVEb09MR3A5dXRkM3J2Y0JjT1ZjdDdXNlhmempSaVVfV04zckgwaW1HWl96djBoUnNxaFNrNjBWOFU3N2puQ2plREpfZFdxTWJvMGYwdmpIQ0pBendxMm1vdGxIWS01M0R2TQ?oc=5",
+        "source": "연합인포맥스",
+        "description": "나스닥, 파키스탄 발표에 낙폭 축소…美 국채금리 하락 연합인포맥스",
+        "pub_date": "26.04.08",
+        "section": "macro_industry"
+      },
+      {
+        "title": "이 대통령, 태국 총리 '재선출' 축하…에너지 공급망 긴밀 공조키로",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SRktmU191Ny00elEzLUlQMW1yXzE1b0lOVFk2SVJFSDVYbmtrN3BYc2NlY3BDQnQ0SHFyNmhBdGxuZ3hyQVdGQmhhWDhkWWdUem1BMGFlT2JOUUxmTE8zLVRRYlFfNk5FUnFfSV9RUUdSSGxFZGJKMtIBeEFVX3lxTE9SRktmU191Ny00elEzLUlQMW1yXzE1b0lOVFk2SVJFSDVYbmtrN3BYc2NlY3BDQnQ0SHFyNmhBdGxuZ3hyQVdGQmhhWDhkWWdUem1BMGFlT2JOUUxmTE8zLVRRYlFfNk5FUnFfSV9RUUdSSGxFZGJKMg?oc=5",
+        "source": "뉴시스",
+        "description": "이 대통령, 태국 총리 '재선출' 축하…에너지 공급망 긴밀 공조키로 뉴시스",
+        "pub_date": "26.04.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "대형 증권사 기업금융 42조로 급증…'부동산 PF' 이은 금융위기 뇌관 되나",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05N1ZoODlWMUM5NkhKbklDbFRuYkNtejRCYUEzT0c5TENlLVktam55R2NMcWZ4eG95bkZ0M1RBMUdYdlZwT3U2U1lZTUc1amc?oc=5",
+        "source": "v.daum.net",
+        "description": "대형 증권사 기업금융 42조로 급증…'부동산 PF' 이은 금융위기 뇌관 되나 v.daum.net",
+        "pub_date": "26.04.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "2026-04-07 : 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향에 대한 분석 노트입니다.",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2JjSjh1MWZJc3FOZlBNMGpOaUpQZjlqb0hNNXNBUFc0azFWdkZfT0k2YXY0UV8yMXg5QUw4aDdQYmJmQXVZMXFXYk9QdE5wLUs0LUpkcTVQU0pqUS1fU1NYaks5MHliSDJoSDRQLUh0ZlctdzRtREkxNkt3RUNUX1V5emc?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "description": "[데일리 브리핑] 2026-04-07 : 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향에 대한 분석 노트입니다. 네이버 프리미엄콘텐츠",
+        "pub_date": "26.04.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "‘수수료 제로’ 앞세운 K-스타트업 글로벌 진격…펀딩 생태계 바꾼다",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56bTBwd0tDZTMtOVFjUUwzOFVVcWhISm1jeWtNN3gzeGNGdVF0U0J3MlljZ3ZYTUpsekNXSFJObEhocnoyQ3JWWXlueTY?oc=5",
+        "source": "TENANT news",
+        "description": "‘수수료 제로’ 앞세운 K-스타트업 글로벌 진격…펀딩 생태계 바꾼다 TENANT news",
+        "pub_date": "26.04.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "파마비전, 美 오레곤엔젤파트너스와 투자협력 체결",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WeUxUVnN0Ml9tb2dEaW90WFRQMUhZYUhxeFRKS05hVWVzenlUeU1aeVNPVnR2SmpoU1B5dlU0SmxSUWFNZ1d6WkxRcElyd3RKbE5aZUNDRkNObzZLbXhiWHkwcy1VUlB4MjZVdw?oc=5",
+        "source": "팜뉴스",
+        "description": "파마비전, 美 오레곤엔젤파트너스와 투자협력 체결 팜뉴스",
+        "pub_date": "26.04.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "신규 상장 기업 절반 넘게 줄어… 봄은 왔는데 꽁꽁 언 공모주 시장 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGdyM0pZMDhEZGMxS0ZrWUs3eGVNbGN6OWUtQmtTb3FTbmJfUldMdllwanQxU3k2Nnd1UUNiWVg3SXREdDB3eEtQUTRGSEdmQ1QtcDgxNkUtVHFjUFhXTW9YSUt5TVdOOTNybUZReXdzaEhWSDEtRlh2MUhac2l1R05MMjZienPSAZsBQVVfeXFMTkUxcFpNazZoRWZWV25ndmM3SGpLTHZnTXNtc0R4SjNUaVFDWHlpZ0paLUxLUGV6dEVYdUNreFlJNndfaWZTS0Q0SlhtVW1GSGNfSkFhZmtLa2VGNHJieW9YOU1xNjUwSlRwdjFwcVgyMXBwR2dwamVjYjdOOGR0M0RmMXZreDA4X2FmbjRZNjR1YmtmZUdLRnJwWFE?oc=5",
+        "source": "Chosunbiz",
+        "description": "신규 상장 기업 절반 넘게 줄어… 봄은 왔는데 꽁꽁 언 공모주 시장 - 조선비즈 Chosunbiz",
+        "pub_date": "26.04.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "\"국민성장펀드, 초기 투자 집중해야 유니콘 배출\"",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12REdCZUFLcDRLdXo2TENaaFRpbmdtVjlqRFhmTVlseWU5QzlKUW5Ra1BQWmNYM2drVk9XZEpjSW80RElQbWNqZVhjZnlVQXJOSjNRZjZUNmZHaFMybFFPNm9TWEJONlBjWjdVYnlLaXVZUUU?oc=5",
+        "source": "마켓인",
+        "description": "\"국민성장펀드, 초기 투자 집중해야 유니콘 배출\" 마켓인",
+        "pub_date": "26.04.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "혁신의 유혹과 보이지 않는 벽... 차이나 스피드의 이면",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwSXZ5NTFOWTBNTkRZdWUwRHFoX2VTSzZGcnVscl9FMTV2dEtzeVZTQWxORG9GU1Y3eWpfT0hLWnVwMDZDb1RnMkZUUVpWV3BBcjZJTmp5dTZyeDlwbThxN1RyX19SOWxzb0VN?oc=5",
+        "source": "히트뉴스",
+        "description": "혁신의 유혹과 보이지 않는 벽... 차이나 스피드의 이면 히트뉴스",
+        "pub_date": "26.04.08",
+        "section": "innovation"
+      },
+      {
+        "title": "국내에서 로보택시 상용화한 김기혁 SWM 대표",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adFRGY09oVFl3OTlDMVFCbTU0TWVldnFDWGkwbGhIY2tSRng2WHdVUnkyNTQ3WUZCdElYZHN2ODg0VDJ2MGRFRkd1a1JGdG92em1j?oc=5",
+        "source": "news.nate.com",
+        "description": "[스타트업 리포트]국내에서 로보택시 상용화한 김기혁 SWM 대표 news.nate.com",
+        "pub_date": "26.04.08",
+        "section": "innovation"
+      },
+      {
+        "title": "'혁신 프리미어 1000’ 통해 반려동물 등 신산업 혁신기업 집중 육성",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42SWp5MTI0d2V6eGxGUWxKMEE2TnFKbGhCWUxLczR3TUUxSExVT0hEU0w3TGpEdEEzQnNQTnJ6X3h2cHZWR1lRWTlEV2tXMXRJSFJKdFNmdjJBNl9DQjNfYkRUbU5aTVdLdnVtX1VnVE1ndw?oc=5",
+        "source": "월간친환경",
+        "description": "[농식품부] '혁신 프리미어 1000’ 통해 반려동물 등 신산업 혁신기업 집중 육성 월간친환경",
+        "pub_date": "26.04.07",
+        "section": "innovation"
+      },
+      {
+        "title": "농식품부, 신산업 분야 혁신기업 29개사 선발… 금융·컨설팅 전폭 지원",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTkU3ZnlfdmN2ajZpd2lzUDQtY0M3ZTF3ZnczVzctV2p4U21Ta1I0RmhDZktjeVRTNjRLVmZJOFpIVW1OZDQ0aTI4LU5xcWF3MVlYNXNGbHRqckhTM1ZXVjJ3?oc=5",
+        "source": "pigpeople.net",
+        "description": "[돼지와사람] 농식품부, 신산업 분야 혁신기업 29개사 선발… 금융·컨설팅 전폭 지원 pigpeople.net",
+        "pub_date": "26.04.07",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-07",
     "news": [
       {
