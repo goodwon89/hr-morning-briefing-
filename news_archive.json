@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-13",
+    "news": [
+      {
+        "title": "LG디스플레이, 종속기업 매각·인력 감축 병행…구조조정 '효과' 톡톡",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Kc1FXbW9ZaWdhdnRlSlRfb01RRGVmbldhb3M0R1F0cGZpaFp0RGlhOXVkSnZqcm9kalAzUXVsRzJrOTVHYjh4ZHc1VHVGQ1FPT1RycEpfRUR6bGxGREhJ?oc=5",
+        "source": "fetv.co.kr",
+        "description": "LG디스플레이, 종속기업 매각·인력 감축 병행…구조조정 '효과' 톡톡 fetv.co.kr",
+        "pub_date": "26.04.13",
+        "section": "hr"
+      },
+      {
+        "title": "트루팍프로덕션 박철우 대표, 스마트폰·AI로 기업 조직문화를 바꾸다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSdVZwc2M5aHJhZVRQRU9qSl9FMEppc1ZJLUsyUTlmUEVSRWt2SnFVbnVVNFhpZzNuNm5laGFrdzJVQTJfdWg2NU8yc3NOX1ZUazZ0anRhaE5PY0d3VXBpOTBrNGNiRFU?oc=5",
+        "source": "인공지능신문",
+        "description": "트루팍프로덕션 박철우 대표, 스마트폰·AI로 기업 조직문화를 바꾸다 인공지능신문",
+        "pub_date": "26.04.12",
+        "section": "hr"
+      },
+      {
+        "title": "채용 판 바꾼 AI…5년간 AI 산업 채용 공고 112% 증가",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vT2g2LTg2Tk4wZU5VVVFHSE1WTjRtOHhHczhPcmtyXzBYMG1WaVZ6bXpJNmVqZTV1alg0WUttNHdFNENsM3RsLWlpUG81ZmtQY0FmT09EYy00SlZUNGtmUzJyZnpaSjha0gFsQVVfeXFMT0VQRngtYTBLSEQ1eHNNcUJ6Y0VhZ21vRVl0bjNEYTJWMlE2azQ1cHo4VUc5dFdIYl9UWFRjX2lmYWp5UU5LSEZZU2Qzc1JtV053akppRnh2S1A2RjlDRXNJYjVMdGpKYWxPSFhr?oc=5",
+        "source": "블로터",
+        "description": "채용 판 바꾼 AI…5년간 AI 산업 채용 공고 112% 증가 블로터",
+        "pub_date": "26.04.12",
+        "section": "hr"
+      },
+      {
+        "title": "코리안리, 전임직원 참여 영상 제작 워크숍 \"조직문화 혁신\"",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQ01pX1NJdjhfTEFUdUpFMllnRE5Bc0FlaGg3YmxKM0NFWXdMZDRMWHlWWEdnNnhQeXNJbnNTbXduOFFrSWltRjhoa3FQTjdyMDFuU1hDNWQ2UjFjbEgxdFROeXFDUnY0NEhjQg?oc=5",
+        "source": "뉴스로드",
+        "description": "코리안리, 전임직원 참여 영상 제작 워크숍 \"조직문화 혁신\" 뉴스로드",
+        "pub_date": "26.04.12",
+        "section": "hr"
+      },
+      {
+        "title": "대우건설, 임직원 참여형 ESG 프로그램 ‘으쓱 포인트제’ 실시 外",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KN0wtQVo3cko5V29SOWlfMF84U1JHVXZYY1hqU21CUGxjVjVmQmZPUjNlaFdkLUpWemVjUThJODd4Q0t5Q1ZhVFRPdnNXTUZVZnptSFNjdXRnY0NNa1VnV1JCYVhLSV9SVk9Ebg?oc=5",
+        "source": "베이비뉴스",
+        "description": "[ESG 트렌드] 대우건설, 임직원 참여형 ESG 프로그램 ‘으쓱(ESG) 포인트제’ 실시 外 베이비뉴스",
+        "pub_date": "26.04.10",
+        "section": "hr"
+      },
+      {
+        "title": "차량 2부제·재택근무 병행 시 석유소비 7.5% 절감",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxTVc5U3AwUlJ1dkYyaXV6NXMxZFl1WE8tYi1ZbmZCY1B6VWVfN0xDT1g0N0lIbDRlX0Rnb0ZDc2FzUjVZeEJXaFdwN0o1QXJsazAxVjdjWGpraWl3VDdZUm4tRmNSOUXSAWtBVV95cUxQcVdBSkpPSldMVmhtNm5TVmV6bXhnemlmZ09XbmNub1JjWG9EeWk1aUlFUGVqbEV2QXdwVmktZURVRmhhcDZTaWRpb0xjNF92YkU4NWtOUFNFT2NBcVZMZ1FHRVlYS3BwSmhDaw?oc=5",
+        "source": "이투뉴스",
+        "description": "차량 2부제·재택근무 병행 시 석유소비 7.5% 절감 이투뉴스",
+        "pub_date": "26.04.10",
+        "section": "hr"
+      },
+      {
+        "title": "중소기업에도 퍼지는 AI 도입",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YW1OTjNmVnZuSWZEWVJubXJLaVZQMDBqdGk4R2JqZjdUTDlmaE44SDRORWRiUHloS3JIUFc4cWUwekpCNWFOd1VpdzFiMDV6?oc=5",
+        "source": "우리학교신문",
+        "description": "[평택 현화고] 중소기업에도 퍼지는 AI 도입 우리학교신문",
+        "pub_date": "26.04.13",
+        "section": "ai_tech"
+      },
+      {
+        "title": "국내 클라우드 시장 '빅3' 지각변동…삼성SDS, '토종의 역습' MS 제쳤다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWRklfb0VFQlpEVG5rRGVGYjF6MEJnTmdxVVYxbFhUeTJqNTh6ckZHbHFURFFGZC1MTFJ4dWJieVZRZ3hGOVJyZmhkV0pYYV9selBJMnFFMUZYX2ZIYmVOb2lraE9iU1NDOTNwUk9n?oc=5",
+        "source": "비즈니스플러스",
+        "description": "[마켓+]국내 클라우드 시장 '빅3' 지각변동…삼성SDS, '토종의 역습' MS 제쳤다 비즈니스플러스",
+        "pub_date": "26.04.13",
+        "section": "ai_tech"
+      },
+      {
+        "title": "유유제약, AI 기반 업무혁신으로 스마트팩토리 성큼",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52OVN2UmxlaUYzN091UkxRUGpWc0lpYTlRUXNPNnNBV3M2OEhYeHMyVGkwcE9XdnhheXdzQ21GQjVJSEdCQUxsUlZ3cFhUYWhMMDcxcGw4ZVQ1QdIBVEFVX3lxTE9idEdMR2ZHSlRZVGRJX3Zxel8xM0kweWJPaXpSQjVnUGswcFdSeXBjLWhyUHUxeXUyX2MtNWlGYzNkUi1zRlItOEpZMXRWYWxOYXZNTg?oc=5",
+        "source": "한국경제",
+        "description": "유유제약, AI 기반 업무혁신으로 스마트팩토리 성큼 한국경제",
+        "pub_date": "26.04.13",
+        "section": "ai_tech"
+      },
+      {
+        "title": "삼성SDS, MS 제치고 퍼블릭 클라우드 점유율 2위…“계열사 수요가 성장 견인” - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbWZLb3JXeWlzQXNvek12a2V4d0lVWFpqNWUyOWNQU0t4UlJtcjBIWE1SNjkyem1OOWZJcHRoU0xyNTk4dFMyNlNmNWo5cjRlaTZrU29DSDN6THY3UmF3SkNaTlV4cV85cG5kQnI5SzlXdGlvZUg2VjB1N2lQMmZGV1h30gGWAUFVX3lxTE5PZ2hMcHk0ZHFYTUhwbXM0QU43cHNZbDlYU0I1OG1vZHVhUkZ0aXZxV0FHUmNMLTM5YU92ZkxFeWhSYkR2YWdjQ0RWd0NNY0xYLUlZMEFUWWlBV2NxXy1DVktBLXZ4Y1B4Ry04YkJqYVJtUEppSjA2Xzl5amRfUjlpYkpaQ0FjU0ZlVVNSTm9zdUFPcUJlZw?oc=5",
+        "source": "Chosunbiz",
+        "description": "삼성SDS, MS 제치고 퍼블릭 클라우드 점유율 2위…“계열사 수요가 성장 견인” - 조선비즈 Chosunbiz",
+        "pub_date": "26.04.12",
+        "section": "ai_tech"
+      },
+      {
+        "title": "상호관세 1년, 농기계 업계의 현황과 전망은",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WWozV09KRUdzcGNuV2RDQjZubXFOVFpFVFNqYklYakJKQ1YwRDhUdDJmWkhVcXVqVkVqX2t3cFBSLVplY1BXUEFXeTBmNW45M0h3d3FDaEpoWFBMRlF1UW1ZRWd0a3pwRHB1ZA?oc=5",
+        "source": "농수축산신문",
+        "description": "[Issue+] 상호관세 1년, 농기계 업계의 현황과 전망은 농수축산신문",
+        "pub_date": "26.04.13",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'호르무즈 해협 봉쇄'와 공급망 리스크",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45VVBua1daX040bXdIZFVnenM2YndwOUtkWVVFYnRlaUVhUWkyOHoxZ0ExT3JSVUl0VEFxWHJaVjlQa0diekhZNWg5dFV6LWNPRDA4UXRMMkFTMUU0TEdxaEY1aTFkQjRjSVNyNzI2c9IBc0FVX3lxTE9HUlVDN2JjdXZ5ZmxhZm1OMHN6c09ucjMtMVFSZUJYNFZOUVN0NHpTSDRrQlF3OUVOTEFKcXVUMkE3UVhWYXpkNnF3UXIxUjYxOTExeVRPRUJtZW10dkZhTzJKRWJjZTcxSGZEelJ6OWhTZWM?oc=5",
+        "source": "세이프타임즈",
+        "description": "[정재용 칼럼] '호르무즈 해협 봉쇄'와 공급망 리스크 세이프타임즈",
+        "pub_date": "26.04.13",
+        "section": "macro_industry"
+      },
+      {
+        "title": "휴온스, 주사제 수출로 실적 점프···다음은 점액제와 비만약",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PVFdxWUE4ZnFCWnNIdEItdF9CS2ltYTQ3MlZvN3d3UlppVzRaN1RQWlBUTnV1ZDVFamRRc1FvZGYwYkpWbWRpcWJtdXk2ZlNoMDV4ZkZ6dXJyWHJUb2hHWlZLTmVYMy15Mjc0?oc=5",
+        "source": "메디칼업저버",
+        "description": "휴온스, 주사제 수출로 실적 점프···다음은 점액제와 비만약 메디칼업저버",
+        "pub_date": "26.04.13",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美·이란 종전협상 결렬, 에너지·공급망 충격파 줄여야",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Zakl2Sm5EeWRDSHVvbXdLbkxMUXlHbmttVWlsek1xZTBMQ0ZkRndKZEJPNnlHV3RkaUNWTS1iaXRJekdCRXhMTlRjNm9ZSnYtNXfSAVNBVV95cUxON2FCSkhrNVFzazYyUFExOHduSWJpVTg4d0kyNHlMX0RLb3JqWU5oVWlzWmhTSEYyNkZHenhaUUZwZVVyU25JbkVmYUE0eVpkZVdlRQ?oc=5",
+        "source": "서울경제",
+        "description": "[사설] 美·이란 종전협상 결렬, 에너지·공급망 충격파 줄여야 서울경제",
+        "pub_date": "26.04.13",
+        "section": "macro_industry"
+      },
+      {
+        "title": "“천재 발굴에 국경 없다”…英 VC가 韓스타트업에 눈 돌린 이유",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SMGY4eFdSNkNyMkppUThUSG5xYk5TLTFSRXpDQ0xGMFQyc3djQndPdFdnTUJUb0JGNGRDQ19XeWpjLWRvX1ljelllNE9mQUVkVWpsNllyWUV2Qzg3eExzVFZqbW9jMnB4M1pNTG84VjNnUQ?oc=5",
+        "source": "마켓인",
+        "description": "“천재 발굴에 국경 없다”…英 VC가 韓스타트업에 눈 돌린 이유 마켓인",
+        "pub_date": "26.04.12",
+        "section": "invest_ma"
+      },
+      {
+        "title": "“기업승계로 요동치는 M&A 시장”…한일 크로스보더 딜 커진다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xZFpONzM0bGMtMWw0N2RURThTeVhaeDhfaW1RNFE3cnB6RXFma2NwekFRZHFwZlNGNkR3eWpTMktsdEYwN1dMb3N0Z1Z1SDY3V0lxLW5TSHJSSmhEMTYyT1Nac3BNcVBxV1NwV2REaGdHdw?oc=5",
+        "source": "마켓인",
+        "description": "“기업승계로 요동치는 M&A 시장”…한일 크로스보더 딜 커진다 마켓인",
+        "pub_date": "26.04.12",
+        "section": "invest_ma"
+      },
+      {
+        "title": "다소 썰렁한 4월 셋째주 IPO 시장…수요예측만 2곳",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53M0E5cmNWR3AzYTYzMVZhSWZOamRXR0NLTS13V1JjN0pZQWlCNkVPYWxKTmRIcnkydDhHTV9QWkR1SGc0SnhLYVpIYjJjTDBZTTVWSzRpV1FhNlFZdHZoadIBYEFVX3lxTE53M0E5cmNWR3AzYTYzMVZhSWZOamRXR0NLTS13V1JjN0pZQWlCNkVPYWxKTmRIcnkydDhHTV9QWkR1SGc0SnhLYVpIYjJjTDBZTTVWSzRpV1FhNlFZdHZoaQ?oc=5",
+        "source": "연합뉴스",
+        "description": "[IPO챗] 다소 썰렁한 4월 셋째주 IPO 시장…수요예측만 2곳 연합뉴스",
+        "pub_date": "26.04.11",
+        "section": "invest_ma"
+      },
+      {
+        "title": "디케이앤디, ‘AI·자율주행’ 올라탄다…투자사 스트라드비젼 상장 예비심사 통과",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oY3VxMlV3SWhsc29VRXREVS1TWlZ1SEVjeU1FZkVyTVFrbWVab2x2SWpyRHZBemtWa2hZR2luZk5nMWlVSGJWb1hob3RBeWRweF9wYmNpZGg3M3JMYmZlUTNmYw?oc=5",
+        "source": "더구루",
+        "description": "디케이앤디, ‘AI·자율주행’ 올라탄다…투자사 스트라드비젼 상장 예비심사 통과 더구루",
+        "pub_date": "26.04.10",
+        "section": "invest_ma"
+      },
+      {
+        "title": "월급쟁이부자들, 부동산 서류 자동완성 서비스 출시",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FV1BjSzVHV3dUdjJQSW1nQ0huQ2VzOWxlU1gwNXZ2YklmbFg5NS1DSHZDM21CYmZjS2dQcUxWRUpaWENHWHNmTWF0a0xRLTZDVlR5Mzh3UkYwSUs4REdKM0JxSjNCOE50d2tUdg?oc=5",
+        "source": "ER 이코노믹리뷰",
+        "description": "월급쟁이부자들, 부동산 서류 자동완성 서비스 출시 ER 이코노믹리뷰",
+        "pub_date": "26.04.13",
+        "section": "innovation"
+      },
+      {
+        "title": "강원창조경제혁신센터,3개 기관과 바이오·헬스케어 오픈이노베이션 업무협약",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nUUZlSXFkU1RjdTk4X1ExdTFCYkJZSkFrajNscy1scS1KUlRybmVnZDluWk5TVGxGWTA3ejNxaTF6UmkwSkdtTzhpS0Q3TWFCMERxUEd3dnNtaFFfUXBKS1FnUmNyQzU2OUdmZFVTZmtBNFJRTVE4?oc=5",
+        "source": "약업신문",
+        "description": "강원창조경제혁신센터,3개 기관과 바이오·헬스케어 오픈이노베이션 업무협약 약업신문",
+        "pub_date": "26.04.13",
+        "section": "innovation"
+      },
+      {
+        "title": "반려견 DNA·폐플라스틱·AI로봇 실증 허용",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFRDB4ZkhiZG41RkNGYklQNGNfWVg5emUxenRUSWJzeEdBUEtUWktuZTBleGhPTkJKWldnRUNoRXpvMHVmTTUtRnZhaW0zbUlFM0wzVUVxWmV0TnFZcS1zYXhFM0VrUXVR0gFoQVVfeXFMUEVEMHhmSGJkbjVGQ0ZiSVA0Y19ZWDl6ZTF6dFRJYnN4R0FQS1RaS25lMGV4aE9OQkpaV2dFQ2hFem8wdWZNNS1GdmFpbTNtSUUzTDNVRXFaZXROcVlxLXNheEUzRWtRdVE?oc=5",
+        "source": "법치뉴스",
+        "description": "[규제샌드박스] 반려견 DNA·폐플라스틱·AI로봇 실증 허용 법치뉴스",
+        "pub_date": "26.04.12",
+        "section": "innovation"
+      },
+      {
+        "title": "과학기술정보통신부, 기반 기술 창업·기술사업화의 전략 거점, 연구개발특구 - '제5차 연구개발특구육성 종합계획' 수립",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sWVhqYVdQdlY5ZFhpVTN1cXgwbERucFo2eEx5MVFnTTNPd2czMW9lYWZYbF90OFhQUms2cWJxbHBuRHdvQzBTamNCblpWakVzaGt2eDVmN1RtU2FrUnVvTzB0RElLQTBrNEE?oc=5",
+        "source": "한국시사경제",
+        "description": "과학기술정보통신부, 기반 기술(딥테크) 창업·기술사업화의 전략 거점, 연구개발특구 - '제5차 연구개발특구육성 종합계획('26~'30)' 수립 한국시사경제",
+        "pub_date": "26.04.12",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-10",
     "news": [
       {
