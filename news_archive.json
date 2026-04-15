@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-15",
+    "news": [
+      {
+        "title": "김연수 한글과컴퓨터 대표이사 사장",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wMkw4NmFLbzk0ZEhDUkRuMUJkNldjUmJUMjJ1MFRHTkF1Z1E2MGp4ZE5WMkhfeWZFUjFhTU5GcEpoNWdDRV9RdnRkZC1sbUpBWDY0YWl0a3A3RVVreFJhZlAyYXVKVFhEeHFLLWtZYTlmTGc?oc=5",
+        "source": "비즈니스포스트",
+        "description": "[Who Is ?] 김연수 한글과컴퓨터 대표이사 사장 비즈니스포스트",
+        "pub_date": "26.04.15",
+        "section": "hr"
+      },
+      {
+        "title": "\"성과급 더 달라\" 삼성계열사 주주가치 흔들 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yOEpubkhXODZVSFBqSVc5aU95UDNMS0JSNmRFcnU0YndSbGpXQnp3dGNkQmRIRzlSVnRFY0p3Z2NFakpZXzUzNDk4NmRia1dxd1h5VHN1NE1XbERzbDJOQ2tSU3BseFNq0gFuQVVfeXFMTWo3QmdkcTBFTmU4NWxxNTVHYTdGTldGSEp1ZGkwOUZOR0cxT1pUaXVncXFVTGtoSlpWdlNycVM1dVRoeTdYSUN6SFpiVGJYcjBHVkV4dTBHUk96MDZDSzNWRWFFeTZlX2lFWVV2UUE?oc=5",
+        "source": "mt.co.kr",
+        "description": "\"성과급 더 달라\" 삼성계열사 주주가치 흔들 - 머니투데이 mt.co.kr",
+        "pub_date": "26.04.15",
+        "section": "hr"
+      },
+      {
+        "title": "빅테크 구조조정 재가속…'AI발 디스토피아'의 그림자 - 한국무역협회",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVczRmZORU9SWm4tQng3eHhBd1VodnBtbFlzT2NzZjVrQ2xTSG9CWk1YMXZJdmZkNml0WWNCSVN2bEhELXhLazBHN19NMEZBeFlERzdfUHU4dXNkNlF0bm1DSmFUMV9GaVgxX0xSZWNKTU1pUW1QTjVoczktTjdLSHdhdXprMUlRT0JN?oc=5",
+        "source": "한국무역협회-KITA.NET",
+        "description": "빅테크 구조조정 재가속…'AI발 디스토피아'의 그림자 한국무역협회-KITA.NET",
+        "pub_date": "26.04.14",
+        "section": "hr"
+      },
+      {
+        "title": "AI 후폭풍…3월 대기업·중견기업 신입 채용 '반토막'",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rTHF3S1ptQzNRTjFBOV82UTBGQlFKTjl2RUlDV3RmSTV5dW5xa3VsUm1QeEEwY3B6b3BQRnRMU3E3aWFka00xdzRicWU5QW9GY25ZaDNZQWM2aTJQTnRURHlwQXRyandLWEd3?oc=5",
+        "source": "GOODTV뉴스",
+        "description": "AI 후폭풍…3월 대기업·중견기업 신입 채용 '반토막' GOODTV뉴스",
+        "pub_date": "26.04.14",
+        "section": "hr"
+      },
+      {
+        "title": "우수 교원 확보 나선 싱가포르...임금 최대 9%↑",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4Qnlva2wyenlhWnY4X1V2cm5LNS1rMzlLaU41SmFEUzU4enNSb0E0YmFmUE5hdDEzazhud2lUb3FyNVZhRzFBbkp5b0JUUTJJbjRkNnNxTEY5cHZJQVFR?oc=5",
+        "source": "한국교육신문",
+        "description": "우수 교원 확보 나선 싱가포르...임금 최대 9%↑ 한국교육신문",
+        "pub_date": "26.04.14",
+        "section": "hr"
+      },
+      {
+        "title": "\"北 지난 2년간 달러 환율 377% 폭등…임금 인상이 원인\"",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hTGRINDZhY010bkx0TDBsU2VGaXh2X2YyTHVLNjhDM29MTlhTQ0hoajJrNzVfUlNoR0JnMDhzT0tueGpaUllqMFdPT21zTHJLZGx2bUpmV2w2SnFsc3RnRmE2LW04MGFFZi1iZThyd01SR1gw?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "\"北 지난 2년간 달러 환율 377% 폭등…임금 인상이 원인\" 연합뉴스 한민족센터",
+        "pub_date": "26.04.14",
+        "section": "hr"
+      },
+      {
+        "title": "시흥시, 공공행정 생성형 AI 도입…행정·민원 서비스 개선",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45ZnBvdzU3UG5WcHFteC1IYjVIa3JKczFadThqWGZfZTl0TEFWT29JM1gxeDRaUmlSWUNtU2VSWTEzZ0NYU0JsRnBmY0JOSlBmWGgzRkJaUEg3d05CcVdtRDdMSmpRVW9WeU5n?oc=5",
+        "source": "비즈월드",
+        "description": "[기획] 시흥시, 공공행정 생성형 AI 도입…행정·민원 서비스 개선 비즈월드",
+        "pub_date": "26.04.15",
+        "section": "ai_tech"
+      },
+      {
+        "title": "서버 가상화 독자 특허 기술…클라우드 시장 선도",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95UTJBLVg3aGFVdy1PbWstTndlYzVrVWNBTEJ4b1ZIdlMzT2xOcmdlOEtId2Y3YWlvYm1OdDlwU01EMTZUZnZCUTVRNDJiZ0FhRTJ3?oc=5",
+        "source": "네이트",
+        "description": "서버 가상화 독자 특허 기술…클라우드 시장 선도 네이트",
+        "pub_date": "26.04.15",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"2026 그리스 해운 산업: AIㆍ디지털 전환 혁신\"",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iMHhrWVMyWnpJZzdFMnlzVUhxT1R4bkEwWlkzRmd6Q2lHWnEyQ2dvMUh5cFdpUzZMNEhTVXBOYUtfc0lmXzNQVWRWVnZaQW9GV09nVHp2ejMxalFpNHN2WUFOZ2JOV3pFRU9JMU9UNFNkcmM?oc=5",
+        "source": "쉬핑뉴스넷",
+        "description": "\"2026 그리스 해운 산업: AIㆍ디지털 전환 혁신\" 쉬핑뉴스넷",
+        "pub_date": "26.04.15",
+        "section": "ai_tech"
+      },
+      {
+        "title": "수학 연구에 AI 도입 본격화…수학자들 “이제 시작에 불과”",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FUFB0V3ZqeDVLRzVJNm1CeWNWemJLa0hGV3VpdVBRWUJYMGMtemxFMnFlUElkXy13NmVvQXpBMjZVMFNOMnpodW1ZQjlNa2Q3cG95Sy1McWxjZGpRd3hyVXd6Rkw0aHRNMC0tc0M3WnFidUU?oc=5",
+        "source": "디지털투데이",
+        "description": "수학 연구에 AI 도입 본격화…수학자들 “이제 시작에 불과” 디지털투데이",
+        "pub_date": "26.04.14",
+        "section": "ai_tech"
+      },
+      {
+        "title": "2차 종전 협상 기대감, 미 증시 강세",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55WDM2ZVpKbmdxU3dsRmNoRkVtWVZuLWF0R21PTTlmdTFrYmFub3Z0emFsdHpuRVJuRk42X2lqbXY4WHVmWXpDbncyS0NwWUZGOVNVeXpaVnFJUXFhSC13YzRVb1VfOEVjS0ZsMw?oc=5",
+        "source": "KB Think",
+        "description": "2차 종전 협상 기대감, 미 증시 강세 KB Think",
+        "pub_date": "26.04.15",
+        "section": "macro_industry"
+      },
+      {
+        "title": "코츠테크놀로지, K-방산 고성능화 '수혜'에 수출 확대…\"탄탄한 실적 개선 지속\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WN2JQdGRLTFIwZ0VIZmpGUmZXenRKS1R4YVdKSENfWlVzU01WZ3J3ejYyNWFWa0swdTdESGlnankzVFVzMnpBQlZrOXBFWmV1R1FIT3BPUm04emVvQjZEWDB6RmdxUW1tbUtOSktHUG5hQQ?oc=5",
+        "source": "프라임경제",
+        "description": "코츠테크놀로지, K-방산 고성능화 '수혜'에 수출 확대…\"탄탄한 실적 개선 지속\" 프라임경제",
+        "pub_date": "26.04.15",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"PF 가고 기업금융 왔다\"…대형 증권사, '리스크 관리' 시험대",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDN0xaTzlmc0hGNU8xNWR0RTV1XzAtUnZoS0tmOUdEQVJzdWxUQ2NJcDNwUWN2M19GXy1pcGZsVDhjM1ZrOGpKaVY0LUtVZXN6M0VzVldn?oc=5",
+        "source": "DealSite경제TV",
+        "description": "\"PF 가고 기업금융 왔다\"…대형 증권사, '리스크 관리' 시험대 DealSite경제TV",
+        "pub_date": "26.04.15",
+        "section": "macro_industry"
+      },
+      {
+        "title": "SK하이닉스, '반도체 슈퍼사이클' 조준… 대규모 생산직 채용으로 승부수",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vVXI2T1pNeF9lS1NpUW5VMG42WXhPRlF2M3ZOaUt3U1ZIQWNZSi1QNWtYMjRiNEpYQVBHaEZQY1lnRjVVOENSLXBzbk9JWVN1Vnlhc3hRVmJWQzhqZTNlR0pIYng?oc=5",
+        "source": "베타뉴스",
+        "description": "SK하이닉스, '반도체 슈퍼사이클' 조준… 대규모 생산직 채용으로 승부수 베타뉴스",
+        "pub_date": "26.04.15",
+        "section": "macro_industry"
+      },
+      {
+        "title": "업스테이지, 1,800억원 규모 시리즈C 1차 투자 유치…유니콘 등극",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBleEtoNWJDMEFuV19odmowc1NqRnZkb0FVb3M0d0NraklVc2ZmbDFneGtnZkdYcGk5MjUyY21mekd5cHFIMWc2TjRCVVZCRlk?oc=5",
+        "source": "와우테일",
+        "description": "업스테이지, 1,800억원 규모 시리즈C 1차 투자 유치…유니콘 등극 와우테일",
+        "pub_date": "26.04.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스페이스X 로켓 탄 미래에셋벤처투자, 상장 VC 첫 시총 '2조 클럽'",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50Z2pqZjRGRDFQYlhmRVBXSWNxSjhmVmZWTi1EVG80cWRVdzhsc0dZN0psTFJhVnQ3d1NtYlZkYW0tTGljZWNVUGhjLUZub3Y3d0p4ck9xYVdnbXZIdWNNYTNscGpaQjJQUUs5Wjl0aXc?oc=5",
+        "source": "연합인포맥스",
+        "description": "스페이스X 로켓 탄 미래에셋벤처투자, 상장 VC 첫 시총 '2조 클럽' 연합인포맥스",
+        "pub_date": "26.04.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "넥스아이, 기술성평가 통과… 상장예비심사 '본격화'",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdkZCM2l2TUduUVFlTDVXdHBaeWQ2TGFvN0lPT1liZk9kaGV1ZE9zVEF4Y250QWtLRFV0aHBVSW1USU1leG9wVDBwdTJUTEFyZDc5R2h3b1RETVp2TGp3blgxLVp4S1R0bHd3?oc=5",
+        "source": "히트뉴스",
+        "description": "넥스아이, 기술성평가 통과… 상장예비심사 '본격화' 히트뉴스",
+        "pub_date": "26.04.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘한한령 해제 기대감’ 부산진해경자청 中 투자 유치 잰걸음",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FVUxqRTRKbmdqdmUzQ0lLWmZxWGtPY2Z4UE9HZzdnOHlmVTlyRXpGTjBCeUlHc3VXODZSUkx5bE11MmZCbFNsRVdlLUNnc096ZnJubUwzOFNMaUc5RDFUVk1PODU0RkVXZVk1bzZIN0VrcEhS?oc=5",
+        "source": "부산일보",
+        "description": "‘한한령 해제 기대감’ 부산진해경자청 中 투자 유치 잰걸음 부산일보",
+        "pub_date": "26.04.14",
+        "section": "invest_ma"
+      },
+      {
+        "title": "약가 개편 비대위, ‘제약바이오 혁신협의체’로 전환",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0ZDlmLVhQRHFzaWxvYzZNR3VTaG5VZlU4cTNMUXJ1aF9lOVVZT0NJRU9NanEwU0UtWGI0cGNQU2duQkNZeDNHRWlXYVJid0RuTVREaDItRnNOYl94THRkQXhrUmpldDhzTXc?oc=5",
+        "source": "병원신문",
+        "description": "약가 개편 비대위, ‘제약바이오 혁신협의체’로 전환 병원신문",
+        "pub_date": "26.04.14",
+        "section": "innovation"
+      },
+      {
+        "title": "에프아이티, 밴리스 결제 플랫폼 'DAP' 상용화",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWanA2NExUNDR5M0dBRGRxSUpNQldqQndUTUJjaUkwdXZsOTZRbmUxNU9mczlxMmR4MkYtNTV1MDlGMXQ2eHd5R3l2LU02N2EtTkFMaGtEb1pSOThsbHpTZENTSHk?oc=5",
+        "source": "MTN 머니투데이방송",
+        "description": "에프아이티, 밴리스 결제 플랫폼 'DAP' 상용화 MTN 머니투데이방송",
+        "pub_date": "26.04.14",
+        "section": "innovation"
+      },
+      {
+        "title": "판교를 넘는 대덕의 딥테크 혁신 클러스터",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMzVLc2hsTG1aQ25oWnh6RTBqRnFMY082TkF2UmZfMV9pNndxbnNtRkphM0ZjaWZuSkVSS2lMNDBlWGVDS25CdThieW9sVE8wd3fSAVNBVV95cUxPakMzbjZVLUpzX2l5d1Z4U2xJWU5WaTZiUTl6UmZzX0ZEbHJfbjhVeWhkTVlEaFpBOHllX0I2aGVVbUl2eThRZ0FacW90Vm41UUNjcw?oc=5",
+        "source": "서울경제",
+        "description": "판교를 넘는 대덕의 딥테크 혁신 클러스터 [이민형의 과학기술혁신 짚어보기] 서울경제",
+        "pub_date": "26.04.14",
+        "section": "innovation"
+      },
+      {
+        "title": "공정거래 특례부터 환경규제 완화까지… 정부, 벼랑 끝 석화 업계에 '특별 지원'",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xaC0xTXVVMlZiaU51WWt6aGt2VTlzVXViQTBmMS1kWFY0c3p3N3ROR2dUeHFvd1FxNmdQcVA1RUNLa3ZFSVZBaVAzdEZzX0pHNnM2a0VQWFNYNm0wNlgwV1VTUkZucHBuSzVLRTcySVZ0TFBEaTQ1MzZNbw?oc=5",
+        "source": "뉴데일리 경제",
+        "description": "공정거래 특례부터 환경규제 완화까지… 정부, 벼랑 끝 석화 업계에 '특별 지원' 뉴데일리 경제",
+        "pub_date": "26.04.14",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-14",
     "news": [
       {
