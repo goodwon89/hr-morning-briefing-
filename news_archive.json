@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-20",
+    "news": [
+      {
+        "title": "\"메타, 10% 구조조정\"...AI 중심 재편 가속",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zZWZFLVJzamxDWW04ZHBkTFQxcXFRbTk2anJfSGI4VjItVDNPZndXVFlWMHpSeUZ6YUNWam51bEVFNFItU2dIWFliV3pZVnRTVm5N?oc=5",
+        "source": "SBS Biz",
+        "description": "\"메타, 10% 구조조정\"...AI 중심 재편 가속 SBS Biz",
+        "pub_date": "26.04.20",
+        "section": "hr"
+      },
+      {
+        "title": "㈜리모샷, 실감형 콘텐츠로 디지털 전환을 설계하다",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yU3lHaEQ3a0tKbmpzblc0N2Y2czVRY3R4R2FfX3hhVWZscGN5YlBESUE3R2M3bmRnLXY3SjBGNDhsd01OU2hYa2xFT1MxMll5bmx2UFRtbUNBQkdobXB0UjR1Ml9mT0pVTEdz?oc=5",
+        "source": "재개발재건축매거진",
+        "description": "[기업탐방] ㈜리모샷(대표이사 정상훈), 실감형 콘텐츠로 디지털 전환을 설계하다 재개발재건축매거진",
+        "pub_date": "26.04.19",
+        "section": "hr"
+      },
+      {
+        "title": "오토웍스, HR 업무 자동화·AI 활용’ 세미나 개최…실제 적용 사례 공유",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05UnY1MDQ0RnJFOTBhNFBHZHQxMHBFS1FqZVZZbmZuYVIycWtESlJUcVMxUWhYTlBSMnhTbS1hT0h6N1ptZ1p0QmJfWlhoU01DYmhGSGd1Vm12eF82RUpBck5Ha3lLRHZ6TC15RHNqdDQzMTNOb1Nj0gF3QVVfeXFMTTlSdjUwNDRGckU5MGE0UEdkdDEwcEVLUWplVlluZm5hUjJxa0RKUlRxUzFRaFhOUFIyeFNtLWFPSHo3Wm1nWnRCYl9aWGhTTUNiaEZIZ3VWbXZ4XzZFSkFyTkdreUtEdnpMLXlEc2p0NDMxM05vU2M?oc=5",
+        "source": "시사매거진",
+        "description": "오토웍스, HR 업무 자동화·AI 활용’ 세미나 개최…실제 적용 사례 공유 시사매거진",
+        "pub_date": "26.04.19",
+        "section": "hr"
+      },
+      {
+        "title": "\"성과급 30%·상여금 800% 인상을\" 현대차 노조 협상 쟁점은",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UcTdpSlNzV292ZHdrakJQRlltTENtTUdXV0o1b3N4TXg1NVBpVXAxcEJfUnEtYllLN29GS3NHSFdpLTZpY0RWMlVld2JiMU9PVHY3c3BCeWdFdTUwcW1XcXdn?oc=5",
+        "source": "이코노미스트",
+        "description": "\"성과급 30%·상여금 800% 인상을\" 현대차 노조 협상 쟁점은 이코노미스트",
+        "pub_date": "26.04.19",
+        "section": "hr"
+      },
+      {
+        "title": "\"부산 살며 IT 프로젝트\"…부산시, '정주형 원격근무' 첫 도입",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDZFYxb0pkaDUtTkFxZnVNdktZUHpLUFE0emJMWVBKdC1MTm40Y3hZa2FPTVh6cURtSTRsazVFLUFLYk10T3pZWkRjMXdrVF9mYzJpWm5Ycm9wZDhRNnJTVXVFbkJLYWg3VTFURjhTYVAxNHNUSjljdtIBeEFVX3lxTFBDZFYxb0pkaDUtTkFxZnVNdktZUHpLUFE0emJMWVBKdC1MTm40Y3hZa2FPTVh6cURtSTRsazVFLUFLYk10T3pZWkRjMXdrVF9mYzJpWm5Ycm9wZDhRNnJTVXVFbkJLYWg3VTFURjhTYVAxNHNUSjljdg?oc=5",
+        "source": "newsis.com",
+        "description": "\"부산 살며 IT 프로젝트\"…부산시, '정주형 원격근무' 첫 도입 newsis.com",
+        "pub_date": "26.04.19",
+        "section": "hr"
+      },
+      {
+        "title": "2026년 AI 채용 규제 급변, 기업이 준비해야 할 법적 준수 절차들",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12SUxUYjBIbmlnb2RhZnNyQkR3T2NsV1ZpX0d5bzU3eVpXS19GVHAyOUppS2FkREVxTVhNZU9ZU3dKQzQ0Zzc2ZXRMV3k?oc=5",
+        "source": "브랜드경제신문",
+        "description": "2026년 AI 채용 규제 급변, 기업이 준비해야 할 법적 준수 절차들 브랜드경제신문",
+        "pub_date": "26.04.19",
+        "section": "hr"
+      },
+      {
+        "title": "야놀자·AWS, AI 트래블 테크 혁신 서밋 공동 개최…에이전틱 AI 기반 여행 산업 전환 모색",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFU1FYOWdoNUxpQmNZSnU3TVlZdXQwOFNWeEpVdzhkLWVFNmlpZnRVVHZiT1l2TWV1U3FrQk5Vc2hsRFV1VDZTZw?oc=5",
+        "source": "플래텀(Platum)",
+        "description": "야놀자·AWS, AI 트래블 테크 혁신 서밋 공동 개최…에이전틱 AI 기반 여행 산업 전환 모색 플래텀(Platum)",
+        "pub_date": "26.04.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도약이 빚어낸 '노동의 두 얼굴'…숙련 근로자는 팽창, 비숙련 근로자는 퇴장",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d05YZUVvb1NZbXl2akp3bmJwSFRTQm5LVmpqS0VaZVVhQ0VNS2U3a2xFMFV5SkdiTFdFRlBMQUVPX2tSQVhaVjJ5ZEpyMU1EWUczcnJTUkJMV3VaYldrWnM4X2J6TjVNdk0yQw?oc=5",
+        "source": "디지털포용뉴스",
+        "description": "AI 도약이 빚어낸 '노동의 두 얼굴'…숙련 근로자는 팽창, 비숙련 근로자는 퇴장 디지털포용뉴스",
+        "pub_date": "26.04.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "클라우드 영상 처리, CPU 대신 VPU로 전환...인코딩 비용·지연시간 줄인다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQ3NNcTVtUFhUOElPN2JTSXZSbzhTcjRnWTI1NkZ2M09CeUV5ZGVFNTVNSWJmbjlYV1NUYzNOZHpkQWlhWmVSVExnVVR5MVZaUkJndnNhdDZxWlpYR2llcVUtMVdvOXVyZ3c?oc=5",
+        "source": "지티티코리아",
+        "description": "클라우드 영상 처리, CPU 대신 VPU로 전환...인코딩 비용·지연시간 줄인다 지티티코리아",
+        "pub_date": "26.04.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "몬드리안에이아이, 네이버클라우드 마켓플레이스 입점… ‘B300 GPU’ 공급 확대",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHaVVtT3FBQ1E3NFg2QjlCMldxcjc1SGNLdTlYci1ieVVqb2FMYldZS1V6UjJuSllLcTRsNkJPNDB3R3d6ZnBkaHJMMlk4MHU4X1hqZFRIMDJuSmZzdVNkbFBfeTc4aUk?oc=5",
+        "source": "인공지능신문",
+        "description": "몬드리안에이아이, 네이버클라우드 마켓플레이스 입점… ‘B300 GPU’ 공급 확대 인공지능신문",
+        "pub_date": "26.04.19",
+        "section": "ai_tech"
+      },
+      {
+        "title": "한국토지신탁 1위 수성… 부동산신탁 확산 지표 급등 눈길",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbG0ydzMtaTRNSWRDVEE3dEhOQU16VWhFZFhodV83NEx4ckx6QmhFcWJDcXhPOXM3ZWlQUEpoUEhyY25ZbEpieE9wMTRNN2lfSzQxY1FPRVhqR0tzaXhPVWJWRVZFOHFKSmt5NmVaR0ZielHSAXdBVV95cUxOU2YzWmpkeDIwcWFTTFp1NFpyVjFSZW02bEZvMmQyUkZhX0dXNEtrZFFpaVRfTGpoajdPMzc0WThWVlpCMGVFSlhqMnZ1Sk1CX0FBRnlObFdDeGZJRzgzNHBRYy1fZS1QZzlUSWlTSUFjX1FnR2piMA?oc=5",
+        "source": "핀포인트뉴스",
+        "description": "한국토지신탁 1위 수성… 부동산신탁 확산 지표 급등 눈길 핀포인트뉴스",
+        "pub_date": "26.04.20",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"셔틀 서는 곳 뜬다\"…반도체 호황에 용인·평택 '셔세권' 부상",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVUlURERvZzQ0dXFMLUY1N3g3UDkxb1R6VHJlU1dSTTRrbmhVbmpxYW1YYnU2OUNBUXU0NWsyMTEtUnI3U3B3SWRVQm5MRXcySFBEWmJ2UE9ZdnFjZUVWcNIBeEFVX3lxTE1BdnZ5alFPaEhUYVpLWUczcl9kalBsTnEyQU1la0xhTkJJMzRGSGlXUk1GMDBMdHlJZ1Q4Nm8xeDI0Q1pQa2ZyMExHZVA4SHlERzhHRVA1QXdfb2w4VURGSWFZWEZHMGVwUS14QWE2TmJ2SmV4RXRCTg?oc=5",
+        "source": "newsis.com",
+        "description": "\"셔틀 서는 곳 뜬다\"…반도체 호황에 용인·평택 '셔세권' 부상 newsis.com",
+        "pub_date": "26.04.20",
+        "section": "macro_industry"
+      },
+      {
+        "title": "이 대통령, 모디 총리와 한-인도 정상회담…'에너지 공급망 공조' 논의",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XM043NXBZSnBfN0dPZENlUFRsZWdhRk0wU1ZlQ1FIbTFpRkktRExzQkhmVmNzWTJCQUxCWnVvQXFSU1hNcXNOV3NQX3FkYXBaNDg1UEozWmJVemVlMVo2V9IBeEFVX3lxTE92SVhiOTZmcld5WkJOdDI0Y0Nhb0ZjeDVKZEYyNk1NT19mMF9hU0NBY3Y1UnBvdzA3Ul9HYVBsQ3pnaEdkeWFDYnU4a053QmQwMzZOUmU1SUliTXg0UGs4M1J1bmZEd2xFWnp2NU1ZMGZGSVlTMFItWg?oc=5",
+        "source": "newsis.com",
+        "description": "이 대통령, 모디 총리와 한-인도 정상회담…'에너지 공급망 공조' 논의 newsis.com",
+        "pub_date": "26.04.20",
+        "section": "macro_industry"
+      },
+      {
+        "title": "코스피 6200 넘나… 반도체 실적에 주목",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBndVJBMUVxRUZxNmt4YUNHV1NjbmJOQllmTHJya3ZsY3RUNXlJMUx5LXVEMlp2d1JrQ0wzbnFjSFdGYy1WR25FVDlBVnBqSWRQWjl2QWQxT01aQdIBXkFVX3lxTE5ZbU82dkZYcVlVZTgwUlNBVFVFWU5IYm5meG5JYUNqSnZxRDc0eGhDaGVHR1lqRUFmbi1uRDY0VnlFSGlaVC1QR09aSDRuQ1FkUTF6a2VXWnJEYWoyR0E?oc=5",
+        "source": "파이낸셜뉴스",
+        "description": "코스피 6200 넘나… 반도체 실적에 주목 [주간 증시 전망] 파이낸셜뉴스",
+        "pub_date": "26.04.19",
+        "section": "macro_industry"
+      },
+      {
+        "title": "유니콘 12곳 실적으로 본 시장 흐름 3가지는?",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14TURiUDNjSTV3ZDI0MWtrclNJcjBEekc0djFIMGxTeVRqczB0alVMbHB6X2NEU3RsRnBHUWxGUmNMZW9LbDRzNDgzTkc0aEliUDZSSmV5emJGTkV4LTVJTm5qZGVBeWpUbWVqNUJxQQ?oc=5",
+        "source": "스타트업레시피",
+        "description": "[StartupRecipe] 유니콘 12곳 실적으로 본 시장 흐름 3가지는? 스타트업레시피",
+        "pub_date": "26.04.20",
+        "section": "invest_ma"
+      },
+      {
+        "title": "우리벤처파트너스, 3000억 이상 신규펀드 결성·우리금융 시너지",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GWGdGYk5JRUhEdDZtVFotcDBmY2NVVUw2QlY3MHlJNGUyNHNGN0w3R2NCSFcxWUJIVnN0cnY1VU1ELTRmUy1yYWNYQTAzQ0ZXbEt0MUxneDkxSmtLZlprcGVqcUFxVm95TXVHajhDN3dLd2J0ZjlGd0Q1SDQ?oc=5",
+        "source": "한국금융신문",
+        "description": "우리벤처파트너스, 3000억 이상 신규펀드 결성·우리금융 시너지 [2026 VC 경영전략] 한국금융신문",
+        "pub_date": "26.04.20",
+        "section": "invest_ma"
+      },
+      {
+        "title": "채비, IPO 공모가 하단 확정…물량 줄이며 수요예측 부담 반영",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQ1ZwNllwMkRmQkYxNVMyaVpfMEZGRUpBNTNPZ1NvUlFLOTNvc0JGSF9qb1VlcnFCS2hsc2JiRzF1SzBfT3VYc24wWldYNWNzV2VtbF9MSG9ETlh3OWthU215WkR5VnQt0gFsQVVfeXFMTWU5RUp2Wnh2TThYejR5LWhocGpDWGM4NG9RSGUxTnV2dE5wX1JWTTZkZ19falRKV2NkY2lUY21EaFhtVHE0QmV2clJlYjVqckQyeV9NM0VtM3ZoQm1mTXp1UkJ0dHRPV3VFOUZD?oc=5",
+        "source": "블로터",
+        "description": "채비, IPO 공모가 하단 확정…물량 줄이며 수요예측 부담 반영 블로터",
+        "pub_date": "26.04.19",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'자기학습 AI'로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRW5Wc0FqLWpVSE5SNXZrNlc1aGZHM1pxcFYzM01fQ2dhcGpfX09ZdzNreDdvSVRLR2V6SXV2S0dWcnY0OWxFXzB5RWhNRHRJMW5KbHRmeHJfSVlRLUhhTXpjeXRzdTBMSGc?oc=5",
+        "source": "AI타임스",
+        "description": "'자기학습 AI'로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장 AI타임스",
+        "pub_date": "26.04.19",
+        "section": "invest_ma"
+      },
+      {
+        "title": "\"사업화 막힌 고리 푼다\"… 기업-인프라 잇는 '경기도 바이오산업과'",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aR2tobEZha2d0WkVnWEdGaVBJWGtHaEdHcmlRYi04X25nVGN6N2o3RXFRUW1MLTF1dDlHUjgwYXlOOURnS0d4b1JvVDNkRHdidmdKaE1kY052WnIyNnBBZDVBMXNVb2tIU0tZ?oc=5",
+        "source": "히트뉴스",
+        "description": "\"사업화 막힌 고리 푼다\"… 기업-인프라 잇는 '경기도 바이오산업과' 히트뉴스",
+        "pub_date": "26.04.20",
+        "section": "innovation"
+      },
+      {
+        "title": "혁신·속도로 선도국 도약 노리는 중국",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qaTRhNWtIMjhDSnplN0VKZFliMGpvSzhxZzl6VGpVSjgzaTFiY2RYZjIxT1g4MEJUOXZtQU9aRDNmNVJPRExiWXRrRkdWX0lXYVRISVFTS0h2OTJzQ2V5UTQtbnNsOS1XMEVZaUp3?oc=5",
+        "source": "팜이데일리",
+        "description": "혁신·속도로 선도국 도약 노리는 중국[클릭, 글로벌 제약·바이오] 팜이데일리",
+        "pub_date": "26.04.19",
+        "section": "innovation"
+      },
+      {
+        "title": "실증·규제 완화 아우르는 인프라로 '로봇 성지 전북' 만든다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GcHV4R0E0Mkh0SUF0amZXNnNfQTNDaUtoTmpiVFQ0WWx5UWduWFZMYnhsS21WdUw3QmxYZG9SQVNiLUlRYlhXd2dDRmFORUU?oc=5",
+        "source": "v.daum.net",
+        "description": "실증·규제 완화 아우르는 인프라로 '로봇 성지 전북' 만든다 v.daum.net",
+        "pub_date": "26.04.19",
+        "section": "innovation"
+      },
+      {
+        "title": "전북자치도, 학연 협력 플랫폼 통해 첨단 모빌리티산업 혁신 생태계 고도화 견인",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84aUJWV1NMWjgwT09oQ0VjdnVCMllkNTlVNl9vTDRLNUdtdnk5WHhsZXg3b2dIbW50RkNFeVFxQjdOWEViMV94d20tY18zNmEwblFvRC1KVnZfRjNjMGRMRzdYNkhjazFoSWc?oc=5",
+        "source": "전북도민일보",
+        "description": "전북자치도, 학연 협력 플랫폼 통해 첨단 모빌리티산업 혁신 생태계 고도화 견인 전북도민일보",
+        "pub_date": "26.04.19",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-17",
     "news": [
       {
