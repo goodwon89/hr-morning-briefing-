@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-22",
+    "news": [
+      {
+        "title": "기업은행, AX 조직개편 추진",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90dS1fR2Q2bjU3OGxsWV9nZWFSMUpZcGlYQkNEc3ZJWVNuajBObl9SU05ZUE9VeHlhQm5LMU5TRWZERmgza3ZFbU5FN3lmblpIUFHSAVNBVV95cUxNQzlCeHRCTGZ5ZjIzNWEyUGExSlp2N0tlT05rN3ZYemI0OXVwc2RTY3hPc1EtaXVIM2RqUGVpWEZoSVdJY1p1TDBDZjJpemRoU2w0OA?oc=5",
+        "source": "서울경제",
+        "description": "기업은행, AX 조직개편 추진 서울경제",
+        "pub_date": "26.04.22",
+        "section": "hr"
+      },
+      {
+        "title": "구조조정 명가 IMM PE, 적자기업도 살렸다",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UNDRGQTFVYnZQaGVRWVdEYm55TkQ4T0tKUzVJb2d6cjdTWGJmU1k4a1l3elU2UmtlX0I5dUFiYVdMbFBUUW1IamVRNDgyUmRBTUE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "[PEF 열전] 구조조정 명가 IMM PE, 적자기업도 살렸다 매일경제 마켓",
+        "pub_date": "26.04.21",
+        "section": "hr"
+      },
+      {
+        "title": "SKT, AI 중심으로 조직·인사 전면 개편…3단계 직급제 도입",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjSFMteUpJWExiV3dGYzVqUmotbGxRV2tCVDhkaHBkQmhqMzBYUEVleEVYMGV0azFmZGFfaDdRRl9UYUFwOHdjWlJWcUppMlNpSHFhV2JCQ3FmTTJCQm82YldHa0g?oc=5",
+        "source": "매일일보",
+        "description": "SKT, AI 중심으로 조직·인사 전면 개편…3단계 직급제 도입 매일일보",
+        "pub_date": "26.04.21",
+        "section": "hr"
+      },
+      {
+        "title": "첫 취업까지 소요기간↑… 노동시장 진입·임금 격차 완화 등 지원 필요",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HN04tRUg5QXduQl9HbnB2WFctVU1RZ1FrVmFWYjNTb25DZzB4VVN2OFdVTDFFNG8tTzV4MUJwQWlOYmJIZzA4UnF1NzdhR182NXlXLVhXNDFsTEc5MmpDQ1hrMUszdw?oc=5",
+        "source": "한국대학신문",
+        "description": "첫 취업까지 소요기간↑… 노동시장 진입·임금 격차 완화 등 지원 필요 한국대학신문",
+        "pub_date": "26.04.21",
+        "section": "hr"
+      },
+      {
+        "title": "1년에 60일 일하고 직장인 평균 연봉…“하늘 위 농민의 손발”",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMXhZOFV3eU5tU0JJOGpGMlduT0Z2ejF4Z3JKTDY3QVV3dW1xTDVIZTNYUTBVT2ZyU2dVczF6NXVEYUoyQzhiZ3lOVFhQWDFZRWpneW15MmEzdw?oc=5",
+        "source": "농민신문",
+        "description": "[농촌의 벌이] 1년에 60일 일하고 직장인 평균 연봉…“하늘 위 농민의 손발” 농민신문",
+        "pub_date": "26.04.21",
+        "section": "hr"
+      },
+      {
+        "title": "정재헌 SKT \"기업 AI 시장서 성장, 기업문화 개편\"",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FZU1ZQkJobWFzNDM0MV9zTGRLcVREMjB1RU5ySUg3UkVCUlZQYTYwNUo3WjZWNm92XzlNUXhZb0ZVVjhOenpEdzItRkNqbEZXdDYxVUJ3?oc=5",
+        "source": "지디넷코리아",
+        "description": "정재헌 SKT \"기업 AI 시장서 성장, 기업문화 개편\" 지디넷코리아",
+        "pub_date": "26.04.21",
+        "section": "hr"
+      },
+      {
+        "title": "AI의 생산성·고용 충격... ‘역설’과 ‘재편’ 사이에서",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mcmNyd1oybGRCdEJDdUk5aTBrNUlWby1qMGdMV0c2MURTTTVSa0o4VHFFVGp0M01hY2JuWVZ1RFl2Y2dvNjQ0cFFLMWJUdEhGSGFaUW1LeVpGbS1UNXpvLTVia0RYSE4xWmtiOQ?oc=5",
+        "source": "디지털포용뉴스",
+        "description": "AI의 생산성·고용 충격... ‘역설’과 ‘재편’ 사이에서 디지털포용뉴스",
+        "pub_date": "26.04.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“로봇·자동화, 미중 경쟁 핵심…제조업 및 안보 전략 필요”",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS1BjM1NUS1pHSk5hRGFLRE5IcTdndDUyQjhXWUlQRDc1dHlOZzJTdWFLLVJFbzB2aDhzbTRyZ3JBRlg0ckt5Y1Nya2JHTlZ1MXdCa0pTa0Z2NnZJb2hzT1piUFVXVVh3YXg3NnFKc2o4UTlkYWktMGxUTFVXTXNiZXZrZ3JoOFFFY2lhR2hxMG9tSC1SOUHSAZgBQVVfeXFMUHVEdVR0a0dwYkFHT2VUcWQyS2Y2QkNicmZJMGJSYXNrQzdhNFRCa3ZYbDk2X1BzYXVUNjBsWG5TM05YTXNVSWozU0lQVlAxbmlySWU0VEQ1cWNpcVdOZjJ4YW5BaGRoMWx6RVJSN1FTaDB4ZXZwVW53STFRYlM1azR5aEpvV0ZtMkQxZ2RoZkstbXVyYlJzRk8?oc=5",
+        "source": "VOA 한국어 홈페이지",
+        "description": "“로봇·자동화, 미중 경쟁 핵심…제조업 및 안보 전략 필요” VOA 한국어 홈페이지",
+        "pub_date": "26.04.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 시대, 인프라 투자 기업이 국가 경쟁력 좌우...아마존, 2025년 美에 500조 원 투자",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMW5IQkxlLWw0RFBpSFkwWUQwRUlRZno0SXE1ZjVNeGdqZE1aYVVPUWRqWUxVY0Q4aTl5V2EzQ2lWR1BnRnoyX2ROQVMtLWFRTVRranJ2b3doNXI2cDBVdHN1VmNiRXc?oc=5",
+        "source": "인공지능신문",
+        "description": "AI 시대, 인프라 투자 기업이 국가 경쟁력 좌우...아마존, 2025년 美에 500조 원 투자 인공지능신문",
+        "pub_date": "26.04.21",
+        "section": "ai_tech"
+      },
+      {
+        "title": "대구, 국내 첫 ‘이동형 양팔 로봇’ 제조현장 실증 착수",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RejRfd2R1czJZdVZNY3hKemV2R01BV0VvUUpZMnRaeXVtZmJLWGh0NFJUSHNNSXdEYnVjemV3YTFWNFFYRXc?oc=5",
+        "source": "v.daum.net",
+        "description": "대구, 국내 첫 ‘이동형 양팔 로봇’ 제조현장 실증 착수 v.daum.net",
+        "pub_date": "26.04.21",
+        "section": "ai_tech"
+      },
+      {
+        "title": "여한구 \"韓日, 유사 입장 중견국…공급망·에너지·AI 공조 강화해야\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiZ1E3aEQ3NWdFM0xTR2JWTUVkWXVoU0xVRXVXVGtPOFZTWlRObXpLZTloSHRIMVdBRm1mSWtBUDlBQjhvNmpYUUJfQ1ZyaEE?oc=5",
+        "source": "v.daum.net",
+        "description": "여한구 \"韓日, 유사 입장 중견국…공급망·에너지·AI 공조 강화해야\" v.daum.net",
+        "pub_date": "26.04.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "中 수출업계, 美 관세 환급 포털 가동에 ‘수조 원대 자금 회수’ 기대감",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTFnZzZYNTNzR2V5S21BOXhXczJDcDgtUDBYOEZlbEtobkowZVcwWHpwOEpJc2pxTGwzTUNKT3kyNkwyWnYxN3JoNjE2OXdGWEdFaVRkWURBV0thNnI4V3QzSzZPNmtEQXlKSFZicHhBc3ZPWTBsNjBPbzNaMHVDZzdXQlBlWFVZ?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "中 수출업계, 美 관세 환급 포털 가동에 ‘수조 원대 자금 회수’ 기대감 글로벌이코노믹",
+        "pub_date": "26.04.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "트럼프 관세의 역설, 글로벌 공급망 ‘중국 파워’ 키웠다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LeEdFZzRkMU5UUVdIWFFKNUNGN1VUVnpvR09zRk1rc0xFcFpsRHRMLTRfTVpyWS1rWmsyMjJaY0t3QUZmMTNJVW5JMGdJdVlpMmdpeVlHSDh3VlVCY2o1MkhOQ1VPc2hKWVYzUmZIN1ZaQQ?oc=5",
+        "source": "한겨레",
+        "description": "트럼프 관세의 역설, 글로벌 공급망 ‘중국 파워’ 키웠다 한겨레",
+        "pub_date": "26.04.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "워시 인준 청문회 시작, 연준 금리 전망과 독립성 주목 By Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TemIzSWtTNnV0dmdlSXZVQWpqOGR0RXRhS1d1MGJSNkRBQTk2Y0pvY0VwVXZ5VFpEb0ROOVNXQzhta3diaFRtWl93ZVN4YW9oZmh4dzJHNVVNS0dYZGQ5UWwwNWJ1blZrT0E?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "워시 인준 청문회 시작, 연준 금리 전망과 독립성 주목 By Investing.com Investing.com 한국어",
+        "pub_date": "26.04.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "제주창조경제혁신센터, 일본 진출 희망 스타트업 모집",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iREhVWEp1X193cHpycUJXaXhEMUswc0FJRVB4cmJJcmZqT2lhSzJSRlplZ3pWTnoweVlxakJVenliYVU2WF96SklxSXRNa1R5Q3VhcFlXdDZiQzdKWUljeVhmSjVWTkxMVktYVg?oc=5",
+        "source": "뉴스N제주",
+        "description": "제주창조경제혁신센터, 일본 진출 희망 스타트업 모집 뉴스N제주",
+        "pub_date": "26.04.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "기업은행 ‘IBK창공 Fly High 100’ 개최…스타트업 투자유치 지원",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53aW1RdzF2WFNvVjN2RTRpMldHUmxkM3NYaXRmdExxYVJNVnlydVBseTIzcEliYlN2bmRETEZEOGZzbTh6cExtckVMS2lUUVZueldQZTJ3eGp4dzkxazVfelZOcGM?oc=5",
+        "source": "인더뉴스",
+        "description": "기업은행 ‘IBK창공 Fly High 100’ 개최…스타트업 투자유치 지원 인더뉴스",
+        "pub_date": "26.04.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "익스프레스 매각 우협대상에 하림그룹",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84U0NvOE0xbkVWT0dQMW8zaWp1ZDRtNVFYcnlycXdqTVJvb00zN2RRZzFHc002YUtkMmpRY1p2RWlXbThseDZfbkNZVzU4Wll2aHVuUGtuZmVLNk1CbmJPaF93Nlhhc1J20gFsQVVfeXFMT2c5WmlhS2xXa2syWUtyR2tNd2hUcDlkbXdOOFdXSDVscXcxMnozVzkyOHZtZklGdG5yaWxINUpOODI2MWs5TXBhdDhCUHRFek5EWGZvUmQ5bENfOEVGU0s5ZUpuVGlSOXctRDBU?oc=5",
+        "source": "블로터",
+        "description": "[홈플러스 M&A] 익스프레스 매각 우협대상에 하림그룹 블로터",
+        "pub_date": "26.04.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "채비, 공모가 1만2300원 확정...코스닥 29일 상장",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pOF9xRHpxdVhheUxWT29PQUtIMUNuSXBRSTVzUXk4OHhqU0NieENYc2FMSlJvcGs0VnMwM3JHdzU2aUEwZFQyNklsUU4wMkRxeVFMWEhMM0o?oc=5",
+        "source": "뷰어스",
+        "description": "[IPO] 채비, 공모가 1만2300원 확정...코스닥 29일 상장 뷰어스",
+        "pub_date": "26.04.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "메디젠휴먼케어, ‘2026 산업융합 규제샌드박스 사업화 지원 과제’ 선정",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSXVoVkNhZDBiWEZlbHpJSmZmTVpYNG1zMXgxb0hZQThfcE9LVWgtU19ldHBQalB2bFBpLUx0QTRWdTVzaVZBcXhtREpTTFZ5Q1hHZTBxMVExdzM4YW1SWHFDT1NpTHhMUGV6Yg?oc=5",
+        "source": "바이오타임즈",
+        "description": "메디젠휴먼케어, ‘2026 산업융합 규제샌드박스 사업화 지원 과제’ 선정 바이오타임즈",
+        "pub_date": "26.04.21",
+        "section": "innovation"
+      },
+      {
+        "title": "\"딥테크로 지역 활성화\"···과기정통부, 연구개발특구 60억원 추경",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRm1kQ1o3amktQWlVWHJrZi0yS2szSEl1aVVHWVBsbXdmVE5hazBlSF9xTGNCdHhQZjZjUDhtTVdYQmppbWFCVnE2TnFDNGVERlNJeTFwY0tmbFZGdEdlSlA4T2t6M0hpUkE?oc=5",
+        "source": "헬로디디",
+        "description": "\"딥테크로 지역 활성화\"···과기정통부, 연구개발특구 60억원 추경 헬로디디",
+        "pub_date": "26.04.21",
+        "section": "innovation"
+      },
+      {
+        "title": "「국가바이오혁신위원회」 출범, 바이오 정책 총괄 민관협력 플랫폼 본격 가동",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RREtUSWwyazZrX0RkeS1qRVR0ZFZDcXpwV203dlR3bmlPWlUxbGlEVVJJcEV1dGtlZ1BqZHlmWTY3WmV2SHo3OUJEVk1RU2FFWTJhUXlteklEcGdFbnBmMzE3YlBTUGdUSnVQNVY5M1ZlSG9HN1VWQ3ZLaldCdw?oc=5",
+        "source": "BRIC",
+        "description": "「국가바이오혁신위원회」 출범, 바이오 정책 총괄 민관협력 플랫폼 본격 가동 BRIC",
+        "pub_date": "26.04.21",
+        "section": "innovation"
+      },
+      {
+        "title": "이노플레이스 ‘마드모아젤’ 규제 샌드박스 승인",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02Wktlam80cWQxLVk0cnBmZ2dSYXZ1XzZ1ckt5U1lJMmNiRnBENkNKYlkxVmdQTWRjMlBJclplOUtNNWFFS0hpS1NvQlN3TEhnR3lJcEJHbk1MRk5iWUkxbUt1cnhqQW1XTzhVYkgybEk?oc=5",
+        "source": "한국데이터경제신문",
+        "description": "이노플레이스 ‘마드모아젤’ 규제 샌드박스 승인 한국데이터경제신문",
+        "pub_date": "26.04.21",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-21",
     "news": [
       {
