@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-23",
+    "news": [
+      {
+        "title": "현대차, 2026년 채용전환형 하계인턴 모집",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2J5bEc4bWo0VVFiYVJ2TzNCTnlkcjRqOGNWRkdzWXNKblBxb0dyQUVmalV4d2JsaHlGOFhMNzAyYXRQRFdKQWQzZHhPTTM2M2hwUFVmUEFjd0o3eG9lQWEwV3ZRR3hGMFctdk9paGI2UQ?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[오늘의 대기업 채용정보] 현대차, 2026년 채용전환형 하계인턴 모집 아웃소싱타임스",
+        "pub_date": "26.04.23",
+        "section": "hr"
+      },
+      {
+        "title": "성과급 따라 근로자간 양극화 커져…고임금發 인플레 우려도",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pb3ltTE1fWjNMY0VzSms2Q3J0MFVVemttWGdHR1RRbjZCeHNLU2tCTkRjSThqVHZFRWpMNXdJSjhOVGNYMXlNWUlZQTRMbWNUaFE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "성과급 따라 근로자간 양극화 커져…고임금發 인플레 우려도 매일경제 마켓",
+        "pub_date": "26.04.22",
+        "section": "hr"
+      },
+      {
+        "title": "인신협, ‘AI 활용 심화 교육’ 실시",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSjl5WmZMOHFmVExQRkRwMlNmTUtpZXhpUWp0alFKdGVpLWxuUGhrcmRKOFRlY01RN09IWmR1T1VXTDM2Tlc2SVlTTUlhR2x0aFJXX3N3?oc=5",
+        "source": "지디넷코리아",
+        "description": "인신협, ‘AI 활용 심화 교육’ 실시 지디넷코리아",
+        "pub_date": "26.04.22",
+        "section": "hr"
+      },
+      {
+        "title": "\"회생절차 비용의 10% 불과 사전 구조조정 적극 나서야\"",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTzRfcC1IVkxxcEFhazBHZ0FpMXkzcWN4VllxYkNwSEhDSHg4bGxIcUJHSnBzdUUwZDhrN2dpTnBMbEVzQkJkUnQ0ejI0XzAxbGc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "\"회생절차 비용의 10% 불과 사전 구조조정 적극 나서야\" 매일경제 마켓",
+        "pub_date": "26.04.22",
+        "section": "hr"
+      },
+      {
+        "title": "아리셀참사 2심 판결에 대한 민주노총 입장",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EaEkyamdDNVExbHIxSGFWRzdoVVRQdnRMM2o3VVBnN2ZsMGJpV09HcXpVR01nOTFORndZbFVvNnI4WjdhbW9CUm5UN0E?oc=5",
+        "source": "민주노총",
+        "description": "[성명] 아리셀참사 2심 판결에 대한 민주노총 입장 민주노총",
+        "pub_date": "26.04.22",
+        "section": "hr"
+      },
+      {
+        "title": "이천시, ‘쿠팡 이천권역 대규모 채용 박람회’ 개최… 기업 맞춤형 일자리 창출 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GS1RXUVg5cEozYm9HY3NOY0dkSmxLOFRieHU0TzVEWm15WjctWEdHQUI2N25hRGVsdlFmcEQxR2Q1VkFpdEhtc0JPMXN4bWRBYjZYM3pQYXdjQ0lrME5fcmlyRVVJX1U?oc=5",
+        "source": "경기매일",
+        "description": "이천시, ‘쿠팡 이천권역 대규모 채용 박람회’ 개최… 기업 맞춤형 일자리 창출 본격화 경기매일",
+        "pub_date": "26.04.22",
+        "section": "hr"
+      },
+      {
+        "title": "엔비디아·지멘스, '인간형 로봇' 공장 투입 성공… 제조 혁명 가속",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkY5MHhmZzRSQk82SzRYRFFGRm1OWEswdU0zRkpvYzE2dFJHOHFxWlZPY2RnVUZmUks5T3dqVFI5cXJ4ZkltVVFISk9QZ2lLMlZDOGlRc04tXy01UWszZ0hWRzV6Y05sR19GWjYzVzVRZGwyOVNEVXZsNnFlcFpxa0JnMDIxWXph?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "엔비디아·지멘스, '인간형 로봇' 공장 투입 성공… 제조 혁명 가속 글로벌이코노믹",
+        "pub_date": "26.04.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "클라우드 관리에서 AI 인프라로…MSP 'AI 허브' 쟁탈전 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ycU5PZ3VzZEVWeHRSU2c0Tkpnems4Q05HOV9QRDBLMVhKenltaFpqaGZ5NndMeUpTZnhwSDU0XzN6S2pmUTBvUTVITDBPSzg?oc=5",
+        "source": "v.daum.net",
+        "description": "클라우드 관리에서 AI 인프라로…MSP 'AI 허브' 쟁탈전 본격화 v.daum.net",
+        "pub_date": "26.04.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“배터리 셀 공정에 AI 도입한다”..BMW그룹, 생산 효율 50% ‘업’",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzQjdCdXpTQ29zTGVzaDhETUYzRkdJZjdpTFlPT29WNUhBSUYxNmZydW1sOUVkVFFXdlJkVk5ZSWV6RjB6SmpTd3M5dVEwaTFBdVhFb1pWaDJSeWs3eU5tOWRsWHFRblRCOXZNYTd0UmN2eDJxb1E?oc=5",
+        "source": "dailycar.co.kr",
+        "description": "“배터리 셀 공정에 AI 도입한다”..BMW그룹, 생산 효율 50% ‘업’ dailycar.co.kr",
+        "pub_date": "26.04.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "미 하원 \"로봇·자동화 주도권 뺏기면 안보 위협\"…중국 기술 굴기에 경고",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FUWtacUJaZ3V5WE5KendDdDdqb1paN0xKS1kyZmhJcHM1T3dqOWIwc0NkeEVabV91cGRTcXFMRUI3TVR0LXpycjFMRWY1bGNuVmxr0gFTQVVfeXFMTUVRa1pxQlpndXlYTkp6d0N0N2pvWlo3TEpLWTJmaElwczVPd2o5YjBzQ2R4RVptX3VwZFNxcUxFQjdNVHQtenJyMUxFZjVsY25WbGs?oc=5",
+        "source": "VOA 한국어 홈페이지",
+        "description": "미 하원 \"로봇·자동화 주도권 뺏기면 안보 위협\"…중국 기술 굴기에 경고 VOA 한국어 홈페이지",
+        "pub_date": "26.04.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“반도체 사이클 바뀌었다” SK하이닉스, 1분기 ‘영업익 40조’ 시대 예고",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wV0NOVGdTV1hULXlVZUVBbktkTEFsSnpJd00tdURhTmZaNFlkejEwOGxCTGZiMTBtcjdOYjFBUEtUUFM1dmZSMlZYMklmUWNjREtIX2FnTlpkVGx3ZXc?oc=5",
+        "source": "아시아타임즈",
+        "description": "“반도체 사이클 바뀌었다” SK하이닉스, 1분기 ‘영업익 40조’ 시대 예고 아시아타임즈",
+        "pub_date": "26.04.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "골드만삭스, 2026년 인도 두 차례 금리 인상 전망",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbEd6TzE1YXpuVzVzNVhMa184U2RkblBKUmZ4eWs5Z1I4NEhULU56cVJlWVZCWTFVQXRZSnlNOXpmb3g1N0ZXMTc1LWFMY2JIRTFOczFBZjdVQ213MHczOV9xMDZmTFNCWk1mMmprZFNSd29mb25R?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "골드만삭스, 2026년 인도 두 차례 금리 인상 전망 Investing.com 한국어",
+        "pub_date": "26.04.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "이 대통령 \"베트남과 중동 상황 속 에너지·공급망 긴밀 협력\"",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mMDVqYVJUeFBweTdnY2YwNGc2eE5NRGVqSWgzbVNYYmFmRUhyTzhzRGhhMjRnUjQ2Y0stUTd4YU1mRHdJWjhVX1FYT255Qm92SExydw?oc=5",
+        "source": "JTBC",
+        "description": "이 대통령 \"베트남과 중동 상황 속 에너지·공급망 긴밀 협력\" JTBC",
+        "pub_date": "26.04.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "韓·베트남, 원전 협력 등 MOU 12건 체결 \"에너지·공급망 긴밀 협력\"",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGRVZFVLaWs3TGUzNFBZdnlvb2xLcFgwSm1Id00yT0RkbmNDblh3dk1rZXVISmU1ZHpVQ1VtcDdwRXJYY0s1THh5dXloWXJtcDEwSEtIdkw4WE1na3Z0c05GN0dkRmhSVlRGcmR1TF9Md3lwSFpmUnpsOW9FNTY3cUJJOUlZRFM2ZF9DdG5HYlA?oc=5",
+        "source": "조선일보",
+        "description": "韓·베트남, 원전 협력 등 MOU 12건 체결 \"에너지·공급망 긴밀 협력\" 조선일보",
+        "pub_date": "26.04.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "예스웨이, IPO 공모가 20달러, 개장가 22달러로 거래 시작",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pTk5mbnVJV2dKcHZpYV9sNnIxZ1JGemRoZ2VER213Qk5fbzV4aTc5R2dOU1Fsem9icXlOMGotdWNndU9CUW5Bc0pLZkpzT1d4Tzh0QXkxb3VYNlF2aHZJOG80aWhIUTQycFNyRkROSW1KT2QwUFA4?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "예스웨이, IPO 공모가 20달러, 개장가 22달러로 거래 시작 Investing.com 한국어",
+        "pub_date": "26.04.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "베이조스의 AI 스타트업, 56조 몸값으로 투자 유치 앞둬",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTNzg2M2lENE95OGxwV3I2ZWZZcXpEb01GWnl2cDcxdmJyZ2pXOXRUUWNqVU9UR2pnUlNsSUZZMGhSeElFRXV5NkxvNjBHOVJEZHBHR3JqY0lRUXQ5ZWxaRU9HQ3ladDEzTkE?oc=5",
+        "source": "AI타임스",
+        "description": "베이조스의 AI 스타트업, 56조 몸값으로 투자 유치 앞둬 AI타임스",
+        "pub_date": "26.04.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스타트업 투자 AI 모델 ADIN, VC 업무 대체…갈림길에 선 벤처캐피탈리스트",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NmZIYURsaW5GZUhqRGRQaEZXSGhLRHR1Vk9jWnRRTVhxbDB1RDI0Umhpd3pTX3E0TzZRdlJFeXc0MFhmRk9mWm52dzBvUFlkWlU2NEk5eFNTZ25uNExHRlNRNDBWVjg?oc=5",
+        "source": "아이티데일리",
+        "description": "스타트업 투자 AI 모델 ADIN, VC 업무 대체…갈림길에 선 벤처캐피탈리스트 아이티데일리",
+        "pub_date": "26.04.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "채비, 일반청약 증거금 4조2000억 몰려…코스닥 상장 흥행",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96WjYtZDFzcjlqZE5nSW04RUNfM0RQdE9wbFlhcXk5T0NDc180SmFHaGV5MGhWRk9CN1JBTGRHMmJmZXM3R0hNT1VScl9lNVcxekVaY1dqQ0JxdDhjTDZqQXlwcW5oRUFp0gFsQVVfeXFMTkpnZVk5VzFQNTVhYzBXM1JhTU02d2hfamczSzVWRVNCS1d2N1dMalNzYUtqOEpoeUx4c3RJVENUMlMwcXdENXFCam1jdXZIRE10SWFnZDBETGo0ZHpMeGhteVloOXpzRW9aNm9O?oc=5",
+        "source": "직썰",
+        "description": "채비, 일반청약 증거금 4조2000억 몰려…코스닥 상장 흥행 직썰",
+        "pub_date": "26.04.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "원천기술 스타트업은 그 기술이 어떤 산업 문제를 얼마나 빨리 해결하는지, 어떤 시장에서 얼마의 매출로 이어지는지를 함께 보여줘야 한다. 즉, 기술 데모보다 명확한 상용화 시나리오와 고객 검증 자료가 필요",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5vczE4TEZkVlZzcVpIM2FnTElEdnFhM1RHWk9SVU1OOWwwcTNUek5XS1lZTXdMd2l2dmxpdFhOZC0?oc=5",
+        "source": "AI넷",
+        "description": "[AI넷] [한국의 AI 스타트업들이 초기 투자 받기가 어렵다? ] 원천기술 스타트업은 그 기술이 어떤 산업 문제를 얼마나 빨리 해결하는지, 어떤 시장에서 얼마의 매출로 이어지는지를 함께 보여줘야 한다. 즉, 기술 데모보다 명확한 상용화 시나리오와 고객 검증 자료가 필요 AI넷",
+        "pub_date": "26.04.23",
+        "section": "innovation"
+      },
+      {
+        "title": "경북도, 구미 반도체 현장에 ‘로봇’ 수혈… 산업 혁신 실증 거점 본격 가동 나서",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JbGRBMFdFZy1SRHQ5SmFHRzFhb0xfV1k1WjktaWRXa2ZMZVVwOG81Q3ZxclhwdlJITUVuYk13XzZGaGozc3lDV0diT0NPMktQS1dtaHNQWUpuZnEzYl9JekdzNHFfUQ?oc=5",
+        "source": "이로운넷",
+        "description": "경북도, 구미 반도체 현장에 ‘로봇’ 수혈… 산업 혁신 실증 거점 본격 가동 나서 이로운넷",
+        "pub_date": "26.04.22",
+        "section": "innovation"
+      },
+      {
+        "title": "중기임대 플랫폼 기업 ‘엔코위더스’, 하와이 테크 컨퍼런스 ‘EMW 2026’서 글로벌 탑10 선정",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oVk5RbGgta0xjYnFrSkRKR21fekk3N2pIc3JEVThRMkl6MzVoX18tR1d3VTFGYWRQQm14ZkY1T0ViRTdOTXc?oc=5",
+        "source": "beSUCCESS",
+        "description": "중기임대 플랫폼 기업 ‘엔코위더스’, 하와이 테크 컨퍼런스 ‘EMW 2026’서 글로벌 탑10 선정 beSUCCESS",
+        "pub_date": "26.04.22",
+        "section": "innovation"
+      },
+      {
+        "title": "한컴위드, 금 토큰화 플랫폼·금융 서비스 출시",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wT09GcjlIc01IbWIzZnpKNUc5QjZUei1jbnhEdEpZRF9DYk9XclpqWVNKanpycm9ZbGZCTTR2dTlydDFHcWNrVklHSWlGMEM2SEhDSk5wN3k5ZVVPckJjSHEtZzQ?oc=5",
+        "source": "MTN 머니투데이방송",
+        "description": "한컴위드, 금 토큰화 플랫폼·금융 서비스 출시 MTN 머니투데이방송",
+        "pub_date": "26.04.21",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-22",
     "news": [
       {
