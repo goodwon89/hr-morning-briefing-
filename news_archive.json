@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-24",
+    "news": [
+      {
+        "title": "마이크로소프트 메타, AI에 대한 막대한 투자로 대규모 감원에 나서...메타, 다음달 8천명 감원",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xN2EzTl9DTVN2SGpUV2pNT1lCay1obUhBOHR2aWppZnFXODNkLXhmWFJIdjRabDQzTHVjTWIxbUhSRlFkNEg5M2x0d2haM2ZyOTZEVzB3anZySF9iVFl2MmRmSW5kNlctVDJKeUNfRFN1NldLdnp6a21yQ2Q?oc=5",
+        "source": "비욘드포스트",
+        "description": "마이크로소프트(MS) 메타, AI에 대한 막대한 투자로 대규모 감원에 나서...메타, 다음달 8천명 감원 비욘드포스트",
+        "pub_date": "26.04.24",
+        "section": "hr"
+      },
+      {
+        "title": "메타, 하락…AI 대규모 투자로 전체 인력 10% 감원",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xazFwMWpGNmFYTTl5RlpYdnBQMjhHUmZDTHNBWEFYMFJVb2s3SGNqTUhvRzVnNDBRSGZlQTNmRG9LUVhJcGVKcDFkNy1ac1FLMkw5Y2dDdWR2dEVxU0xURDRCNlV2RTRZSDYtZmwyVjJlTVk?oc=5",
+        "source": "마켓인",
+        "description": "메타, 하락…AI 대규모 투자로 전체 인력 10% 감원 마켓인",
+        "pub_date": "26.04.24",
+        "section": "hr"
+      },
+      {
+        "title": "성과급이 뭐길래… 반도체 ‘잭팟’이 만든 심리적 연봉 삭감의 정체",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTFNODM5UGJjYTFjcXVLZUY3WXhQTjNhT0JBdzQ3cTA0ZFM0b1NYNzhXekgxVUt2cVRvWXFGS0d0RXBvenl6amp0djBsYThlZko5VENnV3JUdi1FNVcwUGRNdHpSTVRMSW1lTGVWWFFYRDF4Z3ItZDhDNDJiVWtPMlljMGlqZw?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "description": "성과급이 뭐길래… 반도체 ‘잭팟’이 만든 심리적 연봉 삭감의 정체 네이버 프리미엄콘텐츠",
+        "pub_date": "26.04.23",
+        "section": "hr"
+      },
+      {
+        "title": "구조조정 거물 A&M 한국 상륙…위기 징후일까, 밸류업 신호탄일까",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Kb2xfYkNZN0Y0NG9qbEx0akp5Q21PNWQtajAyODN0RmRZQnBOTzV6bG0ybUlzRnIwOWFwU0FQekIwVTMtemJxYmZadm5jODM3VHJhYXhB?oc=5",
+        "source": "르데스크",
+        "description": "구조조정 거물 A&M 한국 상륙…위기 징후일까, 밸류업 신호탄일까 르데스크",
+        "pub_date": "26.04.23",
+        "section": "hr"
+      },
+      {
+        "title": "기업들, 신입직원·인턴 채용 모집 진행",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JYWNUUEttSXVSZXh5VzhCLXFJbXlobVpJUGVCVHpZVlRlZGtCREVIa2R1UzR1QlJxN2RqSVh2TUl1czVyaU1wOFpVQjhILXdidEdJNk9OVUtVYkt2Y1ZyVWlEaWZ1UQ?oc=5",
+        "source": "익산열린신문",
+        "description": "기업들, 신입직원·인턴 채용 모집 진행 익산열린신문",
+        "pub_date": "26.04.23",
+        "section": "hr"
+      },
+      {
+        "title": "STO 뜨는데 전문가는 태부족…인력 쟁탈전 벌어졌다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaSVdzczVGODRpZzlaa3RfeTg0eWZXMTdIUkRFZFBYdmcxdDlKallYOEF2dmYtMGxHY2tsQVNaNk1hNFhycjFSNTU0YjRic203b1NaS0UxMDViNndtQmEySjJxZDNGZzNCSmt2QUtCWUNSdw?oc=5",
+        "source": "마켓인",
+        "description": "STO 뜨는데 전문가는 태부족…인력 쟁탈전 벌어졌다 마켓인",
+        "pub_date": "26.04.23",
+        "section": "hr"
+      },
+      {
+        "title": "은행 'AI 망분리' 빗장 풀리지만...책무 구조ㆍ운영 부담으로 '여전히 반쪽'",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjIycmExTUtjT1ljLVQzblhlRFdHUHVvZHpjMGNYQmFaSGdDZFgxSlJjc29tQ3BLSUhId2N0d2t0NVFVX0JjM09fRFZMWXl1MThfRjdkTm5oMEZqSWdzcHRmaGxTUDlZQkpnLTFObkdhSHUxZGMxSk5fNXA2TXliQTRxMA?oc=5",
+        "source": "인베스트조선",
+        "description": "은행 'AI 망분리' 빗장 풀리지만...책무 구조ㆍ운영 부담으로 '여전히 반쪽' 인베스트조선",
+        "pub_date": "26.04.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2ZPYUdqZzlDeTZ1MUlocGIwazNHcThRT2VaQm8zR1FvTFNnYVcyM1U0bTRYWEh4cUlTUzNyTFh6X25sUE5zTHZNRmt5Z2phWV9QakVvazhfRzVyT2ppNHItV1lIdUJwU2w2d0U5N0NJMllrdUxUZjNHcHUtaU9DaldIcGxyaFHSAZsBQVVfeXFMUDlmS2hsN3lfTlZTdGo5aWJoWXJicXltWGhqeElZVHVHUmctUUVJMnFOODZoZGhPeFhMTW5GMnJGU2dRUXEwNV9yYkZ6V2dzbDhyb05oZ01oZVprVC04QzZsYjNsN1UxS0VyWnRiOEV2UmtMcXF4eDNpTllobjdoUFJRY2tKOTM5dm1KU3dzTm9xWmNnVkRreC1QdlE?oc=5",
+        "source": "Chosunbiz",
+        "description": "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈 Chosunbiz",
+        "pub_date": "26.04.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "경남도, ‘인공지능 돼지 관리사’ 도입에 19억 투입… 생산성·폐사율 다 잡는다",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wY1lHRDQyTTBJaVRJVWpURFJ2SXpxN0FpWjgwaGp3elhKWkhZS196ZFZRSXJycmhvTGJYaXhZcHRONzBCTHI1dlpDdEhjdUk5T0Ywd0NmZGlUOEpDVGN0Sk9KVG4?oc=5",
+        "source": "pigpeople.net",
+        "description": "[돼지와사람] 경남도, ‘인공지능 돼지 관리사’ 도입에 19억 투입… 생산성·폐사율 다 잡는다 pigpeople.net",
+        "pub_date": "26.04.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "오픈AI, 챗GPT에 '워크스페이스 에이전트' 도입...\"조직형 AI로 전환\"",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBodnBYRjFOYXdMY0o1YnFZdWtMUG1tUDY2bGhvaWJ0cXRhN1cybU9FTUlQX050ZU9waG8xaEZQN05yMkhjTmtLaUJRNTl3YXNYNGZmeXRyNDNIRnhQY3J4S1h1Rm1nbGduQ3c?oc=5",
+        "source": "AI타임스",
+        "description": "오픈AI, 챗GPT에 '워크스페이스 에이전트' 도입...\"조직형 AI로 전환\" AI타임스",
+        "pub_date": "26.04.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "반도체 덕 GDP도 깜짝 성장, 미래 대비는 손놓을 건가",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKSE85bHhSMURjR1Zab0FjQ1hJOG41SUNDbWZVbm81S0hIU3d2MkJ6Skhaa1NQZnIwdm9WWTUyRERxOWRKWWdoSVB4RG1yWVA3SlhURzJzUXhXdTZpUGJoUnMtZGZ4bUhSTTVPSEJSWGowbGc?oc=5",
+        "source": "마켓인",
+        "description": "반도체 덕 GDP도 깜짝 성장, 미래 대비는 손놓을 건가 마켓인",
+        "pub_date": "26.04.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "이 대통령 “베트남 도약이 한국의 성장…공급망 생태계 함께 구축 ”",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Hd3dxTHZMaEZaMTA5ek5HY3FNR1EydlY3Sjg5SHJ5VVlTbjZCQ0hIaXJleGhJbHlrSjBVVWJuWFdPRTNLb1B6ZVVQVTI4VFNMd3lvNldINFpyVWVrZGlURTAtMXpWY2Y2MFNZ?oc=5",
+        "source": "한겨레",
+        "description": "이 대통령 “베트남 도약이 한국의 성장…공급망 생태계 함께 구축 ” 한겨레",
+        "pub_date": "26.04.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "부산 제조업 실적 ‘부진’…2분기 전망 ‘암울’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaeVo3Si0tNHUxeUh2cWZiVlJRN1hYaC0wYzhPbXlfRDhhWUtjMUFXTFNuTDRwYjN2UTlJanJvX2NEV3pZVmFvbV9LMXNIbWUyUXg4Tm84T1lfN3c?oc=5",
+        "source": "KBS 뉴스",
+        "description": "부산 제조업 실적 ‘부진’…2분기 전망 ‘암울’ KBS 뉴스",
+        "pub_date": "26.04.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "저축銀 7차 PF 공동펀드 보류…지방 부실 여전",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91RmZjTWFqYVV0WjN6clBrZlZKLUhuX3FaQXdzcE9JU2dIMmFCMk5IVHNQd2xfV1QtcnhBSGlqVkxoSlNXUXJVMENLenZ1RDk5RE5pdl8xb29QUDBuQkcyanFyQzg?oc=5",
+        "source": "서울경제TV",
+        "description": "저축銀 7차 PF 공동펀드 보류…지방 부실 여전 서울경제TV",
+        "pub_date": "26.04.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "AI 상장 1호 마키나락스, '흥행여부'보다 '심사기조'가 더 관심?",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFptSG5vWGVxaTJaanBoUVVka0lXbHZmUGdoTmZtRHFLLVlNZFRFNW5YZUxBSE5zVjJ6aERFZGtyOFN5YktfQXFORHFGR053eFg5eDhTOHNRZDN3bnF3ZVIwNE8tMUFHYVNISHJfNG5qZl9HdUkwQWp4blZBaHB0SHpkYw?oc=5",
+        "source": "인베스트조선",
+        "description": "AI 상장 1호 마키나락스, '흥행여부'보다 '심사기조'가 더 관심? 인베스트조선",
+        "pub_date": "26.04.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2ZPYUdqZzlDeTZ1MUlocGIwazNHcThRT2VaQm8zR1FvTFNnYVcyM1U0bTRYWEh4cUlTUzNyTFh6X25sUE5zTHZNRmt5Z2phWV9QakVvazhfRzVyT2ppNHItV1lIdUJwU2w2d0U5N0NJMllrdUxUZjNHcHUtaU9DaldIcGxyaFHSAZsBQVVfeXFMUDlmS2hsN3lfTlZTdGo5aWJoWXJicXltWGhqeElZVHVHUmctUUVJMnFOODZoZGhPeFhMTW5GMnJGU2dRUXEwNV9yYkZ6V2dzbDhyb05oZ01oZVprVC04QzZsYjNsN1UxS0VyWnRiOEV2UmtMcXF4eDNpTllobjdoUFJRY2tKOTM5dm1KU3dzTm9xWmNnVkRreC1QdlE?oc=5",
+        "source": "Chosunbiz",
+        "description": "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈 Chosunbiz",
+        "pub_date": "26.04.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "KAIST 창업 ‘포인투테크놀로지’ 1000억 글로벌 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1OWFCRW0tUVBFN3oyaVBkWFpwUlF2VXVrazVRMXVaMExoLUdHeTdrSVBvbHVjLVdNTFJXQmpBZzMtbVRzVnZDNEZnb0lqUFBNeElkUU1kWndYQkpxLWtKMFBKYlVEUdIBZkFVX3lxTFB1OWFCRW0tUVBFN3oyaVBkWFpwUlF2VXVrazVRMXVaMExoLUdHeTdrSVBvbHVjLVdNTFJXQmpBZzMtbVRzVnZDNEZnb0lqUFBNeElkUU1kWndYQkpxLWtKMFBKYlVEUQ?oc=5",
+        "source": "동아일보",
+        "description": "KAIST 창업 ‘포인투테크놀로지’ 1000억 글로벌 투자 유치 동아일보",
+        "pub_date": "26.04.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "빅웨이브로보틱스, 코스닥시장 상장예비심사 통과",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yb3dTbm02VU9YcXdPTGo2ZlUzVWtnM0xlN2RLTk45cWFlTjhFc1FBQnM3UU9PckJOc0VVWm9zemxVODF2U2VWbUZIMXY0SFZSV1gyc0xSVG42TVXSAWBBVV95cUxOQS10dzFrcUFsQXhQb3RRZm45LWQwQTRvbWZucXVicVkyM3RHRkxub1BGV2NMVTJCSlhEN2JFdkhFVWFLZENONDdXS1kyTnRqaXFHWE9XVkR4cUx6WU10cVo?oc=5",
+        "source": "연합뉴스",
+        "description": "빅웨이브로보틱스, 코스닥시장 상장예비심사 통과 연합뉴스",
+        "pub_date": "26.04.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "중국 OpenClaw 같은 플랫폼은 에이전트가 독립 수익을 창출하는 시장을 연다. 금융사들은 직원 코딩 없이 에이전트를 생성, 업무 속도를 가속",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9ZNWFhSmZEaWJHZ09DVzF6QWVLNXRSenU5M3hwN0xWdXRTSEZTWjJrY1NfeFFoaXdPNDFxekVJOVk?oc=5",
+        "source": "AI넷",
+        "description": "[AI 에이전트가 빅테크의 비즈니스 모델에 도전하는 방법] 중국 OpenClaw 같은 플랫폼은 에이전트가 독립 수익을 창출하는 시장을 연다. 금융사들은 직원 코딩 없이 에이전트를 생성, 업무 속도를 가속 AI넷",
+        "pub_date": "26.04.24",
+        "section": "innovation"
+      },
+      {
+        "title": "美법무부, 당국 승인 대마초 위험등급 '1급→3급' 하향…규제 완화 속도",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwMUZMTFFwaVo4U1lPbDl5a09hMFA5WEhxVEFId2RsczRxVkNRZEY4aGp5UTkzVzBqSzFSQVJ0ZU14M1kxMk5ic2U1ZEVCWWVZdVV1TFAwYVM?oc=5",
+        "source": "뉴스1",
+        "description": "美법무부, 당국 승인 대마초 위험등급 '1급→3급' 하향…규제 완화 속도 뉴스1",
+        "pub_date": "26.04.23",
+        "section": "innovation"
+      },
+      {
+        "title": "합성생물학 육성법 오늘부터 시행···\"바이오경제 도약 기반 마련\"",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZExBb0pQRXlBV2dnVW9RSmEycHhsaGhLSWgwQkJpUlY1NFZHUGVvYm5LamN1bXctQ0dXZW1fOWx4ZE45bUxINEh0dnN5ek1aQy1hcFg5ckt0QURVd09kWEw2UkZWeTdDQlE?oc=5",
+        "source": "헬로디디",
+        "description": "합성생물학 육성법 오늘부터 시행···\"바이오경제 도약 기반 마련\" 헬로디디",
+        "pub_date": "26.04.23",
+        "section": "innovation"
+      },
+      {
+        "title": "에코리뉴, 2026년 ‘초격차 스타트업 프로젝트’ 최종 선정… “산업 폐수 자원순환 상용화 박차”",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DWTNaMjdJemJnZndndjZUOFpua29NdWpUNEhaZXNPdTlqcTZYdmhGWWIwSXMzT016blZJa1FEV0tpSVF5YjJKS005WTJjX01laFJqSE1PX2VySFBkRG5nWlJITFRKTUHSAWtBVV95cUxNVjBwb2Rzal9Yck5Mbjd2emd6aHdCR2J6bk9jUlEwMExNNE5Xc0RER3RYOGpDczV4QVI1U1NHX2J0cWE5MlFoVE9yZDMxaTUwMWwtYThXam9STUh5bER1WjlkdjdfRWJTZlRMSQ?oc=5",
+        "source": "에이빙",
+        "description": "에코리뉴, 2026년 ‘초격차 스타트업 프로젝트(DIPS)’ 최종 선정… “산업 폐수 자원순환 상용화 박차” 에이빙",
+        "pub_date": "26.04.23",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-23",
     "news": [
       {
