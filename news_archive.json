@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-27",
+    "news": [
+      {
+        "title": "고유가 위기 속 일하는 방식 바뀐다...유연근무 확산에 민간 참여 확대",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxZHU1aUJWdFA4MWdpU29zYTZ2OVAtSDA5Vk1GUUNXTS1STjJrTy1jOTVIX2FRVmFFZEw1SGJoYThQOWh6V21sZ2x4dFJXZlFBMnRaUg?oc=5",
+        "source": "더글로벌기빙뉴스",
+        "description": "고유가 위기 속 일하는 방식 바뀐다...유연근무 확산에 민간 참여 확대 더글로벌기빙뉴스",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "IBK기업은행, 2026년 하계 체험형 청년인턴 380명 채용",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ndWIxRmIzTmZwWTl0c2ZkODd1ajhLYTlpUkd5V0k5UGRDdEtoY3dYbl9KbDNNc2gtMERQbXV4OFNUaDJlUFVhMGxTRl9DdHBjQzFUUk95aEtUNHI5QTlZajBWSi1udHRkOGh5LS1SYXR3dw?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[오늘의 공기업 채용정보] IBK기업은행, 2026년 하계 체험형 청년인턴 380명 채용 아웃소싱타임스",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "중소벤처기업진흥공단, 2026년 상반기 신입 및 경력직원 60명 채용",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uTnZieERZbWtiZjd6X2xSeFJkdlBlUDhDUjBSWk96Q1JNZmtRazM1Q3o0eUNUMXEwVThVa1hOeEVHOXFZNjF6bmFkLVVDOF9JUm90dG9pVHE5NFFfVmtJRnlpQ25JaXpCUVh6bUs3a3BDdw?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[오늘의 공기업 채용정보] 중소벤처기업진흥공단, 2026년 상반기 신입 및 경력직원 60명 채용 아웃소싱타임스",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "엔씨 노사, '300만원' 임금 인상 및 인사평가 투명성 강화",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yWTF1Vk1VYlVmQ1dtTWdCZ2p3TENQNDlmV1U4VHQ2LV9uWW05U0h4emRZZWw4NEREcWhqRVpHSDdtaTRFdnlUNUl4aDMwZXRXSzZzRWoyYWxDUjQtR2c?oc=5",
+        "source": "인벤",
+        "description": "엔씨 노사, '300만원' 임금 인상 및 인사평가 투명성 강화 인벤",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "‘나이+근속연수=70’이면 “가방 싸세요”…어떤 기업이길래",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oeWUzQURaN2o4RXZUUWN4d0xQZGZTYTZCU1drX1dhR09oXzZlc2RKZ0pSMC1kaDFFYkZCRWpqWDQzY0FNOW5xUldoR1VjUEN6Rk4zMHNlT2tJQQ?oc=5",
+        "source": "농민신문",
+        "description": "‘나이+근속연수=70’이면 “가방 싸세요”…어떤 기업이길래 농민신문",
+        "pub_date": "26.04.26",
+        "section": "hr"
+      },
+      {
+        "title": "“성과급 구조 바꿔야” 대기업 노사 충돌 확산···파업 리스크 부상",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzSmIxcEMtZlF4YnFrSzZQWF9zQ194SWJTOXIxd1FuaFhISHhGcnFiUGd1Z1VEd3l1TXI0eXF6SHpuZk1hRFNPQWEzcDl5SlQtMmNCUlpQYlEtMUdiYUZsYnJNUTk0V1JZdXA5X24xd21EUdIBdkFVX3lxTE90RFJTcTQtd2JQSUFMdnBRRU01bEZGLXhGb0FuLW9oWG1PLWpGeUNjSmE1Qkhvck1GaGdPWGxWZ2VQLUp3REZJOXlQYUZWS3VzZGVoVXpUZWtMbkhlOVI3bzJQblBwR0VKUnFmMU16MWJtWHdmSUE?oc=5",
+        "source": "시사저널e",
+        "description": "“성과급 구조 바꿔야” 대기업 노사 충돌 확산···파업 리스크 부상 시사저널e",
+        "pub_date": "26.04.26",
+        "section": "hr"
+      },
+      {
+        "title": "‘피지컬 AI’ 올라탄 K-로봇의 반란⋯ 브릴스, 레고 플랫폼으로 ‘판 흔든다’",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yblRTRTNHS05raEFDNm9JemNfLWI3Z1ItUC1PTkYtRUU2Z1ZfZjd3U0xHcFNhdDJIQWJUZlZqMGpGM3dOUXhKa2dHbFc3T3MzbkFKRXBROW1Gdw?oc=5",
+        "source": "브릿지경제",
+        "description": "[비바100] ‘피지컬 AI’ 올라탄 K-로봇의 반란⋯ 브릴스, 레고 플랫폼으로 ‘판 흔든다’ 브릿지경제",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "대만 ‘파마클라우드’로 약사 역할 확대…1200억 처방 감소",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WRk1jajFSUVlUYVpRdXlyVUozem5odG1wWUJHTmpxSzFMZjY1TV9fVHdKZ1R5TXpFSDU2LTNyMnNZZlRLSENYdllranBOckRqZkt0dE40NC1Fd1RyR3NwdlVZNGI2T2JLZVE?oc=5",
+        "source": "의학신문",
+        "description": "대만 ‘파마클라우드’로 약사 역할 확대…1200억 처방 감소 의학신문",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "폭스콘, 베트남에 5800만 달러 추가 투입… 휴머노이드 로봇 생산기지 구축",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTZwSk85WDBNY0lfSW1TckNoNWVEeXZVcWhOYjY5TER1Z05nMmZBUFlEdzhyU3AtQTlZT2ZydU9uTTlNcldhNkxyT1o1QkNxVV8tNTlPZXp2UEdrcVd1YWE0eklDVTYtb2ZXTnpfdktLWGlCVzZzU0Y2aF9VNVVQZ3lkdy03dnB4?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "폭스콘, 베트남에 5800만 달러 추가 투입… 휴머노이드 로봇 생산기지 구축 글로벌이코노믹",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "망분리 규제 완화… 보험·은행 ‘AI 혁신’ 시동",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XLWlEaEd0dDNiVDR4ZVQ5WUNkT0Rxdkt6T3dPRFlMLUdLZW5ZR193SzJia1RWdU1PbllqMXl1OFNmeWgyNmV6LU5jcGM5c1hlRmREUFhrOUh5TnBVS1kybXgtNTZ5UXJjYmQw0gFvQVVfeXFMT281OEp0YnNKeGlvMU40VVIydFdkbUROQlQ2LWlqUFpFMkZraDJOek84SjJNOVpWQk1XaTVWTUVPT05fSzQybGIxc3B3V1E0aDF2TXhsaTFvU2pEZ05DR0lZUHZhTGxRZVNSZjBrbTA0?oc=5",
+        "source": "한국보험신문",
+        "description": "망분리 규제 완화… 보험·은행 ‘AI 혁신’ 시동 한국보험신문",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "에너지 대전환 시대…공급망 재편 속 韓 전략적 해법 찾는다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1veWhya0U5TUw1cWFmdGlUdlYtYnpHZUZJNy0wMi1BTS1zQTFCUXFiRHN6Yzc3T1c4Tk5jb1pGRFZGZENiQVhTa0hCUldwd0RjTllUV3ozSmlRQdIBWEFVX3lxTE9VeVNfMEROT3I4ejF0N0tJX1JYTEtEdHZfZGtNenhkd3ZNYTItOFFMSVVuUmRmMHNVOTZYUXU0RnlFbmgtMGxHNUdmVFBwY2l5ZzFQV1hydDY?oc=5",
+        "source": "아주경제",
+        "description": "[사고] 에너지 대전환 시대…공급망 재편 속 韓 전략적 해법 찾는다 아주경제",
+        "pub_date": "26.04.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "5대 중앙은행 금리결정, 중국 제조업 지표, 4월 정치국 회의, 노동절 연휴 일정, 산업∙기업별 이슈 등 이벤트 폭주하는 '슈퍼위크'",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aQTFRZEtYQzNjZTE4YVg0TkxDUmZ6a2hTQ3JBeWI0bDZ0RVh1YnBxVmEtdVV1RkJiY2ZlNkJxdTB0TVo0Tk1BNWtERlhXeDFtRXJsdzZLMDN3QU9fdXRGd0dVYnkwa29KclFMWFlMRmRsekdBNUlKNXNhdw?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "description": "[중국증시 주간 포인트] 5대 중앙은행 금리결정, 중국 제조업 지표, 4월 정치국 회의, 노동절 연휴 일정, 산업∙기업별 이슈 등 이벤트 폭주하는 '슈퍼위크' 네이버 프리미엄콘텐츠",
+        "pub_date": "26.04.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "K-제약바이오, ‘10대 대미 수출국’ 목전…하반기 품목관세 ‘변수’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dFlnUllEUzlNbUJiT3BwWVV2X3pHZzQ0cmNyUVJDX1ZJdlZKZ2xKekNOS2h6MkhfT0pLeDY1TG1aQUpjcEVxZ3JpRzhMbjEzVFl1XzV4MFpYS2s?oc=5",
+        "source": "에너지경제신문",
+        "description": "K-제약바이오, ‘10대 대미 수출국’ 목전…하반기 품목관세 ‘변수’ 에너지경제신문",
+        "pub_date": "26.04.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"중동전쟁에 글로벌 불확실성 확대...공급망‧에너지‧통상 협력 강화 추진\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tX2tPSHhwbXhUSHlSeTE3cV9yOU5oN0ZOZlBKTXBtbUhQNEZXUWpheUltZUNVTS0xMTAtR0ZibGxSb29fbGxqeXZkQ3JSSmtxVlhhSGdlTUhYQjlfUm9uam1UbXROQmtQSm9r?oc=5",
+        "source": "파이낸셜신문",
+        "description": "\"중동전쟁에 글로벌 불확실성 확대...공급망‧에너지‧통상 협력 강화 추진\" 파이낸셜신문",
+        "pub_date": "26.04.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "IBK기업은행, 신용보증기금과 혁신 창업기업에 5000억 원 규모 금융지원",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5MS28zTVlzei15YWQxU012TXlnWFVWLWdqb2c5SWNOOHItM2pkTXZQdGRkeDJHX2RPcVdwZ1ZOVQ?oc=5",
+        "source": "사회적경제뉴스",
+        "description": "IBK기업은행, 신용보증기금과 혁신 창업기업에 5000억 원 규모 금융지원 사회적경제뉴스",
+        "pub_date": "26.04.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "자율주행 스타트업 글라이드웨이스, 시리즈C 라운드서 1억7000만달러 조달",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtZm1aZmRZRmx6SWlsbUg2TEZ5c2pOMVl6Z0JtQ1VjaXFNV2kxa0J5ek5EMWh3LUh6MWRDeTNxdVVXYTdLU0IwVnFLbGJySDN0RERBdkRjUzBrN04zZXRnQWdsY21zNUZFS1lvMg?oc=5",
+        "source": "로봇신문",
+        "description": "자율주행 스타트업 글라이드웨이스, 시리즈C 라운드서 1억7000만달러 조달 로봇신문",
+        "pub_date": "26.04.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "코스모로보틱스, 공모가 6000원 확정…내달 11일 코스닥 상장",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oRGFhblBHcDFseE1oTnFOeUhoaS1tdEZHSkhueU4wejBYaWo0SDNIUUdKSWJQckNOY0Z2ZXBpUlNhV3FSTzMydVRkN1RUMHBqemRGaHowOXRwZTl4X3NXVVJKSTFmcXdaNS00VQ?oc=5",
+        "source": "로봇신문",
+        "description": "코스모로보틱스, 공모가 6000원 확정…내달 11일 코스닥 상장 로봇신문",
+        "pub_date": "26.04.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "김포시, 하노버 산업박람회에서 글로벌 투자유치 가속화",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13RTNXekcxbUM5a1pvZmhfM1hnYmo3ZUk3dHAtQ1h4andQeXlTdlpNY3JKdXdXWWEtQzZNVmxaeTk3S2gtbEFtYkxUZjVILTM0dVdn?oc=5",
+        "source": "네이트",
+        "description": "김포시, 하노버 산업박람회에서 글로벌 투자유치 가속화 네이트",
+        "pub_date": "26.04.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘BioDay 2026 – 폐암 치료 혁신을 향한 과학적 도전’",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tVXRjdXZjUXp0bUZfdjRjV3VpYXVOSFJFclM5ZDd1S00zMmE0alNoWXlfOFJRWVlFTzhKb05nLVdjc2E5eE1OMkZrLWxZUjh1R1AtcXN0VmNuS1ZveUNnZXp3WndkeUd2MF84?oc=5",
+        "source": "한국의약통신",
+        "description": "‘BioDay 2026 – 폐암 치료 혁신을 향한 과학적 도전’ 한국의약통신",
+        "pub_date": "26.04.27",
+        "section": "innovation"
+      },
+      {
+        "title": "SK, 반도체·AI·바이오 혁신 기술로 글로벌 경쟁력 키운다",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbEFMOXN1bXRfaEhvX3hPVzdNYUJoYXNiX1lJdjktd3BDVWREMC1oajZiZUpHUlUzUTFYTjBiUllXTGkxejJqWC1LUFJ2Yk9EODJ0VA?oc=5",
+        "source": "이투데이",
+        "description": "SK, 반도체·AI·바이오 혁신 기술로 글로벌 경쟁력 키운다 [R&D가 국가경쟁력] 이투데이",
+        "pub_date": "26.04.27",
+        "section": "innovation"
+      },
+      {
+        "title": "\"K-브랜드 해외 진출 ‘활로’ 넓혀\"... 롯데홈쇼핑, 한-베트남 비즈니스 파트너십에서 쇼케이스와 수출 상담 진행",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45Wmh4aXJSQkoybkNzWGt0Y2RtbERjNVZsVEJHUXhocWt6dTBqbGhmRFBEcFlKcTVlRWZMUGx6dzQ4eWxvNUFMZVlzelVNR18yc19WUVR3aF9vMEFyNk5xYVoyT1AtWUlMTmpTR0Y1SW8?oc=5",
+        "source": "더퍼스트미디어",
+        "description": "\"K-브랜드 해외 진출 ‘활로’ 넓혀\"... 롯데홈쇼핑, 한-베트남 비즈니스 파트너십에서 쇼케이스와 수출 상담 진행 더퍼스트미디어",
+        "pub_date": "26.04.25",
+        "section": "innovation"
+      },
+      {
+        "title": "인천 서운산단 관리계획 변경 승인… 업종 확대·규제 완화",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jc3JyTUVfNXlXOC10SThMYU9rTEFsWXFRX0tWVnYtSVFRTnp1ejgzQTladkEyNzFObFBWWC16RnlDSzRJWHJISmJJcTZPSDE1MjE3WVJR?oc=5",
+        "source": "헤럴드경제",
+        "description": "인천 서운산단 관리계획 변경 승인… 업종 확대·규제 완화 헤럴드경제",
+        "pub_date": "26.04.24",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-24",
     "news": [
       {
