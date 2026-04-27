@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-28",
+    "news": [
+      {
+        "title": "기업 임원 연봉 공개 더 자세해진다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UGFLNkhSUy1DQzlQWGwyZ1V4X3FsS2ZKSllkTUFIZzVsaXFkUFcxSzVPUl9YaEpBakFZeGdiVTB1bmIzSHE4cVJYdnhfVzBtQ3ZCY251TS1aZk5oSzNYS2FOT0RFT1dyOUMtLQ?oc=5",
+        "source": "데일리경제",
+        "description": "기업 임원 연봉 공개 더 자세해진다 데일리경제",
+        "pub_date": "26.04.28",
+        "section": "hr"
+      },
+      {
+        "title": "\"채용 기업에 대출금리 인하 등 혜택 제공\"",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXZ2lDQVdaMkJkcHNXOVBuZmtrbXlqSGJ3ZlpZXzJKZXljQ05MUGlnWkd5Z1FHbTNuNkhodndXejk1dGpJYkM1bFZiUmNRcmw3d05Ma9IBVEFVX3lxTFBXZ2lDQVdaMkJkcHNXOVBuZmtrbXlqSGJ3ZlpZXzJKZXljQ05MUGlnWkd5Z1FHbTNuNkhodndXejk1dGpJYkM1bFZiUmNRcmw3d05Maw?oc=5",
+        "source": "한국경제",
+        "description": "\"채용 기업에 대출금리 인하 등 혜택 제공\" 한국경제",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "'KB굿잡 우수기업' 채용공고 확인하는 구직자들",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RXJuZWtyamZId1RJSFJpRV9ORC1jRFdfUWVvbXVHV090QXpMOTA2cGdvZ2NzU1Fvc3ljSXZpNngtSVhTaldCLXJfQ3ZZYW1tVmM3VjJOX2JCLVRWbzRCNnZMR3lHdHRtRkE?oc=5",
+        "source": "뉴스웨이",
+        "description": "'KB굿잡 우수기업' 채용공고 확인하는 구직자들 뉴스웨이",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "대만법원,TSMC 기술유출 직원 징역10년…이직한 기업에 70억 벌금 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ObWxYRUVHZ3JWdWw2bXlPTjh4ZlY2YW9tTXdtUm9xdHhjM2d1MFo5QkhOVXYzYkZOS3BtZ1ktdVJNRVNZY1c5a1lrNXNZR1pqTWZ0YWNfYzRrUEVMUUxFZ2N3alFrNzVB0gFuQVVfeXFMT1VqUFZlQm1vTnpuZkJKUkc1c2RMSVRwMzZOaDFkUGxGWDJfd3VWbUZ5OFR0d1djNU1ibVlLbVVfZDlZdXdwZXBlZy1BaEI2Tk1uVGRXYzNGMmpMYTNaLVdmQWZPWFFzUDdaWlhyOFE?oc=5",
+        "source": "머니투데이",
+        "description": "대만법원,TSMC 기술유출 직원 징역10년…이직한 기업에 70억 벌금 - 머니투데이 머니투데이",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "‘상생 채용박람회’ 28∼29일 열려…700개 기업서 2200명 이상 채용",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Kc01oMXR0VTRDamNWN2o2eHkyNDlUQUVFZGdrYUtCczU3eVIwbW1JbEtTb3NRQmdnRlA1ZVhkeGZsNkRnUHZ3T2lYY0Z4ZFZFdnBZRm5WZFVtRDFVaGZ2d0hFRTZLWTJ0REw4cEFn?oc=5",
+        "source": "mstoday.co.kr",
+        "description": "‘상생 채용박람회’ 28∼29일 열려…700개 기업서 2200명 이상 채용 mstoday.co.kr",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "메타·MS 이어 나이키까지…AI 투자 확대 속 감원 잇따라",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Z2cyY2ZTMGNWcHNyNHFvN1ZrVzVhT3UxWjJMbDlZT24talZiQTliRnBBV3pBeVg3b21fYTNUMzhIczJOVnFJNEVNeXQ3UEw5aEJZSWpyUnpNRGotSXc?oc=5",
+        "source": "더구루",
+        "description": "메타·MS 이어 나이키까지…AI 투자 확대 속 감원 잇따라 더구루",
+        "pub_date": "26.04.27",
+        "section": "hr"
+      },
+      {
+        "title": "구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인”",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SjlPdE11a01HOUxNRWlVVjY2YXpZMTViZ2diMXN2QldOZzJuSHB1eFJhN2VGUm5iOU9VMm5TUGdhSXp6aGQxRG10R0cwb3JxSk5CNWhXdHJXUjdXNzNWOHZsWmYyblk?oc=5",
+        "source": "인공지능신문",
+        "description": "구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인” 인공지능신문",
+        "pub_date": "26.04.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "뉴로메카, 로봇에 ‘행동’을 더하다…피지컬 AI 기반 자동화 전략 제시",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qc2VmUGZxazRydW9UUFYtazZ6bU1BZHRmWW0tXy1uLURGMTlVNnFWZnMxY055dmIxVWpuclZDZjE4ZEstbEpKSVpWMlhOenRFNE5hX0NvSXFlWnlDeGFkRHNpWmRlV2s?oc=5",
+        "source": "팍스경제TV",
+        "description": "[이슈] 뉴로메카, 로봇에 ‘행동’을 더하다…피지컬 AI 기반 자동화 전략 제시 팍스경제TV",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 3D 비전·피지컬 AI·AI 에이전트 등으로 자율제조 현장 구현 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4Z2RDQmJISmlNOE9HVFB4SEczYW5rcDJLRVV1clFJN2dVMlBPVVQ4c2ZYaW1OLVpHNDhyOE1Gem9Cb3E4?oc=5",
+        "source": "산업일보",
+        "description": "AI 3D 비전·피지컬 AI·AI 에이전트 등으로 자율제조 현장 구현 본격화 산업일보",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "양산시, 업무자동화 도입으로 행정업무 혁신 앞장",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNnlxbkhEVWVyUnpKbzFRSWktMjUzSW15RXhIZTFvTnVxWGNFMmNKRkRqcHZtcjJxdHFNQkdjbkhkZkMtdkxTRm1RdHFHSllGalB3M3JoNGgwWFZtQ1E5Y2lWUmJkNmpu?oc=5",
+        "source": "양산타임스",
+        "description": "양산시, 업무자동화(RPA) 도입으로 행정업무 혁신 앞장 양산타임스",
+        "pub_date": "26.04.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "삼성전자, 30일 1분기 실적발표…반도체·모바일 '희비'",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fNmNnVWtDdXNTM3RFSTlQeDRFSnpibXVid1RCaFdXZ2I4ZkdmcXFMX1czM0RTeHlrVXo1d0hIM1lNQmNmTGJIWk1hN0laY3M?oc=5",
+        "source": "v.daum.net",
+        "description": "삼성전자, 30일 1분기 실적발표…반도체·모바일 '희비' v.daum.net",
+        "pub_date": "26.04.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "글로벌 에너지 공급망 불안 속 울산항만공사, 뉴질랜드와 대응안 모색",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IeXNGeU9vajVNbC1rQW5ONmN1LTgtWmdHeFQ2UWpRRERWYmN1azA1N3U2R2FZZ1VXSW1IbWs0MUMyVnlrV1RSTjZRZDZfdjQ?oc=5",
+        "source": "v.daum.net",
+        "description": "글로벌 에너지 공급망 불안 속 울산항만공사, 뉴질랜드와 대응안 모색 v.daum.net",
+        "pub_date": "26.04.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 메가사이클이라도… 끝은 있다",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rR2ZkZUhZalhYdVVLdzdGYzF5eGZ2c3A2Y3VQRUpUR1VCd0o4bWVaYzJ3Zm1KSnJISFgyd1VXcl9rcjhjNHdRVGR1QjFoSFZQdDJsdjhSNzB0dU9zNjR0aGxwNS11NlcwVnltQmlaOFQwR0dQTEHSAWZBVV95cUxOVV9zWjh2blR0MklTcGxuWEpNTmV0TGFBcnhnN1VxdWpiOUt0RG4yU2NwNkdvdnpZNjRYckQzU3VsNVdicWtYdVJpcWxLM0p4R05KVWRfQWduYi10Y2hhNU0xM1NSSVE?oc=5",
+        "source": "동아일보",
+        "description": "[오늘과 내일/김현수]반도체 메가사이클이라도… 끝은 있다 동아일보",
+        "pub_date": "26.04.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "중동 불안에 공급망 재편…인천 에너지 지형 바뀐다",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsZ2xJeTlhS25HSWk2amY4MjVDR0Y0NldTXzhIaWE1S0JIV1poZGhhaGIzQ2J5R3BtLV9QMWhsaUhEdElZdElSQ2IyVTdsY3NEd1Q1WHJZMzBQbDAtSTg3LUdkcVdCbEt3eHlnZ2xCS3I?oc=5",
+        "source": "인천일보",
+        "description": "중동 불안에 공급망 재편…인천 에너지 지형 바뀐다 인천일보",
+        "pub_date": "26.04.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'봉제의복 제조업' 기도산업 등 2개사 코스닥 상장예비심사 신청",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFNVNwS09mN2ZhSXplMnVVbmZvbTRQN3R5ckU3WHROWGU1ajdqS2Fkc09JanoyNmthY1JfS0NpV2oxMFdiV0ZHbzFQSmRUYkVDZU1j?oc=5",
+        "source": "SBSBiz",
+        "description": "'봉제의복 제조업' 기도산업 등 2개사 코스닥 상장예비심사 신청 SBSBiz",
+        "pub_date": "26.04.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "디노티시아, 900억 원 규모 시리즈A 투자 유치 外",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MZjRDY3ZFem1mbzJicDVpSmFpN1V4bUxKNWNkVzBRUHZtY0ZfLWU1VEpMbXJubjBVRmVXTkJRbXlBaVJpekV5YTM1bHdIcnlTUnUwM29oUHVPMmpoWHpsVmt1TDJMYXdaUDR5eW51a9IBZkFVX3lxTE1rYUVSWVFOX2NJZGdSSGpYX0NqaF9QNms5NlhPZEpLWWVKbXIzMXRwakFHbldJaEtPUEY0Z3lmcDIzd1Z1QTNOU2VwTnBlckh5MTlHamNlWXBvYXV3d1lVd0RRUGxGUQ?oc=5",
+        "source": "동아일보",
+        "description": "[주간투자동향] 디노티시아, 900억 원 규모 시리즈A 투자 유치 外 동아일보",
+        "pub_date": "26.04.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "中 백운산, 글로벌 투자유치 대회 '국제화 가속'",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93c1l0alFPak5ad0dlaGw2TXdUY1JWWE1JN2pOV29CbjMtVElVLXAwTnRQME52UkVnQk40VVk3ZlpzUWxnN09QVnpEYXNpZUUtdkpWQkxOOFFTeTRZ?oc=5",
+        "source": "뉴스핌",
+        "description": "[AI의 종목 이야기] 中 백운산, 글로벌 투자유치 대회 '국제화 가속' 뉴스핌",
+        "pub_date": "26.04.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "KFC코리아, 美사모펀드 칼라일에 인수…지배 구조 개편 마무리",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EdVFPMW5MNXo3c0RvQU9MRDZPVHJnLXRTY1FoZi1xUEtxWGVmMWFoVUdUM0ZNVXI3SmtBcWJOcWhZX1RLYlZaZEhKNGYtLWNfaENpa0ItNk8tNVhuV1NnUmMzdTN0R1E?oc=5",
+        "source": "서울STV뉴스",
+        "description": "[M&A] KFC코리아, 美사모펀드 칼라일에 인수…지배 구조 개편 마무리 서울STV뉴스",
+        "pub_date": "26.04.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "K-바이오 혁신 전초기지로...스타트업·투자자 '오송' 집결",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UZXhaUURub2tDZXJSZnRKbF9HdV92bGRqaGZUZlYxanJVM290clFZaGRCOC1LOG9WTS16b2FPc1lHNGFVSThJdDF1SQ?oc=5",
+        "source": "v.daum.net",
+        "description": "K-바이오 혁신 전초기지로...스타트업·투자자 '오송' 집결 v.daum.net",
+        "pub_date": "26.04.27",
+        "section": "innovation"
+      },
+      {
+        "title": "K-제약바이오 혁신 주역…한미 ‘롤론티스’, IR52 장영실상 수상 外",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YWS1BWTkyczF0a0Z6SUhlcVhERUFBcmd5NGMzTzl0VHZ2b25BeEVmWUJ2UFo5Y3JoV1RNQnBoX1ZWWk5vNjlaYml2VUUwX0VSd0dOYWw0Rm5FRElaN3lxR2NpYmpEZWs?oc=5",
+        "source": "베이비뉴스",
+        "description": "[제약,바이오 트렌드] K-제약바이오 혁신 주역…한미 ‘롤론티스’, IR52 장영실상 수상 外 베이비뉴스",
+        "pub_date": "26.04.27",
+        "section": "innovation"
+      },
+      {
+        "title": "MSD, 보건산업진흥원 손잡고 K-바이오 ‘글로벌 진출 지름길’ 연다",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qc0JEQkZ2eVNHRUVYOGlaNnF0cVhkREdsNjJyUTd2ZVZ4OVVwNF9qSlFadnRqNDFSVUhVcm56QUhnSVdOcnVwN25jWlVIbUxMSlpkSU5rUmxmNnRIcjVxcGhjUk0?oc=5",
+        "source": "메디포뉴스",
+        "description": "MSD, 보건산업진흥원 손잡고 K-바이오 ‘글로벌 진출 지름길’ 연다 메디포뉴스",
+        "pub_date": "26.04.27",
+        "section": "innovation"
+      },
+      {
+        "title": "K-게임 글로벌 진출 돕는다... 콘진원 '2026년 글로벌 게임 현지화 지원' 사업 참가 프로젝트 모집",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YeVhVSWpVUG5DMXljVVRxcUJ5cWQyUGQxajVXN1NkS21qdVdnT1BhN0FfTVdYdkFkNzViN1plam50aW5qcFdhV2tIMF9yOXZLRTUtMjIyZl9SQ0d2bEsycQ?oc=5",
+        "source": "게임포커스",
+        "description": "K-게임 글로벌 진출 돕는다... 콘진원 '2026년 글로벌 게임 현지화 지원' 사업 참가 프로젝트 모집 게임포커스",
+        "pub_date": "26.04.27",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-27",
     "news": [
       {
