@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-29",
+    "news": [
+      {
+        "title": "최저임금도 법 개정도 막막…870만 특고 ‘이중 사각지대’",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fOHVLZ1FBSjBuT2NrQjFnb3ZoVEpXQVVBLUpLYjVUeUMxT0dsZjN6UmZ2MXV4cTBTdWxkQWt0SEdmTlctU0dsU251cmNMcmw2eFJrV0JpYnJmemVPMzlaX1lXNVk0bzF3Vkd5RA?oc=5",
+        "source": "알티케이뉴스",
+        "description": "[기획] 최저임금도 법 개정도 막막…870만 특고 ‘이중 사각지대’ (하) 알티케이뉴스",
+        "pub_date": "26.04.29",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 노조, 45조 성과급 총파업…위원장은 동남아 휴가 ‘논란’",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVHdyTXN1QWROS0hWQ0NUY2lOc2xQei1iQldYYjJVdVRiU3BobFl1Y3Exa0RIcUx5UXd0RDM2cDBFWjB1QVNXYjlFcHFXT3k4YVdOSmFTbWNOT0E5MmJ1MHRtOUI?oc=5",
+        "source": "bntnews.co.kr",
+        "description": "삼성전자 노조, 45조 성과급 총파업…위원장은 동남아 휴가 ‘논란’ bntnews.co.kr",
+        "pub_date": "26.04.29",
+        "section": "hr"
+      },
+      {
+        "title": "'이 돈 받고는 못 다녀' 줄퇴사…국민연금에 무슨 일이",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdmtiNW1qVUV4Qk9feTFNdEFXa2JsUnlWeVpsdVMwWE9udDBiRzBDZWU1WGhjRmRvbk1xanJLOVdLZzd6RzVuSEQ4X012RFBCMDZLY1FPVUxSZw?oc=5",
+        "source": "한국경제",
+        "description": "[단독] '이 돈 받고는 못 다녀' 줄퇴사…국민연금에 무슨 일이 한국경제",
+        "pub_date": "26.04.28",
+        "section": "hr"
+      },
+      {
+        "title": "유니티코리아 노조, 권고사직 거부자 대기발령에 '반발'",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMV9RVjZXNk1paUQ1Nk9NTWpMSm5rMGVlM25QMTlxbkhpdzY4b2xaSGYtazZWaWFDdXJFdngzazJhMGlkWkhDY21vU2VrY3JQWTFsSzdBNE8zUG5PWlAxLUhwYVVmX1pY0gFsQVVfeXFMTXRaOU5QUjg0VDJCY1NuMWpfU1F5aHN0ejBLTmhMTW9nZGNjNDBfYzNXbURRWnQxS25McHhJY01uX1Q1MXVGa29hbTZGVFVQdDN1VGZINWZ6R0N1dXQxV1NOTm9FSjBSRUJEMHJu?oc=5",
+        "source": "블로터",
+        "description": "유니티코리아 노조, 권고사직 거부자 대기발령에 '반발' 블로터",
+        "pub_date": "26.04.28",
+        "section": "hr"
+      },
+      {
+        "title": "日채용시장도 변화…\"주요기업 채용 계획서 경력이 절반 넘어\"",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Md3AtX21fOFlRTURvcUhKbUFkU3NlRDc4NGdwSlpNNTEySkdWWnZINUFLUGhMbklxYzJ2ZTV5dnFVRlpYR1FIV0tBdGR4SzNCd0wxbEZMTWNuek5Jc2lsb29ocVlsTXZlMjJaVXRZbDhxWjlk?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "日채용시장도 변화…\"주요기업 채용 계획서 경력이 절반 넘어\" 연합뉴스 한민족센터",
+        "pub_date": "26.04.28",
+        "section": "hr"
+      },
+      {
+        "title": "SK바이오사이언스, 171억 자사주 매입…전 임직원 RSU 도입",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xcEptUUxjMGY5VWF4WGQwcGxxdXpYYVl2dUszSnVtSEoyTndSZWJjbm9BWEFsLWEyQjZfODJIWXU1dl81LTNaYW12THF0U2F1c0UtS1NqNmg5aTRPNXUxa1Z0WmZXY2tn?oc=5",
+        "source": "메디팜스투데이",
+        "description": "SK바이오사이언스, 171억 자사주 매입…전 임직원 RSU 도입 메디팜스투데이",
+        "pub_date": "26.04.28",
+        "section": "hr"
+      },
+      {
+        "title": "\"인텔·AMD 잡는다\"… 아마존, 73조 'AI 인프라' 괴물로",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QaGNjR3h6NzNPQnBucm5VVXg0Q09uZ0VkYmNORWViN3ppZHpXOG42aE9faUVCd1dlZE4wS3piU0lNMFViMGh0cHkzUVBOb2NZQUZ4TmNaYlB0azV4cjBLbDYwYnctVHc?oc=5",
+        "source": "초이스스탁",
+        "description": "\"인텔·AMD 잡는다\"… 아마존, 73조 'AI 인프라' 괴물로 초이스스탁",
+        "pub_date": "26.04.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"금융규제당국,강력한 AI 위험 대응해 에이전트형AI기능 도입해야\"",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Tk4zRXN4QTA1ZTBBZzloZ3FMbW5EREZYSU9MZVZzNWpaV3NzS2JCeV9YSklfUVFZV09iWVJWUm9Rci1pdkJjRkN0VkY5S3hkRElYMV9Uek8xUdIBVEFVX3lxTE0xN2tRLWxSSUE2MzZaams3RmRfb0lORzdqcm9ESGt1Y3E5ODB3UUJQMV9BUl9mSE03amVUOUhsWWRFMFMyVkg4MWsxbjdyMjBMUHFsLQ?oc=5",
+        "source": "한국경제",
+        "description": "\"금융규제당국,강력한 AI 위험 대응해 에이전트형AI기능 도입해야\" 한국경제",
+        "pub_date": "26.04.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "카카오, 교육부·대교협과 AI교육 혁신 위한 업무 협약 체결, ‘테크포임팩트 캠퍼스’ 전국 확산",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RaW5va0ZTWDU2VENDaWJuSTJYVDRJcDcyNHNIWmlDOGlHZHEyclY3VGI4MnhLV3BZSUVaaXprMXEwVkg0VHYyOHZyT1lEN3lmY3VDS2hZcEFjM2Ywd1pCMERBcmxHQzA?oc=5",
+        "source": "인공지능신문",
+        "description": "카카오, 교육부·대교협과 AI교육 혁신 위한 업무 협약 체결, ‘테크포임팩트 캠퍼스’ 전국 확산 인공지능신문",
+        "pub_date": "26.04.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "인천조달청장, AI·로봇 혁신기업 소통·판로지원 약속",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4MEtCamdwM3EtTWFVM0trcW9RM0ZNYlQ3bThTZ3BEN0ZpMXhxLUNEaTIxVlBlMVJQRkdKVlhjbmlmWDU0UGQxRm1SZWNBQTg?oc=5",
+        "source": "v.daum.net",
+        "description": "인천조달청장, AI·로봇 혁신기업 소통·판로지원 약속 v.daum.net",
+        "pub_date": "26.04.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "호르무즈에 갇힌 공급망...에너지 확보에 사활",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NZk9WT3VCZVhpd1JSSHJfUzByRUdVYWFOQjUya1FkTG8za0xRUk0zMHprQ1QyU2JZWmxQWkZ0S3lXOFdpSEJjbU9HM3RwWW1XbkE4bE9fVVBEZHBUQWc?oc=5",
+        "source": "YTN",
+        "description": "호르무즈에 갇힌 공급망...에너지 확보에 사활 YTN",
+        "pub_date": "26.04.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "“美 투자부터 관세 대응까지”…중기부, 수출기업 맞춤 설명회 개최",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aM1k1Yk5uTzdhdVZrZmNoY0NzeWViSmV5dWVKMHBIbEc3WFI1d0tocXVlX0tNdnFjeVo5UDZmdnZKeVFuRkUtbVBqS2txQnZFd1lJZm9rOXliY3o2UTIxQ2xNa3M?oc=5",
+        "source": "매일일보",
+        "description": "“美 투자부터 관세 대응까지”…중기부, 수출기업 맞춤 설명회 개최 매일일보",
+        "pub_date": "26.04.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "관세·환율·대미투자 정보제공…수출중기 대상 설명회",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vXzQyeEhIT2JmTHV1QnBRM1FlUjdVVFBwUGt2SnZLN2lOam10RmlSaEIwMXJlc2xiNVVPVmVsZDN0YlhSYnZ2ZmN1a0x4WFRXcGpKVERyQ2wxTVdza0p5WdIBeEFVX3lxTE1yODhkbHd0MWdUNS0td3dUNkd1U0lpS0VUYWRSRnNMcWx2Y2VkUzhGUmtITkk3eFNCZEhLMTAyWXluMjV1TjQ2eGlXTjF0Ty1FaHF5UlFFLVJ2ZndMU2stNEhiQWxNX0FSaGotZ3Q4VHZka1NjS2Nkcw?oc=5",
+        "source": "뉴시스",
+        "description": "관세·환율·대미투자 정보제공…수출중기 대상 설명회 뉴시스",
+        "pub_date": "26.04.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 실적 분배 공론화… “사회전체 결실” vs “법인세만 100조”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ET1d0OEw1S3FMRklxVmkwU19TdVE3elI2S3RnOFJVaDdHRnBselJVZDZxaHpKZ0c3TERCSlBrUkhCdHZ3bmFqT0t1amlvQTQ?oc=5",
+        "source": "v.daum.net",
+        "description": "반도체 실적 분배 공론화… “사회전체 결실” vs “법인세만 100조” v.daum.net",
+        "pub_date": "26.04.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한일 넘어 대만까지…동아시아 벤처벨트 구축하는 VC들",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGRDVTJEc3Z5ZFEzU25ScnlLbENyNEFFX0RtMlplNGp5Tl9qVzFwSUdfbF9xVmJEX0ZTdFoxNHFMTkM4MXVHRUxvR3hTZU9ubG1PRHhobGc5WnJXVnItQzNFaXpYNVJfR2FRTUZfaTUxQ1owd0pnZ2p2Z0tORVZwUA?oc=5",
+        "source": "이데일리",
+        "description": "[마켓인]한일 넘어 대만까지…동아시아 벤처벨트 구축하는 VC들 이데일리",
+        "pub_date": "26.04.29",
+        "section": "invest_ma"
+      },
+      {
+        "title": "피지컬AI 기대주 마키나락스, IPO 흥행 기대감 높일까",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TMXhuSjNWMHRXbmgzMUdWVWNOUlJ4ZXZ6b3c2R2FwVDZ2cGlFOXowQmdJTktqWmFzYzhfb25xc0lRaHFJQm5DdzJIanlwZ0kxYlhXNWRCemNtRXg4aUE?oc=5",
+        "source": "뉴스투데이",
+        "description": "[IPO 돋보기] 피지컬AI 기대주 마키나락스, IPO 흥행 기대감 높일까 뉴스투데이",
+        "pub_date": "26.04.29",
+        "section": "invest_ma"
+      },
+      {
+        "title": "중국, ‘싱가포르 워싱’ 차단 본격화…AI 기술·인재 유출 통제 강화",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DUWtyMHZOTTZvWEZjQlV0Z2llM3FpQWMzaHppUDUyV1lXbWtqdlZYMjZSelZhNFJEVEJJdGdHQUI?oc=5",
+        "source": "AI넷",
+        "description": "중국, ‘싱가포르 워싱’ 차단 본격화…AI 기술·인재 유출 통제 강화 AI넷",
+        "pub_date": "26.04.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "초대형 문서·도면분석 AI 기술 '서치독', 11억 규모 시드투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xWl83X2p3cnRiR0JfSTBZY3lvMk0zWUdQRXFHMVJkYlZ1cjRRT0k0VVhvZVF2YThhOHdhNkRzM1dCYW0wZFB2ejg0d0JFaGQzNm5KMWJ3eXJRMTZGY1hWU3d3eDFuWkNyZUM2aw?oc=5",
+        "source": "유니콘팩토리",
+        "description": "초대형 문서·도면분석 AI 기술 '서치독', 11억 규모 시드투자 유치 유니콘팩토리",
+        "pub_date": "26.04.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'바이오의 미래'만 보고 '제약의 현재'를 놓쳐선 안 된다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GV3NZcHZYb3AwM1dkMUpVSjE3M3JTZ2xlNnVEaUUyb1BXNXBMWEctcjBHdmRTSW1FRDNNRU5jX3lxNFdUbjNzRlBfRV9kVDdQajlaVVVGSTZKMGpDVjBiUFVwSFNYVWY3dFA4Ug?oc=5",
+        "source": "약사공론",
+        "description": "[데스크칼럼] '바이오의 미래'만 보고 '제약의 현재'를 놓쳐선 안 된다 약사공론",
+        "pub_date": "26.04.29",
+        "section": "innovation"
+      },
+      {
+        "title": "4월28일-30일 「바이오 코리아 2026」 코엑스 개최",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CYWJxM2JuUGY1ZjY1NHZSNHh2VTF2dnFVRm4yMmtsY05GZEV5UzNUSTlHbEx2SV9JVE85MnJYbnA1RlZPRTQ2UEtQUEQ2RGdkT25mZmFJTUtpNW5NQXlQV1FxOFdwQmxRRnJF?oc=5",
+        "source": "한국의약통신",
+        "description": "4월28일-30일 「바이오 코리아(BIO KOREA) 2026」 코엑스 개최 한국의약통신",
+        "pub_date": "26.04.29",
+        "section": "innovation"
+      },
+      {
+        "title": "“규제 샌드박스 안 쓰는 게 낫다”…청년 창업가들 ‘제도화 지연’ 지적 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZEdnQUxvUHlJZk1ncFhZaldKLTY3SmJRN3NhUDVxUU5LZmltQkNmZHo3elM0blU2a2c1ZXY1VHpDMl9TWE1PMjJHdmt6NE83S3c4Ull5eGgzWVJBZXJndzZHQjE3emUzcHMtNjljUDdlVVV4NHZDZThDWG9CeEQ2NloydS1WNTNwdVp6QVFFalDSAaQBQVVfeXFMUF9LbEY2cWE1R0hsZ1Mydm9wQmplcHJNc3pSVS1hUHBuZU9EZE1CbHFQZmpmd1VDLUZVX1BIa1p2VVdKMWt5ZmZmNlJMazgwcGtFaVRTNlVzeEpQMU1TaUY3OXY3UHI4ZG05VzZXUXhmdmNiTE1ZU1dRWlVMVHlPUzg2N2RuNmtSRS1wdXI5Q25SWWxlWXZuYlFuT0kzVmFyZlIyQTk?oc=5",
+        "source": "Chosunbiz",
+        "description": "“규제 샌드박스 안 쓰는 게 낫다”…청년 창업가들 ‘제도화 지연’ 지적 - 조선비즈 Chosunbiz",
+        "pub_date": "26.04.28",
+        "section": "innovation"
+      },
+      {
+        "title": "바이오코리아 2026 개막…국내 혁신기술 글로벌로",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xMWNYdEF6SExyOVBOVFFoNHdGY3VGNXhXajFSeVY5NF9xZkdVOU5VVG5KYV85dUtuQmFQTlhMMHN1Z3dvblU0U00xSVlJT0RsWlZmMm5TOUY4YlR5MWdpYV9zZkg0TEpwMHc?oc=5",
+        "source": "의학신문",
+        "description": "바이오코리아 2026 개막…국내 혁신기술 글로벌로 의학신문",
+        "pub_date": "26.04.28",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-28",
     "news": [
       {
