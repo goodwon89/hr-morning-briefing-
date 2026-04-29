@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-04-30",
+    "news": [
+      {
+        "title": "'AI 명분' 테크 기업들 대규모 감원...\"위험한 도박\" 우려도",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMFkwSTgwS21DX2VCaEhqbDZUencxajNvQ3RfZGs4NkhFN21RVkZHYVhXVkVFWlBJUnpUNTVWVzF6UGpCMF9GSXVTOGY0UW44TmZtLVZUY2hBRVJBYldYUEdSaU1ETWZxOTBhWFZraVZjeXc?oc=5",
+        "source": "디지털투데이",
+        "description": "'AI 명분' 테크 기업들 대규모 감원...\"위험한 도박\" 우려도 디지털투데이",
+        "pub_date": "26.04.30",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금도 법 개정도 막막 ?",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00bE1pZTRYTVdLLTltNDNRWFJoUkdwbURjUnQ0VEJNSkZYNDVhMkF0U1F2bFh5V25GQ0Y2bmtfX1NNZTF4VjNsSlZvRjdPVDJZbHpRUkNzZUl1dUpXOTEtMDhONHdzZC1TODhUWg?oc=5",
+        "source": "알티케이뉴스",
+        "description": "[RTK만평] 최저임금도 법 개정도 막막 ? 알티케이뉴스",
+        "pub_date": "26.04.30",
+        "section": "hr"
+      },
+      {
+        "title": "“이 나라 인재, 한국인 연봉 절반”…기업들 이유 있는 ‘원격 채용’",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IaHItR0hBUkxuT1hVbWt4THI5S2VDY04wOHBwN0k4TWt6Q1BESUZWcjR0bnJyaUw4RmVHckdfdnNocUJoQS1scGIzc3BZYkk?oc=5",
+        "source": "애틀랜타 중앙일보",
+        "description": "“이 나라 인재, 한국인 연봉 절반”…기업들 이유 있는 ‘원격 채용’ 애틀랜타 중앙일보",
+        "pub_date": "26.04.30",
+        "section": "hr"
+      },
+      {
+        "title": "광주 북구, 조직문화 확 바꾼다...10대 강령 선포",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJZU54azhsb01fZ0psQXVFemU0Sm5rODIxN01FSG9UcGpQR3FURlJCdHlBNTlpRUJJb09YSk9IWXl4b3VoaXBXSDJNdU9NV0hzc1BNT2FVZklaTUh6LXNhUDVKT3ZULTg1bE9r?oc=5",
+        "source": "열린정책뉴스",
+        "description": "광주 북구, 조직문화 확 바꾼다...10대 강령 선포 열린정책뉴스",
+        "pub_date": "26.04.29",
+        "section": "hr"
+      },
+      {
+        "title": "노랑풍선, 모모성형외과 임직원 대상 복지 제휴",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRGNqVTRDbU5xU3M1UFpzbjFvN0pDSDZJc0xtSzRrTFF3Vi0ybEM3eDJhRmdUNVlIQTFiRko2ZjdOQ0dyT1Y2T2Q0bkx5c1M1RGdfZldDVl9jczUxQTNpWjJzb1FCOEFjeFFXYkFkcGU?oc=5",
+        "source": "트래블데일리",
+        "description": "노랑풍선, 모모성형외과 임직원 대상 복지 제휴 트래블데일리",
+        "pub_date": "26.04.29",
+        "section": "hr"
+      },
+      {
+        "title": "정용진 직접 나선다…신세계그룹, 경영전략실 조직 개편",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90d1V1aTJjSFhHT3pHYk40QTlUN0tNWng2Y3o4TnE2SEt6SXBVRzRUbEJwLW5xazRpS29SaFU5TmpPZ2pJSU1PRGxVTmZPeUk?oc=5",
+        "source": "v.daum.net",
+        "description": "정용진 직접 나선다…신세계그룹, 경영전략실 조직 개편 v.daum.net",
+        "pub_date": "26.04.29",
+        "section": "hr"
+      },
+      {
+        "title": "\"범용 AI 넘어 실행형 AI로\"…SAS, 산업별 맞춤형 에이전트로 기업 혁신 돌파",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqaWlGY0dhY2oteGctbTI2N0RwMXoybEhNNjMzM3hFUmNYcl9KQXE0Vjl0SDlUWEpVN0RWVDJaWW03b3pzSWp4VzBhc3RuWmNuR0NpN013?oc=5",
+        "source": "지디넷코리아",
+        "description": "\"범용 AI 넘어 실행형 AI로\"…SAS, 산업별 맞춤형 에이전트로 기업 혁신 돌파 지디넷코리아",
+        "pub_date": "26.04.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "공공·필수의료 AI 도입 가속화…국내 기업들 마중물 기대감",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OSHV2dDhJUF9aQnBaZXVMN1NISDJXTG1zRTNhTjF3TkluN2JVdTBrVXN5XzF2RE5FQkJ5Y09IQW9IY3hhdk4tSkt6UnlsUXVLWkZ6d0FkTVFyeXFJeHZlOHI2cWduYnNNUlZmQjVWR2JkU1U?oc=5",
+        "source": "메디칼타임즈",
+        "description": "공공·필수의료 AI 도입 가속화…국내 기업들 마중물 기대감 메디칼타임즈",
+        "pub_date": "26.04.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "세일즈포스, 백오피스 자동화 AI '에이전트포스 오퍼레이션스' 출시",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNHVXdlYtTzAtMjFpa0F5Y0dnaTRNY0htLVhBc2xzY1BWYjRXUzBKMmVKX1VCLVhvTjVCVHVnM0ZQSFJBQ0x5TzhSanFya2VhVklQZ1k5ZGxLei1xaUk3VkRjbFZ3YmZWN1IyMGdzb2MxNFU?oc=5",
+        "source": "디지털투데이",
+        "description": "세일즈포스, 백오피스 자동화 AI '에이전트포스 오퍼레이션스' 출시 디지털투데이",
+        "pub_date": "26.04.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "넥스트증권-AWS, 클라우드 인프라 및 보안 거버넌스 구축 협력 外",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05X0JIdzF2WTZ6R2RDUlExSHlubFNiejVZQ3YtN3JwejZBcmwxeDVYNUYzX1J3cGl1SUlzU1NsX3YxMVJKNVR5RTdETFpqV09ETTAtS3ZoUEdLTml5bkZJbXg1cnFzaFFK0gFsQVVfeXFMUHJkMzR5QU53NG9zTzJNZTA5dVI1MXgzOHdETjVnOGdPNTFQMVRxSi1jdnpvU1lseUFFcE1NVF93SmtPZE9XY0ZCVV9Qb1paVnM3aVZONnFZTFdzWDRXQUk0Rlo3Z0JsUUViYUx5?oc=5",
+        "source": "리얼캐스트",
+        "description": "넥스트증권-AWS, 클라우드 인프라 및 보안 거버넌스 구축 협력 外 리얼캐스트",
+        "pub_date": "26.04.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "삼성전자 1분기 실적 오늘 공개, 반도체 성적표 역대급 추정",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UUXhOcnZQT3JLdUEwYjZFeTNpMlhVa1Jpdjc0enFyTUtYOGFLVEZJVUVuREt3SUY2VWVxWE5qWjlYOVVDZGxlY3pIdlhENG9scE9PTWF3?oc=5",
+        "source": "중앙일보",
+        "description": "삼성전자 1분기 실적 오늘 공개, 반도체 성적표 역대급 추정 중앙일보",
+        "pub_date": "26.04.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "삼성전자, 오늘 10시 1Q 확정 실적 발표…반도체 얼마나 벌었나",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kakNfTmNGelRPaWdHYnQ1eUlKdDdzcEdpTVB0X2ZaRlA4Yy1ORHBveVBsakgyYkxsUFBQZ3o1ZU5Dc003ZktxY1dIMHVvU2I1MGF0a2c0aF9xa29aN01EcVdTLTY?oc=5",
+        "source": "뉴스1",
+        "description": "삼성전자, 오늘 10시 1Q 확정 실적 발표…반도체 얼마나 벌었나 뉴스1",
+        "pub_date": "26.04.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "연준 \"인플레이션 높은 수준…글로벌 에너지가격 상승 반영\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44Q3VzMmNna3hlcV9GNEtxS1MtWGd6ZW1aZ3pFSVVlRl9JdFFUY0lob2JSb0V4ZTZXR3AxbHBhRXBwODFpODRqVlVOakpzUHNXTG4yRTNEdzhsekHSAWBBVV95cUxOaEVtWHoyWFpnQW1TVDJHYnZKbVc4dHI1TG5qaGYxaGxVbl83Vk9nTjRRVEFuMF9MdHFFX0U5a04wNlJfdS16MDhUYkxnZXBXZDdpanl1a2NBRzBoQmVXTVE?oc=5",
+        "source": "연합뉴스",
+        "description": "[속보] 연준 \"인플레이션 높은 수준…글로벌 에너지가격 상승 반영\" 연합뉴스",
+        "pub_date": "26.04.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美 연준, 기준금리 동결… \"인플레이션 높은 수준 유지\"",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjBZeVh2dU1KZVhhRUtzdmRNMEp0elJWdXRVVmtmOG5RRjRPenlfbnIybHN6TkZXR0o2bV9XVWhOTGNOdFNZM2FoSVZCRnU1Q0lZc29rVEptV05OVDIxekxFYnRWNXpFUUI2VjlpVV91cFN1WU0xTWxOcF92eFFXa0w0Z2FfYkpYSlFqdW4yLTJaODNLMkU2V1l2Z1g5Zw?oc=5",
+        "source": "조선일보",
+        "description": "美 연준, 기준금리 동결… \"인플레이션 높은 수준 유지\" 조선일보",
+        "pub_date": "26.04.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "빌 애크먼의 퍼싱스퀘어, IPO 흥행 실패…첫 거래서 주가 폭락",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2w3M0g1ZEI3Y05GMlBKbVVoUWo1bkxrZUJ0cE4wbWtnNmtXY1VYTlA1a0V3aHFxMEtZQ2pBN2ppVjdwR0xTQi1NYkpMajFXWndSWXZKdmMyOWppejhtazVqMk5HYm50eVFqSFpTWXpMbHNTaU56SEJsWFg2NjRNdlo2aXJzVWx2?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "빌 애크먼의 퍼싱스퀘어, IPO 흥행 실패…첫 거래서 주가 폭락 글로벌이코노믹",
+        "pub_date": "26.04.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "빌 애크먼 이끄는 퍼싱스퀘어, 상장 첫날 공모가 하회",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQzFpQkNzZ0pEelVwLUdlNEp4Mkp3N19NaW05WHR0cHB6bFpXdURkTTI5RkMtcnFPRFhsdjFqTDZOMEpKX2Z5NEMyZTQ4WDVRcVFZRkpySGpkMld3TVpHNG9JRFBqelZobjktTWNjY3dGZkU?oc=5",
+        "source": "마켓인",
+        "description": "빌 애크먼 이끄는 퍼싱스퀘어, 상장 첫날 공모가 하회 마켓인",
+        "pub_date": "26.04.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "산은, '경남-KDB 지역혁신 벤처펀드' 운용사 선발 계획 발표",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fN0pWUkwyMDN1SDluUVhFdWtuYmg2ZWdUdldZSnZOdVF2RkhLTkZfcmR4Z3lmZkZHekE0cFJJREJaUGhlQ29CUVEwRmJWQnRndEZfVmNHUkZBSWfSAWBBVV95cUxNaEVOUFJlaU9VOURzTDdTbDZjWkp3UEs5aHRCX3pTZHJvVE10ZXppNjBTb2hsR1BMRHFzVzVGTkwxSUc5MDRxajVTVEgzdUFhRUxxRWJGcWg4SkVyOVJTeDY?oc=5",
+        "source": "연합뉴스",
+        "description": "[게시판] 산은, '경남-KDB 지역혁신 벤처펀드' 운용사 선발 계획 발표 연합뉴스",
+        "pub_date": "26.04.29",
+        "section": "invest_ma"
+      },
+      {
+        "title": "올해가 ‘펀드레이징 적기’…VC들, 정책출자 확보전 분주",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSzFFUGg4MERqcmFRR2JFeko3ZWZEZVhZT1ZVYkJVWmViVmI5WFd6eElTYWM3Q3FTM1ktRlM4UXQyM2VkdUdGOUkzZHkxNmowSWwtOVkxOHpaQ1Z3Q1NGWnd5MEROMGY1b0RFVHliRlVfQQ?oc=5",
+        "source": "마켓인",
+        "description": "올해가 ‘펀드레이징 적기’…VC들, 정책출자 확보전 분주 마켓인",
+        "pub_date": "26.04.29",
+        "section": "invest_ma"
+      },
+      {
+        "title": "MSD, K-바이오와 '글로벌 동행'…혁신 신약 탄생 가교 자처",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wY01MWjhBV3RGYks1YjkwdDhSSXpfQ0dLSWVMbGJJZ2R6SFp0VEMyVGJKNFBjM0ZNa0hpYVc1bW9PMkIxT3F2WDFoQU9MdzYwWENKWmtTcUxEenMwdm1UaEF2Rng5bG92TUFQZQ?oc=5",
+        "source": "약사공론",
+        "description": "MSD, K-바이오와 '글로벌 동행'…혁신 신약 탄생 가교 자처 약사공론",
+        "pub_date": "26.04.30",
+        "section": "innovation"
+      },
+      {
+        "title": "삼성바이오에피스, 중국 바이오 혁신센터와 연구 협력",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GYzE2NldWTGR6NFRndTQ4OUJ4MXJuMlZuVDlMNFNGWDY1eDh3dDUxN1JyekJsQjJHSy1sbWRHTXg5TUZFMjEwT05XSUFucXp1d2dvdFB3V3lWZ1Rjb3FVVl9ONFVVZw?oc=5",
+        "source": "디일렉",
+        "description": "삼성바이오에피스, 중국 바이오 혁신센터와 연구 협력 디일렉",
+        "pub_date": "26.04.29",
+        "section": "innovation"
+      },
+      {
+        "title": "고양특례시, 일산테크노밸리 분양 본격화...세제 혜택·규제 완화로 입주기업 지원 강화",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sRklGQnlfbTludDQ4NXRld2VYQzdKMUEyaTZjZlhUcE9VQUpURzFhbGFFUk1Nc0JZcVZIMHF2N2FMQzBiM3RGY211Vjg0dk53OFdNUXoxZ2FQSXdSTXJ1Y09rR1ZEa2ZN?oc=5",
+        "source": "중앙신문",
+        "description": "고양특례시, 일산테크노밸리 분양 본격화...세제 혜택·규제 완화로 입주기업 지원 강화 중앙신문",
+        "pub_date": "26.04.29",
+        "section": "innovation"
+      },
+      {
+        "title": "중소기업 규제 허들 낮춘다…‘규제샌드박스’ 컨설팅·사업화 지원",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sQjlPcmtUNTBLNXV5c0xCdWFfZmNvQmdhSnJLbVpVUmlyNUd0LXJyTFREcGxZaTBFR0llc0FiSzZBWFI3UzUzYWQyTU1xaE9lYkFBY0RB?oc=5",
+        "source": "팝업뉴스",
+        "description": "[경기도] 중소기업 규제 허들 낮춘다…‘규제샌드박스’ 컨설팅·사업화 지원 팝업뉴스",
+        "pub_date": "26.04.29",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-29",
     "news": [
       {
