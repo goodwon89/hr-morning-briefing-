@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-01",
+    "news": [
+      {
+        "title": "'창사 첫 파업' 삼성바이오…생산 차질·6천400억 손실 우려",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80ZlZsempHaXRiQ2VHalJlT0p0UEQ1NEw1MURoeWlSVHlhX2xMVjVsRFFmZzVCTnZkamNoZzNTbmZ4WGhZYlgyQ005UEhOR0xrOEJzMElqemJUYS1oblpycFJ4SURtTmVYc2x2NzNIeDVOUHky?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "'창사 첫 파업' 삼성바이오…생산 차질·6천400억 손실 우려 연합뉴스 한민족센터",
+        "pub_date": "26.05.01",
+        "section": "hr"
+      },
+      {
+        "title": "AI 시대 인사·노무도 대전환…\"근로자 협의권·알 권리 보장 필요\"",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VYmJDNWpHM292T1FyVEJvM094SWZ2X0VzUDc4SW1SZFJVR1VJa19GVk43WEYxWnZMR3RfZGtaMGpfOUVKYk9qcnpYN19RWk9WczEw?oc=5",
+        "source": "네이트",
+        "description": "AI 시대 인사·노무도 대전환…\"근로자 협의권·알 권리 보장 필요\" 네이트",
+        "pub_date": "26.05.01",
+        "section": "hr"
+      },
+      {
+        "title": "바우어, AI 영향에 디지털 구조조정…독일 법인 폐쇄·인력 감축",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03NHZmMDJQdFk3c0QxUldzeXA1dWRlU1JDem1HTXV6UlpOOUswcFRjNEF5dWRnQlBEcEJBeW5SRUFCR2tCZzlZaDB4Q2dabDQ2NXRiQVF0MnNYeHZqdGUydlhMUnhYLWhTbk1vXw?oc=5",
+        "source": "매드타임스",
+        "description": "바우어, AI 영향에 디지털 구조조정…독일 법인 폐쇄·인력 감축 매드타임스",
+        "pub_date": "26.05.01",
+        "section": "hr"
+      },
+      {
+        "title": "여수교육지원청 ‘자리 바꾸기 체험’ 조직문화 혁신 실험",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3cE9mb2RtWlYyWWZpUTU1N25na0lzb092NzhqLXBXUVRJcWdxYUtKTndRN2lBcDRoYWd3TENFNDlxS0RsZ0JoNFpQSmhHT0pXeTVmWTZoWmx4T1FIVzVLSi1rZ1Y0YUhyYWhObA?oc=5",
+        "source": "호남교육신문",
+        "description": "여수교육지원청 ‘자리 바꾸기 체험’ 조직문화 혁신 실험 호남교육신문",
+        "pub_date": "26.04.30",
+        "section": "hr"
+      },
+      {
+        "title": "충북도, ‘충북형 도시근로자 참여기업’ 안전보건교육 실시",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TRmdaWTF4X0IxUXdMMzctWS1hMEJ4VWJaMFVCazBKOHozbVJtTVNuLVpYM2sxRFlWTHlKZTVnbmp6Wlo5aHB2STdEcGd3Yzd1blFId0x6YmtpdnVHTENiSHAwcjFxZw?oc=5",
+        "source": "한국미디어뉴스",
+        "description": "충북도, ‘충북형 도시근로자 참여기업’ 안전보건교육 실시 한국미디어뉴스",
+        "pub_date": "26.04.30",
+        "section": "hr"
+      },
+      {
+        "title": "\"AI 비용이 인건비 추월\"…기업 최우선 순위 '채용'서 '비용 관리'로",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZXRNQzFOMjdnM2dxcFYtVldFYlNJbG02R1FrUnNLbHBtR1AzX3h1d1ZZVFNkdzNtVmstckxNTGROQ2FIR2pFVEN2enNEbzVSNVd6VmVkR1cwcFpHX1lEVVVIQThLNzZCM1E?oc=5",
+        "source": "AI타임스",
+        "description": "\"AI 비용이 인건비 추월\"…기업 최우선 순위 '채용'서 '비용 관리'로 AI타임스",
+        "pub_date": "26.04.30",
+        "section": "hr"
+      },
+      {
+        "title": "Weave 2026년 1분기: AI 도입으로 매출 17% 성장",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NbTlveWVFeWUyTl9Dcm13M2Nma0pXTHpfaFJ5MGxfUmQwXzdoc3NMYjYtcm1LaFR3U3JlQWNNeVYxZTVEazZSOEoxRl9lRTZGQlVSY2NuMHB0OTZGY0d3MDR3cXRyczItMjBJLVlPT2U?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "Weave 2026년 1분기: AI 도입으로 매출 17% 성장 Investing.com 한국어",
+        "pub_date": "26.05.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "MS, 자국 데이터 통제권 유지하는 대규모 프라이빗 클라우드 인프라 공개",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkM1o2SG9zMExQNmZiUUU4SmtaWGpxc3F0emdxeW1BTUNvOUR0djNSSnpsR0JMREZjLXFZYUVnX0VwNmNpRmxMNUQ4RDZLczJjdFN1bWk5WmVBZmF6ejNpV1d5NmM?oc=5",
+        "source": "디지털데일리",
+        "description": "MS, 자국 데이터 통제권 유지하는 대규모 프라이빗 클라우드 인프라 공개 디지털데일리",
+        "pub_date": "26.04.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "씨메스로보틱스-AJ네트웍스, 물류 로봇 렌탈 사업 확대…월 80만원부터",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfbVpfX19JbDAwOFI0aGNPV29nMkJ6WFJ3NFRROUg2WmVwN2xpSHV5b05tTVBSVlIteFpsVXJJcGdidWtvN1hoWHNnOWJvbTA?oc=5",
+        "source": "v.daum.net",
+        "description": "씨메스로보틱스-AJ네트웍스, 물류 로봇 렌탈 사업 확대…월 80만원부터 v.daum.net",
+        "pub_date": "26.04.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "DataForce, 전문가 검증 마친 특화 데이터 세트로 산업별 맞춤형 AI 도입 전략 제시",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUDF2ZnVCWF9EeDdIeFUwQkxYWWl1cGstRmgyMEYtR2dwTkNEQURvWnhiLWU4emowTVozMG9vZklYMzJIdC1GazZhdXFuZ2ZPblVfV2dadVN6OHBWVElmMkdKNWtwY3M?oc=5",
+        "source": "인공지능신문",
+        "description": "DataForce, 전문가 검증 마친 특화 데이터 세트로 산업별 맞춤형 AI 도입 전략 제시 인공지능신문",
+        "pub_date": "26.04.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "이란 전쟁 불확실성에 유럽·영국도 기준금리 동결",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ySzJaZHloYXFZUHg4My1mdDdadzlvMFNFdWw4cFVNSktZTHFUNXBNbFcwdnAwdml1TXdTVHd5SXp6QmUxT2RDT0lxMU92eF9yd05jYUpvY2JzMVcxdG9uZkF6b2Z4N1RFSFM5dTl0OVoyQ2M?oc=5",
+        "source": "마켓인",
+        "description": "이란 전쟁 불확실성에 유럽·영국도 기준금리 동결 마켓인",
+        "pub_date": "26.05.01",
+        "section": "macro_industry"
+      },
+      {
+        "title": "에너지원·공급망 다변화, 해외 자원 개발·투자 늘려야",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DVVVXa0FiSDU5QlBlRUZlNHJZdzlhUGJOOXZzZThTUDdFeXFmUG83Y3RQMGdZb1pBNTZuTFczeUlrMlNjT1hielAtY3FqVkVrM2dpaUJ3?oc=5",
+        "source": "중앙일보",
+        "description": "[조홍종의 이코노믹스] 에너지원·공급망 다변화, 해외 자원 개발·투자 늘려야 중앙일보",
+        "pub_date": "26.05.01",
+        "section": "macro_industry"
+      },
+      {
+        "title": "관세폭탄 안 통했다…미중, 조용한 '공급망 전쟁' 돌입",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZnVFVDl4a0dYVzBOUjhXTkRYY2FPbWUwZVZqMlNKcC1CZFJKcXpBQUhEaUJfS3dVVmNRc3h0SGNKNUdjQ1FBN1FZVnVfUy11MjJEb2FadWotZVNWQzdueW1CaDV6QUNJbVpjaGhfZw?oc=5",
+        "source": "리드경제",
+        "description": "관세폭탄 안 통했다…미중, 조용한 '공급망 전쟁' 돌입 리드경제",
+        "pub_date": "26.04.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한·호주 외교장관 서울서 회담…\"에너지 공급망·방산 협력\"",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQREZ2WUFaaDRPNW56Mk05TGFGSm1KVFlENXVXdE1sU3V5WnJkNkZkLTc2MmRtREt4QTdHWVRhLVNGMVh6VTFWZW55MUszWmlfdkRYdGcxdldLNi1Yc19wVdIBeEFVX3lxTE9naW5mQURmTzB1UWY5ZzRqWEFCMHBvUVVlM21wRXFqUmxpN2ZibUFzb1ZPMWVlQnNIZGhDdHhFc3V0SG9xT0IwQjRqcktZUUhBa3BObGxrY0RWX3Y1ajNqbmpfVmJlWlo3OVpWV0RmNFFKdFpVTmtvYQ?oc=5",
+        "source": "뉴시스",
+        "description": "한·호주 외교장관 서울서 회담…\"에너지 공급망·방산 협력\"(종합) 뉴시스",
+        "pub_date": "26.04.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "IPO는 줄었는데 공모주는 흥행…5월 신규 상장은",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Uajd2dV81c2xtemdjNnJJMl96dFVPOFdrdUxwVzdRWlhKeC1FMkZRMFpxNGF0Q0lPMkNyTmRBRVpWbUE1Rms1NnJNVUwyQmNYd3FLYmFob1JUd0xnZWs2Y2hxRWtwUlp5MFE?oc=5",
+        "source": "월요신문",
+        "description": "IPO는 줄었는데 공모주는 흥행…5월 신규 상장은 월요신문",
+        "pub_date": "26.05.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "텔레픽스, 코스닥 상장예비심사 청구",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hUTBLZl8tSnRWWVdrSGNVc09MdlN5Nm11YXhwS29MaEJLYU1QSEdCcnJWQWc2RzNCTzZqVW1NSHJ6SS1TZWVFa2tWdWZTdl85aEotVw?oc=5",
+        "source": "이투데이",
+        "description": "[장외시황] 텔레픽스, 코스닥 상장예비심사 청구 이투데이",
+        "pub_date": "26.04.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "재경부, 해외 투자자 유치 총력…\"韓 시장 잠재력 주목\"",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2UE1QT0cxUVBja2FGYWdxeWh0cEdiVngyaEtidGhTM1NZejdJV3hQREhUaTNNWW9nTlBNLTVNN0Qxb0hyb1o2RjF6elBrblRuRWRsTnlzMVNJSDdKRENZakdKNERIV2dMckNlTHdKMzNDQmduNWRvUNIBeEFVX3lxTFB2UE1QT0cxUVBja2FGYWdxeWh0cEdiVngyaEtidGhTM1NZejdJV3hQREhUaTNNWW9nTlBNLTVNN0Qxb0hyb1o2RjF6elBrblRuRWRsTnlzMVNJSDdKRENZakdKNERIV2dMckNlTHdKMzNDQmduNWRvUA?oc=5",
+        "source": "뉴시스",
+        "description": "재경부, 해외 투자자 유치 총력…\"韓 시장 잠재력 주목\" 뉴시스",
+        "pub_date": "26.04.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "육류산업 고도화 ‘탐라인’, BNK벤처투자 10억원 투자유치",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMlY0blJsYUdkUHNVbmtoWXRaSjBLeG1mV1JwNFY5anZXSzVhcUFuSjZJWUw4aV9FY012YVdCNXBYRldzclVsSElnSXQ3VmtJX3RXX1o3NlZlT3RTTnROZVZhem10NzlYdzRR?oc=5",
+        "source": "제주의소리",
+        "description": "육류산업 고도화 ‘탐라인’, BNK벤처투자 10억원 투자유치 제주의소리",
+        "pub_date": "26.04.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "아우모비오, 중국 제조사 해외 진출의 글로벌 조력자 자처… 베이징서 파트너십 강화",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeW54Tm93cFpnTjBSY0UzU1p1TW9oYnhWeXRhQTZpZkI5cTgxVzJ4SlJvbnNhcGhhRGhNNWRIbm9lRldpT292ZW03U2hNTmJOUWFERzZFUHlkTUdnNDZLS0htT0lkVWpCUkRLeXBseUNMdXZzNzR0aTRSbDBsNG53b2Y4MDJoTlowcm5wRUFwbjY0VnBpcElqVktHYWxPR3FQLUFrMW5IRFJPV0tQVUZ1anY4T1pSeDc0RzdkSVJoQ3lpNGhzc3dxazM0dFdEMndGWmotbHVaazExNkcyNWVZcTRuY0YwbjQ5Q3hBTkNmLVNtdENBVHpfSjRnODltdzQ?oc=5",
+        "source": "다나와 자동차",
+        "description": "아우모비오, 중국 제조사 해외 진출의 글로벌 조력자 자처… 베이징서 파트너십 강화 다나와 자동차",
+        "pub_date": "26.05.01",
+        "section": "innovation"
+      },
+      {
+        "title": "디캠프, ‘배치 2기 디데이’ 개최…딥테크·소부장 스타트업 사업 성과 공유",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PVldvUlpYcXNrSnNDT1I4YlI0LU5VLWs4alpCVEVRUURMdGU5WENaS0w0U3BVeVZlMUtOTlVzUS1tUFdSaGc?oc=5",
+        "source": "beSUCCESS",
+        "description": "디캠프, ‘배치 2기 디데이’ 개최…딥테크·소부장 스타트업 사업 성과 공유 beSUCCESS",
+        "pub_date": "26.04.30",
+        "section": "innovation"
+      },
+      {
+        "title": "연세대, AI 기반 바이오제조 혁신 세미나",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51SVdDQmFMSmp3amFWLXY4MGFZQkdqY3ZTYUd0R1pUWHlObnlBeFczYkpibVQxSlN2MWtZOFNNRFZmR0hqZ3NYVEVTWVJUWGlIVERoMzh3?oc=5",
+        "source": "중앙일보",
+        "description": "연세대, AI 기반 바이오제조 혁신 세미나 중앙일보",
+        "pub_date": "26.04.30",
+        "section": "innovation"
+      },
+      {
+        "title": "이노플레이스 ‘마드모아젤’, 규제 샌드박스 승인... 충청권 공유미용실 확대",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuTjFEVTNXblhvX1B0eVB5NVRQY1cyYmExZDRTSHVIdkZfTTh0aWtlMUFpd053bEU0Q19pUzFXbWo1b1ByU2c4cU90eGMtMkJpRHI0Y0tJTExGcVJidDM3aGJtNm5CQTBwS195RzlDZWxxb1lYZmc?oc=5",
+        "source": "하이뉴스",
+        "description": "이노플레이스 ‘마드모아젤’, 규제 샌드박스 승인... 충청권 공유미용실 확대 하이뉴스",
+        "pub_date": "26.04.30",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-04-30",
     "news": [
       {
