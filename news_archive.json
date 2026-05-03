@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-04",
+    "news": [
+      {
+        "title": "감시 없이 원격 근무 생산성 높인다...업무 흐름 분석으로 협업 효율 개선",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWVg3TjA0U2M0U3BHRzhpdVVaZk1pdUdmX3MtZXd2a1gxdm9EeUI5S1V2SVBnbHdGRE5xZXFwTkVDdVhpYXhxTElheUM2VVE0YlZjLThXY0ZYX0lycWd3YVBwbG5TY3V1dVE?oc=5",
+        "source": "지티티코리아",
+        "description": "감시 없이 원격 근무 생산성 높인다...업무 흐름 분석으로 협업 효율 개선 지티티코리아",
+        "pub_date": "26.05.04",
+        "section": "hr"
+      },
+      {
+        "title": "시애틀서 연봉 6만달러 직장인의 삶을 들여다봤더니 > 시애틀 뉴스/핫이슈",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DMGZOckNEZVNsWFo4cS1HaGFQNkhVc3p2dVJyaTBCdVdoUkFHUnk4U0NpUDRXWkUtU3VsOGhON1VFaGktcXRLZGtB?oc=5",
+        "source": "SeattleN",
+        "description": "시애틀서 연봉 6만달러 직장인의 삶을 들여다봤더니 > 시애틀 뉴스/핫이슈 SeattleN",
+        "pub_date": "26.05.04",
+        "section": "hr"
+      },
+      {
+        "title": "우리금융그룹 ABL생명, 임원 특강으로 조직 소통 강화",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jQmM0R0Q5ODB1dm5ZdVFydGtqRlA5bGEwQlE1WUcwU3JYY0s5emlaRlAzcld6XzRFT0R5M1hIUW9CbHVwSkVYbTBfWW9iZVNpWDRFaHlnN0Q0Z2NEOWM2TzdsMXJwV2g3UXNj0gFvQVVfeXFMUHNmOXpvdFh6UHlvekRBM240N3AyZlp5NVp2UFJfUndzLXZYNlhmeXBGbXFxNDM3Ql81NkpMWmNKc0hFd2c1bmVuVGFmNGZMY1k4LVRfbDZ4UGhtUEQtWEhUTkJSVWROLUxDMUN0TUMw?oc=5",
+        "source": "한국보험신문",
+        "description": "우리금융그룹 ABL생명, 임원 특강으로 조직 소통 강화 한국보험신문",
+        "pub_date": "26.05.04",
+        "section": "hr"
+      },
+      {
+        "title": "처음부터 끝까지 달랐다…한·일 최저임금 비교해 봤더니",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneEdhZ3ZEa0Uyd21MUTgwMjc3dmRqYXdFMWdpaTFsQWhEZGdRQlBFckxKZzkyNFZXN20yRDB5TkRuU1JQdVYyQVpxWnlfV2RiNWd6S05pYWpLQdIBVEFVX3lxTFA3c19FMXJDZjZ3RlFrMVBSb1Zsa0M1OWZlOGtDOE5lVFZ0aExQODdDazNWNkpzYWRpWVNZZjhHNy1ybE95NlR5UXhENlZDLXJnalBaWg?oc=5",
+        "source": "한국경제",
+        "description": "처음부터 끝까지 달랐다…한·일 최저임금 비교해 봤더니 [김일규의 정책 인사이드] 한국경제",
+        "pub_date": "26.05.03",
+        "section": "hr"
+      },
+      {
+        "title": "장관",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUlVLVJmVGptYVotYUtkaE15UHV5bTU5Y1plNC1ZUkhERE9QUDlfZXpCQUp4MGtPRGE4aTRQTFJmb3piS0xYX0trUHJYeG5VaHVQNG5yQU1PcTgzdldrcm9HUG1zdUZ5SjhmMGVLWXhoaHc4ZlNmajh5Wm1wanFWUF9jeXRtc0M2SE5SX0hGbHJwNWhhdm5sOVlLWWNJbTJhLWtEOVZvYjRnMXc?oc=5",
+        "source": "국토교통부",
+        "description": "",
+        "pub_date": "26.05.03",
+        "section": "hr"
+      },
+      {
+        "title": "AI 도입 이후 HR은 예측 인사이트를 활용한 인력 전략으로 재정의되고 있다. AI는 이직 가능성이 높은 직원을 식별하고, 향후 필요한 기술·역량을 예측하며, 생산성 저하를 사전에 포착하는 등 ‘미래형 인력 계획’을",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA5c1dsck85QVREOThfZ2FlM0l3Rm9Md1ZIUHRzTTQ1RnY5NVFKSmRzVkZ3XzVWQlQzVDhTd091SWM?oc=5",
+        "source": "AI넷",
+        "description": "[AI넷] [인재 관리 및 인력 최적화를 위한 최고의 AI 도구] AI 도입 이후 HR은 예측 인사이트를 활용한 인력 전략으로 재정의되고 있다. AI는 이직 가능성이 높은 직원을 식별하고, 향후 필요한 기술·역량을 예측하며, 생산성 저하를 사전에 포착하는 등 ‘미래형 인력 계획’을 AI넷",
+        "pub_date": "26.05.03",
+        "section": "hr"
+      },
+      {
+        "title": "‘생산성 도구’ 넘어 ‘권력의 축’이 된 AI",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16LTRhSF9BaHpPc01XbmNTS3BaMGtpMDBkNzNiR29reGJtSWJTZUhPbUpuNHJBeksydno3VU9PaDY4TzFWMlBZZFBpUHhnZ1MxVG1jRGR3bDZrUmhVNEV5SFAzb3lMVEZXU3A1UC1TLTLSAXRBVV95cUxNVXBWSlRHWVc1RFNpM0d6N3BEVjhTaUxGb2NOd3VKejRWMkU5alg5SlhFNVNWUDlyYzI0RHJMYUdKeHhqazBSeXlCVmxwWTk3cmJDRkxsbzZjNWZTQ3E0Q1Fka082RDNyaHdKQWhhQWZwUUtYbw?oc=5",
+        "source": "IT조선",
+        "description": "‘생산성 도구’ 넘어 ‘권력의 축’이 된 AI [윤석빈의 Thinking] IT조선",
+        "pub_date": "26.05.04",
+        "section": "ai_tech"
+      },
+      {
+        "title": "강기혁 뉴빌리티 대표 “배달 넘어 순찰·제조로…로봇 활용 무대 넓힐 것”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TUm5laG5pWTdxVHM1blFKa3REWVdvTXNfMk5jaTBSQ3MweWdnSm1DRDgxNG15R3BObU5WN0FXdDB3Z1FaTU4xbVVJS3FkN1k?oc=5",
+        "source": "v.daum.net",
+        "description": "강기혁 뉴빌리티 대표 “배달 넘어 순찰·제조로…로봇 활용 무대 넓힐 것” v.daum.net",
+        "pub_date": "26.05.04",
+        "section": "ai_tech"
+      },
+      {
+        "title": "웨어러블 로봇부터 제조 로보틱스까지…로봇은 패션을 어떻게 바꿀까",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52T1piNmFLc0xHem0xMkNDWWdpbzE0WHg4SHhsMVBOYXZqX21NRlZGZ2pKOVFZTGtQYXRtSFY3ZXVfbW5aUDlXZkR2c01UTVR1SGFMWHZvWWk2NFlIcDFocnFlSkh3cHc?oc=5",
+        "source": "한국섬유신문",
+        "description": "웨어러블 로봇부터 제조 로보틱스까지…로봇은 패션을 어떻게 바꿀까 한국섬유신문",
+        "pub_date": "26.05.04",
+        "section": "ai_tech"
+      },
+      {
+        "title": "민재홍 덕성여대 총장 “AI 혁신 기반 대학으로 발돋움… ‘덕성’ 갖춘 AI 리더 양성에 주력할 것”",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lTWktdzZCcGY0cVVDeGkzcTg3YjBvcTVWVXdLMkdFekZRYVMyY0xab01DM2Q3a1BoM2wxdU9FdnpZTU1wTk5zZU1XOEVodl9TdG81cFpxUW44ZHQ4aEI5WUNiWHN0QQ?oc=5",
+        "source": "한국대학신문",
+        "description": "[파워인터뷰] 민재홍 덕성여대 총장 “AI 혁신 기반 대학으로 발돋움… ‘덕성(德性)’ 갖춘 AI 리더 양성에 주력할 것” 한국대학신문",
+        "pub_date": "26.05.03",
+        "section": "ai_tech"
+      },
+      {
+        "title": "대구시, '이차전지 원자재 분석 기반구축' 공모 선정…국비 155억 확보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWcjNGX01DcDg2MkszbFl1SWVpUU5SbVFfTi1icjV2V1p3T3RwQlRJM1I1bnRPYnVES05wYm1iUkgtYUllWE1vQUg0T0M5aWlIc09BWE4xSnlYaHo2dURFQVBrWVJWQQ?oc=5",
+        "source": "포커스데일리",
+        "description": "대구시, '이차전지 원자재 분석 기반구축' 공모 선정…국비 155억 확보 포커스데일리",
+        "pub_date": "26.05.04",
+        "section": "macro_industry"
+      },
+      {
+        "title": "K-뷰티, 수출 날개에 실적도 '맑음'…에이피알·달바·구다이 '질주'",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzaFlxZDhVOGU5ZDRSZE84bGRNMzNJUlEzNXNEMUs0c19BNlBpVTFtSktBRDJtM0J4SzNSb2l4RklHWnB4R1dyTVVrcTZuT29uYXdaX1V3NlBKeUE4aUtBNVVHTGg?oc=5",
+        "source": "뉴스1",
+        "description": "K-뷰티, 수출 날개에 실적도 '맑음'…에이피알·달바·구다이 '질주' 뉴스1",
+        "pub_date": "26.05.04",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"고유가에 고환율…4월 물가 2.6% 상승 전망\"",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhTHgtcmlzMnI4dkF4VEVENkZqcF83Sl90eURNa0RiMml2RU5XYXA0cnpyMjdaX3dRRjl0aFlMUm9TbEVjaFA5NEdOLWZJQ20wamQ1Uml4Y0lKLWpSVU5jSUFxNHFfZEQ0UjNQTXFRVEp4eXc?oc=5",
+        "source": "마켓인",
+        "description": "\"고유가에 고환율…4월 물가 2.6% 상승 전망\" 마켓인",
+        "pub_date": "26.05.04",
+        "section": "macro_industry"
+      },
+      {
+        "title": "호르무즈가 불러온 공급망 위기, 에너지 안보 새 틀 짜자",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGM3hiVmRTNDVTdDVrYUhSTWhqYUlVakNMYnEyUGpRVU4xVTJfZWZULVk4b3pIdUVkVFZncndkQ3dQbWlQYWNIcUxfRDZnX25xQzNWYnVB?oc=5",
+        "source": "중앙일보",
+        "description": "[사설] 호르무즈가 불러온 공급망 위기, 에너지 안보 새 틀 짜자 중앙일보",
+        "pub_date": "26.05.04",
+        "section": "macro_industry"
+      },
+      {
+        "title": "5월 첫째 주, 폴레드 공모청약...수요예측은 없어",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zYXd5ZTE2bDBTUDJ5QlpXTXNHamhQcUdobDVoanJGSFo4YzRPdW16SElKOFhKTFl4U1NxQUxSQXFKck1vYUVfcXV5S0pPWG1wRHFTMmlsWXVhbmVjbmNCVFJ6VHNCcktSc0ZKNVBRbXlXTE0?oc=5",
+        "source": "소비자가 만드는 신문",
+        "description": "[주간IPO] 5월 첫째 주, 폴레드 공모청약...수요예측은 없어 소비자가 만드는 신문",
+        "pub_date": "26.05.04",
+        "section": "invest_ma"
+      },
+      {
+        "title": "중소벤처기업진흥공단·싱가포르 TXV, 투자유치 등 업무협약",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZXBuR1JEcVYyTWVYOE9MRGZYRkc0VEZuRGpneVhCTnRKanpQMm4zU1llWlI3bWpHS2ZpaUtpeUgxX0ZTcm83dUwyN3pCVDRFeE0wVEpPUXJGbkJyc0ZCOHF0ekR6UWQ4Ym5R?oc=5",
+        "source": "경남일보",
+        "description": "중소벤처기업진흥공단·싱가포르 TXV, 투자유치 등 업무협약 경남일보",
+        "pub_date": "26.05.03",
+        "section": "invest_ma"
+      },
+      {
+        "title": "새내기株 11곳 중 9곳 공모가 웃돌아…케이뱅크·한패스만 '쓴웃음'",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WanE4ck90SWhKRlpadGdXWmRsTXQ2OUxuaWN2Rms4OFFmR08xRHlqQVJ6U3pKcVhnVFJTMnNBSWM0M1h4c2hqZDRNanBtQQ?oc=5",
+        "source": "전자신문",
+        "description": "새내기株 11곳 중 9곳 공모가 웃돌아…케이뱅크·한패스만 '쓴웃음' 전자신문",
+        "pub_date": "26.05.03",
+        "section": "invest_ma"
+      },
+      {
+        "title": "해남군 \"농수산물 수출 55％↑…글로벌 투자유치 성과\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZZ3NtaThrSnVWMHZGWGluVWc1RERjQWxYZVh2cUdfTW4wZ1lHYkZTRjYwWGZYTHc3YU56TF9BZWFtM2lyOHlLZ2llVE1sUFU?oc=5",
+        "source": "v.daum.net",
+        "description": "해남군 \"농수산물 수출 55％↑…글로벌 투자유치 성과\" v.daum.net",
+        "pub_date": "26.04.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "로킷헬스케어, 세계 최초 AI 연골 재생 플랫폼 임상 속도…상용화 기대 커져",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oQlF1Qkk1QTNQaXRBZlF4YkduQ1dNWmZrcEdVcTA3d0NwbklrSzRLZERJcU1ZTzhscjItcDRiTmdDY3lzQTdRQm1PQjZXTlMzQlU0?oc=5",
+        "source": "네이트",
+        "description": "로킷헬스케어, 세계 최초 AI 연골 재생 플랫폼 임상 속도…상용화 기대 커져 네이트",
+        "pub_date": "26.05.04",
+        "section": "innovation"
+      },
+      {
+        "title": "연세대학교 K-NIBRT, ‘AI 접목 바이오제조 혁신’ 세미나 성료…디지털 전환 방향 제시",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TMXdiajVPOS0tdUtYM1M0c0JnWDZreDFDbG1YOHhJSnJZNEdFUWdEcHg3Qkg3TGRtYi12MHlfUkJJS244QXZ4X3FZVVRSUWo5R0N1cTZnTGlLNU43akZwUHY2anJvVFRpMHRoWlQtLVM?oc=5",
+        "source": "한국강사신문",
+        "description": "연세대학교 K-NIBRT, ‘AI 접목 바이오제조 혁신’ 세미나 성료…디지털 전환 방향 제시 한국강사신문",
+        "pub_date": "26.05.04",
+        "section": "innovation"
+      },
+      {
+        "title": "문서 분석부터 제조 공정까지…상용화 앞둔 AI 기술에 뭉칫돈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcDN6WjZUM1ZQcVdWQ2lyUEZTMTFVT3ZZWTlob0dmUzl1QjNMRDFZN1BCMFFfRU0zTmdvMVVRSk51SDFNZ2pUbzg0SEw1enhFVnFtUlVDcEdlWTh6ZWhWMDRia3gyRm5yRzhFQg?oc=5",
+        "source": "유니콘팩토리",
+        "description": "문서 분석부터 제조 공정까지…상용화 앞둔 AI 기술에 뭉칫돈 유니콘팩토리",
+        "pub_date": "26.05.03",
+        "section": "innovation"
+      },
+      {
+        "title": "계양구 서운산단 관리계획 변경 승인 업종 확대 및 규제 완화 전면 시행 > 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1CWWJhSzVIZ0d3bmp5clRWck5WODB3TDg3TkZIQVlDcUctMjg5VWtHN2hrd2hvRHlmOWF4djlBaTNFRDQ?oc=5",
+        "source": "더코리아",
+        "description": "계양구 서운산단 관리계획 변경 승인 업종 확대 및 규제 완화 전면 시행 > 뉴스 더코리아",
+        "pub_date": "26.05.03",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-01",
     "news": [
       {
