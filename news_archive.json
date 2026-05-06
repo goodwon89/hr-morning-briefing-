@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-07",
+    "news": [
+      {
+        "title": "노동절 맞아 賴 총통 “최저임금 10년 연속 인상…247만 명 이상 혜택” -뉴스-Rti방송",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IY2JjbHBmOVhJNTlubi1YcHVkMzVLc1RMZjM4Z3lZVWxqbWdERWZJX0JMOEpDRkhCcFlRbnpLeEtPMV9vc1UwdTYtMjgyWXpVYS13YW1mb3phQkE?oc=5",
+        "source": "rti.org.tw",
+        "description": "노동절 맞아 賴 총통 “최저임금 10년 연속 인상…247만 명 이상 혜택” -뉴스-Rti방송 rti.org.tw",
+        "pub_date": "26.05.07",
+        "section": "hr"
+      },
+      {
+        "title": "네이버 떠난 이동수, AI 스타트업 구축 '시동'…첫 채용 공고",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RGFzYXRKV3BTbktpcmo2Z2tGZnN6QXdqSFRXcWRCOGhFVWRVSjljVzlyNGx5bVVjc04xUlhaaUFUcGRBS0E4N2Q2eHZ2a3dKanRkZFRn?oc=5",
+        "source": "지디넷코리아",
+        "description": "네이버 떠난 이동수, AI 스타트업 구축 '시동'…첫 채용 공고 지디넷코리아",
+        "pub_date": "26.05.06",
+        "section": "hr"
+      },
+      {
+        "title": "현대차 노사, 6일 임단협 상견례 돌입…순이익 30% 성과급 요구",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3eXpDalBEay1DQ2JLVXE2cjRZR2xpR3lFbUp2TUJjaDRaWXFDcVFTdktfajhJOC1VTkt5cnF3NWV6eXh1TExrMmlQZzlWTUNScktlTXBYbXFhOWZOZWfSAW5BVV95cUxNYTFjQ1luVkVqaDh4MTZZSkl4c19nUmptMGU4ekJtYTd3eTJyWTQ3ZVJYQWxjZldzT3V0Ulo2U0tIbXhzWjU2SHFqRm1yRVVteXYwaUZrbDM2eko1LXpSNFdWNlFBMmpqT3AzYTlKUQ?oc=5",
+        "source": "알파경제",
+        "description": "현대차 노사, 6일 임단협 상견례 돌입…순이익 30% 성과급 요구 알파경제",
+        "pub_date": "26.05.06",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 성과급 이슈의 본질...‘주식보상 제도화’로 풀어야",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zSFVKRmktbEF6UGZqOWpLMUtzUDBjNTBzRFRoSFBYbkxUa3Q3REVpdGxhZlBiZ3VPWmNGUGFPN0ljRURDQ0Y3RWM5R3I4Vmd6TDBhb2JXLVd5dURJbmdQN1JBaHpwVUtXdEwwWQ?oc=5",
+        "source": "ESG경제",
+        "description": "삼성전자 성과급 이슈의 본질...‘주식보상 제도화’로 풀어야 ESG경제",
+        "pub_date": "26.05.06",
+        "section": "hr"
+      },
+      {
+        "title": "티알 TR , 의료기기 개발 기업 - “디지털 헬스케어 기술로 호흡기 진단을 바꾸다”",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MNF9zS3ZIMzNHWWx0dk90bkZtLWRVWU9kQ283SG44VFZEc3FDQUpLNHF3VEdFT0lONnZ6T0dZR3NGN0pwd2Q5ajBjNzgyR0dsc1djdnp0cC1kdi1wSWZRUlRwQ0M1U3NwTmsw?oc=5",
+        "source": "재개발재건축매거진",
+        "description": "[기업탐방] 티알 TR (대표이사 김병수), 의료기기 개발 기업 - “디지털 헬스케어 기술로 호흡기 진단을 바꾸다” 재개발재건축매거진",
+        "pub_date": "26.05.06",
+        "section": "hr"
+      },
+      {
+        "title": "부산, 철강 숙련기술자 채용 장려금 지원… \"기업당 최대 3명 혜택“",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TTF9pY2UwX0xwbTNuNGc3VTN0N25BMFFBRUlKSDV6bVNobUE4RXRBcWIybHZfU0Z3MjNhN0pIeTd3WXFzX3JRcjBmY0R2dzlGYWFkYktlTy1ZNFFyQy1HYmdkWFpqQkpNanc?oc=5",
+        "source": "철강금속신문",
+        "description": "부산, 철강 숙련기술자 채용 장려금 지원… \"기업당 최대 3명 혜택“ 철강금속신문",
+        "pub_date": "26.05.06",
+        "section": "hr"
+      },
+      {
+        "title": "AI 도입했는데 왜 성과가 없을까… 기업 95%가 빠진 ‘생산성 함정’",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EZjNjUTNlWVRlOExLbnhtLXZUSkp4RGg5TS1WUXdJeTY2N0gxSjdBVVh5YWdVQ0Ffdk1pSHc1aXZuZWpWWnhpVjEwdWdQVk40cUlSZ0c0TUR1OEk0a1YyZDA1N2FMdVpNSmIxamZzZEVCQQ?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[분석] AI 도입했는데 왜 성과가 없을까… 기업 95%가 빠진 ‘생산성 함정’ 아웃소싱타임스",
+        "pub_date": "26.05.07",
+        "section": "ai_tech"
+      },
+      {
+        "title": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUJkMkNKMmZ1N2RUd2M5T09kaUgwYXBPZFNPNG42WkQxZUNEX3RmOFBNdGdFZDZjczBSSDJGbFYzZmEzU1NwbkdVdGl6SG5pMVc5Y2w2VXlDMnB2SGxsSXJ0VTR0OU5SdzZCbVRHWGtqUTYwTlROQzlJN2ExT2N0TWxWMGUyZVltYnRfb19ZNTF3Mm5LaU5SSnlodXhkNFg3RWt5VTZpbGczZ3c1QmpjSEhJUXJQWHlqejVJYzRTSFY?oc=5",
+        "source": "Oracle",
+        "description": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화 Oracle",
+        "pub_date": "26.05.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "생성형 AI, 교육혁신에서 취업지원·사회문제 해결까지… 대학의 미래를 다시 설계하다",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrbVlFMUpMbFJYWk52cEFSTF9sNmZHaWdYcEF3MjhqZk0tZUk2akYxZTg0RVYydFFRSG5DLTlRWUJRM3pBOGNocmxKMENpYnZQMVE3SFVaa0NnaXp3TjFvOWVJSTRKUQ?oc=5",
+        "source": "한국대학신문",
+        "description": "생성형 AI, 교육혁신에서 취업지원·사회문제 해결까지… 대학의 미래를 다시 설계하다 한국대학신문",
+        "pub_date": "26.05.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "한국전기연구원, 제조 AI 에이전트 개발… 에이전트 간 협력으로 업무 분담",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEZFlleEtTd3dnaTZIelE3cWk2cTh3YVFNSDBWQ3FTREstS0wwejlFRHc4Ym9WWGFEY09POXN3WDVLZWN3dDlBeWVsS0lJSUFFbVFSNXF0R0lzTS1lM0xONTkySWZBWnJlZnlpX2h4R0RRZw?oc=5",
+        "source": "인더스트리뉴스",
+        "description": "한국전기연구원, 제조 AI 에이전트 개발… 에이전트 간 협력으로 업무 분담 인더스트리뉴스",
+        "pub_date": "26.05.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "미 해상풍력, 정치적 풍파 뚫고 '에너지 안보' 핵심 산업으로 부상",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCLVRobEdYN3dxczloTFg4clg3c1o3dTZubjg3dER6U3V3cFBWWElYZGVsX2s0X3ZpWnZuOEJGTGxialV6dGVNeGl5TnhqVmtibjhEVFNEOVlIaGQzNk1aT0ZZX28?oc=5",
+        "source": "에너지안전신문",
+        "description": "미 해상풍력, 정치적 풍파 뚫고 '에너지 안보' 핵심 산업으로 부상 에너지안전신문",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한-호주 에너지자원 안보 공동성명 발표…“공급망 협력 강화 재확인”",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12NF95T2w1NWZNdVdvWTZIXzRQajNCZ2xQaUU5dXJLZ3JvdThQUEdqMDhIbTBYS2JzSWctOWtDYkRmcmpZc0JDQ2VPSkg4SjMzR2hYYmpKRTFmUmdNRnJvYUp2TF9fdw?oc=5",
+        "source": "인사이트N파워",
+        "description": "한-호주 에너지자원 안보 공동성명 발표…“공급망 협력 강화 재확인” 인사이트N파워",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "4월에 20% 뛴 석유값, 이제 시작이라는데…중동발 물가쇼크 전방위 확산",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KTE9jVmRFUzdjbVFKdFNRcXpXTExkWlA4aXFKMk14WWZKeEh4MnI3SzdCT2hMOExfRi11Yy15QWx3WWVkUFJ4YWxzemFBM1lFWnc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "4월에 20% 뛴 석유값, 이제 시작이라는데…중동발 물가쇼크 전방위 확산 매일경제 마켓",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "호르무즈 봉쇄 장기화에 美 석유제품 수출 역대 최대",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QeFdRV1VxR0NERndvUDlpdUlpUUN1OGpoUVdpbzQxTE1qNUx5eHRXc2lkNlBZS2k4ZWdqS25XTElGN0hrMnB6cGJsdDZISEE?oc=5",
+        "source": "v.daum.net",
+        "description": "호르무즈 봉쇄 장기화에 美 석유제품 수출 역대 최대 v.daum.net",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "VC협회, 삼일PwC 손잡고 스타트업 전문 육성 프로그램 개발",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DMHVhLXdpT1ZkT0Fod094aExJMDZFMHdCN2VoT1dTLThndEswbTAwMnNielFCMmh1MHhPbndJVGdZei02LUFNYk5iUDJWc3QzMHfSAVNBVV95cUxQQ3R5OF9zbF9uWFZwVWZvT1RYQmtFU3F6dzJLQ2xiNDh1bnJQY3Q3OUtGSjN2TVBra2s3bjVtSkJ5d1hKRl9fcXFkS3R0VUM5bWhhZw?oc=5",
+        "source": "서울경제",
+        "description": "VC협회, 삼일PwC 손잡고 스타트업 전문 육성 프로그램 개발 서울경제",
+        "pub_date": "26.05.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "VC협회, 삼일PwC와 기술 스타트업 성장 지원 ‘맞손’",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFBJRkN2d0lzNlZ3cWxhaG1Od3hDQmNBbU5LdndmcDNZak8zdHgydXFrajl2UDhndlRXWEQ2SlljOUhxTERxaU0wd2JJdThIX2JWdlZWckZMaFhWSU1pd25ZUGhjd0J5M001ZjkxSm4wVHZLNUVVSFZ0OEJuZlk1b01MdjBPaG1K?oc=5",
+        "source": "Chosunbiz",
+        "description": "VC협회, 삼일PwC와 기술 스타트업 성장 지원 ‘맞손’ Chosunbiz",
+        "pub_date": "26.05.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "바로팜, 코스닥 상장 예비심사청구서 제출 IPO 나선다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QWEprUVJqclh5M1VSNl9NbVdSTk5Qd3NieXRjYzN1MnpLZnZDYXkxU2pJTUdsVXlwS2JBN0lZVnptUVJtRkF2aWVQQlg1ZEw4aWhxRExJNUN1UzJ4RUpISEFSSkpjR1ZscWFBZg?oc=5",
+        "source": "약사공론",
+        "description": "바로팜, 코스닥 상장 예비심사청구서 제출 IPO 나선다 약사공론",
+        "pub_date": "26.05.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "VC협회-삼일PwC, 스타트업 육성 프로그램 운영 위한 업무협약",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9keGkySFJqV3RIWWhyeHRoMkZicGd5ME8tTnVoQTZYNUNMWGdnaUtOUkFTRHhvSTV5aGhpNmx2QnNFTFJIQjVDMVNFTDRJR2ZvTGFGN0oycUt3akhtaWUtRjln?oc=5",
+        "source": "아시아경제",
+        "description": "VC협회-삼일PwC, 스타트업 육성 프로그램 운영 위한 업무협약 아시아경제",
+        "pub_date": "26.05.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "자율주행 배달로봇 촬영 영상, AI 학습 활용...규제샌드박스 승인",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HcjNMZFN0al9YWC1oR1FPdWkyb3RSLVJ0YWQyTm1zOWt3U3F2ZTFFQnEtb0FQNHNWLWEyWXBQUnY5MDF6VGh4dXdaX2xYTVdydTE2eGdTYmg4NV8yUzhHRnBKX3kxNi12aUlvZQ?oc=5",
+        "source": "로봇신문",
+        "description": "자율주행 배달로봇 촬영 영상, AI 학습 활용...규제샌드박스 승인 로봇신문",
+        "pub_date": "26.05.06",
+        "section": "innovation"
+      },
+      {
+        "title": "대덕 딥테크 육성사업 본격 착수···특구재단, 올해 326억원 사업화 지원",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTnVkVXJpcWFkTXVaRWt0MFJfQUdRNnlvemRTQzVpRUFMVXdlQl8tXzUwN056S2N4LS1qSThtODRDWW5qUXZPNTFabmU4VFhWZUlad05SZE5qd3hlZDR5VndDRGhQcnpFMmc?oc=5",
+        "source": "헬로디디",
+        "description": "대덕 딥테크 육성사업 본격 착수···특구재단, 올해 326억원 사업화 지원 헬로디디",
+        "pub_date": "26.05.06",
+        "section": "innovation"
+      },
+      {
+        "title": "“바이오 아크릴로니트릴 상용화 가시권”…HS효성, 美스타트업에 추가 베팅",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OZGZqUGM2WFVVZDVQSk9FTDlxSUdpX0VnNE4xbGlEdEVqeDhuLUZHQzdTV1dwRjVyRDVQUjFqZmVMV1I0Um5GZjA1dTJ1Rl9QcWfSAVNBVV95cUxNbmdJZENGYW92SzFSaHg2c0VmSWhQaVhmb2dPNFJVNllOOG15bU1QTkZMbVdLcDlfd2RUU1JGb1pLMkk1bThiQ3ZBMVM4eFFsYUZrSQ?oc=5",
+        "source": "서울경제",
+        "description": "“바이오 아크릴로니트릴 상용화 가시권”…HS효성, 美스타트업에 추가 베팅 서울경제",
+        "pub_date": "26.05.06",
+        "section": "innovation"
+      },
+      {
+        "title": "대구시, 'AIx바이오 혁신연구거점' 선정…국비 491억 확보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uWWlmalRlQm1BeXlZTnF3WkRYSUFyRG9UeVZ2ZUNLMllLbXBuSUEyc3F2TjhER21zY1ZVRjVsd193Zy14dEloRmdNb2pTUzlhd2NGM3R4UFVsN01rTlNWOVo0OHpibFhrRlZIQkRRZ3I?oc=5",
+        "source": "신아일보",
+        "description": "대구시, 'AIx바이오 혁신연구거점' 선정…국비 491억 확보 신아일보",
+        "pub_date": "26.05.06",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-06",
     "news": [
       {
