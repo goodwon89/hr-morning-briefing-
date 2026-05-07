@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-08",
+    "news": [
+      {
+        "title": "감원이냐 고용 유지 속 성과 확대냐...AI 시대 기업 HR '갈림길'",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40bG9kOEJwMTRlamluUTZVV3dnWVVVVV81LWtyT09NU0dhVzhyNlNNdXNlNk1QM3REUFRpV0JrcXRsejBZSXdTR3ZOSU4wOG90ejlXZ2t3ek5zWFQ4VTk3SE1UaHRxSkUxbkRIbGxCT3N3elk?oc=5",
+        "source": "디지털투데이",
+        "description": "감원이냐 고용 유지 속 성과 확대냐...AI 시대 기업 HR '갈림길' 디지털투데이",
+        "pub_date": "26.05.08",
+        "section": "hr"
+      },
+      {
+        "title": "낮아진 DX 사업부 위상, 남의 일 된 성과급 논의",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvdnFLbkd5TjNsdGwyWjNoZ1JBVnJ5Mll6OTctUklSQjBGZGx4NHJUMFJ4cXRXMWVmY3J2SUxZbEVpcWxVRzJuWl94QkdCOEczVXh3Zzhn?oc=5",
+        "source": "DealSite경제TV",
+        "description": "[기업認] [삼성전자] 낮아진 DX 사업부 위상, 남의 일 된 성과급 논의 DealSite경제TV",
+        "pub_date": "26.05.08",
+        "section": "hr"
+      },
+      {
+        "title": "삼성바이오 노사 다시 만난다…노사정 3자 면담 진행",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ObG9Ka1BXby1GTVctRjd5djVnaFpGcEZJdF9TeFprU3F2NFo2SDF0Z25oenI2enBlSmhxOFZVdGFacHc3V1NRSklRVEY3VzY0WFVyR0R3Y04ySmgxM2gwcXVLcW9PMDJ5UjNsM1VqR0JuUGQz?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "삼성바이오 노사 다시 만난다…노사정 3자 면담 진행 연합뉴스 한민족센터",
+        "pub_date": "26.05.08",
+        "section": "hr"
+      },
+      {
+        "title": "2026년 4대보험이 오른다…사장님 월급통장에서 먼저 새는 돈",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tYmhDRFFlenFiejJwbUhfckN0dzcyOFpORUF1cGphdnpoVHpNMDJpQlpSTTl5U0h6OGRrNlM2ZGp4c0VDQWNwRjJrN1I?oc=5",
+        "source": "한국AI부동산신문",
+        "description": "2026년 4대보험이 오른다…사장님 월급통장에서 먼저 새는 돈 한국AI부동산신문",
+        "pub_date": "26.05.08",
+        "section": "hr"
+      },
+      {
+        "title": "美 4월 감원계획 전월비 38% 증가…전년비 21%↓",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KMjNjSG8yRHd4dGkwM1NOYVhGdnhUWkVFTFN6OW5DNDVEV254dlRFN0Y4eTFRc1YxdFFhdldlSFlEOVJTUmVRX1c3Vm8yVk1obUl5b0FqUVFDZ0s2RXJ2d3dvdDhVV0VWZ19TTk5SQW0?oc=5",
+        "source": "연합인포맥스",
+        "description": "美 4월 감원계획 전월비 38% 증가…전년비 21%↓ 연합인포맥스",
+        "pub_date": "26.05.07",
+        "section": "hr"
+      },
+      {
+        "title": "대구 기업 절반, 청년인력 비중 10% 안돼",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUHJXY3JvVVJzbXcyZEZKS1BGM2JZUDN4b0ZRUEFaajhNWmdocEJMc0RubjMyY3M1VHJKc3NkbDFtUnY3MHExSFFlZU4xWXFFa0tjbG1EaGlJUdIBVEFVX3lxTFBINENRbDZkOTNvYnp2bmoxSTNqd2ZoV2RfSTBsODlaV20xazhKQ0gxOHF1SFV5bU9iMVpjdkk2RVRTRzRPLVZPa0NvLUZEdVZaT056aA?oc=5",
+        "source": "한국경제",
+        "description": "대구 기업 절반, 청년인력 비중 10% 안돼 한국경제",
+        "pub_date": "26.05.07",
+        "section": "hr"
+      },
+      {
+        "title": "삼성 미래로봇추진단, 인력 '수혈'…제조 로봇 상용화 속도",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RRHdhM3ZuZkg5SzVUWjRxQ3VkbnpUSTNFODZNeDFLLVhzWFBZQWF1d3dCNVRQN0pPSXk0TVExc1BBa1hOT3J2VHBLaUJ0X1NlbHFEMHpPR3JEYTliMFduTi1sT1NzMEJYV3hiOXFPbkJaNDNu?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "삼성 미래로봇추진단, 인력 '수혈'…제조 로봇 상용화 속도 연합뉴스 한민족센터",
+        "pub_date": "26.05.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "인간 손처럼 정교한 로봇 AI, 산업 현장 정밀 작업 자동화 앞당긴다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1icnk2OVB2WXQ0VGdub3VCaVBhcTlhWWZFNzZEM0VOSkZ5VEJMX2YxUk9FbUg1Mjl4NTJLeERHMXpzU1o4S2ZPbENQNEVaQ2JZZjdoTWxYOWgzM09oTzJYX2FFLWRqRkE1Z1E?oc=5",
+        "source": "지티티코리아",
+        "description": "인간 손처럼 정교한 로봇 AI, 산업 현장 정밀 작업 자동화 앞당긴다 지티티코리아",
+        "pub_date": "26.05.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "인공지능 도입, 문제는 ‘IP 워크플로우’ 개선이다!",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUXRiV1ZvR3A1d2o0ZHVodUtoVHZkdE5SUXF1RG0wcGZOM2xTSXpaM0xKeWIxYnpWRkVXNkR6aEZLUngwSWNlVXc3NzFOVGhhbHBSWGtEbXRPTTRNcnJUMk9JQXRVVHhaa1lmWWlnN0ZLWEtHMkxXdHVEOHh2OVJIWWJtdXE4RWVKUEdWZFltS3M5Um1WRUZMOTlhLVAtdnhfMGpFU3BmVUU1d2lQMVE4TUZGZnhRSzdVTnNqWkRjX3kwUnZMdVR2YzE5OHFhS2ZuVFFsUnF5QkF5Nk0yTm9NSVYtTWNYaXAzRzRRVkJ0VlFrcURnLXlRMHZodllzSjBraWUxQVJfY2pIYXdIamNENmIzQ0sxR3FfTU9VXzRxdXptVTFzTEJVZVhKN1pIM0NEcGVraUNtNFV6Q0VtSW1FMEVkQ0JFaHl6N3htdmVuMEkwYUVlOG9Dcg?oc=5",
+        "source": "IPDaily",
+        "description": "[전사라의 IP 임팩트] 인공지능(AI) 도입, 문제는 ‘IP 워크플로우’ 개선이다! IPDaily",
+        "pub_date": "26.05.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "엔비디아가 투자한 AI 인프라 기업 네비우스, 주가 57% 급등",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3hzOEozVlNDWk1Mb1NOeHRLWUdXOXc5ZmlqMWVLc3hNcnRrWmdPUVBlR0Y0M1RHN0pjR3F3cmdQUFluREZ3VzlHQnNTRk1GNmI3ZVpkTTJwWS02Z0sycmg1STV6bS1Ybm83RUVLTFp3Yk9uNXpSOHZobi1OMVlpMEZRekg3dVhU?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "엔비디아가 투자한 AI 인프라 기업 네비우스, 주가 57% 급등 글로벌이코노믹",
+        "pub_date": "26.05.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "씨티 \"코스피 목표치 8500으로↑…반도체 사이클이 유가 극복\"",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZajRuV1FtMF96NFZmVGNXeTBxZG5MS0d5MFJnOWNPeFlibTYxaE5FYjBjaFVxWHduVWlaWU1Wc3RSOGtGVThDMjJ4Vmw5bm5ZbGlz?oc=5",
+        "source": "네이트",
+        "description": "씨티 \"코스피 목표치 8500으로↑…반도체 사이클이 유가 극복\" 네이트",
+        "pub_date": "26.05.08",
+        "section": "macro_industry"
+      },
+      {
+        "title": "무역협회, “미국 관세 환급 서둘러야” 기업 대응 촉구",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON2pWZ1JzajE2a0VXMmN1SnRNUGxsRnFudDV6bHdiZjM3Z0FrdU8yLVNOUDZlVk5rYnJjMHZ4S3k3RUhGc0poYjhNQXllaFFOYVYyVTNRVEN1SFEydlMyWlJZVjZkZHZrU1B1WQ?oc=5",
+        "source": "데일리경제",
+        "description": "무역협회, “미국 관세 환급 서둘러야” 기업 대응 촉구 데일리경제",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"인상 고려할 때 됐다\"···5월 금통위는 금리인상 '예고편'",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeHhoVzZoeWRwWVBSU1I2SURkN0lRQzdsd3luQ0pDR3NPaEE2YzZOT2k5aGhJblVYWTNtN2ctdHdzNHVzbUdIR1RxYXFaZDUteGhWaU9MM09ibGl4SndQS0xIa0JKa1pMeUE?oc=5",
+        "source": "서울파이낸스",
+        "description": "[초점] \"인상 고려할 때 됐다\"···5월 금통위는 금리인상 '예고편' 서울파이낸스",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "정부, FTA 특례로 에너지 공급망 다변화…매점매석 시 몰수 조치",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rWnluVFNNX25xcnA3RWRQUDZPRnFHOXp1UEVUY21OSndzekd2OFNDSnRkTVFFLTRIbm9UQ3YxNWswaGVlX1pUS2xoenU5Nmc?oc=5",
+        "source": "v.daum.net",
+        "description": "정부, FTA 특례로 에너지 공급망 다변화…매점매석 시 몰수 조치 v.daum.net",
+        "pub_date": "26.05.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "파두 사태로 상장 2년 늦어진 AI기업 마키나락스, 그만큼 FI들에 고수익 안겨줄까 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTlSWFVVUkROamR5UEpoNGpkSVJjRzlvdVBMYnBoNy1FQXpPdEsycWtCblp4NlBpZmJqTjJUNTlCaVBIb0FIbnYxZ0FlZUU3OG96OTRIZ1BUUW9YSWpLV1dPTGg4UmZOR1o3Y1FiZHRpRTlWWXhmbm9NVXRLRnJXcDVpbXlhaW_SAZsBQVVfeXFMT1NvaWYxeXA0WlRkLVlVTkFyVGlLZy1mSGdrYlRCVG9EX1otWDhzaWVtSzlUTkNXenNtSmtOMVUzbzBmOEZRaWJnZXJ1eFRMN1hMeGNqaXJNdmtwYjItT05vaUpwRzh6TzI5TG1rcl9qNk5kS1Qxa3IzU2VMNzZ4XzRLeG5nS3h0NndVVE1DQ3NNSXVQRWFHcXlVbUE?oc=5",
+        "source": "Chosunbiz",
+        "description": "파두 사태로 상장 2년 늦어진 AI기업 마키나락스, 그만큼 FI들에 고수익 안겨줄까 - 조선비즈 Chosunbiz",
+        "pub_date": "26.05.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "사모펀드 시장 새로운 트렌드로 떠오른 '클럽딜'",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YY0pQS2ZMRUdzZkhzUXNUWDY2WFNIQTRYTnZCU3ZvWUZTVXNCRVYzOHRlaTQyNjZEUERzMHlmY0hPczlxakhlNWNtNUgzU250bDA1RURBQnB5Q1RCMlVCRFRUUTFsSUlnaEE?oc=5",
+        "source": "중기이코노미",
+        "description": "사모펀드 시장 새로운 트렌드로 떠오른 '클럽딜' 중기이코노미",
+        "pub_date": "26.05.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스타트업 보험사 ‘코기’, 시리즈B 1억 6000만 달러 유치… 유니콘 등극",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1eXZIeDIwdUNSZ3pHRjFZMEgxdEI0b0VpaWVLUjlwNVRWYzJIOXFqYnJ5ZXJ6N1JUTjdRYWVYcmFaNXhfVUp1R1oxV2tJLTA?oc=5",
+        "source": "와우테일",
+        "description": "스타트업 보험사 ‘코기’, 시리즈B 1억 6000만 달러 유치… 유니콘 등극 와우테일",
+        "pub_date": "26.05.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "삼일PwC·VC협회, 유망 스타트업 성장 지원한다",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51NUpSb0RqOUNCVm5HdTAtNkFHSnBnLTVJTVg2c2ZsNXV0UWJ3LXludm9ENG84NEdKcnVEcmxXT2ZwS1k2ak8zaFkyRWk4VExSbHVTbw?oc=5",
+        "source": "outstanding.kr",
+        "description": "삼일PwC·VC협회, 유망 스타트업 성장 지원한다 outstanding.kr",
+        "pub_date": "26.05.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'알약' 대신 '젤리'…알피바이오, 복약 경험 앞세운 제형 혁신 주목",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WUREUEJjWU9USjF3YnRJS0QwdGVYZ211S2F1bTJ2VnhUUGY2UTZtaHBWSHFrWDR0MG1jQXJ5RURJY2R6VGJRNHhQT0tGQWVCUkFOQmlXaDlpUjBUeFJwcl92eFBHYUFYaVVYaw?oc=5",
+        "source": "약사공론",
+        "description": "'알약' 대신 '젤리'…알피바이오, 복약 경험 앞세운 제형 혁신 주목 약사공론",
+        "pub_date": "26.05.08",
+        "section": "innovation"
+      },
+      {
+        "title": "퍼스트바이오테라퓨틱스, 일라이릴리 신약개발 플랫폼으로 신약개발 혁신",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhbjJVd0Y4SnZfN0RZS0xvTDlyTkRTZWpoUVBjSlRGcGpteGhfZWZoOHF4STg4dzZDdEM1TGRPZWMyWU4xXzlhYnZVTllhaUVTYU5oUElyS0E3Ri16dmFQOE1GNlhuQnd2TkZMZWJB?oc=5",
+        "source": "팜이데일리",
+        "description": "퍼스트바이오테라퓨틱스, 일라이릴리 신약개발 플랫폼으로 신약개발 혁신 팜이데일리",
+        "pub_date": "26.05.07",
+        "section": "innovation"
+      },
+      {
+        "title": "정부, 자율운항선박 상용화 촉진…AI 데이터 플랫폼 사업 착수",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12SUVoN0dCNzZhRGxXMy1xdERSSUZvcXR1SjNfQnBQUjNBX1RTOU9jRDdxY0RhdjA0cnNOVm14amZGZ1R3alkyRkZORFZKNjFCQzdidHRIYnZoRjRiQmphUzdFSDU?oc=5",
+        "source": "디지털데일리",
+        "description": "정부, 자율운항선박 상용화 촉진…AI 데이터 플랫폼 사업 착수 디지털데일리",
+        "pub_date": "26.05.07",
+        "section": "innovation"
+      },
+      {
+        "title": "스마트팜 생산성↑…바이옴에이츠, AI 기반 미생물 비료 상용화 속도 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taV9HZWwxUWpma2o2M1Z1LWJPRnB0VGYxUnJ2SV9sTVJBODdKMV9lckE5Smt3b3QzMTFCaVpXSWgwS2JlRTktZjBReW1KczR4d2JMOVRQTEFHcFpuRWQ1NDFOVl9Sa3RTVGfSAW9BVV95cUxNaTIyWmo2WTVKSC1Ya29IbW00aU50T0JrTWZpVUVqWHR2RzhkVXJtM3c3SU9mZEhPQVJjNVV1QkhrUGQtV2l0LV9iZDZxd1R4OF9iWW1QUTQtMmZfQzhKWHZPdmhRdzd4amFiT05LLWc?oc=5",
+        "source": "머니투데이",
+        "description": "스마트팜 생산성↑…바이옴에이츠, AI 기반 미생물 비료 상용화 속도 - 머니투데이 머니투데이",
+        "pub_date": "26.05.07",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-07",
     "news": [
       {
