@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-14",
+    "news": [
+      {
+        "title": "\"1인당 7500만원 성과급으로 달라\"…성과급 청구서 봇물",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SWHI3M3dJVlNNbzJteV9WcDY0dmtqN2NNYmN0WGdEZVU5WFpPdDZ6NzN0elpIdTRwRHZXMVdkMnZhQTdMeXJpcW55em03aUhQVzdN?oc=5",
+        "source": "biz.sbs.co.kr.",
+        "description": "\"1인당 7500만원 성과급으로 달라\"…성과급 청구서 봇물 biz.sbs.co.kr.",
+        "pub_date": "26.05.14",
+        "section": "hr"
+      },
+      {
+        "title": "국민 기대로 성장한 삼성바이오로직스, 신뢰로 답해야",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DWVl5dW1memV4cjh5RmVVVG9qUEc3SF9Ra1NNXzFITFV4cXZqMHBrU1UzUG9rWEZ1WVR0eFJGMmZDbmc0MTkzS1BtSjVoODJmblN2dnd2Vm9NVFI1U2N1ZFFkWW0zZEs4MFpjQw?oc=5",
+        "source": "팜뉴스",
+        "description": "[기자의 펜] 국민 기대로 성장한 삼성바이오로직스, 신뢰로 답해야 팜뉴스",
+        "pub_date": "26.05.14",
+        "section": "hr"
+      },
+      {
+        "title": "민주 송순호 \"감사·인사제도 혁신…공무원 보복 없어야\"",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmV092aWx3dmN3X095WVlQVlRXaUJWUS0wT3A2UDFIMVV2RUsxckNtUWY3eWdZNXowYVQ1OWpiSkEzZTBFRm1lLWhRYlphRVFkUVNJMw?oc=5",
+        "source": "노컷뉴스",
+        "description": "민주 송순호 \"감사·인사제도 혁신…공무원 보복 없어야\" 노컷뉴스",
+        "pub_date": "26.05.13",
+        "section": "hr"
+      },
+      {
+        "title": "한울본부-울릉크루즈, 임직원 복지 확대 업무협약 체결",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVXFyc0FnVVFpWUlvS2toeC1ReE5MWl9qZmJyeFlvVXRmWGVSX3pkSWxIYU53eUhWRFhVeEI4R1J5WjhRcGZ1bVp4UEJFWG9YbTNRRC03MkdTb2piVkJnZzhLMmxpTnAzbnJV?oc=5",
+        "source": "울진투데이",
+        "description": "한울본부-울릉크루즈(주), 임직원 복지 확대 업무협약 체결 울진투데이",
+        "pub_date": "26.05.13",
+        "section": "hr"
+      },
+      {
+        "title": "KAI 노사, 임단협 조기 타결…\"원팀 KAI로 경쟁력 강화\"",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VVWhvMElMSXVpNXV3dWhIdGU2S005b09WbTZXX1E2TW9ZWl9fMWxObGJPNTNMaTZySFZXYVZielUwUVlpbXl1TjY5SVVzTUdrT0lmR1JhWU91cTdaazAyYmJPZVE?oc=5",
+        "source": "디지털데일리",
+        "description": "KAI 노사, 임단협 조기 타결…\"원팀 KAI로 경쟁력 강화\" 디지털데일리",
+        "pub_date": "26.05.13",
+        "section": "hr"
+      },
+      {
+        "title": "임단협 타결에 ‘상생 선언’까지···KAI 노사 관계 새 국면",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTHFLNEdSc2xRYXIyWWRlMElEeDdyR0RWcEJkYU9TejhUSkx5alh4RE1OY280SXhjZHQ4RGU3NDU1TS1xYW1BUjBIbEc5QV9LOTJYVUI2Um03blpHTkFKM3p3ZmtvcUdUZ2pOWGNhWFQyWEZZ0gF0QVVfeXFMTUFMcUs0R1JzbFFhcjJZZGUwSUR4N3JHRFZwQmRhT1N6OFRKTHlqWHhETU5jbzRJeGNkdDhEZTc0NTVNLXFhbUFSMEhsRzlBX0s5MlhVQjZSbTduWkdOQUozendma29xR1Rnak5YY2FYVDJYRlk?oc=5",
+        "source": "이뉴스투데이",
+        "description": "임단협 타결에 ‘상생 선언’까지···KAI 노사 관계 새 국면 이뉴스투데이",
+        "pub_date": "26.05.13",
+        "section": "hr"
+      },
+      {
+        "title": "“더 빠르고 안전한 인터넷”…차세대 인프라 기업 급부상",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04VHAyS0hkX1RDa05KbW1GZVlwTV9NaFRwQkVkM05SbGdpcUY3bDMtQ29UVkNGVVZYYllUMWZkYnZub25SV0w5LW9PekhtdVZrdUpTby1UWTFPMzBZczlsWXMxbkVxSWw1a2hxLWMyMA?oc=5",
+        "source": "경남대학교 대표",
+        "description": "[분석-글로벌성공기업] [클라우드플레어] “더 빠르고 안전한 인터넷”…차세대 인프라 기업 급부상 경남대학교 대표",
+        "pub_date": "26.05.14",
+        "section": "ai_tech"
+      },
+      {
+        "title": "한독, 2026년 로봇활용 제조혁신 지원사업 선정으로 스마트 팩토리 고도화 가속화",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FalJRMVMtd0ZBaHFHMHhqeXlJM3o3c0ZiNDFDcmd0Vm4welAyV2I0U1VQU2tEc2xWTHM1R3JKUVBkY29adjd6Q1M3U3ZESG9qa2hrYVNSOA?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "description": "한독, 2026년 로봇활용 제조혁신 지원사업 선정으로 스마트 팩토리 고도화 가속화 MEDI:GATE NEWS",
+        "pub_date": "26.05.14",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AX 직접 설계 시작한 AI 빅테크…韓 시장도 틈새전략 고심",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91SW5OY3k5cjRjLUpRdy1IZVcxNmNGc0ZlMWQ1TkFHWTcwOFlxVXIzaFdNeGprLVNzdk5zSmJ1dV9oMlVTMU5QdzlyRXAtMEw5bllfbkFrd0NscmdDS1pFLVBESjI?oc=5",
+        "source": "디지털데일리",
+        "description": "[AI 워크플로우 혁신⑤] AX 직접 설계 시작한 AI 빅테크…韓 시장도 틈새전략 고심 디지털데일리",
+        "pub_date": "26.05.14",
+        "section": "ai_tech"
+      },
+      {
+        "title": "자율형 AI 에이전트로 IT 운영 자동화...MCP 서버로 AI 운영 거버넌스 강화",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uY2lNQVpiY0xfXzNmQ2xOUVp0UDhFVXJGY25Eemdta2hON1dhWjVYMlZMbzJDcHFhenNyckh1UllfdUQwNXl5eDZKdW9DNVV6OVYzLTNPMkp3Qk9CZTl1ZTZ1VnJoSlpJM1E?oc=5",
+        "source": "지티티코리아",
+        "description": "자율형 AI 에이전트로 IT 운영 자동화...MCP 서버로 AI 운영 거버넌스 강화 지티티코리아",
+        "pub_date": "26.05.14",
+        "section": "ai_tech"
+      },
+      {
+        "title": "피엔티, 1분기 실적 절반 감소...하반기 반등 노린다",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yTFl0Q2hEQlRaakRTSDhkZjE1YW5xUnlJUnNHY0pFMGdVSWxPaldvN25SRGpEbU5LbnQtTnB0Tkp3bUhsWUNFaDUzU0JSYmRYMS1LR0NoOHFsb21VQWJHNjdNeW5Rdw?oc=5",
+        "source": "디일렉",
+        "description": "피엔티, 1분기 실적 절반 감소...하반기 반등 노린다 디일렉",
+        "pub_date": "26.05.14",
+        "section": "macro_industry"
+      },
+      {
+        "title": "공급망·에너지·식량안보까지…한국·아프리카 협력의 시대 열린다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SV83cVVuUEZvbmM4aFc0MVVEakltUDEzUFdaWlA5VHdNRkNDb3B1LWxEdEljYlpFa010b3drTlk2Q0RCTXJJd3FDd2dVQVJkRkd1SFF5MmZnM1NCTUlXWGdReXhrejFBQ2lhMEtR?oc=5",
+        "source": "코리아포스트 한글판",
+        "description": "[한-아프리카] 공급망·에너지·식량안보까지…한국·아프리카 협력의 시대 열린다 코리아포스트 한글판",
+        "pub_date": "26.05.14",
+        "section": "macro_industry"
+      },
+      {
+        "title": "與 강세 속 서울 표심 관건…특검·부동산이 판세 좌우",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DTVg4OWtNTHR1MmExTDBNMTVEV2cxLUEtWjJQdWNYVEVaZldCZjZiSVE0a3ljb18zM3pxaU02QmIxTjBIYXp0bjFud1Zpd1hCUG5NVmI5d19oQdIBWEFVX3lxTE5Ubng0TzFjd0dseVdWUC1td09hdXB6UUZ6c2Qzajl4VGViQzBQUmFrQWR0VUUzN0FyTjJNaE5KdjFqNnYyR2F2SzZGM0JYa3E3dXM5bG9sdkE?oc=5",
+        "source": "아주경제",
+        "description": "[지선 D-20 전망] 與 강세 속 서울 표심 관건…특검·부동산이 판세 좌우 아주경제",
+        "pub_date": "26.05.14",
+        "section": "macro_industry"
+      },
+      {
+        "title": "물가·워시 불확실성에…월가 \"美 연내 금리인하 안 한다\"",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ETkpoXzZhajFVbER4R0kxTVN2ck9fRGlWd1pjZ1d0RjdJd3lTbEhyc1JMY2xUVGF2TWNzaWtOLVd1LVJoT2FsQ25CNnVyY2t6MlF4Qzh6bDNMamVIRUVFRUhxMG9vSUdxdjlTR2NHQWh3eXQ0?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "물가·워시 불확실성에…월가 \"美 연내 금리인하 안 한다\" 연합뉴스 한민족센터",
+        "pub_date": "26.05.14",
+        "section": "macro_industry"
+      },
+      {
+        "title": "세레브라스 IPO '흥행' 조짐…HBM 슈퍼사이클에 변수될까",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcndyVUdaUlRmSzZCc29ZNnR0Q1pOa3BuRkM1TzdoTVNhTHpEMTNRODRma3ZENU9CTVJ1RVM1Nkk3TFd1T0JTV3RFYm9ha2lVemJMVlhKVmlPZFFhRWZ5ZzJXSk9sYUFVOHJzQ2ZzTVM?oc=5",
+        "source": "연합인포맥스",
+        "description": "세레브라스 IPO '흥행' 조짐…HBM 슈퍼사이클에 변수될까 연합인포맥스",
+        "pub_date": "26.05.14",
+        "section": "invest_ma"
+      },
+      {
+        "title": "GMR Solutions, IPO 공모가 $15에서 $13.50으로 하락 출발",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kRlRHZFVNak56LWpDd09SdWxrLWRQUWN3aFFQUWNnaGEzWFE2TDZHaW1kSlY2aF9EWnc4MmJfQjEzMnMtVm5iTDFpNFVjclczZ19CWW91NDBjajlVTTFtaVJJanZCQzdwUWpZOHlOZUZ2SXhuUkFoZQ?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "GMR Solutions, IPO 공모가 $15에서 $13.50으로 하락 출발 Investing.com 한국어",
+        "pub_date": "26.05.14",
+        "section": "invest_ma"
+      },
+      {
+        "title": "벤처·VC업계 “알테오젠 이전상장 우려”…코스닥 잔류 호소",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zQm9XSWczUVZyeS1qYkhNdE5WbWVHazZqaDFybmVMYWEtajBpWmtWREo4ZkQ3anF2NFBBYVBXYTJ6SnMtQUhGSmNsUGVUX2tYdlRxcQ?oc=5",
+        "source": "이투데이",
+        "description": "벤처·VC업계 “알테오젠 이전상장 우려”…코스닥 잔류 호소[종합] 이투데이",
+        "pub_date": "26.05.13",
+        "section": "invest_ma"
+      },
+      {
+        "title": "피지컬AI IPO 흥행 파도, 빅웨이브로보틱스 이어갈까",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Y2dpNnJJQ0QwNzBfanBQSGRoWlNvbFh4a0Z1a3o3VGNUaWVqMWpYLUdvNHJxRGYyY2lrNlhyZ0g2MTktVkhHN2MyVTR6OGNqWDllYldiVjE3eElKeWFUYVVFSjZnNndZ?oc=5",
+        "source": "녹색경제신문",
+        "description": "피지컬AI IPO 흥행 파도, 빅웨이브로보틱스 이어갈까 녹색경제신문",
+        "pub_date": "26.05.13",
+        "section": "invest_ma"
+      },
+      {
+        "title": "서울바이오허브·삼성바이오에피스, 차세대 바이오 스타트업 발굴",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTmhzNVQtSm5GSmxXUGdraWNzQ1dhVkdNTzhlWlZDQmpmd1hUT0dOWURuQi1KdzU2LXVQZGE4LXZmVkxlenhUOVVjc3Y1ZkZXU2RrdjE0ams0WDF4Q3VlSEZ0ajRCRVNrWk5rVWVwV2LSAXNBVV95cUxPbGRXR280UC1UaDVvUG9jVFc3eGZpZ1Q2WUwtR0UxUlh6eVpqaHlFQVpTV3JrWmpkcTNhaVl5OVlpQzZCdVpxN2p2aUZSSjI3UkxBcmZjNXVBWXN2QXFvVEt4OGVjU3NnV0NKMW5oSFlEaFBr?oc=5",
+        "source": "청년의사",
+        "description": "서울바이오허브·삼성바이오에피스, 차세대 바이오 스타트업 발굴 청년의사",
+        "pub_date": "26.05.14",
+        "section": "innovation"
+      },
+      {
+        "title": "ICT 규제샌드박스 신청 절반이 '신속처리'",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yeFdEVVpVX0hmaHNheUxzM1VoT0JCbzdqemlNMkRLMkJuYUJ6YWFaVDQ3T21iV0hqcXRKRnljdUd3Q1htSFdYb2dCREFOTUpteTlkSlNR?oc=5",
+        "source": "지디넷코리아",
+        "description": "ICT 규제샌드박스 신청 절반이 '신속처리' 지디넷코리아",
+        "pub_date": "26.05.13",
+        "section": "innovation"
+      },
+      {
+        "title": "제10회 미래의학춘계포럼 개최 안내",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeXVvNGtuMS05aEdxMkx2T2F0Mmw2TFVUQV91ck5aYkxYTmlvSzVycENoM2NqMWJRRm5SSXpHeW5sSzRLVWhkSnFJVUdkYlNMbFdNUmdRMkV4eDN6WktSZUFKVjBWUGN6SlZ4WlMyd0l6X1hwZFo3ZXJWbE9IWFEySkpWVlRkYlZYcHF4RFlVd1hWczA?oc=5",
+        "source": "BRIC",
+        "description": "제10회 미래의학춘계포럼(주제: 차세대 바이오 혁신기술의 최신동향과 비전) 개최 안내 BRIC",
+        "pub_date": "26.05.13",
+        "section": "innovation"
+      },
+      {
+        "title": "전북연구개발특구, 161억 투입 '딥테크 기술사업화' 본격 시동",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MeF9jOWJjaHZSMnd0NG1oVXVjT1l0YzVtbVh5Y0ZIb3E1M1JLNzVqZU1mTXNpdUNzNnJiM04xSXdnYjBvcDNfN1VKa0MtQTlsTHk4NmlHVkVyZmRNbU9Bb2pnZmlzdw?oc=5",
+        "source": "위즈뉴스",
+        "description": "전북연구개발특구, 161억 투입 '딥테크 기술사업화' 본격 시동 위즈뉴스",
+        "pub_date": "26.05.13",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-13",
     "news": [
       {
