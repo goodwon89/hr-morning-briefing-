@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-18",
+    "news": [
+      {
+        "title": "바이오·IT 업계 번지는 노사 갈등…파업 확산하나",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wMzU2T3BtTkl6cS14RW5pMlhlcWxVOUxWSlZvNGo3S0k0UjB3LWlrOFkwMmJzbTR6aS00REw0NnBwTjg3UGVpMFdnS1hjTDhLNnc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "바이오·IT 업계 번지는 노사 갈등…파업 확산하나 매일경제 마켓",
+        "pub_date": "26.05.18",
+        "section": "hr"
+      },
+      {
+        "title": "최임위 결정만으론 특고ㆍ플랫폼 최저임금 못 받는다…법 개정 필수",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWNyVzJZSHlaZml4U2Z0bHFxZ0FBZkhUaFVCeTB2Ql9TWnp2VHJWakNqY3dMRUt4ZDBIb1N0VUpVRXllVlZzX1hUTVVzS3hIX3liNms5NEdmN2F0MUt5dUFpMkxlZUF4M3A4eFFtLUlUY2xuZUdBUTA5VDRrZWUwX29mU2hGQjF3QUtR?oc=5",
+        "source": "월간노동법률",
+        "description": "최임위 결정만으론 특고ㆍ플랫폼 최저임금 못 받는다…법 개정 필수 월간노동법률",
+        "pub_date": "26.05.17",
+        "section": "hr"
+      },
+      {
+        "title": "AI 확산에 ‘신입’보다 ‘경력직’ 선호…기업 채용 공식 바뀐다",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0ta2k5VFlrVGtLTlFrWWo4aGtYcS1Wc3g4S3lMTy1rREFUVU5aelZuYWJkZ1ZkZWFlVHFuWl9kWVFNVkgxWThFUFlQZmJEekpPX1pNMFpLOFdaVG9fbU02TDhtOG1KQlZRdndmY0kyNHJST2c?oc=5",
+        "source": "마켓인",
+        "description": "AI 확산에 ‘신입’보다 ‘경력직’ 선호…기업 채용 공식 바뀐다 마켓인",
+        "pub_date": "26.05.17",
+        "section": "hr"
+      },
+      {
+        "title": "심평원, 창립 16주년 '조직문화 혁신' 선포",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YQkR2QTl4TzZDTGtHS0NQNmN5VnNiNGpJd05QNnFzTGpMdlk2WUJ2UlJfUEZVdWNNN0NoZUxUa3NWSjE5cF83SjlwR0dBQ0FramdyMTlrZzdUazBwX00zMmdMTkwtUk03LVlkUFF3?oc=5",
+        "source": "메디칼타임즈",
+        "description": "심평원, 창립 16주년 '조직문화 혁신' 선포 메디칼타임즈",
+        "pub_date": "26.05.17",
+        "section": "hr"
+      },
+      {
+        "title": "\"개원가 최저임금 인상 타격 얼마나 받으셨나요?\"",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LZzV0aE43bEVwTkIxelNLbFVKQlFzbmphNHhqcWNUaTdqQmdmMXRPSjFHRlNCd3FuQW9fbGJMR2RYOWVjZDNJSy0yMmc2WEl0YW91eGVPY25sanQ2Ymo2cEI4ckRMeHlBV25SXzd3?oc=5",
+        "source": "메디칼타임즈",
+        "description": "\"개원가 최저임금 인상 타격 얼마나 받으셨나요?\" 메디칼타임즈",
+        "pub_date": "26.05.17",
+        "section": "hr"
+      },
+      {
+        "title": "로이터 \"삼성전자, 차등 성과급 제안…격차 6배 이상\"",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1S2N4ZUFkYnlaYWl4cGRlNXBoRGlEaFB3N2diNXV1SE82cG5vLWpBNHdONm1sZ1p6SG5VZVhTTWZVWVg0TnMyR0llYWNqUlE0VFBJbzN5Tm9ZRHhKd1dnRDhJSGh6RDZZdXFHVmFNVExKUFg2?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "로이터 \"삼성전자, 차등 성과급 제안…격차 6배 이상\" 연합뉴스 한민족센터",
+        "pub_date": "26.05.16",
+        "section": "hr"
+      },
+      {
+        "title": "'AI·로봇 수도' 거듭나는 대구",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wWWFvczlTMy0zZlBUVFQ1aGQ2ZEZULXVWWGVtY2VVQzVvN3lvSXlRdFFZMTI1dDZGclJXY2g0X1dybk9nWnpJMWFIY0xLSnp4cmlF?oc=5",
+        "source": "네이트",
+        "description": "'AI·로봇 수도' 거듭나는 대구 네이트",
+        "pub_date": "26.05.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "‘2026 인공지능·디지털 혁신 포럼’ 개최",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42SkY2R0xFY3lTYW03bnlaZ2dtYTBaZzhNXy1BZ0hzR2dTZWlBMjZBQW5OMDRYZ1htYXFqdU1NcGxRREZLUGtmT1RLRHc2SE9QNjJORzVPdG16bDk5dm5TNHFjYm9MVHhL?oc=5",
+        "source": "농축유통신문",
+        "description": "‘2026 인공지능·디지털 혁신 포럼’ 개최 농축유통신문",
+        "pub_date": "26.05.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "글로벌 병원의 AI 사용법 ① 데이터와 시스템이 만드는 의료 혁신 | 아산인 이야기 | 피플",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wX2ZTUEN2Q0F5T0s5dzR5QkEwV2tZd3RPY0VMYUVPVkJaT096SGlOZVBmTjl0cmIzQlpCTmo3TzhNLTB4eWM0Q3hFZWlTMmF0U3ZQdGgyVDRnV0J1Vk5IbTVSOW5ORDA?oc=5",
+        "source": "서울아산병원 뉴스룸",
+        "description": "글로벌 병원의 AI 사용법 ① 데이터와 시스템이 만드는 의료 혁신 | 아산인 이야기 | 피플 서울아산병원 뉴스룸",
+        "pub_date": "26.05.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "세미나허브, '2026 피지컬 AI 산업 전망 컨퍼런스' 19일 개최",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRTBzcUI0VC1NM3ZteVEwSUZ0dk43a1I3Zzc4emRTSk5jbmU1eXhDdGcwRUp3d1h5bjhrZnZkQVotNktDQUpMNFZ1Q19kOXUzSnhVbllzOS1vYi02RERIYXNaOFhIU2s3RWlKRQ?oc=5",
+        "source": "로봇신문",
+        "description": "세미나허브, '2026 피지컬 AI 산업 전망 컨퍼런스' 19일 개최 로봇신문",
+        "pub_date": "26.05.17",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“반도체 ‘위기’ 때 모바일·가전 ‘바람막이’했다”…삼성 ‘노노 갈등’ 확산 “DX 홀대 안 돼”",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVa1p0NDVyNTRSUVZWdktadEl2UlZJSzExUzZ2dGQ3TXphWGpJeVJYQWhkZlM2MWtrY0lRSXYtYkF6WlhpbllGbzRpR19QODJPMy1Ob0ZGZHNoQzhPbzlDRk9ZWUYxS0ti?oc=5",
+        "source": "CEO스코어데일리",
+        "description": "“반도체 ‘위기’ 때 모바일·가전 ‘바람막이’했다”…삼성 ‘노노 갈등’ 확산 “DX 홀대 안 돼” CEO스코어데일리",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 슈퍼사이클 맞은 코스피…수도권 주택시가총액 넘은 듯",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SmZaNmhsTVcwSDh5Y2ZLYUxFSWNPdnVuTzBhYllEWl8tTEVnbzVJTXVWV3hqenFjcXFoaGRlYXhlRjk0eEc1eElEVFdBT1pkMnMwN1RxaEpKbFHSAWBBVV95cUxOR3Q0ejczUG1ib1BIQmk2Y2thejd2RWxGNVp2VjFCWHUxUTF1UWc3bmxrOGRnMGtqR3Bva3dCOUR6RkQ0MTZlekRPc3VzazZxNFlLakVQYVVDT21XazBXMFo?oc=5",
+        "source": "연합뉴스",
+        "description": "반도체 슈퍼사이클 맞은 코스피…수도권 주택시가총액 넘은 듯 연합뉴스",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'슈퍼 엘니뇨' 덮친 세계…중동 위기와 겹쳐 한국 식량·에너지 공급망 비상",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qZHBVei1pdzUzLVV4ZFJ6SDhaUFRsZkVYdTEtbE44d2VTODhpeHZSLThpTXItdEZZNDN6Q1B4amc3dHJLa1dteGVZS3J4dEZHdnc?oc=5",
+        "source": "유스연합",
+        "description": "'슈퍼 엘니뇨' 덮친 세계…중동 위기와 겹쳐 한국 식량·에너지 공급망 비상 유스연합",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 이은 수출효자…'K-방산 4사' 3년치 일감 확보",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwcGxqTXpZV043NFpWM1JiUmxnM291SjBNYjBhaDB3VWJfM0l1OXRFa3hpN2ZBWlh5RGxxX0FfcXZfUUZfMTd6czF5amg0QnM?oc=5",
+        "source": "v.daum.net",
+        "description": "반도체 이은 수출효자…'K-방산 4사' 3년치 일감 확보 v.daum.net",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"190억 투자 유치\"…AWS와 날아오른 K-스타트업",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wTm1NMGV0THZHb3RxdUhTbnJ1NXVRNTBHTWUxY1EtNzVWY1JmTWhTMkZpY0ZwbnNYT1d4WDZqRlRBMFd3aktxbVptLVdPMjFXXzRTQ3ItM0tnczhWYmQ4UNIBeEFVX3lxTE85ZmN2NTBIWWR4ZFdCbEd0dk5vVjJkTUZTc3FvaHduNnMtbWVaNWxwZ1RRV01KY0sxMEhlNTFZd0IxU3NYT2VYWU1NWno2S1hGdjlaNk9tcWZIUUlHYktfV0ZIMW0wT2tNSjluQURCcFdGZWhWb01IcA?oc=5",
+        "source": "뉴시스",
+        "description": "\"190억 투자 유치\"…AWS와 날아오른 K-스타트업[같이의 가치] 뉴시스",
+        "pub_date": "26.05.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "시드 2억부터 950억까지…5월 둘째주 벤처투자금 '여기' 몰렸다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZVjZnOTBMaXBwUmIyejRKRTZ3V3Y0SXFMV1N2bXpCRWk4ZmpWZW5VSmV3dzFXQVpiZUpmVDA0dG9IQTJNclVMZDRvbngzU2l2c1diRFk3Vm5SYWFfRVhPbjR4UlBkSUhBdm9raQ?oc=5",
+        "source": "유니콘팩토리",
+        "description": "시드 2억부터 950억까지…5월 둘째주 벤처투자금 '여기' 몰렸다 유니콘팩토리",
+        "pub_date": "26.05.17",
+        "section": "invest_ma"
+      },
+      {
+        "title": "AI IPO 흥행 잇는다…마키나락스 상장·져스텍 수요예측 대기",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kY2JHXzBJSTh1bmFOLTJNVjBicmNNYl96VEctV1RxUkZaR01NSHVhWmN0cVBoVXd5XzlGcGlLMElMRTRYZjFqcGpxYw?oc=5",
+        "source": "v.daum.net",
+        "description": "AI IPO 흥행 잇는다…마키나락스 상장·져스텍 수요예측 대기 [주간 IPO] v.daum.net",
+        "pub_date": "26.05.16",
+        "section": "invest_ma"
+      },
+      {
+        "title": "BJFEZ, ‘실전형 투자 드림팀’ 띄웠다… 글로벌 투자유치 전면전",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FVW1rclhYTlRLQ0Z3YTRaZHhCcGhnRDRnQzBxSk1HdGNVek9qOXlSVDhhNlRkbXphbDhyVVhlYlZ0VEJHQ2REQnRRdmx3ekl6X0NkNA?oc=5",
+        "source": "bseconomy.com",
+        "description": "BJFEZ, ‘실전형 투자 드림팀’ 띄웠다… 글로벌 투자유치 전면전 bseconomy.com",
+        "pub_date": "26.05.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "대전시, 바이오의약품 분석 플랫폼 구축한다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ucDE0bm4xcmpqRDJVWVY1dW5wU0RZY3hnQ2ZsNndZeDl2dGk1eFZkM09IT3ZqLVQ4ajJHa3BjZkNibE00VGtFMzAwYXIyU3MwZHVXMnFaNnRnMVo2cldlV2NYTXB5enYwSHc?oc=5",
+        "source": "헬로디디",
+        "description": "대전시, 바이오의약품 분석 플랫폼 구축한다 헬로디디",
+        "pub_date": "26.05.17",
+        "section": "innovation"
+      },
+      {
+        "title": "바이오테크이노밸리, “춘천 기업혁신파크 사업 정상 추진 ”",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YLXJmUGFoeTg4Z2VwcDVlekdIS0RJZnYyelc5SFFYREVxSGFIT2pfMDl1TU9DOVBGbWdDa1R5Z1pRZFBFampWbzU4M3JyQQ?oc=5",
+        "source": "전자신문",
+        "description": "바이오테크이노밸리, “춘천 기업혁신파크 사업 정상 추진 ” 전자신문",
+        "pub_date": "26.05.17",
+        "section": "innovation"
+      },
+      {
+        "title": "폐현수막·농산부산물 재활용, 경기도 규제샌드박스로 가치 높인다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01a0pYZlhpUmlTV2kxT1NoMXNJS1hUS1p0aHIzVDFGYldvcXV3d0JrZUhIR3FaTUFDbFpaQ1NFWldrSEJ1dGdscXlIRkFmVEJaOThlbnNXLWlZODJaQzBQQjAzVE10Z3c?oc=5",
+        "source": "파주에서신문",
+        "description": "폐현수막·농산부산물 재활용, 경기도 규제샌드박스로 가치 높인다 파주에서신문",
+        "pub_date": "26.05.17",
+        "section": "innovation"
+      },
+      {
+        "title": "대전시, 혁신신약 연구개발 플랫폼 본격 추진",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQ0taNHM4cFJ0aTRXTE9DbzM5WTBEMW9aeFdydEZJODk0TVNTelpJbTliRDZJNFIwRXAtUU9jcWZZbnZxLUZfZ3VXajlja2h2cktRTnZaZHlyQlg5bmw4ZGV1bFhOX2s?oc=5",
+        "source": "팍스경제TV",
+        "description": "대전시, 혁신신약 연구개발 플랫폼 본격 추진 팍스경제TV",
+        "pub_date": "26.05.17",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-15",
     "news": [
       {
