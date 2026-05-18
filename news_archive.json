@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-19",
+    "news": [
+      {
+        "title": "크라켄, 1분기 매출 증가에도 감원 ‘이유는’",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IdDctWXVkb205ZmYwQkZDeDF0cFpyQ083OGsxNFR5b25DR3hYQnlCWW5pejF4RDhNMFY3c3JUNGN0dTNHQzhka3JxbGl2TURFdVVRTnJwam1oR2xORFMtQmZndW1aT1FqUU94Sw?oc=5",
+        "source": "경향게임스",
+        "description": "크라켄, 1분기 매출 증가에도 감원 ‘이유는’ 경향게임스",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "텔타, 글로벌 HR AI 대회 2개 부문 동시 1위",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTVZoektIWjVGZnBQNVFkQ3RhTWlWMnpfMW5IMFF2OWRFZmpSZmR0bTZ4VGdOQjBXdkpmdEVWbm00ZDhhUFhDbXlFSF9tZjg0b2FSb3J3?oc=5",
+        "source": "지디넷코리아",
+        "description": "텔타, 글로벌 HR AI 대회 2개 부문 동시 1위 지디넷코리아",
+        "pub_date": "26.05.18",
+        "section": "hr"
+      },
+      {
+        "title": "기획예산처, 통합 재정사업 성과평가 원년, 국민 눈높이에서 강도 높은 지출구조조정 추진",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5UdzJnUVUweGU5QVZqX2tFT2V2OFU5R2J6dDVGcF9vbHVHdmxUb0RHX3FyR21ybGFvRG1BU1l6cWtvVnUwaXlN?oc=5",
+        "source": "정필",
+        "description": "기획예산처, 통합 재정사업 성과평가 원년(元年), 국민 눈높이에서 강도 높은 지출구조조정 추진 정필",
+        "pub_date": "26.05.18",
+        "section": "hr"
+      },
+      {
+        "title": "조선업계에도 퍼진 '성과급 요구'…슈퍼싸이클 제동 걸리나",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56SmFWVlNmNThmLTZZYUJJODQ1MU9ORFFVbDBJdU9feEFWR0J1NHhRSi03OXhpYUlHMkN3QWFjcUdsdmJPc0lYM1pkZ2JMWEx1cWR6Tl9hR2pOMXJ3UlV5RU43cGxNRWQzZ0pBNVJQMmFVeTNJR0N0VU9yYw?oc=5",
+        "source": "이데일리TV",
+        "description": "조선업계에도 퍼진 '성과급 요구'…슈퍼싸이클 제동 걸리나 이데일리TV",
+        "pub_date": "26.05.18",
+        "section": "hr"
+      },
+      {
+        "title": "가구별 재택근무 여부에 따른 평생 자녀 수",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BQnFrbVpvV1g3OXdHMGhQc0QtSlJmM095cWJoWlh1ZVdIdUdRNXM3UjNlTVV5ZmNaZC1fN1lJODVEeF94NThRNVlWZHhEMHM2aF9OYzhlVlJReVA0dm1j?oc=5",
+        "source": "The Economy Korea",
+        "description": "가구별 재택근무 여부에 따른 평생 자녀 수(미국 근무 형태·인식 조사) The Economy Korea",
+        "pub_date": "26.05.18",
+        "section": "hr"
+      },
+      {
+        "title": "\"이력서 가장 잘 읽는 AI\"...클라썸 텔타, 글로벌 HR AI 무대서 2관왕",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42VXVWMTVEYkczdzRHb2Q0R1NHbkdIVXVYUm5sQXhOZ2JwaDdZa0d2X0dabnUyenVQRFRCV2FZcU9maUlyVWFlVWg1OWJIZ1JHS0JKamp4S3N0NGFqb0lTXzg1WFlTckhVWWRnWA?oc=5",
+        "source": "유니콘팩토리",
+        "description": "\"이력서 가장 잘 읽는 AI\"...클라썸 텔타, 글로벌 HR AI 무대서 2관왕 유니콘팩토리",
+        "pub_date": "26.05.18",
+        "section": "hr"
+      },
+      {
+        "title": "AI 기반 의료 시스템의 임상 도입, 의료계의 새로운 지평 열어",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zZ1hhc2l0VHBiVG11Z2l1RVJxQ1RfaXNpVVhNWEJ4VklHOFJsaUt5eHB6M3VjRXhZVXlJVVVSZkxFcHJaZUI0UWVFS1p2V2NReXJGWXpyMzF1UG5rRWZWYXhuNGU?oc=5",
+        "source": "에너지안전신문",
+        "description": "AI 기반 의료 시스템의 임상 도입, 의료계의 새로운 지평 열어 에너지안전신문",
+        "pub_date": "26.05.19",
+        "section": "ai_tech"
+      },
+      {
+        "title": "中은 로봇이 車 생산, 삼성은 파업 막아달라 법원행",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82UEhFaDVaTHFGSFhJQlh3NHc3SVJ0T0xLWU80RERiTndYYTBoOFNzVWlUZFE1cko3bXVpNFdlYzdTeVpfeURaQ2I4WFBoV18wXzhUeXV2S3VsQVA1N0VtMnduZkZPLUxtMEUtcS02dFdMTGfSAXdBVV95cUxOYnl2WlZ5alhXOUxheDVOOHJyLTRMWlRmazdrUnB0UGxTYmtsNi0xMXBtaG9Nc0tzRlBGaFlpSFpFaVk4a0pOTGNFSEZpS2hVZGpScmZaOTN5N2NRTWJvNjlMQW5QMW5hWHpYT3gtLUptd21fcTBmMA?oc=5",
+        "source": "여성경제신문",
+        "description": "中은 로봇이 車 생산, 삼성은 파업 막아달라 법원행 여성경제신문",
+        "pub_date": "26.05.19",
+        "section": "ai_tech"
+      },
+      {
+        "title": "삼성전자 반도체 공장에 스며든 AI…델과 제조 인프라 혁신 가속",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLN1o0bjdvTXF1Ykp2ZlpYOERudXloNnNWbWgzSTI0ZS11d1Y0VExTdENWUDltS1dZMHBzcVBBLXFuYkZZX1FTbERDSzItTWY5MEFCZm1n?oc=5",
+        "source": "지디넷코리아",
+        "description": "삼성전자 반도체 공장에 스며든 AI…델과 제조 인프라 혁신 가속 지디넷코리아",
+        "pub_date": "26.05.19",
+        "section": "ai_tech"
+      },
+      {
+        "title": "기아, ‘아틀라스 공장 투입’ 선언…자동차 회사 넘어 ‘로봇 제조 제국’으로 간다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XVHMwRkZsZGt2a3A5bVFLMm8zcmUxRS00Y2t6dlRaM3gwMXdnZzRtLTVKbWp5S3VjeFVnc04yVDZ0UHpKWnlVQ290bmN1VEhicnBsLXRVMGtkRkI2TkhRX3hybm91RWR1WHFob0p3?oc=5",
+        "source": "코리아포스트 한글판",
+        "description": "[기업리포트! ] 기아, ‘아틀라스 공장 투입’ 선언…자동차 회사 넘어 ‘로봇 제조 제국’으로 간다 코리아포스트 한글판",
+        "pub_date": "26.05.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "한 발 느린 부동산 통계…“시장은 3주 전 이미 상승”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yc19ZMTBhTG9VRkpkSWlLY2gzNWJ5Z00zVU9NUW1GZVRCQVRnMWhoRnBGX0w4WjNIQmlyMHRyUFlJVS1GdTNuUFM2LVF2dFFGcThmbXpqYzQzMDA?oc=5",
+        "source": "KBS 뉴스",
+        "description": "한 발 느린 부동산 통계…“시장은 3주 전 이미 상승” KBS 뉴스",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "지표는 '호황' 민생은 '불황'... 충북 경제 두 얼굴",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DM3F0UTloaF8xX0UyNTg0b0FfSkM0bTFJZWEzSDUyLWNTU19rTHFvYkUtSXJmUlo5V29ma1o2M0xIa3NGYUlieHNLdGRmM0k?oc=5",
+        "source": "v.daum.net",
+        "description": "지표는 '호황' 민생은 '불황'... 충북 경제 두 얼굴 v.daum.net",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "고유가·고물가에 금리인상 우려까지…상업용부동산 업계 '한숨'",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02LUhlbFBGbGE0eHVtSTROUEtQdHdYRmRKbWFVYVdSektmUEFUSFhzd0JYMC0tbzZJb2dXd2ZMeUM1Ujk0TzFlMFlsdVNFYXpiQl9KcWp1ZS1FUjFvQkp2MHlWVmlvekpBVjJvYmtSY1F6QQ?oc=5",
+        "source": "마켓인",
+        "description": "고유가·고물가에 금리인상 우려까지…상업용부동산 업계 '한숨' 마켓인",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "“K-석화 체질개선, 공급망·고부가 혁신·기업가정신에 달렸다”",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IWjA1R0UxSjJhSHM1dG1OLTlNYWg0M1NSU3cyX0dBdHdjVlZTbUNxVzBydk5DQS1QUG50WDVJM09YWHg1YzhaM050a1RpVGV5MHpTcXRDOW5DLURlaklmSXd3ZloyUDhLM3FYVXBn?oc=5",
+        "source": "아시아투데이",
+        "description": "[K-산업비전포럼] “K-석화 체질개선, 공급망·고부가 혁신·기업가정신에 달렸다” 아시아투데이",
+        "pub_date": "26.05.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "문턱 낮아지는 AC 시장...VC·기술지주도 초기투자 전면으로",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNF8wOHZLTEUtN0thZFhZZGdQZjFVVkhWejRRVFBIOEZRRnhxQ1JFdU9CLU9LQ0REWE5IOWkyWXQtOVJGeVdOcnNjSTNaVnpoREhILWFWZ25LS05yT1lsSGNuaHFwbk1JMmJIcHoyejlaa2c?oc=5",
+        "source": "마켓인",
+        "description": "문턱 낮아지는 AC 시장...VC·기술지주도 초기투자 전면으로 마켓인",
+        "pub_date": "26.05.19",
+        "section": "invest_ma"
+      },
+      {
+        "title": "중고차 플랫폼 오토핸즈, 코스닥 상장예비심사 신청",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jMHptVTlndU9sMGlRSXJFYlgzdVdJWVNyTXVUWXhzeFU4M01wd3NveDMtcDQ0S0RPLXZ0Y3o4ZHdUMFF6NS1UWVg3aEYtVUhFVG5EZXFnbi1LMkRQ?oc=5",
+        "source": "뉴스핌",
+        "description": "중고차 플랫폼 오토핸즈, 코스닥 상장예비심사 신청 뉴스핌",
+        "pub_date": "26.05.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "빌 게이츠의 VC, AI 특화 양자컴 스타트업 투자",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tZUV6WW1LYUpRTG9lNUxCQ3dWS01zTVdsSFItUFVDVWIzeVNpVnpmNFhTWmtiUXd4NjhGNHU0LUJEUHFPbUlvRGRCOTY3eXlZZTJxam0yYkdlQWpiVGFpVDk1VQ?oc=5",
+        "source": "더구루",
+        "description": "빌 게이츠의 VC, AI 특화 양자컴 스타트업 투자 더구루",
+        "pub_date": "26.05.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "하나증권, 푸투증권과 ‘코리아 밸류업’ 해외 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZUm5DYnFLVEZxRmtabDkzdkdCRmpEZm0xaWtfaXBqQ1hXZU1jTjdoa2c0Y2NnZnFveGdaQzF0RHd6emRHaFRCUGxMTzdhOFRnRl9oTThveDhNZGpzODl0X0d0SUotLXZfZ2g3Q2JB0gFuQVVfeXFMTVlSbkNicUtURnFGa1psOTN2R0JGakRmbTFpa19pcGpDWFdlTWNON2hrZzRjY2dmcW94Z1pDMXREd3p6ZEdoVEJQbExPN2E4VGdGX2hNOG94OE1kanM4OXRfR3RJSi0tdl9naDdDYkE?oc=5",
+        "source": "공공뉴스",
+        "description": "하나증권, 푸투증권과 ‘코리아 밸류업’ 해외 투자 유치 공공뉴스",
+        "pub_date": "26.05.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "휴온스, 생명과학 이어 휴온스랩까지 흡수…혁신형 제약 인증 '착착'",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKU0dJRHJxNHVRMEI0dVhGUW9EcFA4VThIMTlab2IxQm5hT1RqTFhFaGZ1UnEtSE5OYVZVaVJ3WXA1TzZaQTJiZXhUTTI0LVd1VEVnSmFFYzdCQno5cmRBYzg5bWFCaFlaTE9Jcg?oc=5",
+        "source": "약사공론",
+        "description": "휴온스, 생명과학 이어 휴온스랩까지 흡수…혁신형 제약 인증 '착착' 약사공론",
+        "pub_date": "26.05.19",
+        "section": "innovation"
+      },
+      {
+        "title": "광주, AI 자율주행 특구 추진…규제샌드박스로 도심 200대 실증 현실화",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FekRrbDd0dzhNeEFaREdWVnNETGlWOHdUbnJVVnI3cnpvbXQ3Q2xMcjIzRV83ODV5eUxhNFVSUE9jS0VGTjJxNHlWMk0?oc=5",
+        "source": "브랜드경제신문",
+        "description": "광주, AI 자율주행 특구 추진…규제샌드박스로 도심 200대 실증 현실화 브랜드경제신문",
+        "pub_date": "26.05.19",
+        "section": "innovation"
+      },
+      {
+        "title": "초소형 광학 모듈이다. 이 부품은 착용감을 해치지 않으면서도 선명한 이미지를 구현해야 하는 고난도 기술로, AI 안경 상용화의 가장 큰 기술적 장벽",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5nVVhWd29LMlVvNXpVUzdpT216NUNFVElyM1BScEo3MlNYV0NTY29OclAtMVdVR0Zqbk80ak1KNnY?oc=5",
+        "source": "AI넷",
+        "description": "[AI 안경 핵심은 '렌즈'... 한국 스타트업 LetinAR, 차세대 광학 모듈로 시장 공략] 초소형 광학 모듈이다. 이 부품은 착용감을 해치지 않으면서도 선명한 이미지를 구현해야 하는 고난도 기술로, AI 안경 상용화의 가장 큰 기술적 장벽 AI넷",
+        "pub_date": "26.05.19",
+        "section": "innovation"
+      },
+      {
+        "title": "휴온스, 휴온스랩 흡수합병 결정···바이오의약품 연구개발 역량 강화",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OekkxejNuaXg5UTcyR3NXYzFqdHJvTTFTRzhxVlVWbmdQNGpoT1pWc0tVM2JKZkU0S2hsQXdWTnZ0QnFDOEJhYmRtcUdtR1ZmejhEbVU1dEFmbEpWaUEzQnRaSkE3Y3RVcmp0RNIBcEFVX3lxTFBpSWFja01UVkxRdnM5ai0wUGRUVERub29FWUhSbnNxTzhEMkc0QnhwT0pZQ2d5ZU5lV29NcFNlbEkxYUIxV0VnVDlhNXBFejJpYmxITXVWekJVYmNYdWtFWTAyVWpQLUFCSjdIVDZoa1Y?oc=5",
+        "source": "더바이오",
+        "description": "휴온스, 휴온스랩 흡수합병 결정···바이오의약품 연구개발 역량 강화 더바이오",
+        "pub_date": "26.05.18",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-18",
     "news": [
       {
