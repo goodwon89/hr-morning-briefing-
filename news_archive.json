@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-20",
+    "news": [
+      {
+        "title": "노조 춘투 거세지는데…BD 아틀라스 등판 준비됐다",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PMEpZSm1nWnAxb3RBbFItMExtbGhwNmhKM181Nk4xQmNXcTlHNk1HYWNFbExCQzVWanFITEJGcS1UclJ5emJoYzlRYUhqWktxbllBVjE1SzJFRHlzcmNiRDgxWVh3WmFUTzVkUGJqZ3ZDX0E?oc=5",
+        "source": "마켓인",
+        "description": "노조 춘투 거세지는데…BD 아틀라스 등판 준비됐다 마켓인",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "삼성물산 건설부문, 임단협 타결…파업 리스크 해소",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ja3FUOElMQmd6X2pPVFVJR01KNDFKMzJqSDJGSUNBM1F4N2ZjeWhfNmduYXRaTVVzdC1xNVhZdng1RGtnVEpmLWt2eE1JMFBTaWFuNXlFVnhQREwzdDZKRlRXMkhNTE9VZHY0?oc=5",
+        "source": "뉴스저널리즘",
+        "description": "삼성물산 건설부문, 임단협 타결…파업 리스크 해소 뉴스저널리즘",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "한국수력원자력 김회천 사장, 고리본부서 \"소통 경영 시동\"",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56cnVpN3B0QmI3UDNEOEhla0pCTDlwX080dWxCdzFQbm9JaXh5dVdEdVRPeGhQYzloQTZZZ19QOTdwNHRvRnNWZ25YTHZfV2pvNjgwTXM0OFlfb19udlhtMXNSVW4?oc=5",
+        "source": "에너지안전신문",
+        "description": "한국수력원자력 김회천 사장, 고리본부서 \"소통 경영 시동\" 에너지안전신문",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "8천명 감원·2000억달러 투자…메타, ‘AI 제국’ 세우며 조직 대수술",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pN3MxME9GTnVXb2J5TlNYRVdsN00wY3Qza0VIVmFYZ3dkY3l0OG9FSEgtMmFwNzV6LXNreDFvaXRtSWJ1RlFyT3JMMzk3S216TEY0Q3RsX3RKOVYxdmRiUmpRUG1xTTUzUnBmcg?oc=5",
+        "source": "mstoday.co.kr",
+        "description": "8천명 감원·2000억달러 투자…메타, ‘AI 제국’ 세우며 조직 대수술 mstoday.co.kr",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 1분기 평균월급 '1200만원' 성과급 보수 격차 커지나",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xeUUzWU0xN25SRUJPSU0tcjZlXy1fRVZ5bW5zV1ROaFFocmliM3RzUm9EVlhSYnBSSTllY3FtY2hURDgyTGs3dnZwUlowbllVTEJBbjJtcTQ1RERveDFEdmRlZkFWdGZzY1h4WndMQdIBc0FVX3lxTE9PbEI4Vm1Idk1Nc3lfcVpTcGJ5eWxZQmdDTU5DSWJqeG41eWZhRENOaTB1TzJCeWU5OUpJeWZXakJjT1FTU0Zyc0NDRXVMenRqelk0MXIyWDB5MFU1ekR3Z0RPTzZ4LVNmZ1pPc1FlcWFyRHc?oc=5",
+        "source": "세이프타임즈",
+        "description": "삼성전자 1분기 평균월급 '1200만원' 성과급 보수 격차 커지나 세이프타임즈",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "“관리직 줄이고 AI 확대”…메타, 전체 인력 20% 대상 구조조정",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByTTA1RVppOEJNN0I2R1VXT21MdU52bGw4dG1TT0ttSnc5RXltNXZodzZ4U1RJRDhEYTFYSDdTYmdyQXBxNmFvN1BmallCNW45dEszTXQwVHd2ZHBVVGtaZlJZcVNqTktvdTRwZTZJdDRWdWc?oc=5",
+        "source": "마켓인",
+        "description": "“관리직 줄이고 AI 확대”…메타, 전체 인력 20% 대상 구조조정 마켓인",
+        "pub_date": "26.05.19",
+        "section": "hr"
+      },
+      {
+        "title": "임상시험 성과, AI 조기 도입 기업 중심으로 격차 보여",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sNDA3SjZyZUY3b0NWaW9rdUZlN3puNE0tbnQ2bzdFQkJ4RmNlOWVHSlFTTFFJN0ZkNFk3N1V4VTczSFI1MTRrdzE3cnBXWFRZTU9yejlB?oc=5",
+        "source": "지디넷코리아",
+        "description": "임상시험 성과, AI 조기 도입 기업 중심으로 격차 보여 지디넷코리아",
+        "pub_date": "26.05.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"글로벌 제약사 75% 생성형AI 전면에… AI의약품 173개 임상\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWkZ5bXp0TUNVQnh0eXFsUXJQQV9yc25sZVJRVGVIbERNTDByZzA3SHNfWTNxZ1BsU1FtaXB6NURQVFA1ZndmLXFjWFpCTkJ6T3NwVkhidUVzYmp2OExmd1E5azQwN29ITHNN?oc=5",
+        "source": "히트뉴스",
+        "description": "\"글로벌 제약사 75% 생성형AI 전면에… AI의약품 173개 임상\" 히트뉴스",
+        "pub_date": "26.05.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "병원 행정도 AI 전환…자동화·AX 전략 주목",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uMWNJQ25ZbF9NVWt5RU1pN2xfUng0Q2hRWmw4Znd0LWJicHRtQXB0TzR5M3BLbWVKSlI5cFZLR3g5YnhlbFpnR3k0M3FzUDBjbWZ3UVY2a2hWZTNqTHlRQ0l4S05Oc1JH?oc=5",
+        "source": "데일리메디",
+        "description": "병원 행정도 AI 전환…자동화·AX 전략 주목 데일리메디",
+        "pub_date": "26.05.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "아카마이, 26억달러 전환사채 발행 추진…AI 클라우드 투자 확대",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVBUUkFBUVBNbUxLT3JBYnhMYnlPY3NRbEMwWXlsYW5HY2NhR25oSlR5TEpTN2ZtU0Ewa3liOTZFelBEZ1RCS0Q4Wjl1YnF4LTBjdFBFUi1NdFFtaTVDcnNRRkJpQ3YtM0JyUU5tQ2tSY0dWSlFTSWd1alNpR0dESU9GN1o0T0U?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "아카마이, 26억달러 전환사채 발행 추진…AI 클라우드 투자 확대 글로벌이코노믹",
+        "pub_date": "26.05.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "`채권 자경단`이 돌아왔다…美 30년물 금리 5.18%, 워시 연준 압박",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hal9XSjNtZkNjUGRnYVpURE1IUlgzeURqMXhoXzBENm5zVWhmOXVkdGZEVkxYWWkweTdPbTQzQy12eENJS0VzZXZ4dFVxWndLUjRXUzAycjRDWF9CQmo2bW8taDhPa1o1emU1VGZlUUxxZUNhX0xzT3o2bw?oc=5",
+        "source": "이데일리TV",
+        "description": "`채권 자경단`이 돌아왔다…美 30년물 금리 5.18%, 워시 연준 압박 이데일리TV",
+        "pub_date": "26.05.20",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 슈퍼사이클 타고 소부장도 ‘씽씽’",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTTh6ZHJNQXlFV212Tl9Md3B4Q2NGNkQ0bWZsSTdDejBNWGNsaEo0MFdqMEE4QmQ3aVROSndROFpiYUw2MTUtdk5lRVE5STF6VUJKRDhmR21mUEY0RXNwaHJGX3MxMXpTbW5YODhlZEd2ZVBl?oc=5",
+        "source": "대한경제",
+        "description": "[소부장 NOW] 반도체 슈퍼사이클 타고 소부장도 ‘씽씽’ 대한경제",
+        "pub_date": "26.05.20",
+        "section": "macro_industry"
+      },
+      {
+        "title": "인플레이션 공포가 밀어 올린 美 초장기 국채 금리…2007년 이후 최고치",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM05NUm5qSWhEQ3l0a0NGOTA2VXdub0I4Sm41Rmt1U1doQ1ZuRTJGM1hiOGR2cnZNLVQ5RG1FWUU0ZXhWMUcwcEJKNzFVWmR0ZXQ3R1JoTWt6cGgyM1ZKSTZBLTdVZVhwX1NvTXJwVXNoVmdwVDNlanE0QVdBSVpJdUYzSHRGdm5XT3NZdS1Vc21mMlp4YTJLQ3g3UFlYdw?oc=5",
+        "source": "조선일보",
+        "description": "인플레이션 공포가 밀어 올린 美 초장기 국채 금리…2007년 이후 최고치 조선일보",
+        "pub_date": "26.05.20",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한일 정상회담…“불안한 국제정세 속 공급망·에너지 협력 확대”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNUhPZlRST1RfR3RnZzNjbXlDWkpDS3dySEc2bWU2YWJLbktoQWhIeEFia0oxd19zYzRGY3R3d09PY1RWWVJMSHdxQmdZUG1sTzJJRjlSaHBZUmc?oc=5",
+        "source": "KBS 뉴스",
+        "description": "한일 정상회담…“불안한 국제정세 속 공급망·에너지 협력 확대” KBS 뉴스",
+        "pub_date": "26.05.19",
+        "section": "macro_industry"
+      },
+      {
+        "title": "링컨 인터내셔널, IPO 공모가 주당 20달러 확정 By Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51TFM5Sm1CUGdRdVkzanphcjZpRkh6UkVxdUNHS1lscFJOU1d5YWozQVJ5akJSdnc3R29rUG1RaG9walJ4a3dQMGV3VFZNR2kxa09ybUZ6MFdpZHZuWFpYY1R6NE8wV2RsNkNSWE10UkM?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "링컨 인터내셔널, IPO 공모가 주당 20달러 확정 By Investing.com Investing.com 한국어",
+        "pub_date": "26.05.20",
+        "section": "invest_ma"
+      },
+      {
+        "title": "오르빗코리아, 매쉬업벤처스 프리시드 투자 유치 및 AI 기반 글로벌 크로스보더 컨설팅 확장",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Cd0U0bWxiYjFhWGJGa095ZmlPODlPU2V0SnNqN1Rua010bUxaTmtNaDNGTUpmdnBqTXRTTEZNR1BtZWd0NWc?oc=5",
+        "source": "beSUCCESS",
+        "description": "오르빗코리아, 매쉬업벤처스 프리시드 투자 유치 및 AI 기반 글로벌 크로스보더 컨설팅 확장 beSUCCESS",
+        "pub_date": "26.05.19",
+        "section": "invest_ma"
+      },
+      {
+        "title": "PX 달팽이크림 ‘듀이트리’, 사모펀드에 팔려",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WRzN6U3pWYTZpdFE1VEYtMFlTQTA2eEFlWHNXZEhkaWRDTFptX0hWSFRvZ0pRMFdVNXNEUXkxY2FNZGxmQzYxYTY1Z1d3bzI4MlE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "[단독] PX 달팽이크림 ‘듀이트리’, 사모펀드에 팔려 매일경제 마켓",
+        "pub_date": "26.05.19",
+        "section": "invest_ma"
+      },
+      {
+        "title": "엘리스그룹, 코스닥 상장 예비심사 청구…“풀스택 AI로 글로벌 진출”",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tTU12MmxObkUxdkF2aUZrUGpKbE1nTjByaWp3VGRvVy0wRndrNFBpb19oOVF1VEpNWjNlWWpwUmlXUHhnQU9uVGJTQzJsZw?oc=5",
+        "source": "전자신문",
+        "description": "엘리스그룹, 코스닥 상장 예비심사 청구…“풀스택 AI로 글로벌 진출” 전자신문",
+        "pub_date": "26.05.19",
+        "section": "invest_ma"
+      },
+      {
+        "title": "“AI·푸드테크·그린바이오”… 농진원, 식품산업 혁신엔진 본격 가동",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNDJVMXZ0bklaVnppdDdIelJmUlBwYkxwYWVPbjRqTGFOd3dmUG00M1ctUTNfMjM1dXRRUlh1VTJkZmRJOXFycUlyMEx3R01fd3NOVzhSZ3hYZ1NHT1NsemNadVhULUt3bTJxbQ?oc=5",
+        "source": "푸드아이콘",
+        "description": "“AI·푸드테크·그린바이오”… 농진원, 식품산업 혁신엔진 본격 가동 푸드아이콘",
+        "pub_date": "26.05.20",
+        "section": "innovation"
+      },
+      {
+        "title": "“발명 DNA로 AI·바이오·반도체 미래 열었다”... 제61회 발명의 날, 대한민국 혁신영웅 85인 빛났다",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wMVVHNHZSci14OHhWYU91Y0NHbDJWeHVvaHl5SXdDWVJVR2hqLTJqY3hkMzZNVDJZMElwMUttU1paMm9YVC0zcg?oc=5",
+        "source": "특허뉴스",
+        "description": "“발명 DNA로 AI·바이오·반도체 미래 열었다”... 제61회 발명의 날, 대한민국 혁신영웅 85인 빛났다 특허뉴스",
+        "pub_date": "26.05.20",
+        "section": "innovation"
+      },
+      {
+        "title": "이름 바꾸고 맛 바꾸고…K빙과, 현지화로 해외 영토 넓힌다",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWxkRDBtWkh4XzA0U2thTXlaUHZFd2htb2VWallUb2JuRFpBU2QtczBCSkVLWVRsRHNvME8yUGVvckNNT08tai1JQ09TZ1UzUnRLLXhGVHR3R1NHVEFLYXVjejBJaUdXNm9Idk8xUjlGVHNfZ0I4YXhDY1RoYncwajBjcmZfZlRLVGI0?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "[K-빙과 글로벌 진출 현황] 이름 바꾸고 맛 바꾸고…K빙과, 현지화로 해외 영토 넓힌다 글로벌이코노믹",
+        "pub_date": "26.05.19",
+        "section": "innovation"
+      },
+      {
+        "title": "K-바이오 몰리는 송도, 혁신 생태계 도약해야",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YLVNaQ245MUZtczlTeVVuYnFSZ0JnMVRsakJaVXNyMHNMNHJHZU1sc01IY2d3U3MzelF4bno0NVFQVWozUllwZGRmcDFXdjNMWGZ4Q2RZTEw5ZFYweW8zSS1iN0J3VGdSdGs1UGs4TGdMd9IBdkFVX3lxTE1JbGp5QjRxQzZVSGdpcnhvTW9BWFZnaTEwRlBET1loVGJSUDhYV21hVzQ2UDR0YlpROF9jQU9NRkREd01wNmFBRm1meUNadjMwUzNiWVNSTXVHNVdhZ0p4elZFN2M5Yk1yWlFyRnp1TElmZERXWFE?oc=5",
+        "source": "시사저널e",
+        "description": "[기자수첩] K-바이오 몰리는 송도, 혁신 생태계 도약해야 시사저널e",
+        "pub_date": "26.05.19",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-19",
     "news": [
       {
