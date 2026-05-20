@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-21",
+    "news": [
+      {
+        "title": "인튜이트, 3Q 매출 예상치 하회·대규모 구조조정 단행…시간외서 15% 급락",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcHZuQkhwbHhnZWdBc2xfVGNqNk5Fclg3cHgzZjhXbnBFaHp0MW5yVmVIdkdGOExJTTJsakw1dms1YTVUdTIwSVVpNVNpQ0U5Z2NBcGU4Mm5Pd3FEVk44SFJ3NENVMW1NdTA5aXhvSHNEME0?oc=5",
+        "source": "마켓인",
+        "description": "인튜이트, 3Q 매출 예상치 하회·대규모 구조조정 단행…시간외서 15% 급락 마켓인",
+        "pub_date": "26.05.21",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 노사합의…임금 6.2% 인상 확정",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDTS1WMl9XZ2RQdGxvd290RHljQlN2QUhUZWo1MXh6eUFFY3RGazJMTVAzMnB0cTh2TjFRc1YtLW9HMUxYbGxFXzNjdXI3a0lzYUVFdG5aVU5VV3pKNHpMc1FZN1c?oc=5",
+        "source": "bntnews.co.kr",
+        "description": "삼성전자 노사합의…임금 6.2% 인상 확정 bntnews.co.kr",
+        "pub_date": "26.05.21",
+        "section": "hr"
+      },
+      {
+        "title": "메타, 인공지능 투자 상쇄 위한 대규모 구조조정으로 비용절감 기대",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sUHV0NFpDZ2htOXNObVQ1SmtrNVlQQ1lrVkVBVTF0MFU4WlRoQW5YSHF1ZGJ3aWFmZjBHMTdaNW5nWUNNMFN1cXY3aGdZS2R3N3FpS1JpZmFOcnMxY2trWTFRMGhwbVhjbkttanlFUXh5Y1U?oc=5",
+        "source": "마켓인",
+        "description": "메타, 인공지능 투자 상쇄 위한 대규모 구조조정으로 비용절감 기대 마켓인",
+        "pub_date": "26.05.21",
+        "section": "hr"
+      },
+      {
+        "title": "이해정 강원창조경제혁신센터 대표이사 연임",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qV1J0ODYwTnNRVUFudjh2a0Ztay15LUdWb1F2SnBqbEVFc19xRTVFc0plNWJIR3RfU2NtRnRZZDVvZjZ5dlNzcWgxQ2cxSGthakpuWVp1QS1zYTNDcUo0bGFKNXp2RVU?oc=5",
+        "source": "강원도민일보",
+        "description": "이해정 강원창조경제혁신센터 대표이사 연임 강원도민일보",
+        "pub_date": "26.05.21",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 임금 6.2% 인상…DX부문에 600만원 상당 자사주",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtRHNhQV9UNTlfVGtJZ1E4dTV1NUZNcWZiNWNMWW8zOWZadlVSc1g4WlRyRktPY21JNG9LOUd0cENtX0FsNmcxODJiV1ZORG1wSHVEalZiRFIxczF3X0VTbHpqdWpTZk1E?oc=5",
+        "source": "ebn.co.kr",
+        "description": "[속보] 삼성전자 임금 6.2% 인상…DX부문에 600만원 상당 자사주 ebn.co.kr",
+        "pub_date": "26.05.20",
+        "section": "hr"
+      },
+      {
+        "title": "소방청, 조직문화 혁신을 주도할 「제8기 조직문화 새로고침」 발대식 개최",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtTThFQnVrZ1EzT29yajVNZmFzcXRUb0stLUZtQURyMXh5TW95WU5vaTBqaUtnM1Z0RThTOFJxNU1tQ2hOOXRUZm9wTDdkNlExZG5yYWUyZjA5dTkwMVRpVHh3Zjl2VnpaS0dz?oc=5",
+        "source": "소방신문",
+        "description": "소방청, 조직문화 혁신을 주도할 「제8기 조직문화 새로고침(F5)」 발대식 개최 소방신문",
+        "pub_date": "26.05.20",
+        "section": "hr"
+      },
+      {
+        "title": "\"AI 시대, 컴퓨팅은 필요한 만큼만\"…델이 제시한 '분리형 인프라'",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xUzdzSVVkSnZnMlQ3MTRFd2xXc0g3YWUzek5ySVU1Tm9MR0RvNWNPNmFkY0NpV3E1Q3U4REFCbDU5TnFKLVhUYU1zQUZqcktmUHBTbzRR?oc=5",
+        "source": "지디넷코리아",
+        "description": "\"AI 시대, 컴퓨팅은 필요한 만큼만\"…델이 제시한 '분리형 인프라' 지디넷코리아",
+        "pub_date": "26.05.21",
+        "section": "ai_tech"
+      },
+      {
+        "title": "BMS, 신약 개발 가속화 위해 앤트로픽 클로드 AI 도입",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFbGJwZ0lBRGRmX3phcHZhSzB5NGxpZU1HQ1ZPRTVGczhSNDluWEhZZDRPUE9tVTJRZkJLNDZlaGJ4b3lFTjQ1ZTN3c3FuQURUVkZ1R2FGOVZ1VEs0Ylo2S3FIcUtFUzg?oc=5",
+        "source": "의약뉴스",
+        "description": "BMS, 신약 개발 가속화 위해 앤트로픽 클로드 AI 도입 의약뉴스",
+        "pub_date": "26.05.21",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"포탄 신관 결합도 로봇이\"…軍, 위험작업 '자동화' 추진",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tZDlfOHBucjRDVGpleGNnNThsOEdOTzVIby1RRnZBOUtjaDk0amlPSnMtMktXMWtORldXeU9qWkxKZGtISkUzX3FTNGlEZllDX0gxMEx4RTdkTVM4bVdKR3ZiMzg3Tk0?oc=5",
+        "source": "뉴스1",
+        "description": "\"포탄 신관 결합도 로봇이\"…軍, 위험작업 '자동화' 추진 뉴스1",
+        "pub_date": "26.05.21",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입 97% 시대…“데이터 준비된 기업은 5%뿐”",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWHg3Qm4xUlpBLUtjNmRFYXdycXBSejdqMWFMVGhkUG9mWFA0MHFyYk04MmFRM0RmMmVYdUF3VlZSWWo3UlZQZVpjZHJmcTJySlRnakRuVVQ4N3ozZEwyY2thOGZhUDd1V3hqdHdQbllwd0Zpai1feF93N0RzbVdfV2dCMXR3cTFLSlg4R24wTVpLanVJRjBoRWtPRW41V05wTW52OUNKcV9aSXRSQUNzYVFlTXBGQlFBaldPSktqX1hWMnhQS184b2t6djFidmtYM2Jrc1JrU2taM01Jd2xSN3ZmY3JWTjlWdE84WEtfWFpXVUhKWlVUcXVlZ0Uway1udEdrTmppeHQ0UQ?oc=5",
+        "source": "cio.com",
+        "description": "AI 도입 97% 시대…“데이터 준비된 기업은 5%뿐” cio.com",
+        "pub_date": "26.05.20",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“위기 때만 찾아오는 구매자”…글로벌 자원 공급망서 신뢰 잃은 韓",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXN2NkNjllZ2U0bTgtZno1U0ZKcGV2dDVza3E4ZE1IMkFzU3JJaUNVMG5oNlJtMjZmN2tmVUIxWU9JQUdSRnZ0OWpLemUyTjkwMXV3MXdvekJvZ9IBVEFVX3lxTE8wY3NXUG5NaHBydnJmT3lwS3ctbnZSUkU0VVhJVTNLaXNBUks1TkRLWWtsZkNaNUE5MXQ0YW1hM0lvVUFKMGVFcjVpVzdsZlhpRl9VYg?oc=5",
+        "source": "한국경제",
+        "description": "“위기 때만 찾아오는 구매자”…글로벌 자원 공급망서 신뢰 잃은 韓 한국경제",
+        "pub_date": "26.05.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "유한, 최대 규모 계약·수출 신기록…원료 해외 사업 순항",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNEdXLXVJNFhGUEthRGhfYUs1NVhPQU04bktaVXN6VkVFdEhZTlNJbWVsYjh2X1JPM0xEb2tnWHpHSHJwRnJ5UFZIbjRTNmlW?oc=5",
+        "source": "데일리팜",
+        "description": "유한, 최대 규모 계약·수출 신기록…원료 해외 사업 순항 데일리팜",
+        "pub_date": "26.05.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "호르무즈 봉쇄 80일 국적 선박 첫 탈출… 에너지 공급망 ‘숨통’ 트일까",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlExT1FzVUVfT2Z6RnhYYVdTMlpjTVdxa0lHVjN1OXc4c1owZFhYQl9UMEdIOGZLQnJubFZ6aHdYaGYtOEtVaDdvbVo3VEFzcEtodGpZdXotT29MLXdsNUYzbnJVRUdmaExGMmxNaTZhNHhLaGVzRFROcEtVX2k5dEpzVEpqRDB4?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "호르무즈 봉쇄 80일 국적 선박 첫 탈출… 에너지 공급망 ‘숨통’ 트일까 글로벌이코노믹",
+        "pub_date": "26.05.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "향후 유가 시나리오에 따른 소비자물가 전망",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CSUN0NFFJTzJBUG9jb3E1ZlJwYkhhQzFmd01xSkNUSEYydkZ6eGUxbDg2cFZPRXM4ZlJIRmhBLVZyVXhVcERIT2NxUGhNdjQ3SkgyZGxKYXIycU9SN0JIRFRvQk8tQ3BDbGxR?oc=5",
+        "source": "KDI 경제교육·정보센터",
+        "description": "향후 유가 시나리오에 따른 소비자물가 전망 KDI 경제교육·정보센터",
+        "pub_date": "26.05.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "코너스톤 제도 도입 앞두고 국내 기관 ‘가격 발견’ 역량 도마 위",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclZMc3FoTzZKRGlRcWJsWG0xMFRZRndJd3pjTjJFbFlJeXNFWGtoSFVIVTBxQkRjcXlFSUVESXl5SFJBRW9sMU1iTTlkVUtiTGhxS2JIRU1DVWlhZzdhaHl3WmhxMmQ2UjR5ZnJYZmlGV3VXZkMyUTlWTDEwWTN6NmFVRQ?oc=5",
+        "source": "인베스트조선",
+        "description": "코너스톤 제도 도입 앞두고 국내 기관 ‘가격 발견’ 역량 도마 위 인베스트조선",
+        "pub_date": "26.05.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "Aperture AC, 9,000만 달러 규모 IPO 공모가 유닛당 10달러 확정",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45MVIxVVUwcTZDeFdDSndlazJrNGFfVjVrWXI1cGQ3NVU1WjFfZTh5VFNFeHpmM3BXZXRqVjJ1WkpGT0UtNnlFUzI2aTFscDhSbUFCMHZrUTNfaW0tVGh6T3FsSFV0amJOLXF1SDNmX2FMOE1FTFA5VA?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "Aperture AC, 9,000만 달러 규모 IPO 공모가 유닛당 10달러 확정 Investing.com 한국어",
+        "pub_date": "26.05.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "히트펌프 구독 서비스 '모닥불에너지', 7억 시드 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4T0pubGI0MWl6dHpzX3c1TzlBNXVfV1ZmRjh1NVRWUy1UYk41NjBDRFMxWWZBTU5ITVJkR1hPN2hyMFNOVXJSbk9WVmRMNUMya0RqUEI4QjRpbm9rcWlESkdPOTdhMFJlTHNnNg?oc=5",
+        "source": "유니콘팩토리",
+        "description": "히트펌프 구독 서비스 '모닥불에너지', 7억 시드 투자 유치 유니콘팩토리",
+        "pub_date": "26.05.20",
+        "section": "invest_ma"
+      },
+      {
+        "title": "정부, IBK 창공과 'K-BIC 벤처카페'…바이오 창업 10곳 투자유치",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91S3FRbXRkMk84allpaldGQ09JMGNkN0JOTXoxbTJhMWZBSTEtV3g1Qjk2eVlESnkya1BwMjU1eEY1WnJVMk5LX1lGRHo0LVJ4R2RPSXk3VW54aXBKTUc2MDAwNHdTR3Z6MTdLeQ?oc=5",
+        "source": "약사공론",
+        "description": "정부, IBK 창공과 'K-BIC 벤처카페'…바이오 창업 10곳 투자유치 약사공론",
+        "pub_date": "26.05.20",
+        "section": "invest_ma"
+      },
+      {
+        "title": "케이메디허브, AIx바이오 혁신거점 `우뚝`",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrZWZpMFNfSk1Qb3F3dFNGSGt0YTlQdTdVR3JIS3F0SnhfaERWREI4TGQ5SkF4ZzhGVTBRX0p3MXBaYW1Ienc4bHRnVDBZZVcwN2pzdGlxWTMtaFpVOGxIdjRmM21kOUE?oc=5",
+        "source": "경상투데이",
+        "description": "케이메디허브, AIx바이오 혁신거점 `우뚝` 경상투데이",
+        "pub_date": "26.05.20",
+        "section": "innovation"
+      },
+      {
+        "title": "강원도, 산림바이오 혁신성장 거점 조성",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jMnhPaTk2U0hkbW1zWktEU1hVVTJEV1AyNDc4anhiWl9tc1ZjOUZmYlFkcGlqb0c2WFRHZUlGX2pOOUl0YnBIcjBtdmlZd0xkV3lDWGpZMkJZUm5jTnhJbWRZT24yVUFCSHY5a1VB?oc=5",
+        "source": "전국매일신문",
+        "description": "강원도, 산림바이오 혁신성장 거점 조성 전국매일신문",
+        "pub_date": "26.05.20",
+        "section": "innovation"
+      },
+      {
+        "title": "큐링스-트리니오, 공동 지능형 제조 통합 플랫폼 DANA 시리즈 출시 및 상용화 추진",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95b3ZKTnd4TDhpc1V2MERRV1FvSVhERko5RTlwVFQ4aTIxVjhBbUR1WW9LSEpaOTl6NWdYR3d0a2Y4QnAxcUE?oc=5",
+        "source": "beSUCCESS",
+        "description": "큐링스-트리니오, 공동 지능형 제조 통합 플랫폼 DANA 시리즈 출시 및 상용화 추진 beSUCCESS",
+        "pub_date": "26.05.20",
+        "section": "innovation"
+      },
+      {
+        "title": "청주대, 청년 창업 활성화 이끌 실전 비즈니스 모델 구축",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdndQNkR5S19KWUtPazhMTU5CVTQyLWRmNUI0Vmdvc01BT2t0M3ZlcFI0bnZWcEhtSEZHQWVNZEZGcGEtcUhPMUZWNWpBZE5WUGVXR1pDVGNkb2NDb2Q5ekUyTXgyQQ?oc=5",
+        "source": "한국대학신문",
+        "description": "청주대, 청년 창업 활성화 이끌 실전 비즈니스 모델 구축 한국대학신문",
+        "pub_date": "26.05.20",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-20",
     "news": [
       {
