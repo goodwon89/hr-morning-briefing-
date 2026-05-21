@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-22",
+    "news": [
+      {
+        "title": "삼성전자 성과급 6억…직장인들 현타 폭발",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TVGNSeVczR0ZQQ2dDYVR6YmpOSm9MQnV1eV9NNFRLbFdDMTB3VVRPRW4wRXdmZE5DSkRHQ29IZnlFV1NsZW5RNmRWNmJEMWZyNUZtdGh4RGxURlZleWNDWFB5TVk?oc=5",
+        "source": "bntnews.co.kr",
+        "description": "삼성전자 성과급 6억…직장인들 현타 폭발 bntnews.co.kr",
+        "pub_date": "26.05.22",
+        "section": "hr"
+      },
+      {
+        "title": "중부소방서 ‘소통·공감’ 직장교육으로 조직문화 혁신",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udDNQRlVuQ3E4ZzZSNkJDMTFoc2NacEhXQURxT3pGM1FTRUxZREdjSF9VeV83bXBFSlVTaVN3bG1rdHlVSk5OTFJSZ0JJc1NSYm1mNjNXVFA1N1M5RjVCS2lCU1RiQ3hEc01B0gFuQVVfeXFMUHg5WkRyeUVrUE40eExScDdaSTJkdUNOb0szSDR5cldPOEhYdVBDdksyc21LdUJqU0dtV3k3RnJOUTJCNFkya1BacUoyWXRmY1B1MzExNldGb2RzX0NObWw4S2RQV2Frd1B1LVZfaEE?oc=5",
+        "source": "세이프투데이",
+        "description": "중부소방서 ‘소통·공감’ 직장교육으로 조직문화 혁신 세이프투데이",
+        "pub_date": "26.05.22",
+        "section": "hr"
+      },
+      {
+        "title": "오스틴제약 신임 이승근 대표이사 20일 취임",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Vd2QwOVFCVnRqSmdiSG9mSUxkWEp2cVMyZFNkU1FNdGRzejA1N3JsOHM0WEZaRVdiYkRLTFo1NlZjWUo3SmxMV2htMW1ucmxsNTg4VTdlX2FQbE1PNmd1OW55dXk1NTRlUVA4?oc=5",
+        "source": "히트뉴스",
+        "description": "오스틴제약 신임 이승근 대표이사 20일 취임 히트뉴스",
+        "pub_date": "26.05.22",
+        "section": "hr"
+      },
+      {
+        "title": "성과급 협상 중 누적된 갈등… 노사 함께 보상체계 마련해야 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3eXNscVJDdldYNkxyVldDcm1TT2dDZTBnUUVyNjgwclJhWnBtWUMxN04tSjlIQVFoS0VRZHdicUVSOXZZU3BGT1pSOVpNcklXU0FfZmU1VmZLRW12cDdXbktTMEFWVGExeVEybtIBckFVX3lxTE9SY0NObVhhVnhiVVNJT3loRVZmOUxUeXRlQlZmb0k0NDZialBMQTgyUExGSU1EZkR2NS1RVGF2MXZMQnRGcElLSExXQWJzb1dodzdteWFPYnlONEJkd1V6ZXphQ0xUaFRDZDVrRGJFc2Nndw?oc=5",
+        "source": "머니투데이",
+        "description": "성과급 협상 중 누적된 갈등… 노사 함께 보상체계 마련해야 - 머니투데이 머니투데이",
+        "pub_date": "26.05.22",
+        "section": "hr"
+      },
+      {
+        "title": "고성군, 신중년 채용기업에 최대 250만원 지원",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FZkZNSnk4SnpWc2g2NGJwbFFqOWVMZHJ3eEZWMnpGVkVYZEZTdzJ3RGZXc1RLUjVCRTRaakdfYlEwSTJGb1k0RGdNRmZZbGJ4WTVDcXpFQ3JrQVRKNWctSnBSenNfSE0tWGRmdThNNU5IQdIBckFVX3lxTE1FZkZNSnk4SnpWc2g2NGJwbFFqOWVMZHJ3eEZWMnpGVkVYZEZTdzJ3RGZXc1RLUjVCRTRaakdfYlEwSTJGb1k0RGdNRmZZbGJ4WTVDcXpFQ3JrQVRKNWctSnBSenNfSE0tWGRmdThNNU5IQQ?oc=5",
+        "source": "폴리뉴스 Polinews",
+        "description": "고성군, 신중년 채용기업에 최대 250만원 지원 폴리뉴스 Polinews",
+        "pub_date": "26.05.21",
+        "section": "hr"
+      },
+      {
+        "title": "“우리도 삼성처럼” 삼전 성과급 후폭풍, 산업계 전반으로?",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTVmJBZzlKNE5IcnhoWmI4Unc5cUE1ek5kNk5lOGVuMUFJZDZEU2M2TkU3RnkzeVB4bTFjMjA2MjVZVTRHX2hXMFM1eGtndXRKeTI4WW9kWVREWnFLbVE?oc=5",
+        "source": "한국재난안전뉴스",
+        "description": "[산업계 이슈] “우리도 삼성처럼” 삼전 성과급 후폭풍, 산업계 전반으로? 한국재난안전뉴스",
+        "pub_date": "26.05.21",
+        "section": "hr"
+      },
+      {
+        "title": "클라우드플레어, 앤스로픽 협력에 상승…AI 인프라 수혜 부각",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlVfT09Ud2lCMk81VERhQVA0ZWx1SWRiZ3dIdUp5eUJoWm8wd1Z1TmdVd240VXFLNVMybC1EUElVcDlBNVowU09ocEZPUFQtSC01U0xMaFd1OFhFTzlKS2tEdlZBSFJoYTFOVXAtMHBjaW1vWExlM0hFdlhkQ2JTWXU1dDA4V0hL?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "클라우드플레어, 앤스로픽 협력에 상승…AI 인프라 수혜 부각 글로벌이코노믹",
+        "pub_date": "26.05.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "식품연, 식품 제조 현장서 활용 가능한 ‘AI 로봇 시스템’ 개발",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBENGVzN2trc1VoTmJOZEREV2UtWDhPT1RtSVJJTUFjTERtY3lOUUstTlE2azFLT1RSVktFY1FKcGwzWmtyZEhpQjNSSU82bHdmMUdfcVMyc1AtUG9xTXIxX1h4Q0wzR1AwaHZGaQ?oc=5",
+        "source": "식품외식경제",
+        "description": "식품연, 식품 제조 현장서 활용 가능한 ‘AI 로봇 시스템’ 개발 식품외식경제",
+        "pub_date": "26.05.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "구미시, AI·로봇 제조혁신 전진기지 구축…'AI특화공동훈련센터' 개소",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vaGVNYm16LWF1RlkwYkR6T2NyU0NaQXozcVNQanJBbDNOcTZvTkJFVDdieTJmQzZZMU1fbEJGSzRydUhBN3BobWVXQ19kM3R4WmpCZWpmTUJmVm1nYmY5Uzk3a0pfdw?oc=5",
+        "source": "포커스데일리",
+        "description": "구미시, AI·로봇 제조혁신 전진기지 구축…'AI특화공동훈련센터' 개소 포커스데일리",
+        "pub_date": "26.05.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "컨피그, 데이터 수집부터 로봇 학습까지…자동화 장벽 낮춘다",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91c01oNFkwWWNPWXl5YkJPY3lCWXZhdXdJMmlvZXUzQXpUV2hCd2RjQTE4Ymd3VXc5NjI2RV8weHZOTzZ0?oc=5",
+        "source": "산업일보",
+        "description": "컨피그, 데이터 수집부터 로봇 학습까지…자동화 장벽 낮춘다 산업일보",
+        "pub_date": "26.05.21",
+        "section": "ai_tech"
+      },
+      {
+        "title": "도이체 \"5월 매파적 동결 전망…인상 소수의견 나올 것\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjNkQ2b3dxdUtzWXZ1NU9GcWRmRjJkSllRbExCUDhNeWJ2WWQ2QmVJN1JqOXdxeDFKNzJaR2J2ZzRnckxtS0hDWFFONGc1eHRDak1WLVV3aS1hNHRxeTltUWNQYmNGa3F5NWpZZ09zU0xiZw?oc=5",
+        "source": "KB Think",
+        "description": "[금통위 인터뷰] 도이체 \"5월 매파적 동결 전망…인상 소수의견 나올 것\" KB Think",
+        "pub_date": "26.05.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 경기 지속 가능한가",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VdG5RTE14YmU2VXBrMDFxOU4tdXBUM2kyeHdSVEMzMDdEdE9sM0N6WU41emRLRU1RVktTdUpkUkhyZUNNeWw2MkE5cVJUOWJKb29BdEpFcVFBWHpRcmZPU1F3?oc=5",
+        "source": "경기신문",
+        "description": "[사설] 반도체 경기 지속 가능한가 경기신문",
+        "pub_date": "26.05.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 슈퍼사이클의 그늘… 상위 10개 기업이 수출 절반",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NU3dxV0pEQnhnSzk1QVlZcjdQT0MwYnhPZDBlRVRpakZqODU2R0laWTZ3TThqdTFJX1BwU3NXMTBaNzhfX0JBcU10QzhBeXM?oc=5",
+        "source": "v.daum.net",
+        "description": "반도체 슈퍼사이클의 그늘… 상위 10개 기업이 수출 절반 v.daum.net",
+        "pub_date": "26.05.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "중국 4월 주요 경제지표 동향 및 전망",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmdPVXZHTzdxZVJ4VHFPcHF2WURHUXBvV1RrYzdJVktVc1lsRTlwcmFPU2lSM1l4OU5CeTF4WXhGWnlOLWtwemUyaU05RWxIZzZEbjFwNE5RVkJjNEQ5OGMzNWtVVHBic1ZHbTBVSVV6aFpGUUFJTlNtWXdnREVHZ0txZFVROXJMeDZ3YXRIazBoWW04WEdxXzNWVTg3bFVpN1E?oc=5",
+        "source": "KDI 경제교육·정보센터",
+        "description": "중국 4월 주요 경제지표 동향 및 전망 KDI 경제교육·정보센터",
+        "pub_date": "26.05.21",
+        "section": "macro_industry"
+      },
+      {
+        "title": "에코스타, 스페이스X IPO 흥행 기대…52주 신고가 경신 후 차익매물에 3%↓",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NNmwyaGZ0Z3NxX1FVYXpQR2lFNkhOQnJreS1sakw1VmFuT3VSVldlZmJhMGpFTDhLUWRvdDhScVJ0VkJ2TEVGVnAxS0pEZjV6bzN1eHo4WXlNTjVrdU44cTRNazk2U3NnREZhLVhEbmFvSlU?oc=5",
+        "source": "마켓인",
+        "description": "에코스타, 스페이스X IPO 흥행 기대…52주 신고가 경신 후 차익매물에 3%↓ 마켓인",
+        "pub_date": "26.05.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "인제니아, 코스닥 상장예비심사 \"통과\"",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Wc2dGRE1nNXpkTEhsa3hZTVZJTllrbjFZZzBXWkZkQkFQT1hhVW1QSGQzd2FDRmNOVV90ZnM2Q0pkSkpPTHgzWDB6OFp4RW5Ta0JJendOZw?oc=5",
+        "source": "바이오스펙테이터",
+        "description": "인제니아, 코스닥 상장예비심사 \"통과\" 바이오스펙테이터",
+        "pub_date": "26.05.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "산은, '남부권펀드' 출자 설명회 개최…벤처 생태계 활성화",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQYm5UZjBRSVNreVRxb0xUc0NkUUVnTFJDSDRZanFtVkVRNVFpaUpXZ1dlZW02aHNlVlZ2aUNvUFJLazI3cFF1dUZsQ2dVUQ?oc=5",
+        "source": "전자신문",
+        "description": "산은, '남부권펀드' 출자 설명회 개최…벤처 생태계 활성화 전자신문",
+        "pub_date": "26.05.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "GHO·CBC 깜짝 합병…헬스케어 '세계 최대 PE' 탄생",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14a3VsVWNwVUs4T0dQN2s2NXpKcFlQZkNFRmd1Sm1RWU9DaXFENWRMVXFHaXF6QnNwU0d3SjM3MkNCTng4MWVLc1M2ZnJWdG9lZHNMZGMxYzlNOEFBTzRkOU1VckhhMmNMdHc?oc=5",
+        "source": "한국M&A경제신문",
+        "description": "GHO·CBC 깜짝 합병…헬스케어 '세계 최대 PE' 탄생 한국M&A경제신문",
+        "pub_date": "26.05.21",
+        "section": "invest_ma"
+      },
+      {
+        "title": "바이오메디칼 \"제조 넘어 혁신·상업화까지 도모해야 한다\"",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SU9qaFVyeVNLZUdrS2JMRF9POWRncDN5SVpOVlZYXzFPVjVRcFl3X3FCRGVLU2RNTmFkR2VHNXdicDJyVUVTT2dRaElTYUdsUlhyWkdvNnN1WVFza0V6d3dwRkFib3BhZDRQMQ?oc=5",
+        "source": "약사공론",
+        "description": "바이오메디칼 \"제조 넘어 혁신·상업화까지 도모해야 한다\" 약사공론",
+        "pub_date": "26.05.22",
+        "section": "innovation"
+      },
+      {
+        "title": "‘국가바이오혁신위원회’ 본격 활동…킥 오프 회의",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50S0dsSVNoZmZQd2NldnBLeHBxQXBOQmVGZHY1aUZ2Z29yaXpCU2pLdjhMTzhEU2VOMjZVdy1Ed3JEVklMOHFQenp5V3R5eGUxOFVtRi01T1N3OU16LVMwVW5ScG9uR0MxLWc?oc=5",
+        "source": "의학신문",
+        "description": "‘국가바이오혁신위원회’ 본격 활동…킥 오프 회의 의학신문",
+        "pub_date": "26.05.21",
+        "section": "innovation"
+      },
+      {
+        "title": "‘국가바이오혁신위원회’, 첫 분과 가동…투자·규제·CDMO 지원 논의 본격화",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90dVVEOHVROTM1YURsdmd2dVhZb1diWXh3N2NxRWJEUnlTZGZDY1VHay1zQ21HX2sxWVk4R0MtZDlkMVRFSUJGOTNmNWc0Zl9TUXBNeTZWV2RhQ2wwejJIUm1Vc2NBVTdaTEtRbUplbXnSAXBBVV95cUxPdHVVRDh1UTkzNWFEbHZndnVYWW9XYll4dzdjcUViRFJ5U2RmQ2NVR2stc0NtR19rMVlZOEdDLWQ5ZDFURUlCRjkzZjVnNGZfU1FwTXk2VldkYUNsMHoySFJtVXNjQVU3WkxLUW1KZW15?oc=5",
+        "source": "더바이오",
+        "description": "‘국가바이오혁신위원회’, 첫 분과 가동…투자·규제·CDMO 지원 논의 본격화 더바이오",
+        "pub_date": "26.05.21",
+        "section": "innovation"
+      },
+      {
+        "title": "'신기술 상용화 요람' 켄텍 에너지 신소재 산업화 플랫폼을 가다",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZVl5VDRkZEhzNVVuLWJlNktERHE5aEJoRjFrRFlsaWdSZmNyd2FpcEtwaWQxZWUwZC1QZHRTaVdwZklGT09nUVRWQkpDRmtwOVhZNklmdzVnQnFTOE1mNUNBWkhEVXJiVS1WUXZuUdIBc0FVX3lxTFB5WmluSVRPRzBoOTdWQVJMZHRGTThHYjYycFdvUjVWbXluLVJpaFdrMFl1M0d5ajk2RHVQZFhYVkh0TDhESklxd0g2eERKa2x3aWlQWnN0QWhVSEYtWDJYbi1KWi1QNUVIYzRGbHBVUW9BcDg?oc=5",
+        "source": "데일리한국",
+        "description": "[현장] '신기술 상용화 요람' 켄텍 에너지 신소재 산업화 플랫폼을 가다 데일리한국",
+        "pub_date": "26.05.21",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-21",
     "news": [
       {
