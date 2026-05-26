@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-05-27",
+    "news": [
+      {
+        "title": "삼성전자 노사 합의안 오늘 결론…'성과급' 논란 후폭풍 예고",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PX29hT3g4ZVJRRmIwSTRzNVFYd09ha1BHS3hXX0lHdGZQT0xPYWpraHFTc1dScUpJeFA5VlJMY0JTU2NMeTRBODY3d3ctbXd2bDhOT0JKYTNMUC14b0FQS19fRmd4M01CZUltb2VDbTQ?oc=5",
+        "source": "연합인포맥스",
+        "description": "삼성전자 노사 합의안 오늘 결론…'성과급' 논란 후폭풍 예고 연합인포맥스",
+        "pub_date": "26.05.27",
+        "section": "hr"
+      },
+      {
+        "title": "DS 최대 6억 vs DX 600만원…삼성 성과급 격차에 내홍 심화",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wMmdfZDZQN2VMdDRxbXBqQ2RUYTd2YTRqTDcyVHM0cThHUm5CNndJb2o1LTJ0bHNjSHBBbzI0OFpld1FuM2JGQXgxa3J6Q3VKdDFDR3ZCenozY3NUQk0tMERzSTc?oc=5",
+        "source": "bntnews.co.kr",
+        "description": "DS 최대 6억 vs DX 600만원…삼성 성과급 격차에 내홍 심화 bntnews.co.kr",
+        "pub_date": "26.05.27",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 임금안 투표 막판…성과급 격차에 노노 갈등 지속",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SQXUtZkp5aDNMRzlPRFZoaUZZenNQWDlhZmVIa3BkZWYyOGM2Y0VTdndGMXYzTzdLMVo0YWczZVY4OWhCeWlGZXlmTkNTUW13ck1WSWhXVHIwV3c3SXVjNnBnenA2X2JKSlVPdE1KV07SAXRBVV95cUxNanNTYXVicUNhc1ZudU9mQVBzWW16UVlOVy1xMHBOTHptZWtKMEN0SmhMVWtJSmNwSmFVeXRaLWU1NGZVV1NZS2ZCQ0loaHZLeVgxXzRfVXVLMHZxei1NWUplUUwwdUxvTDlwY21xUDBwT2tGdg?oc=5",
+        "source": "산경투데이",
+        "description": "삼성전자 임금안 투표 막판…성과급 격차에 노노 갈등 지속 산경투데이",
+        "pub_date": "26.05.27",
+        "section": "hr"
+      },
+      {
+        "title": "AI 면접.채용 시대, 기업은 왜 진정성을 묻기 시작했나",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqcW02d001NTdWUWFvTHNRc3NZY0ptc2VxQ2NpVHA1aWdack9NNDVPMVNFdG9INlZPWHdoWHNPX0lNUEZ6Um5obDh3RUY?oc=5",
+        "source": "한국AI부동산신문",
+        "description": "[Pocus 심층 기획] AI 면접.채용 시대, 기업은 왜 진정성을 묻기 시작했나 한국AI부동산신문",
+        "pub_date": "26.05.27",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금 2차 회의…노동계 \"대폭 인상\" vs 경영계 \"업종별 구분\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJRFZGN2k5T2dEanBuSnI3cW1OeTJHRmtNc0gzemNlSkhsQVREVm0xeHdwUUVURkEyeWY2VU5qc2oyYTdpeW1sNFpuZTFFZWFjVnMzU0xkZEJjVlRXUGJJWVJ5b0tSNk5MR0VZa3RxdmXSAXBBVV95cUxQSURWRjdpOU9nRGpwbkpyN3FtTnkyR0ZrTXNIM3pjZUpIbEFURFZtMXh3cFFFVEZBMnlmNlVOanNqMmE3aXltbDRabmUxRWVhY1ZzM1NMZGRCY1ZUV1BiSVlSeW9LUjZOTEdFWWt0cXZl?oc=5",
+        "source": "머니투데이",
+        "description": "최저임금 2차 회의…노동계 \"대폭 인상\" vs 경영계 \"업종별 구분\" - 머니투데이 머니투데이",
+        "pub_date": "26.05.26",
+        "section": "hr"
+      },
+      {
+        "title": "울산 중구 ‘2026 혁신 크루’ 출범…조직문화·규제 개선 이끈다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xVkkzLXdOZVYzQWpuLVNodjB6UjBFY3BraGhsMVZvWTFtSEh1cnViUDhSaGpaS0MxZlBRaEVRNHU3U0FIODBEb0FfbG9iWk9qVDVqeXZmTldLSFpUQjJnbHhBNkFld21CODNCMTRn0gFuQVVfeXFMTjFWSTMtd05lVjNBam4tU2h2MHpSMEVjcGtoaGwxVm9ZMW1ISHVydWJQOFJoalpLQzFmUFFoRVE0dTdTQUg4MERvQV9sb2JaT2pUNWp5dmZOV0tIWlRCMmdseEE2QWV3bUI4M0IxNGc?oc=5",
+        "source": "울산매일",
+        "description": "울산 중구 ‘2026 혁신 크루’ 출범…조직문화·규제 개선 이끈다 울산매일",
+        "pub_date": "26.05.26",
+        "section": "hr"
+      },
+      {
+        "title": "네오아크로보틱스 “조선·건설 인력난, AI 로봇으로 해결” - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVVMTWpkbTk2XzZXMzg5QU1oUFVLSTFteVdjOE1EdUF6S2NxY3pxalVsMjA0MzR2S05WX2FPcXFOX2I0OUNjdnNXbk5icjYzWF8yYVIwU3ZoUURKcXdmM0VPY2YxcHFqenVlOUlBTDRmQlhIWWpiQklVdGpxczZkMWQwQWZVeTFXMHhrdzJjWTfSAaQBQVVfeXFMTWIyTERjVDQ3Zk5PQkpnckZTVjBjRXoyMHhCR2xNV2FvSXBOcV95YzdveWZoRUpOdHFNZXJ6NzRtVUtXWkE2QjdCLXZlYXFscm1Ta3JNc3FsSGVlV05zdGRuZ1BtOHpOejNxMjM2aTRHcXdyZ1gzZ3VZczZJSGNLQlUzdzV0MTNfYmNMdWdLNjQxRmZ3WGo5ZXB1M09aOGp2R3BXTWs?oc=5",
+        "source": "Chosunbiz",
+        "description": "[스타트UP] 네오아크로보틱스 “조선·건설 인력난, AI 로봇으로 해결” - 조선비즈 Chosunbiz",
+        "pub_date": "26.05.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"AI, 도입 넘어 성과로\"…‘CIS 2026’ 컨퍼런스 열린다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84azNESDE1WDlwUkhhaHozZVRvOFk5R3ZwNUZqOXhReERMQTkybWVBZkNPMHhSRFpXdUk2XzdET0NIUk1JNEFuQlZ4aC0yR3dOV2NVT2F3?oc=5",
+        "source": "지디넷코리아",
+        "description": "\"AI, 도입 넘어 성과로\"…‘CIS 2026’ 컨퍼런스 열린다 지디넷코리아",
+        "pub_date": "26.05.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "주한미군사령관 “클라우드 인프라 개발 위해 삼성과 협력”",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSU243dVl6SDFkWWpOZVhVY2t2ZFg2UUR2bmZDUE5RYlJ2QVdpTHlwUjQ2UmlsZzIzYmlNVW1aQTFZbzQ5NTVkekN4MHplV196dlNBUm96b2pmSHY3RXl1QmNUTkxPalN3QmItNjA4NU9oOE0?oc=5",
+        "source": "마켓인",
+        "description": "주한미군사령관 “클라우드 인프라 개발 위해 삼성과 협력” 마켓인",
+        "pub_date": "26.05.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“AI보다 중요한 건 데이터…제조업 혁신, ‘AI 쓰는 사람’에 달렸다\"",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mTklPOVB3R1BWZzlEQ3UzNjQzWXlEX3JoYU1YLWFZYzZFbXFjUUY4cmxReFZvWGlXT0hRdDdfV3d2VlpyY28yaW1IWWxDS1o1YzdWLQ?oc=5",
+        "source": "동아사이언스",
+        "description": "“AI보다 중요한 건 데이터…제조업 혁신, ‘AI 쓰는 사람’에 달렸다\" 동아사이언스",
+        "pub_date": "26.05.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "美 무역대표부 300억달러 규모 미중 관세감면 수출품목 의견수렴",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NQnpNOGlCYTZ1UlFTSWxSRThLOTBVQVdJd2V3Qk80TUNhMWNCeVVXSTFKR3k5OHdBaWp6WV9OOW04U1VuUU5IcVhnVktMM1ZET3B30gFYQVVfeXFMT3JxY1RINUc2MlFHTzdEVExsdjNKZVo2R1hEVDZkM3lpenhvU1BEYThvN0I1X2p2Skt2ajJnZVNVcmhibVdOc1B3T214M20yY29PY2F0ZnN5OA?oc=5",
+        "source": "SBSBiz",
+        "description": "美 무역대표부 300억달러 규모 미중 관세감면 수출품목 의견수렴 SBSBiz",
+        "pub_date": "26.05.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "SK하이닉스 주가 전망 밝은데…성과급 30조 원 부동산·물가 덮친다",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QX1FVNzBsSUo2eUpaSU5QRFFrUXprVmtQbkZFQnZOeXppTUxoUVplXzFVY0xZRnFfZW9mRENCYW5pbjFDTzZPNzEzN3ZoMnFmNlFpYWFHdlNfY1RtTjJ3SFhRWWg?oc=5",
+        "source": "bntnews.co.kr",
+        "description": "SK하이닉스 주가 전망 밝은데…성과급 30조 원 부동산·물가 덮친다 bntnews.co.kr",
+        "pub_date": "26.05.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "AI가 밀고 전력반도체가 이끈다…DB하이텍 '호황 사이클' 청신호",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84RkF2cDduSERlNG1XcHlxbEcxT0EyT1MwNnNNcXp6OTVDcktES2MtZW9hanFIUDZFYkNsY1NOUU05aHViVEIwMXFxeGFuVVMzN21UZGtEenRNT2NhWUVHSWoySWFqVFN1?oc=5",
+        "source": "ebn.co.kr",
+        "description": "AI가 밀고 전력반도체가 이끈다…DB하이텍 '호황 사이클' 청신호 ebn.co.kr",
+        "pub_date": "26.05.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "풍력협회, ‘2026 해상풍력 공급망 컨퍼런스 전시회’ 개최",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUjFtSzFONW8yMVBWVjJKbTNoZkdoSnVTeFloNkxlREhNY1YyMGl1RGppbDVVVm9GeU94M3l3OWpnUWkyd3BoUW1nT3k1dVd4QVY0VWpOM0t0RGNiRHdydjJWRWRPUU1EWE1HYtIBcEFVX3lxTE5hMXp3VmhvcHptWl9VWTMySUF3RFMtcGhzdzJESG13bUxRNnA5VGhkZTFsRFNLcUQzQmNCTmJpYWVXbWdQS3VKVXd5Qm5wWXozTzdsX2JkOFI3RUJrWGRydFZUc3JOWFZNMVk3QUlLMUQ?oc=5",
+        "source": "전기신문",
+        "description": "풍력협회, ‘2026 해상풍력 공급망 컨퍼런스 전시회’ 개최 전기신문",
+        "pub_date": "26.05.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "특구 딥테크, 글로벌 큰손 만난다 … 과기부, 해외 투자유치 ‘교두보’",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yYjBRaTY3TkNKRXlzei1QSHNWbEJTcW16azBNUWdySlQ0MEpsQTczMFNQR3A2STFWdWJRbi0zV1R4LTYzQUtNMVlRS19MYWtvZlVzeEw5WmNzT1NBcnlWRWwtX1o2TElOT2c?oc=5",
+        "source": "금강일보",
+        "description": "특구 딥테크, 글로벌 큰손 만난다 … 과기부, 해외 투자유치 ‘교두보’ 금강일보",
+        "pub_date": "26.05.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "꽃 티셔츠 ‘마르디’ IPO 흥행 주목",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRR2JEamJ1UFIxOV9VNzNkUWxTSTdBVEt0VkNycVZQTUlRZTY3Mkhaajc3N2loektacFh6dUJzMG96X3pRVzd3cTcweTJYbjAyald5dVNBTjIzV0w1VFBrdWVKdE5yRktUR1VoMWNB?oc=5",
+        "source": "아시아투데이",
+        "description": "[취재후일담] 꽃 티셔츠 ‘마르디’ IPO 흥행 주목 아시아투데이",
+        "pub_date": "26.05.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "전남창조경제혁신센터, '스타트업 투자 역량 강화 교육'…투자유치 전략부터 TIPS·LIPS까지",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hWGlfS1c4QXNDaldmOXNicXNHVUhhcmNNV3I0NHd4b2RMUHMwZ1dSMmZkQ19IaWVxb2pPMTJCUjI4NXJVdkpLUVhkYWY5QQ?oc=5",
+        "source": "전자신문",
+        "description": "전남창조경제혁신센터, '스타트업 투자 역량 강화 교육'…투자유치 전략부터 TIPS·LIPS까지 전자신문",
+        "pub_date": "26.05.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "특구 딥테크 기업 글로벌 진출 가속…신약개발 협력·해외 투자유치 지원 확대",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XdGR5akVaMkx1U2JDLUdLMVV3NkhPWHRHMVpYMllYNG44cnZQY2l0NGlBV3poMnlJcUNXeGpYVFRickh6?oc=5",
+        "source": "후생신보",
+        "description": "특구 딥테크 기업 글로벌 진출 가속…신약개발 협력·해외 투자유치 지원 확대 후생신보",
+        "pub_date": "26.05.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "국가바이오혁신위원회 '3대 협의회' 출범해 혁신 실행력 제고",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIbWFJcjdxdnIyNUVTVXpFZFNZdDFKMTg3bC1hMERIN213SGNlbTg5UWtVcXVzcllzc1I3Vk5mRTltUHRhTERsQTBnV0hHb015eVE1Ti15NA?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "description": "국가바이오혁신위원회 '3대 협의회' 출범해 혁신 실행력 제고 MEDI:GATE NEWS",
+        "pub_date": "26.05.27",
+        "section": "innovation"
+      },
+      {
+        "title": "바이젠셀·여의도성모, 희귀 림프종 첨단재생 치료 첫 특례",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JbFRPM1liVWZUNEw4X2xEV1Fta3NkNUs0MGFUVERCRzdZZ0lxZjNjYndEN3VlYUc2Y280U1dReUdXLWNzMGNlNFByb0xqbjB6T3o5SDhodXVTX0FPQ0kydmxLU0VWeVg3aWpTdw?oc=5",
+        "source": "약사공론",
+        "description": "바이젠셀·여의도성모, 희귀 림프종 첨단재생 치료 첫 특례 약사공론",
+        "pub_date": "26.05.26",
+        "section": "innovation"
+      },
+      {
+        "title": "국가바이오혁신위원회, 바이오·뷰티 산업 진흥 정책 본격 논의 착수",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRdWdjeWVGc3ZUYXpkMl9TWkZiMDVSZFo5U3NWbDZSVHc2NGhTLS1hSE53Z1hURjQwd1JwcG5TWE9EZ0Z3MVZKcm1nUkdJSVZTWDJ5clBHd2dKSzdSNU4yNDVLam1qT1J1em5ia2FpTUtndDJqc2c?oc=5",
+        "source": "헬스조선",
+        "description": "국가바이오혁신위원회, 바이오·뷰티 산업 진흥 정책 본격 논의 착수 헬스조선",
+        "pub_date": "26.05.26",
+        "section": "innovation"
+      },
+      {
+        "title": "대한상의 지원 규제샌드박스 12건 승인...'청정수소 기술'로 탄소 중립 기여",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OaEtEZkVacnFnTm82cFdkeFdmdXJCZGlvczh3QlItWmNpOTR0alhDZjF6OFRMNnc2azI4d3FxZEdsXzdmWWM1MVpqYUpPOUVmaEhwdTRiSjk5UURWQnFEeVFaLW4yUmFESVZUNdIBcEFVX3lxTE40TW9tRWQtMWJEc1diTE1nWnhNVHZsdnhLUVRBOGU3VWpaV3RhOVZfSFpnR2ItM1d3NmFnYUlmN3NGdU1PYlNsWjl4Ym93X3lmMnNlSDZDUjZSdkJkQWZIUVFFS2pGU2tvNDJzaFY2bmU?oc=5",
+        "source": "반론보도닷컴",
+        "description": "[경제 브리핑] 대한상의 지원 규제샌드박스 12건 승인...'청정수소 기술'로 탄소 중립 기여 반론보도닷컴",
+        "pub_date": "26.05.26",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-05-26",
     "news": [
       {
