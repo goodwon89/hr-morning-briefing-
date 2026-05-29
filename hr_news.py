@@ -60,51 +60,51 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
+# ✅ 이번 주 업데이트 — 5.25~5.29  |  수집 완료: 2026-05-29
 WEEKLY_DATA = {
     "week_label": "5.25~5.29",
     "enabled": True,
     "metrics": [
         {
-            "label": "최신 취업자 증감 (전년동월비)",
-            "value": "2,841만명",
-            "change": "+23.4만명 (+1.4%)",
+            "label": "취업자 수 (2026년 4월, 통계청)",
+            "value": "2,896만 1천명",
+            "change": "전년동월대비 +7만 4천명",
             "trend": "up",
-            # 출처: 2026년 2월 고용동향 — 통계청
-            # https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1063
-            # ※ 5월 확정치는 6월 중순 발표 후 업데이트 필요
         },
         {
-            "label": "AI·데이터 직군 공고 우대 비율",
-            "value": "64%",
-            "change": "+41%p (전년비)",
-            "trend": "up",
-            # 출처: LinkedIn Korea 2025 하반기 채용 트렌드 분석
-            # 직접 확인 권장 — https://www.jobkorea.co.kr/recruit/ai-jobs
-        },
-        {
-            "label": "대기업 희망퇴직·감원 공고",
-            "value": "??건",
-            "change": "미확인",
+            "label": "전체 실업률 (2026년 4월, 통계청)",
+            "value": "2.9%",
+            "change": "전년동월 동일",
             "trend": "neutral",
-            # LG전자, LGD, SK플래닛, SK온, SKB 등 다수 상시 진행
-            # 구체 인원·건수는 공시 미확인 — 뉴스 모니터링 권장
+        },
+        {
+            "label": "청년 고용률 15~29세 (2026년 4월)",
+            "value": "43.7%",
+            "change": "전년동월대비 -1.6%p",
+            "trend": "down",
+        },
+        {
+            "label": "AI 스킬 요구 채용공고 증가율 (미국, 2026년 4월 기준)",
+            "value": "+144%",
+            "change": "전년동월대비",
+            "trend": "up",
         },
     ],
     "reports": [
         {
-            "title": "KMA HR 트렌드 리포트 (2026년 1분기)",
-            "url": "https://www.kma.or.kr/kr/usrs/eduRegMgnt/eduRegMgntForm.do?p_brd_seq=844",
-            "publisher": "한국능률협회",
-        },
-        {
-            "title": "고용동향브리프 2026년 제1호",
-            "url": "https://www.keis.or.kr/keis/ko/proj/118/pblc/detail.do?categoryIdx=126&pubIdx=11273",
-            "publisher": "한국고용정보원",
-        },
-        {
             "title": "2026년 신규채용 실태조사 결과",
             "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
-            "publisher": "KDI",
+            "publisher": "KDI 경제교육·정보센터",
+        },
+        {
+            "title": "Mercer Global Talent Trends 2026",
+            "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
+            "publisher": "Mercer",
+        },
+        {
+            "title": "2026 하반기 채용 트렌드 총정리",
+            "url": "https://blog.searchright.net/2026-hiring-market-outlook/",
+            "publisher": "SearchRight",
         },
     ],
 }
