@@ -61,39 +61,50 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
 WEEKLY_DATA = {
-    "week_label": "5.12~5.16",          # ← 기준 주차 (예: "5.19~5.23")
-    "enabled": True,                     # ← False 시 섹션 비노출
+    "week_label": "5.25~5.29",
+    "enabled": True,
     "metrics": [
         {
-            "label": "사람인 채용공고 증감 (전주비)",
-            "value": "+2,340건",
-            "change": "+3.2%",
+            "label": "최신 취업자 증감 (전년동월비)",
+            "value": "2,841만명",
+            "change": "+23.4만명 (+1.4%)",
             "trend": "up",
+            # 출처: 2026년 2월 고용동향 — 통계청
+            # https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1063
+            # ※ 5월 확정치는 6월 중순 발표 후 업데이트 필요
         },
         {
-            "label": "AI·데이터 직군 공고 비중",
-            "value": "14.1%",
-            "change": "+0.8%p",
+            "label": "AI·데이터 직군 공고 우대 비율",
+            "value": "64%",
+            "change": "+41%p (전년비)",
             "trend": "up",
+            # 출처: LinkedIn Korea 2025 하반기 채용 트렌드 분석
+            # 직접 확인 권장 — https://www.jobkorea.co.kr/recruit/ai-jobs
         },
         {
             "label": "대기업 희망퇴직·감원 공고",
-            "value": "8건",
-            "change": "-2건",
-            "trend": "down",
+            "value": "??건",
+            "change": "미확인",
+            "trend": "neutral",
+            # LG전자, LGD, SK플래닛, SK온, SKB 등 다수 상시 진행
+            # 구체 인원·건수는 공시 미확인 — 뉴스 모니터링 권장
         },
     ],
     "reports": [
-        # 최대 3개 권장. title/url/publisher 모두 입력
         {
-            "title": "2026 상반기 채용트렌드 리포트",
-            "url": "https://www.jobkorea.co.kr/",
-            "publisher": "잡코리아",
+            "title": "KMA HR 트렌드 리포트 (2026년 1분기)",
+            "url": "https://www.kma.or.kr/kr/usrs/eduRegMgnt/eduRegMgntForm.do?p_brd_seq=844",
+            "publisher": "한국능률협회",
         },
         {
-            "title": "4월 고용동향 통계 (2026.05.14 발표)",
-            "url": "https://kosis.kr/",
-            "publisher": "통계청 KOSIS",
+            "title": "고용동향브리프 2026년 제1호",
+            "url": "https://www.keis.or.kr/keis/ko/proj/118/pblc/detail.do?categoryIdx=126&pubIdx=11273",
+            "publisher": "한국고용정보원",
+        },
+        {
+            "title": "2026년 신규채용 실태조사 결과",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
+            "publisher": "KDI",
         },
     ],
 }
