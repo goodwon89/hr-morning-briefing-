@@ -53,6 +53,52 @@ FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
 NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 
 # ──────────────────────────────────────────────────────────────
+# [Phase 2] 이주의 HR 데이터 인사이트 — 매주 금요일 수동 갱신
+# ──────────────────────────────────────────────────────────────
+# ✅ 갱신 방법: 아래 WEEKLY_DATA를 매주 금요일 퇴근 전 수정 후 GitHub push
+#    → 다음 주 월~금 Morning Briefing에 자동 반영됩니다.
+#
+# enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
+# trend: "up" | "down" | "neutral"
+WEEKLY_DATA = {
+    "week_label": "5.12~5.16",          # ← 기준 주차 (예: "5.19~5.23")
+    "enabled": True,                     # ← False 시 섹션 비노출
+    "metrics": [
+        {
+            "label": "사람인 채용공고 증감 (전주비)",
+            "value": "+2,340건",
+            "change": "+3.2%",
+            "trend": "up",
+        },
+        {
+            "label": "AI·데이터 직군 공고 비중",
+            "value": "14.1%",
+            "change": "+0.8%p",
+            "trend": "up",
+        },
+        {
+            "label": "대기업 희망퇴직·감원 공고",
+            "value": "8건",
+            "change": "-2건",
+            "trend": "down",
+        },
+    ],
+    "reports": [
+        # 최대 3개 권장. title/url/publisher 모두 입력
+        {
+            "title": "2026 상반기 채용트렌드 리포트",
+            "url": "https://www.jobkorea.co.kr/",
+            "publisher": "잡코리아",
+        },
+        {
+            "title": "4월 고용동향 통계 (2026.05.14 발표)",
+            "url": "https://kosis.kr/",
+            "publisher": "통계청 KOSIS",
+        },
+    ],
+}
+
+# ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
 TARGET = {
@@ -520,6 +566,101 @@ def build_section_html(section_key: str, items: list) -> str:
   </div>"""
 
 
+def build_data_insight_html(data: dict) -> str:
+    """[Phase 2] 이주의 HR 데이터 인사이트 섹션 HTML 생성"""
+    if not data.get("enabled", True):
+        return ""
+
+    week_label = data.get("week_label", "")
+    metrics    = data.get("metrics", [])
+    reports    = data.get("reports", [])
+
+    # 지표 카드 생성
+    trend_icon  = {"up": "▲", "down": "▼", "neutral": "–"}
+    trend_color = {"up": "#059669", "down": "#dc2626", "neutral": "#6b7280"}
+
+    metric_cells = ""
+    for m in metrics:
+        t     = m.get("trend", "neutral")
+        icon  = trend_icon.get(t, "–")
+        color = trend_color.get(t, "#6b7280")
+        metric_cells += f"""
+      <td style="padding:0 6px 0 0; vertical-align:top; width:{100//max(len(metrics),1)}%;">
+        <div style="background:#f0fafa; border:1px solid #b2e8e8; border-radius:8px;
+                    padding:12px 14px; text-align:left;">
+          <div style="font-size:11px; color:#6b7280; margin-bottom:4px;
+                      font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;
+                      white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+            {m.get('label', '')}
+          </div>
+          <div style="font-size:18px; font-weight:800; color:#1a1a2a;
+                      font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;
+                      letter-spacing:-0.5px;">
+            {m.get('value', '')}
+          </div>
+          <div style="font-size:12px; font-weight:700; color:{color}; margin-top:3px;
+                      font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+            {icon} {m.get('change', '')}
+          </div>
+        </div>
+      </td>"""
+
+    # 리포트 링크 생성
+    report_rows = ""
+    for r in reports:
+        report_rows += f"""
+      <tr>
+        <td style="padding:5px 0; border-bottom:1px solid #f0f0f0;">
+          <a href="{r.get('url','#')}" target="_blank"
+             style="font-size:13px; color:#1a1a2a; text-decoration:none; font-weight:500;
+                    font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;
+                    display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">
+            → {r.get('title','')}
+          </a>
+        </td>
+        <td style="padding:5px 0 5px 10px; border-bottom:1px solid #f0f0f0;
+                   font-size:11px; color:#9ca3af; white-space:nowrap; text-align:right;
+                   font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+          {r.get('publisher','')}
+        </td>
+      </tr>"""
+
+    reports_block = f"""
+    <div style="margin-top:14px;">
+      <div style="font-size:11.5px; font-weight:700; color:#6b7280; margin-bottom:6px;
+                  font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;
+                  letter-spacing:0.2px;">
+        📄 이주의 HR 리포트 &amp; 통계
+      </div>
+      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+        {report_rows}
+      </table>
+    </div>""" if reports else ""
+
+    return f"""
+  <div style="margin-bottom:20px; border-top:2px solid #00A7A7; padding-top:14px;">
+    <div style="margin-bottom:12px;">
+      <span style="font-size:15px; font-weight:800; color:#1a1a2a;
+                   letter-spacing:-0.3px; vertical-align:baseline;
+                   font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+        📊&nbsp; 이주의 HR 데이터
+      </span>
+      <span style="font-size:11px; color:#9ca3af; font-weight:400; margin-left:8px;
+                   vertical-align:baseline;
+                   font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
+        {week_label} 채용시장 주요 지표
+      </span>
+    </div>
+    <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+      <tr>
+        {metric_cells}
+        <td style="padding:0; width:1%;"></td>
+      </tr>
+    </table>
+    {reports_block}
+  </div>"""
+
+
 def build_email_html(news_items: list, today_str: str,
                      logo_url: str = "", pages_url: str = "#") -> str:
     """전체 이메일 HTML 생성 (Neusral 레이아웃)"""
@@ -533,6 +674,9 @@ def build_email_html(news_items: list, today_str: str,
         for k in SECTION_ORDER
         if k in by_section and by_section[k]
     )
+
+    # [Phase 2] 데이터 인사이트 섹션 생성
+    data_insight_html = build_data_insight_html(WEEKLY_DATA)
 
     logo_img = (
         f'<img src="{logo_url}" alt="상상인그룹" style="height:29px; display:block;">'
@@ -579,6 +723,8 @@ def build_email_html(news_items: list, today_str: str,
     </table>
 
     <div style="height: 20px;"></div>
+
+    {data_insight_html}
 
     {sections_html}
 
