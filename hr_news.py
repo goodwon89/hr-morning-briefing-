@@ -60,7 +60,6 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 5.25~5.29  |  수집 완료: 2026-05-29
 WEEKLY_DATA = {
     "week_label": "5.25~5.29",
     "enabled": True,
@@ -587,34 +586,46 @@ def build_data_insight_html(data: dict) -> str:
     reports    = data.get("reports", [])
 
     # 지표 카드 생성
+    # 3개 이하: 한 줄 / 4개: 2×2 그리드 (이메일 너비 초과 방지)
     trend_icon  = {"up": "▲", "down": "▼", "neutral": "–"}
     trend_color = {"up": "#059669", "down": "#dc2626", "neutral": "#6b7280"}
 
-    metric_cells = ""
-    for m in metrics:
+    def _card_td(m: dict, col_count: int) -> str:
         t     = m.get("trend", "neutral")
         icon  = trend_icon.get(t, "–")
         color = trend_color.get(t, "#6b7280")
-        metric_cells += f"""
-      <td style="padding:0 6px 0 0; vertical-align:top; width:{100//max(len(metrics),1)}%;">
+        w     = 100 // col_count
+        return f"""
+      <td style="padding:0 6px 6px 0; vertical-align:top; width:{w}%;">
         <div style="background:#f0fafa; border:1px solid #b2e8e8; border-radius:8px;
-                    padding:12px 14px; text-align:left;">
-          <div style="font-size:11px; color:#6b7280; margin-bottom:4px;
+                    padding:10px 12px; text-align:left;">
+          <div style="font-size:10.5px; color:#6b7280; margin-bottom:3px;
                       font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;
                       white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
             {m.get('label', '')}
           </div>
-          <div style="font-size:18px; font-weight:800; color:#1a1a2a;
+          <div style="font-size:17px; font-weight:800; color:#1a1a2a;
                       font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;
                       letter-spacing:-0.5px;">
             {m.get('value', '')}
           </div>
-          <div style="font-size:12px; font-weight:700; color:{color}; margin-top:3px;
+          <div style="font-size:11.5px; font-weight:700; color:{color}; margin-top:2px;
                       font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;">
             {icon} {m.get('change', '')}
           </div>
         </div>
       </td>"""
+
+    n = len(metrics)
+    if n <= 3:
+        # 한 줄 배치
+        cells = "".join(_card_td(m, n) for m in metrics)
+        metric_table_rows = f"<tr>{cells}</tr>"
+    else:
+        # 2×2 그리드 (4개 초과 시에도 2열 유지)
+        row1 = "".join(_card_td(m, 2) for m in metrics[:2])
+        row2 = "".join(_card_td(m, 2) for m in metrics[2:4])
+        metric_table_rows = f"<tr>{row1}</tr><tr>{row2}</tr>"
 
     # 리포트 링크 생성
     report_rows = ""
@@ -663,10 +674,7 @@ def build_data_insight_html(data: dict) -> str:
       </span>
     </div>
     <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-      <tr>
-        {metric_cells}
-        <td style="padding:0; width:1%;"></td>
-      </tr>
+      {metric_table_rows}
     </table>
     {reports_block}
   </div>"""
