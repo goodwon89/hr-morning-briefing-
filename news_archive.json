@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-02",
+    "news": [
+      {
+        "title": "뉴욕 연은 \"美 청년실업 급증 배경은 AI 아닌 원격근무 탓\"",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDMlo4YzlkQWJqa3BxalduT0wwS1daX0VQNVc1MmxEY1lSQWcyamh1T0VWSFJGUTZuVWNIdFgybWQ1T1I5dF85MXU0cWh0ekxEZ1RN?oc=5",
+        "source": "biz.sbs.co.kr.",
+        "description": "뉴욕 연은 \"美 청년실업 급증 배경은 AI 아닌 원격근무 탓\" biz.sbs.co.kr.",
+        "pub_date": "26.06.02",
+        "section": "hr"
+      },
+      {
+        "title": "기업은행 임직원 보수, 시중은행의 80% 수준",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0R1FpSGZTZTZqMmZlZ1RPZElBeTY1X2Z3WUlLVElyZWgzY2NCSkhodEZMVTNFVUI0b2FIbmstS2tPYlJEN0hkSjdkU1pWTEVyUEE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "기업은행 임직원 보수, 시중은행의 80% 수준 매일경제 마켓",
+        "pub_date": "26.06.02",
+        "section": "hr"
+      },
+      {
+        "title": "국정원 \"DaaS, 공공기관도 '원격근무용'으로 쓸 수 있다\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VVmtPLV9COGowTTBVLVgyYWsxc09iX1pyRXhseTVuckUtaTdwcXR3VTdsdDNBbDdZRWdWYVdrUzRrVTdBNmlCWkliVjVNWTNQQm9hZ19NQl9GRGoxR2YzN0ZMMFpwMGvSAWxBVV95cUxQUEc2T0JxRWNObHhxNV9KX0lXZ3BZR21uZE9KaWNrUFBPZHNZYWdnVk1YTVA3RFV3dFEwSmNPaFlOMTd0OE9UUEFORjFmV2JKZzNvejNxVkptaklHMHhKbnpNcFlVbVdpTzBRTVQ?oc=5",
+        "source": "머니투데이",
+        "description": "국정원 \"DaaS, 공공기관도 '원격근무용'으로 쓸 수 있다\" - 머니투데이 머니투데이",
+        "pub_date": "26.06.02",
+        "section": "hr"
+      },
+      {
+        "title": "코트라, 국내최대 채용 박람회 개막… AI 취업도우미도 운영",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tNVpKTnNucFZ5NXBySVdpZlhjYTMxZXRxZmYxUHBpTjR2RVc0RGI2VUVqdU1zczlmVHI3cVB2ZEwxZ2dWRmp5T2R0MzRvMHFna3pRRFVrbmdvYTFsWUNUekhxVU5uRFdCMkloOVN3?oc=5",
+        "source": "S저널",
+        "description": "코트라, 국내최대 채용 박람회 개막… AI 취업도우미도 운영 S저널",
+        "pub_date": "26.06.01",
+        "section": "hr"
+      },
+      {
+        "title": "김윤덕 장관 \"현장 목소리 담아 국토부 조직문화 계속 바꾸겠다\"",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yTlhPdkhqand3QVQzSW9abUV5bmR3TDFYV2w3djZpTlFyS2x6UUlCeEtoMjZ3eUZDTllFVFI5TWZwbGxYekFBUHIzVWZ5UjQ0ZXFlLTVUZkdkbGNGUWFvVA?oc=5",
+        "source": "뉴스1",
+        "description": "김윤덕 장관 \"현장 목소리 담아 국토부 조직문화 계속 바꾸겠다\" 뉴스1",
+        "pub_date": "26.06.01",
+        "section": "hr"
+      },
+      {
+        "title": "국토교통부 김윤덕 장관, “현장의 목소리를 담아 조직문화를 지속적으로 개선해 나갈 것",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CT3FKRGhMaDJsX0JiQXVwbFpacFFtMktxSmpaVkx0V3hKNE0zT05IV1E4bU02WFBtS3kycjNsYTRUQmtiRzhnTnpXR25TdkRRNVZXNTZBU3ZncXgtV084WkJCVXJIRll1SHVDUGtlWQ?oc=5",
+        "source": "ynyonhapnews.com",
+        "description": "국토교통부 김윤덕 장관, “현장의 목소리를 담아 조직문화를 지속적으로 개선해 나갈 것 ynyonhapnews.com",
+        "pub_date": "26.06.01",
+        "section": "hr"
+      },
+      {
+        "title": "“로봇 공학에 더해진 디지털 예술”… 삼성전자, 독일 쿠카 쇼룸에 몰입형 디스플레이 구축",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWGhoRjhSZHdWU29TRDZNR01ZbFZMTHhpdnpZYnNqbTZfbHlDQWJIQjJneHloeUVwUFAzejI2YU44UXZaUzAwR3I3dXlCTmtUbXZMMnVTbkFKLTF0Rmt5WnhNMmV4cEJXaXIwMHFoTHRpMU5sZXFYWU5mN2pYUTlMb0tFNGdqUS1WMjNtR011S0k0eUdmN0Q4M29xTGoxbEFUZG5XRlNhV2c3RkR4YXNBbVlqRkJBNDB0ajdBU0FyZ2Y2dk9VSlJGOVFrTFFjQVQwU0p6TFlLLUR0N1M1eHloMjd3VDIzYV9idG13VGdveDFXRGw2c1V4NTVrOHZQRUcxQUNPWjN4YUhMLVhHRW9rZFg1cmx3NkZZb1N3dVZpZE15dw?oc=5",
+        "source": "samsung.com",
+        "description": "[영상] “로봇 공학에 더해진 디지털 예술”… 삼성전자, 독일 쿠카 쇼룸에 몰입형 디스플레이 구축 samsung.com",
+        "pub_date": "26.06.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"아이렌, GPU 도입 자금 36억5000만달러 조달…MS AI 클라우드 계약 지원\"",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTzNRbnBVWWZ2OVlJQ255Uks3UkVlSWxKN29WTkx4aEFPb3VvTDA0RGVublVRV19ZVjVnU3ljbnlKSktiLWpEZTJNeTd3M2FC?oc=5",
+        "source": "블루밍비트",
+        "description": "\"아이렌, GPU 도입 자금 36억5000만달러 조달…MS AI 클라우드 계약 지원\" 블루밍비트",
+        "pub_date": "26.06.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"불규칙한 노끈·랩도 척척\"…아이벡스, 피지컬 AI로 '무인 자동화' 성공",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIS1p2YldIV2JLSzhwdy1DQTNQME53eDBQZ1Fxbm01NFVkcUMyWi01aHRnaDhHV2JSS1o4Nk0wX05HbmVfREpuY3NMNGNnbWtBc1BEM205THpyYzdLbkFwMjU3aEIteTZkSVE?oc=5",
+        "source": "AI타임스",
+        "description": "\"불규칙한 노끈·랩도 척척\"…아이벡스, 피지컬 AI로 '무인 자동화' 성공 AI타임스",
+        "pub_date": "26.06.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "국민주권정부 1주년, 조달청 “AI·혁신제품 공공조달 진입 확대” 성과",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbk5GblFpeS0zY2RUQUFGNkRmaGU2YVJxSWhiVkZKWVJhdHFpc1VNUThqWmN6TjBTOHVIZEVzZXI5eFhEbXM4NjFOd0JSa19CZkpXWUpkcUpwNmhRMi14dWxLZDRVUE83WGVoZkNibWFjUTlxakpnTWpTVFM2QQ?oc=5",
+        "source": "보안뉴스",
+        "description": "국민주권정부 1주년, 조달청 “AI·혁신제품 공공조달 진입 확대” 성과 보안뉴스",
+        "pub_date": "26.06.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "iM증권 \"반도체로 고유가 충격 이겨내…수출 호황 당분간 계속\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xaFpoYXFpZkVjZnExRkQ2RmtqbE9SMDZ4Ml9DRHItYWVGQ1NUY3FYcXZWX2Q1OVJRVXYwcFJDLXg5eTlzenpVaEpKRnA0a3c1QlF2eGFQRWJsSnPSAWBBVV95cUxPYnVxb2lrZThyS3lMdjZId0pWdVRhX2YzSlc4akZpalBHbXpnTFpBX240SElmZG9NM0tvLUJGaEpnZVhsRlc2bEJpQVNJcHo0cFlwN3dTVnVwcHMwYmRkUl8?oc=5",
+        "source": "연합뉴스",
+        "description": "iM증권 \"반도체로 고유가 충격 이겨내…수출 호황 당분간 계속\" 연합뉴스",
+        "pub_date": "26.06.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'고유가·고환율 충격' 5월 소비자물가 3.1% 상승…26개월만에 최고",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80STlJbXpKMHlna1RnRk41V2pVT1dQNEtLVy1WM3U4am45VUVxVmJldUh4NEVHdzFBbWR0N0o2SkZGV211cm5WcUkxaGR2clN1TlFWQ2hUNEw3Q3Y4emdjLWFuWDg3VWhOYThwa2ZLV1l0UQ?oc=5",
+        "source": "KB Think",
+        "description": "'고유가·고환율 충격' 5월 소비자물가 3.1% 상승…26개월만에 최고(상보) KB Think",
+        "pub_date": "26.06.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "5월 소비자물가 상승률 3.1%…석유류 급등에 2년2개월 만에 최고",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52U0xDMlNNeUV1dEdRZjZlQkNibmhzZ0JpNUZLd2hmd2ttVWYzLTFSSUdJeDdEVERFdWwwWjZzbXY3QXhCRUNxTldLTlVkWnFDb3ltd1JOWWs2MlRUWTZra1owcmsyR2dBRE1XdXNzVUs5TFJk?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "[1보] 5월 소비자물가 상승률 3.1%…석유류 급등에 2년2개월 만에 최고 연합뉴스 한민족센터",
+        "pub_date": "26.06.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "AI 전력난 돌파구, SMR 공급망에 달렸다",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82VzZGWWh2QzFPQmtId2Rnb09KTk5uZEZfaDFyWkZVZEJEZUxYMXhicm5iRzJGaUpPbVFBOU96RW1QOW5uOTJGelJKUkp0YWhwekktanNnTmFiRnNGVDZUeXNSako?oc=5",
+        "source": "에너지안전신문",
+        "description": "AI 전력난 돌파구, SMR 공급망에 달렸다 에너지안전신문",
+        "pub_date": "26.06.02",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'제3 벤처 붐' 비전에 VC 신규 등록 반등…대학·AC 가세 '판 커진다'",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zSUZKYVByWTdKbnRkYnh0dmFoeUExd09pSjJ1eWU4aENHVGxjWldtb29XWFBhbUxZcl9adG01NmkzcF9PSkNJVXJhTDE3bWNXVThGTk9mSlFEMzBH?oc=5",
+        "source": "뉴스1",
+        "description": "'제3 벤처 붐' 비전에 VC 신규 등록 반등…대학·AC 가세 '판 커진다' 뉴스1",
+        "pub_date": "26.06.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "퀀티늄, IPO 공모가 53~55달러로 상향…공모 주식 수 확대",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaTFRoazRtdEV1eTBvYmRfdmR5MlJwOFQwQlcyTUtHMU5HR3I5VnE2ZV9vODdURDRsWFcyZ0JJcFZkSEc5V1ZLNGZ2dUszVXFDZzcwZXhud1hmal9JMTFKTDJKSDZaNmE5eWNTRlNpR21RVUZUZjFV?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "퀀티늄, IPO 공모가 53~55달러로 상향…공모 주식 수 확대 Investing.com 한국어",
+        "pub_date": "26.06.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'공간 정보 SW' 다비오 등 7개사, 코스닥 상장예심 신청",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ad05FeV9PajBEWDdCYXhpZHowaUtXNGVyanpfQTFiMmxNUkhJNE1Zc3pGZlIweGEyc3EtSHFDU0FBT2dINnRuY3g4VW5RNUFHN1J0T045MGdOWFXSAWBBVV95cUxQWDR1YTNNa1RTV05Jb2g4VWZ6STgzdGI5THhGUkt4MVlfX0ZvSk8weEdQYjdBYTFaNU9vcjdaR3ZGNnRQMzhTZjJ4Q0FpcGgwRXRIY3l2X1A4TUYxWm5STVc?oc=5",
+        "source": "연합뉴스",
+        "description": "'공간 정보 SW' 다비오 등 7개사, 코스닥 상장예심 신청 연합뉴스",
+        "pub_date": "26.06.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "\"딥테크 기업 해외서 검증, 투자유치\" 4대 과기원 스타트업 모집",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnc2doc3VtU3dtREg4LVhaRnNfOEhYRDJhcWlub0ZtcFZjMFRsNUtKNVJuaWVSVG9Ydy1pbkI5YnhGNUFIcGtUQUtVZEJoZWVXU0dmVkYxZFUxQ0MwRVlsVXNhTHozR3JKY2c?oc=5",
+        "source": "헬로디디",
+        "description": "\"딥테크 기업 해외서 검증, 투자유치\" 4대 과기원 스타트업 모집 헬로디디",
+        "pub_date": "26.06.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "바이오협회-연구개발특구진흥재단, 바이오기업 글로벌 도약 위한 MOU 체결",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9raW5rSHRITkY5M3Q1S2ppUV82WW1VVmxZWFFaeF9CLTRfMUdxSHFwRXFmVGg2bGRQR1VUT1NBYnVRdDdhVWFqZzJvNFVzWTgwNGotWm1ZUQ?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "description": "바이오협회-연구개발특구진흥재단, 바이오기업 글로벌 도약 위한 MOU 체결 MEDI:GATE NEWS",
+        "pub_date": "26.06.02",
+        "section": "innovation"
+      },
+      {
+        "title": "한국BMS제약, 서울시와 바이오 혁신기술 발굴",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uQ25TTXV0WGU2eTVSTlJSbXhJUWFBUGdtM1YtV25VUGdEdVR0YVp6MXhodF9PNUNra0hZYXVIZGJ0WFZOVXFXOG1YTzQzd19mckhMMG50NklVMGd5ZjZUUEJXV09pZUlQSF9QWDExMNIBc0FVX3lxTE9oeEt0OE8wTGc5eGlTeGZOTnRQWUJfbElzdEx0a2x6ZDFadGMzYUVCRzY5ckhudXpOSVVZV0E0V0FYUm84TkQtc3J1SG1BQmpCY2hNYjI3Q1BxUW1Ob1Y2ejJCc2NNWU5HSl9DcmFpcG9PQU0?oc=5",
+        "source": "청년의사",
+        "description": "한국BMS제약, 서울시와 바이오 혁신기술 발굴 청년의사",
+        "pub_date": "26.06.01",
+        "section": "innovation"
+      },
+      {
+        "title": "울산항만공사 변재영 사장 \"해운물류 산업 혁신과 지역 창업생태계 활성화에 노력\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VOVpRYldxZG5yMU80NmhmXzQwV0I2VlVCQm55dC1rQmdJLXNiZXh1d3ctREJXbE5uU3ZIOUR5dVUyaTVMOHVENWpRZnppTms1NG5kRmZ2aUNFLTMwNHR5X2xkeHNYMTJTdmhR?oc=5",
+        "source": "일간투데이",
+        "description": "울산항만공사 변재영 사장 \"해운물류 산업 혁신과 지역 창업생태계 활성화에 노력\" 일간투데이",
+        "pub_date": "26.06.01",
+        "section": "innovation"
+      },
+      {
+        "title": "특구재단·바이오협회, K바이오 혁신성장 지원 '맞손'",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0ZHZFZU1Ja2Flb3IxQXJOa3VsYi1ybDdLTEdUVkl4cnp4LW96cmFqS1BaaTFhUy1YYlBkXzBvRmZKc19KNHc?oc=5",
+        "source": "v.daum.net",
+        "description": "특구재단·바이오협회, K바이오 혁신성장 지원 '맞손' v.daum.net",
+        "pub_date": "26.06.01",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-01",
     "news": [
       {
