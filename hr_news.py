@@ -60,50 +60,51 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
+# ✅ 이번 주 업데이트 — 6.1~6.5  |  수집 완료: 2026-06-05 (자동 수집)
 WEEKLY_DATA = {
-    "week_label": "5.25~5.29",
+    "week_label": "6.1~6.5",
     "enabled": True,
     "metrics": [
         {
-            "label": "취업자 수 (2026년 4월, 통계청)",
-            "value": "2,896만 1천명",
-            "change": "전년동월대비 +7만 4천명",
-            "trend": "up",
-        },
-        {
-            "label": "전체 실업률 (2026년 4월, 통계청)",
-            "value": "2.9%",
-            "change": "전년동월 동일",
-            "trend": "neutral",
-        },
-        {
-            "label": "청년 고용률 15~29세 (2026년 4월)",
-            "value": "43.7%",
-            "change": "전년동월대비 -1.6%p",
+            "label": "취업자 증가폭 (2026년 4월, 통계청)",
+            "value": "+7.4만명",
+            "change": "전월(+23.4만명) 대비 급감, 16개월 만에 최소",
             "trend": "down",
         },
         {
-            "label": "AI 스킬 요구 채용공고 증가율 (미국, 2026년 4월 기준)",
-            "value": "+144%",
-            "change": "전년동월대비",
+            "label": "실업률 (2026년 4월, 통계청)",
+            "value": "2.9%",
+            "change": "전년 동월 대비 동일",
+            "trend": "neutral",
+        },
+        {
+            "label": "청년 고용률 15~29세 (2026년 4월, 통계청)",
+            "value": "43.7%",
+            "change": "전년 동월 대비 -1.6%p, 24개월 연속 하락",
+            "trend": "down",
+        },
+        {
+            "label": "AI 스킬 채용공고 증가율 (미국, 2026년 4월, Gloat)",
+            "value": "+144% yoy",
+            "change": "AI 스킬 보유 근로자 임금 프리미엄 최대 +56%",
             "trend": "up",
         },
     ],
     "reports": [
-        {
-            "title": "2026년 신규채용 실태조사 결과",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
-            "publisher": "KDI 경제교육·정보센터",
-        },
         {
             "title": "Mercer Global Talent Trends 2026",
             "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
             "publisher": "Mercer",
         },
         {
-            "title": "2026 하반기 채용 트렌드 총정리",
-            "url": "https://blog.searchright.net/2026-hiring-market-outlook/",
-            "publisher": "SearchRight",
+            "title": "2026년 4월 고용동향 및 평가",
+            "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=280944",
+            "publisher": "KDI·통계청",
+        },
+        {
+            "title": "AI Workforce Trends 2026 Q2 Update",
+            "url": "https://gloat.com/blog/ai-workforce-trends/",
+            "publisher": "Gloat",
         },
     ],
 }
