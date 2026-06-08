@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-09",
+    "news": [
+      {
+        "title": "SK하이닉스 노사 6월 임단협 개시…임금 인상과 복지제도 개선 중심으로 진행될 듯",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rb0NRaXd5Q0ZJY1dERzAtRXpFazdFUTUtSnNRTm1Mdm0tRHQ4R1E5N2hfOUNzcmJlbUpGb3VRa3FPYVJkcEVzczI3dkZtTVFFbnNtLUx2RWRBZmI1cVR5LWJ1Z0tuVTJtaThkMA?oc=5",
+        "source": "생생비즈플러스",
+        "description": "SK하이닉스 노사 6월 임단협 개시…임금 인상과 복지제도 개선 중심으로 진행될 듯 생생비즈플러스",
+        "pub_date": "26.06.09",
+        "section": "hr"
+      },
+      {
+        "title": "신입 공채 사라진 시대, '경력 1년'만 있으면 취업 확률 2배 뛰는 진짜 이유",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBYlNlczgwdDlldEFCV0xmT0s0ZjY1aFFOUkJ0cHphQVd0WTNBYXN6b1pOZXpEd3UzczY4am4ycFUydlZLWmRoRlRhQi0wZnJBVVQtRFpDVkhlTFJ5TGxIZlp4dDQ0bFZQb1N3RF9WUHXSAXRBVV95cUxPcnE3LU1uX21IMG5tYm5UM2xSbkxPYzNlcm13MVI5UHd6LWRUb0U2anVLVkdaWDFHYXRKN0ptUmZuNWtFeXVmMTU5TTBtSzU2OG5kcmN3ZW52V0RBU2ZKWUU2WlNOeDh3b0hCRE5Wd2RYbUhjTg?oc=5",
+        "source": "한국데이터경제신문",
+        "description": "[데이터로 읽는 채용시장] 신입 공채 사라진 시대, '경력 1년'만 있으면 취업 확률 2배 뛰는 진짜 이유 한국데이터경제신문",
+        "pub_date": "26.06.09",
+        "section": "hr"
+      },
+      {
+        "title": "SK하이닉스, 이달 임단협 개시…\"AI 시대 다음 성장 준비할 때\"",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JTmJvd0V5OW9DWkpPaHJaQkpQYTJrMXF4cC1zby0wLWwza1ZoMjIwRVhSVzlxVEl0eDVNVzg0S1o3NEpqRndiOFhPcUtvQ280NlE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "SK하이닉스, 이달 임단협 개시…\"AI 시대 다음 성장 준비할 때\" 매일경제 마켓",
+        "pub_date": "26.06.09",
+        "section": "hr"
+      },
+      {
+        "title": "한국남동발전, 조직문화 혁신 KOEN 코어 토론회 개최",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XR2NfbW5wSkdEMkFIVDFRRWlxaTRBWVdoOE51bk1yc2MzSGk0LVdLVExIMjBYUTNpZi1Xd0NOWDkwRXBmeXRybElqZThUMnZyMHNmcllfSHNlUEo1QzB3b2V2WDBwb1c4RE1r0gFrQVVfeXFMTldHY19tbnBKR0QyQUhUMVFFaXFpNEFZV2g4TnVuTXJzYzNIaTQtV0tUTEgyMFhRM2lmLVd3Q05YOTBFcGZ5dHJsSWplOFQydnIwc2ZyWV9Ic2VQSjVDMHdvZXZYMHBvVzhETWs?oc=5",
+        "source": "창원특례신문",
+        "description": "한국남동발전, 조직문화 혁신 KOEN 코어 토론회 개최 창원특례신문",
+        "pub_date": "26.06.08",
+        "section": "hr"
+      },
+      {
+        "title": "오리엔텀, 양자 인재 확보 본격화…퀀텀 엔지니어 공개채용 실시",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jNnI2UFh2WUlZS2lGODJyYTVsWUdDZkVsc1BTUzJDdUlKT0dHdDY3bk02b3c1OGJFVmp2R2djNEVwdDhsd00ySlhkNm13STMta2E5ak5CblNCdGY5U3pydzd2MUdQTlJndVcwNFRPUQ?oc=5",
+        "source": "양자신문",
+        "description": "오리엔텀, 양자 인재 확보 본격화…퀀텀 엔지니어 공개채용 실시 양자신문",
+        "pub_date": "26.06.08",
+        "section": "hr"
+      },
+      {
+        "title": "대기업 남 월 임금, 중기 여성의 2.7배…대기업 월 성과급은 중기의 5.7배",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XM2NpajNKdjhPTVRvQTF3ZTl4bEx4ZmFsVlRWMVdfR1BBeUtGVDFpU0lpWE5yazBMMi1SelVzejAyV1FtcXR5Ty1DbXR4QzlmdDBxWGNsVGhnbkd4clFQMkRnYW53clhLbkQyc3hHRlV5dw?oc=5",
+        "source": "한겨레",
+        "description": "대기업 남 월 임금, 중기 여성의 2.7배…대기업 월 성과급은 중기의 5.7배 한겨레",
+        "pub_date": "26.06.08",
+        "section": "hr"
+      },
+      {
+        "title": "코윈테크, 현대차에 'AMR' 납품 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NMzZONnZRblZCb2NwOEpvM0M5OWZ2eWZHclJhS1c5SFVqbDlVX0VQRkNuMldiMmt4QUJUMk1HVEV0eG9zZ01aV0dqWS1NWV9MYm9vUGxsTTlScVZH?oc=5",
+        "source": "뉴스핌",
+        "description": "[ANDA 포커스] 코윈테크, 현대차에 'AMR' 납품 본격화 뉴스핌",
+        "pub_date": "26.06.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI는 시간을 아껴줬지만 생산성을 높이지 못했다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cldZQ3ZaTkxIaFVMYWdJc2lEOEhSTTdlZHV0VWg0bFg3V2Z1VVNTWFI1WWZJZEg1SjhmSURITkF4cGJtbzNaMjZuVy0wZHpoWUpaNDdOWlZGdHd5X3dPRVZRYUFMSVcwVzRRMQ?oc=5",
+        "source": "디지털포용뉴스",
+        "description": "AI는 시간을 아껴줬지만 생산성을 높이지 못했다 디지털포용뉴스",
+        "pub_date": "26.06.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "딥시크發 ‘가격 쇼크’에 흔들리는 中 AI 시장… 클라우드 업계 연쇄 비상",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmE5dnFpZUJ0NGRhUm5IVGxrWmRnYWN4dFpLV0taSW42QzFsYmZIUnhtai1LQy1fRS1uQkNza09BTDRXd2Y0VUlqWU93OTc0cEo2UzNmUHJUejIxQll0d1RjTXdPNGxuSHduUWRKV0lyTlRSYkF4OUtLTlhVM2pqNkw2RktqN2pT?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "딥시크發 ‘가격 쇼크’에 흔들리는 中 AI 시장… 클라우드 업계 연쇄 비상 글로벌이코노믹",
+        "pub_date": "26.06.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입 기업 3곳 중 2곳, 현업 활용·확산 못해… 텍스트웨이, 폐쇄형 ‘정답 보장’ 인프라로 돌파구",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTQnVDVVcyWTlORG9HakFreDFyN1REZGlwVXVNWVR3bjI5OGtjSkVSdUc1VUUxcEtWTlRZV2JtbGZ0TU1NaFRvME9JUHNZdWs1blBxZHFDTXJEQXpKcFJnMHJ3WUhRYV93aWQ0VkNUWmE?oc=5",
+        "source": "blockchainus.co.kr",
+        "description": "AI 도입 기업 3곳 중 2곳, 현업 활용·확산 못해… 텍스트웨이, 폐쇄형 ‘정답 보장’ 인프라로 돌파구 blockchainus.co.kr",
+        "pub_date": "26.06.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "'환율 공포' 커진다…금감원, 은행권부터 릴레이 간담회",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwYW4tYUtUYXgxSHZ0WVZrNzNycWVsc2Vja0tDeW5wTGxaSkFidmFLRjEtTFhsd0J3SURNQUYwWHo2eXJEYWNILWNxM19JVDBSYnZ6Zm1CeUlDWVQzelpUc2pQcHBHcUxQekNjampQT1YxZw?oc=5",
+        "source": "KB Think",
+        "description": "'환율 공포' 커진다…금감원, 은행권부터 릴레이 간담회 KB Think",
+        "pub_date": "26.06.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "미국 금리 올릴까‥\"반도체 실적·환율 등 변수\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTmJiNU1tWVFEU0FJVGd1N3dfSTdPZUdId3dXNU13RXlYcHQtN29PUE4yWE9sSTEwWXk5eUlQYzNscWxHNlRyRnB6cFVCWk0?oc=5",
+        "source": "v.daum.net",
+        "description": "미국 금리 올릴까‥\"반도체 실적·환율 등 변수\" v.daum.net",
+        "pub_date": "26.06.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "PF 대출 문턱 높인다…자기자본 비율 3%→20%까지 상향",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tenUtRkpPYTFONW5sTEVWdno3dGFQQ3BBb0x0MkxteFVrVXJoeHVmZTRJdF9jU2pxUTFQb2pzc1p1T2tlamE0OXJ6MEJXWGNfa0hqVTBXYm1pQnRpQ2VuNFdR?oc=5",
+        "source": "뉴스1",
+        "description": "PF 대출 문턱 높인다…자기자본 비율 3%→20%까지 상향 뉴스1",
+        "pub_date": "26.06.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "지표·전문가는 '美금리인상' 가리켰다… 16일 FOMC 주목 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAydFdWS05sNC1VZVB1U0c3aEJqOTlvWmpfUmxucl94eGFPbDFiZG55SjRTeG9aSmRxa3EweFdyLU9kV181YUQ0enhyRGdIUlZGTTRsb3M2cTVaZi1OczMwWm4wcUNwWFFU0gFuQVVfeXFMT0FHZUcwZ2Y1c2Q0Wkh1NWQ5UTY2X1huS2hTcWVvdlFyMkEwR25pbm5GQ3NOUlpXSHBrTTRITjlVMk5uWTNrR2pScnpGNmJWblUtR05pMkF3cjhCVW1BVVIwbm5CZnJTWV9rNjluUlE?oc=5",
+        "source": "머니투데이",
+        "description": "지표·전문가는 '美금리인상' 가리켰다… 16일 FOMC 주목 - 머니투데이 머니투데이",
+        "pub_date": "26.06.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"216조원 베팅\"…스페이스X, 역대 최대 IPO 흥행 예고",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MUXBqYzJ5ZDdDblExNnVnS0ZmV2o0M1p4ckhXNTU5SVFqSUYtenRIQmJpTUlSU0F1VG4wSzhzWWVOdGxKVENSOFhMaW56V1E0ZEhXUXR3RlhxOGMzRGVhT0dmNVFXOUdXYjFScjNpcw?oc=5",
+        "source": "리드경제",
+        "description": "\"216조원 베팅\"…스페이스X, 역대 최대 IPO 흥행 예고 리드경제",
+        "pub_date": "26.06.09",
+        "section": "invest_ma"
+      },
+      {
+        "title": "영국 AI 스타트업 피직스X, 대규모 투자 유치로 몸값 2배",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBITWRrWHpHYUxmaUR4UEJ0N2huOFJNbFhIMnJuUnB5aW4zU0dYR0dPNmRLSV9NOUNTblRlWlI5TGhIOUR6MGpnZi1yelRlZmtGajZvZmdFSHZuUTNOZkpoQ3BxUEtjMWdmTTUybTVWVml6OGt50gF0QVVfeXFMUEhNZGtYekdhTGZpRHhQQnQ3aG44Uk1sWEgycm5ScHlpbjNTR1hHR082ZEtJX005Q1NuVGVaUjlMaEg5RHowamdmLXJ6VGVma0ZqNm9mZ0VIdm5RM05mSmhDcHFQS2MxZ2ZNNTJtNVZWaXo4a3k?oc=5",
+        "source": "IT조선",
+        "description": "영국 AI 스타트업 피직스X, 대규모 투자 유치로 몸값 2배 IT조선",
+        "pub_date": "26.06.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'자기장으로 방사성 물질 회수' 블루마그넷, 시드투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOTXM4d2FlMXpUOE1nX2pRWUc4eHdvamp0bUdrcU16ZkhSbWxqTEhXWkY4RnQ5am1XcGFPbWF0eWRBRGo0X3NmekJMVXBmNm5oQ3FLb2VqNHRCa3lIRDE1cGhnMC1IYlNjTEtGbQ?oc=5",
+        "source": "유니콘팩토리",
+        "description": "'자기장으로 방사성 물질 회수' 블루마그넷, 시드투자 유치 유니콘팩토리",
+        "pub_date": "26.06.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "\"계약 맺은후가 더 무서워\"…M&A 보험 시장 커진다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRM1J3WHdvQUt3c0hBZm9DSl9hWlc4djBISjBQZ0QyMzRfY0llU3psWGJtUUs5aWg0Z1dqMEtWd3pRYTduVmhKV1U4U2tUenI4RXlpQnJRSjNwQdIBVEFVX3lxTE9ET3VqYzM2ejF5SW16VFhBd2NCM0hsa1ZRcjQzckVoWDUyeFBpQXlSOFUxc09tQS1raXk3R0I0SVhySHNUZTBJd3lWSnEwS0E0dU9jdA?oc=5",
+        "source": "한국경제",
+        "description": "\"계약 맺은후가 더 무서워\"…M&A 보험 시장 커진다 한국경제",
+        "pub_date": "26.06.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "ASCO 중심에 선 中 바이오…혁신 신약·글로벌 파트너십 주도",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zT3dwOGhXNjVIbUdud0NvQW5ib2phekhES08zRC1xWTY5ejVrMlNHVU1wejBrbmpXWDZXQ0d4VUNmY2szSUtBZFd5VWNlcVdTT2pjQmFpT1VicEtlaU9FOFdvUzNZSV9fTDVIWQ?oc=5",
+        "source": "약사공론",
+        "description": "ASCO 중심에 선 中 바이오…혁신 신약·글로벌 파트너십 주도 약사공론",
+        "pub_date": "26.06.09",
+        "section": "innovation"
+      },
+      {
+        "title": "블루마그넷, 시드투자 유치… 원전 폐기물 처리 신소재 ‘NuMagneto’ 상용화 속도",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HODMtSWh5RXJHNlVObEU2Wjc4UGRaSkNQdXJGWFQ4Tkp2OXgydE1SZ2l5VFA3NFY3UDc3NjJNVVozN2JVTVRoZ28wTmlTYWZlcWVCVGdfLWpGMTlkTWlBVGNXTTBGXzhv0gFsQVVfeXFMUGh4RExLLU9RMVkwTnNNTmQ3NmVwaml1N3NpUldaRTBBOTE2SVRVLUZCUkpVV1RQSXRIOVp5bk9MYnZzLU9weHhWZWpzclRrUGNPUU55WWx6YW5QQU1RS1M3RXlQZmpaRUNhbUtz?oc=5",
+        "source": "스타트업엔",
+        "description": "블루마그넷, 시드투자 유치… 원전 폐기물 처리 신소재 ‘NuMagneto’ 상용화 속도 스타트업엔",
+        "pub_date": "26.06.08",
+        "section": "innovation"
+      },
+      {
+        "title": "화순전남대병원, 국가 바이오 혁신 네트워크 확장",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SnNUUVo2VnZkTTBPZkFHaGpVQ3lsUG1vZkdKSUZHb1M1aUU5WlFfNEpIVGJRall3OENBM1pVQU9Damc0RkdjSmxOQnRoQkpPU3VPZnRNZk1IclcwaFd6S3AxYlplUFFx?oc=5",
+        "source": "의약뉴스",
+        "description": "화순전남대병원, 국가 바이오 혁신 네트워크 확장 의약뉴스",
+        "pub_date": "26.06.08",
+        "section": "innovation"
+      },
+      {
+        "title": "연구개발특구 대표 딥테크 ‘IR 경연’ 열린다",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuckc1YzNIanVjTjkxbHNwUHpZVlFGMnZOODBXVkwxR3dpY0d0QXFNUmlJX2hzRWp5SFRDcklic01hYnhwc1ZJRmxlOHh2dw?oc=5",
+        "source": "dt.co.kr",
+        "description": "연구개발특구 대표 딥테크 ‘IR 경연’ 열린다 dt.co.kr",
+        "pub_date": "26.06.08",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-08",
     "news": [
       {
