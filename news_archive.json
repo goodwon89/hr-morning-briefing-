@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-16",
+    "news": [
+      {
+        "title": "스트라이브 CIO \"비트코인 약세 장기화 땐 트레저리 기업 구조조정 가능성\"",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wVGRKdXhwNjhBV1prLUFqOGJnNzFUR3h2Y2ZaSWREb0ZxYjVfLW9VY3N0dXpRRkFtazBsOG9fX0xjM0twMHg4U3g3SFo0bGpi?oc=5",
+        "source": "블루밍비트",
+        "description": "스트라이브 CIO \"비트코인 약세 장기화 땐 트레저리 기업 구조조정 가능성\" 블루밍비트",
+        "pub_date": "26.06.15",
+        "section": "hr"
+      },
+      {
+        "title": "노동계, 내년 최저임금 1만2천원 제시…“실질임금 하락” 16.3% 인상안",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZN2M4OFdFamlWMWttajhmTVVHcHZMajJTQUxNSkhvb21YUlhycGtacmZLNEozNlA5cEZXRXZwMmlEaXdsZzlpQzFja253SHdsb2J4SjdOOFNlckUzRjVHbnc1bjA?oc=5",
+        "source": "한겨레",
+        "description": "노동계, 내년 최저임금 1만2천원 제시…“실질임금 하락” 16.3% 인상안 한겨레",
+        "pub_date": "26.06.15",
+        "section": "hr"
+      },
+      {
+        "title": "웍스피어, 베트남 IT 인재 3000명 매칭 나선다…참여기업 모집",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0YjhDZHk1WDNiOS1HSjdmRlh4NFZiRmdjRldpVjZITzNXVWtXcnpfV01wY2ZjNzFtWHZGYmFpSE9RZ01NMERNNDlRNThENjczbmhISGVpNDVKUVp5blcyUVI0Y2N6bWFabXFNbFRkc2NVd9IBdkFVX3lxTE5QcnAwM3BYM19mS3BhTG1kUl9HT2JzNjFFV1JEQmVtWFhhWHBDb05fYnF3MFF6MENIYXBqbTV5Njk2U1MyYnpWQVMtNnlkSldjWHRYSXpUcUhWcHRNdHRTbzRfbmZ3WWpydWtqZ1g3SnNJRjhFcGc?oc=5",
+        "source": "포춘코리아",
+        "description": "웍스피어, 베트남 IT 인재 3000명 매칭 나선다…참여기업 모집 포춘코리아",
+        "pub_date": "26.06.15",
+        "section": "hr"
+      },
+      {
+        "title": "\"복지카드 하나로 즐기는 프리미엄 스테이크!\" 아웃백, '웰페어클럽'과 제휴… 기업 임직원 대상 복지 혜택 확대",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWEtpVUFKeUVDYXAyZ2ZTTmJJTVdDNGI4alZma1IxVC1felJJamtSaXVNdHJ1ckhDdWIwVUFpSldxUkJ0Q0pkSGE4bUtXaFlFcUlLbzlCaUFrSDVDVlgxNHd0Vl9rNk9xZm5QUjF0QlY?oc=5",
+        "source": "내외뉴스통신",
+        "description": "\"복지카드 하나로 즐기는 프리미엄 스테이크!\" 아웃백, '웰페어클럽'과 제휴… 기업 임직원 대상 복지 혜택 확대 내외뉴스통신",
+        "pub_date": "26.06.15",
+        "section": "hr"
+      },
+      {
+        "title": "노동계 \"최저임금 12000원으로 인상해야\"",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbm9GUHd6NWFibEdVNlF6NmNvVzhmYUhER3I5eWNmZ1hQaGtTa0FTcHFHbTd6eEJaaFFrVkhzbDRKS0FwQWpNYS1SVjhZel8yZXg0MUIxeFhlZnNfU3FnOURNcUNwUFVIMHN1MURrZDBVSVNCaVJsVldfM3VDZTlpM1VCMnN5VF9WdWRwaF9n?oc=5",
+        "source": "오마이뉴스",
+        "description": "[오마이포토2026] 노동계 \"최저임금 12000원으로 인상해야\" 오마이뉴스",
+        "pub_date": "26.06.15",
+        "section": "hr"
+      },
+      {
+        "title": "성별임금격차 해소를 위한 노동조합의 교섭전략 국제포럼",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rb0RrU1FfbUxjd3d5VXBmU080T3BBZXVJR3FLdmRCSGJ0R21Iemx0YVBmNTFvVG1UY2xneXAyS1FHUnJoWXZTcQ?oc=5",
+        "source": "민주노총",
+        "description": "[국제포럼] 성별임금격차 해소를 위한 노동조합의 교섭전략 국제포럼 민주노총",
+        "pub_date": "26.06.15",
+        "section": "hr"
+      },
+      {
+        "title": "삼성전자 DX부문, AX 속도...고성능 컴퓨팅 인프라 구축",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XWS1URzlEOEpDa0RxYkxQeE53c00xa09hYW1rTDBfN05CNDZNMDU3eWtuZkxla2lpbGQ5M1dsUzhXR1FZTzJVVGtUTWExOWs?oc=5",
+        "source": "v.daum.net",
+        "description": "삼성전자 DX부문, AX 속도...고성능 컴퓨팅 인프라 구축 v.daum.net",
+        "pub_date": "26.06.16",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입만으론 부족하다…마이크로소프트가 제시한 ‘업무 재설계’ 해법",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HODA5QkZvZFNDc2V2aUhselFsc3hrSUdOMDhtLTR5VWZjdUotSUZjWFh0UTBwMTBGR0pDclFHRC1ydXFOdGFENlc4WDBCTjI2VVJZczY3NENUSVhOMUxFY1ZXcmR2T3lhaDFsSQ?oc=5",
+        "source": "뉴스탭",
+        "description": "AI 도입만으론 부족하다…마이크로소프트가 제시한 ‘업무 재설계’ 해법 뉴스탭",
+        "pub_date": "26.06.16",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 직원과 일한다…서초구, 첫 AI 업무지원 플랫폼 도입",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cc3JQeUc1dWE2UUVFOWpJTjlMMVI2TDZhWnZaVFZHRUhIVnkyVHd2S3lxaXlqbTlQY1lvcHRpWGxvUms1THhhZWVZM3Y1TVBQdHc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "AI 직원과 일한다…서초구, 첫 AI 업무지원 플랫폼 도입 매일경제 마켓",
+        "pub_date": "26.06.16",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"양돈 생산성 향상 분야에 가점 부여\"…스마트축산 AI 경진대회 참가 접수",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zMnRLMl96eGVkX2JUMVZmZ3ZqRzhXamduTG5GZGJmem1RUDltMlVkOWtocEJyWE5ET0E0YmhNc2lxclRyVjJ1dGdpTDlTNEdHMHY1MWhfMk1tRVVCOHNKSTVR?oc=5",
+        "source": "돼지와사람",
+        "description": "\"양돈 생산성 향상 분야에 가점 부여\"…스마트축산 AI 경진대회 참가 접수 돼지와사람",
+        "pub_date": "26.06.16",
+        "section": "ai_tech"
+      },
+      {
+        "title": "종전 훈풍에 서머랠리 기대…\"반도체 실적·코스닥 정책 모멘텀 기대\"",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVV2ckRkaWwyNkd0M2RTcFpFc09VVDVGcjg0Z0NfbFhtV2p0MG9UZXRhSVZ3ZmZZOWNwYUhWWjY5aFdhQjhtRWhnSXBJZW1ONWZ6T2VCQUE2ZDlBWHZKbVFxaG93aXFDV21JU1h1a3pKRDBuQU9nVU5vRXRPSEItTQ?oc=5",
+        "source": "이데일리",
+        "description": "종전 훈풍에 서머랠리 기대…\"반도체 실적·코스닥 정책 모멘텀 기대\" 이데일리",
+        "pub_date": "26.06.16",
+        "section": "macro_industry"
+      },
+      {
+        "title": "BOJ, 이달 금리 인상 전망…우치다 부총재 회견 주목",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qb2ptTWJsN1E2SVB4a3V3WlVnZnZ2dzc1QVJ3bmdMeTZzMl9NQUpBSFVadUVWcXFtMTNqN2tGQVp2QXpLWkdhZUd1ZTdXZ1N3QkFBeVVSU0l1VkcwRHhYeGVoMmw1dzBWUXVrNmdmOF9LUQ?oc=5",
+        "source": "KB Think",
+        "description": "BOJ, 이달 금리 인상 전망…우치다 부총재 회견 주목 KB Think",
+        "pub_date": "26.06.16",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 초호황, 역대급 실적 청신호",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtOFFHN0RBdHd1LUFXUTNERHhCTVJiQUFlOVdIRjdzY0J5NE5hRlV2Q3ZkV3BubFR6QXdzWTZWTm1OMXk3RHk3bVpBT0o4dlU?oc=5",
+        "source": "딜사이트",
+        "description": "[핀셋+] [디아이] 반도체 초호황, 역대급 실적 청신호 딜사이트",
+        "pub_date": "26.06.16",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'반도체 슈퍼사이클' 수출물가 상승률 28년만 최고…수입물가는 둔화",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNzJWOGVqNkpfNUY5Qkw4VHVtV2NVZW1FOGl4eUllYWVSbGxQclo4TUJkazcwWWlmRTVTVkpzdVlMWWFfY292RWY4WGtzd3RxN1N5Zg?oc=5",
+        "source": "뉴스1",
+        "description": "'반도체 슈퍼사이클' 수출물가 상승률 28년만 최고…수입물가는 둔화 뉴스1",
+        "pub_date": "26.06.16",
+        "section": "macro_industry"
+      },
+      {
+        "title": "스페이스X, IPO 흥행에 그린슈 전량 행사…조달액 857억달러로 확대",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FOEpqU3VuOWtSVVJ2dkJ1SWNlVjRNY0FHNE80TTN3Wnp5MXlKbE1yc0c4cGk4MzAwU2VUQVlSZG1OaFdjMUxwYURzQWdOaEVBTHFzOXc3bGl3aTN1Z1djbQ?oc=5",
+        "source": "메트로신문",
+        "description": "스페이스X, IPO 흥행에 그린슈 전량 행사…조달액 857억달러로 확대 메트로신문",
+        "pub_date": "26.06.16",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'금융투자 AI 스타트업' 센티넬딥액티브, 현대차증권서 11.3억 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HMkd2cE9jbThFTDQxWXJlUmZFUmhCRXdfZzZzeTNuMGRvUHdmU3QxOTMtYkVHcGJyRklNQmxhb3lNWFNuckFnWkhZb29tRmhlY0xHU1htMDY1cm5WREFuSVh5c1RWTHBady1Vczl6d9IBc0FVX3lxTE5YYmhpUVppV3dPSThrM1lRRXBhZFVMMmZHb010S1NJNy1yNVJ1TlFJUjRCbHVpVGJLVDhxcHFGdktWTEF2ZUdYaTQtR1JZcVdINFZ2RS0xVkMzLVVHRFVSR3NGMG1TcjdsMDVRQ0ptWUFBRkU?oc=5",
+        "source": "뉴스웍스",
+        "description": "'금융투자 AI 스타트업' 센티넬딥액티브, 현대차증권서 11.3억 투자 유치 뉴스웍스",
+        "pub_date": "26.06.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "제이앤티지 등 6개사, 코스닥 상장예비심사 신청",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hV1JrWUs5TldrUW5OQjRDV3lCcEdEelpXYlFSZDdjSGl6ZFFCd0RMd0J5VWp2RDFzZnV2MkpXWDdXQlE1QzB6UHlJLXVWTHRLaEE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "제이앤티지 등 6개사, 코스닥 상장예비심사 신청 매일경제 마켓",
+        "pub_date": "26.06.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스타트업·벤처 캠퍼스 사전 프로그램 2차 모집, 해외 진출 창업기업에 투자유치·자금 지원",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1aWY2QTMtOU96aEM1cVhNQzJBUzZJY2lJN2FlTE0yaUR6c2d6ZVhyRnRGNlNxOU9CR0pVLW1xSk8zTU82dXBBSE00OUhnLVpWV0J0TFFsVm53QjBfbU5Oa28yR016RXg2U2RPWm13?oc=5",
+        "source": "캐어유 뉴스",
+        "description": "스타트업·벤처 캠퍼스 사전 프로그램 2차 모집, 해외 진출 창업기업에 투자유치·자금 지원 캐어유 뉴스",
+        "pub_date": "26.06.15",
+        "section": "invest_ma"
+      },
+      {
+        "title": "국가바이오혁신委-제약바이오 CEO 회동",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qWGQ0NGNrY0FySVJKZS1VTklOc2lUS1plbk1UeGdrSTdyNGFvZm10dHdJYmNUNW53a3FiUjJfX1RaYzVwdWFsbjRZU1lSX3pkNlZjV3RMQW00azR2MXlMOF9PUDJjWU82NzZsd0JwZDg4eU1v?oc=5",
+        "source": "데일리메디",
+        "description": "국가바이오혁신委-제약바이오 CEO 회동 데일리메디",
+        "pub_date": "26.06.16",
+        "section": "innovation"
+      },
+      {
+        "title": "국가바이오혁신위원회, 제약바이오 CEO와 현장 소통",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LVXpzVEZNY2ZWV013bTN4dFZtTDlNTklKSy1iUkpWMmRJbDBUQm9aYlFQQlR5dEFiUk9CTzVZRzNaalQ1MklsUmo5R200T1ZpemFfWEVnT2d6MldtSjFXdXN6TlJmR0E?oc=5",
+        "source": "의약뉴스",
+        "description": "국가바이오혁신위원회, 제약바이오 CEO와 현장 소통 의약뉴스",
+        "pub_date": "26.06.15",
+        "section": "innovation"
+      },
+      {
+        "title": "中주도 디지털 결제망 '엠브리지' 상용화 임박",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5USjJ1QUNxS2NhQ0ViWjROaDhLV2NfN2wwVm9wWGdvak0xSm1oWHpQV3cxR1U5VzdXQVdkQ0IwcGY3blNjSmpMNFhqRlp0Y00wZjF5bnRLeTJRNTN5VnlGUmd0VndlTzhmQ0FqUXEzcUJLZzFzaW1CUNIBeEFVX3lxTE5USjJ1QUNxS2NhQ0ViWjROaDhLV2NfN2wwVm9wWGdvak0xSm1oWHpQV3cxR1U5VzdXQVdkQ0IwcGY3blNjSmpMNFhqRlp0Y00wZjF5bnRLeTJRNTN5VnlGUmd0VndlTzhmQ0FqUXEzcUJLZzFzaW1CUA?oc=5",
+        "source": "뉴시스",
+        "description": "中주도 디지털 결제망 '엠브리지' 상용화 임박 뉴시스",
+        "pub_date": "26.06.15",
+        "section": "innovation"
+      },
+      {
+        "title": "플랫폼 노동자 임금체불 줄인다…KB국민은행, 디지털 정산 서비스 출시",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzN1gwZURTNWFLc3VZTWJiOEtTbzF0VnNhOWhoSVdHTlpMaWluTmdmdVc4Yk9ZRjE3VXhCY09EY1BDRXJCMzFUMHpOTk9ITE5CZ3cwLWNPRjhCTGNsNV9zSWxIUml0YjhoUkpxQUVpcw?oc=5",
+        "source": "이코노미사이언스",
+        "description": "플랫폼 노동자 임금체불 줄인다…KB국민은행, 디지털 정산 서비스 출시 이코노미사이언스",
+        "pub_date": "26.06.15",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-15",
     "news": [
       {
