@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-18",
+    "news": [
+      {
+        "title": "AI HR로 역량 증강 혁신 ··· 핑계론 걷어내야 진짜 HCM 열린다",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ITXpaa0J1UWQ0cjlCX0JQckZpX3ItcmZfRmpKQWFLS1JDTEhuUXdGQXJfYTd6ZlU1cnc2a2J3cEdEVlFzU01DeEdVQk5XYmU3blNnS1JPNVBNSkY0aEMwZXJYUnhIU2gxWXM0?oc=5",
+        "source": "데이터넷",
+        "description": "[AI HR 혁신①] AI HR로 역량 증강 혁신 ··· 핑계론 걷어내야 진짜 HCM 열린다 데이터넷",
+        "pub_date": "26.06.18",
+        "section": "hr"
+      },
+      {
+        "title": "'공짜 노동 근절' 포괄임금제 폐지 가시권…기업 대응 방향은?",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4WDBWTlBoMHNpRzNPWkdBSDRyZ3VjTHNFU2lEYWFJMWFmdXFmVU5yUXhsZWpIYWE3aUpPRk1PZnhWRmlhUC1oS3VZTE8wYWxKaDZZTEZBaE5Bd9IBVEFVX3lxTE1lZDNtajE3dkY5bUZyYy1zanhCOEhDSVhFT0JPLXJndlMtZWxCbUJqdS1BU0JqVUpMY3pSbFVKUnpaT3BGMVZ5aFNLd1NuNU8tTkdhRg?oc=5",
+        "source": "한국경제",
+        "description": "'공짜 노동 근절' 포괄임금제 폐지 가시권…기업 대응 방향은? [율촌의 노동법 라운지] 한국경제",
+        "pub_date": "26.06.18",
+        "section": "hr"
+      },
+      {
+        "title": "“학벌보다 문제해결력”... SK하이닉스, 신입사원 수시채용 시작",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fM19nbmEwTHpJYTg0Ni1mbnRhYW1CRVRIQ2U5R0lpczlscVg3ejlXTGVOS2p4TzB1U2dxT0ZjdUtpbEFVSDZabmpZd0tJODUxRzJBS0s5b2duZHBTN3ljM0FQdXdOOG00NFVDM0tmWUFuQQ?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[취업뉴스] “학벌보다 문제해결력”... SK하이닉스, 신입사원 수시채용 시작 아웃소싱타임스",
+        "pub_date": "26.06.18",
+        "section": "hr"
+      },
+      {
+        "title": "HD현대중공업 이주노동자 임금체계 개편…노동계와 마찰",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43MGtQVGhHOU42TVVrZkVINjFJZTBnZXpBY2doRjhtaHpNcGFJc1BIVmducGx3T0Jydng5SEdlU2dPWkwtNndRNjhVdUFqaGoyd1E?oc=5",
+        "source": "매일경제 마켓",
+        "description": "HD현대중공업 이주노동자 임금체계 개편…노동계와 마찰 매일경제 마켓",
+        "pub_date": "26.06.17",
+        "section": "hr"
+      },
+      {
+        "title": "손훈모 순천시장 당선인 “공직자도 가족이 있다” 조직문화 변화 예고",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwSFFVUGFrRl9xa2NkTlJUb3V0TXg5V0tKQzctN3JLa2NhVUNJWDNock9BSWpNenEwR2FpZGU4T09BTE42Z3JfNU5qX1FSc2w4RTluM3I2aks0WV9qaGVvd0MzSmhNNnItMzRjOEFNQmJqZw?oc=5",
+        "source": "sports.donga.com",
+        "description": "손훈모 순천시장 당선인 “공직자도 가족이 있다” 조직문화 변화 예고 sports.donga.com",
+        "pub_date": "26.06.17",
+        "section": "hr"
+      },
+      {
+        "title": "한전KPS, 청렴한 조직문화로의 혁신 위해 노·사·감 ‘한마음’",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xbFR2dzd5X1d3R0d1eUVUQlhGRlhELUVfV2tjbnhvNzVhZk9rdEtqS20xXzZ3VXo0M3gyU2swUnk2UTNQbElUc0ZnenZQZlhYeHNWVXkxTGFCVkFiWmlmdGJrS2FmUWJDZUhaNNIBcEFVX3lxTE5Za0RnaVhoaGdrWkxPRGoxZ055aDhHeERqaFVORTFwSmtUMjJhX2hzTjctX3ZFRENkWC0wUTNpRFk5Tlh4dUhVOEF5OG9uUDBWQjNRbUVfZVJObW9QLWVES0t4YXBLVl9uZHc1YmtZZnY?oc=5",
+        "source": "에너지플랫폼뉴스",
+        "description": "한전KPS, 청렴한 조직문화로의 혁신 위해 노·사·감 ‘한마음’ 에너지플랫폼뉴스",
+        "pub_date": "26.06.17",
+        "section": "hr"
+      },
+      {
+        "title": "로봇 공학 컨설팅 서비스 시장 규모, 점유율 | 성장",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTC1WZEVHMm9SNlRUS2UzRVNpVjV5ajU0WndzRE5vWXFpRHJFLU9PTWo5b3p1SzAyRFROYnRxbVdBRnBSNFFzRUplQ1ZyUmRDVW9uTUpheThzYlZZR2JTaFgzR1dwSDE4c0dfLUtDY2NvNHFhdDNUeUJBZmVMT0VaeW1BUGlxSFlRSWJkNDNn?oc=5",
+        "source": "Fortune Business Insights",
+        "description": "로봇 공학 컨설팅 서비스 시장 규모, 점유율 | 성장 [2034] Fortune Business Insights",
+        "pub_date": "26.06.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“1500도 쇳물도 로봇이 척척”… 제조 AI 현장 가보니",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXM5bUZiZjdfNjdyZWJVYUZqOVlpb2NJNkJDLTRlV0x5dklEc3d2dGRWZU5DTjdreTQ3T3VGVDlVUDRZRkZvWkl2VkVrWGhkdThBbTQtYzQ0N0ZZd2g1dk0ySmROUmZybGVUYUY3RUVfX09BaHRhT05xc09ORG9NVDRhLV9PLUFG?oc=5",
+        "source": "서울신문",
+        "description": "“1500도 쇳물도 로봇이 척척”… 제조 AI 현장 가보니[강기자의 세종실록] 서울신문",
+        "pub_date": "26.06.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "고성능 메시지 인프라 시장 규모, 점유율 | 성장 전망",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWkySW9hWkJram5VX25rQU12dGhnX0F5b0lUWG1MeVdOaGJrZC15NUxYVDV5bUlNZ0xkcjdMQ3kySzZEWklMX3JEQk9kY1phdFNPTjVEMUNqaXVPMlhIc3A5RnRaRzhfdEQ4aXplb290TFVNZmVNWHZGdjNnS25RQ3hLVVFYN2V1Ym0wYTZ2M0hVS3JVQU9MSWU5d3Y?oc=5",
+        "source": "Fortune Business Insights",
+        "description": "고성능 메시지 인프라 시장 규모, 점유율 | 성장 전망 [2034년] Fortune Business Insights",
+        "pub_date": "26.06.17",
+        "section": "ai_tech"
+      },
+      {
+        "title": "KOTMI, AI 자율제조 로봇 실증 성과 공개",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14cFpNQzVnVXctOW9odWNMbTA2U0RnTDF2ZFZlR0I3bXJtNU55eWpXVUhES0w1dDFyc05ZekNIT1o2TEtVdlE?oc=5",
+        "source": "TIN뉴스",
+        "description": "KOTMI, AI 자율제조 로봇 실증 성과 공개 TIN뉴스",
+        "pub_date": "26.06.17",
+        "section": "ai_tech"
+      },
+      {
+        "title": "반도체 착시와 경제 지표의 이면",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93Z1lZR0tJeHV3cE5hVzFMdlBCVXlNb29IemdUbURFNWFmOXNmYWUtYThQa0hfQkZORko4d3pmaWZvcXJpdW5fUWppUmFDbE0?oc=5",
+        "source": "v.daum.net",
+        "description": "[시시비비]반도체 착시와 경제 지표의 이면 v.daum.net",
+        "pub_date": "26.06.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "달라진 제조업 지도…AI시대, 세계가 '메이드 인 코리아'를 찾는다 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QNTRmem5fcXFMdDZXZEVfREdsMzRDN1AwVGxRTHNBYWJ3Z0lFMkNkZWhQeXAyNkt0Z080bWZUM2hXMGFycnhrMkwyeHE3ODNMTjlkMFEtMDlJZ1dFSVpXSy1ETlVIYTd5Rlcw0gFwQVVfeXFMTXRqcmpIRlNtQVJNVUhDLVZ3aWljUFdlNmdzclZ2dS1sVzVnWWMwbmU5bmtQekpWbDBVTXhUZWVXZXNZbFQyRzZNUmtZdkhJYzhqTDZ0V0wtd29HQ01zeHBoZjA3elRpaVUxU1BlYVBMbw?oc=5",
+        "source": "머니투데이",
+        "description": "달라진 제조업 지도…AI시대, 세계가 '메이드 인 코리아'를 찾는다 - 머니투데이 머니투데이",
+        "pub_date": "26.06.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "연준, 금리 동결했지만 금리 전망 엇갈려...'FOMC 데뷔전' 워시 \"물가 등 5대 분야 개선\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFQteTNuNms3eFF3c29iTFRmN2FsNnNxTERaR245aGZnZDdvMkdUejROZG5SMW9qeDFPSHl1cUxJbHlKLXAzbmN1allFTXpFb09mc1dkb00tV1FBcng4d2ZERDNqb0lVY2JlQUdwM0JSdERrTjJMY2lkRnNZMWlpb21Xdw?oc=5",
+        "source": "YTN",
+        "description": "연준, 금리 동결했지만 금리 전망 엇갈려...'FOMC 데뷔전' 워시 \"물가 등 5대 분야 개선\" YTN",
+        "pub_date": "26.06.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美 추가관세 우려에 EU 철강 빗장까지…통상 대응 총력",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tV0hLTTFJbFhrZ3ZKVkNDODJHSTZCNWNvczN4aDl1d2NadGR4V2dMa2hLTDJ2TjladEZwdEF6Nkc3ejBGN29wWkFnUnlzMDdqUjdCRHBkWEJ5YkxSQ3BXYtIBeEFVX3lxTE4wMEt4THZyMEg1RGpuREdTd0d5QWhSUG00ZWRCeFpISUF5M1FfWkhJWC03SldyS09PdUo1eU9VWDhoVzZoWUZxXzUzM1h1RUFpby1NU1JRMmhsV3laY3dxdGVrUUlpNy1iSTBraXNLRUhVTXRIU3JwWA?oc=5",
+        "source": "뉴시스",
+        "description": "美 추가관세 우려에 EU 철강 빗장까지…통상 대응 총력 뉴시스",
+        "pub_date": "26.06.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "무신사, 성수 메가스토어ㆍ中 출점 동시 흥행…IPO 앞두고 글로벌 사업 조기 성과",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04VW5iaDRYb0s4bDZ0STY5MDlDNlRjTGhGOThtYXdVSEV5TGVWQTItbmI1a1pFdHgtTkNNYTBOek9FT1NKcW41M2dSamJaWHpuQnBfODRhXy1CUDQ5QXlVdHJQMUtfUlBEdDJLU1VYVTMzSHB5?oc=5",
+        "source": "대한경제",
+        "description": "무신사, 성수 메가스토어ㆍ中 출점 동시 흥행…IPO 앞두고 글로벌 사업 조기 성과 대한경제",
+        "pub_date": "26.06.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "한림제약 자회사 에이치엘지노믹스 ‘코스닥’ 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RTEJNR0x6VW5wQlRtd3RkbHBqaTRaYURJZzk1ODJ4SEprQjFFYkluMHlzQkRuajZsMTk3aFlHVjJvTVRKQkdtd0o3RTY2ZVFsOFhrcEpNMVRVdnlPSmlmeEFpcUkwREl5?oc=5",
+        "source": "데일리메디",
+        "description": "한림제약 자회사 에이치엘지노믹스 ‘코스닥’ 본격화 데일리메디",
+        "pub_date": "26.06.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "구미시, 세계 최대 방산전시회 `유로사토리 2026` 참가…글로벌 투자유치 나서",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rNUZUYTZKRGE1QzdDRXpvNlhVeGliN0NvSEF6RzBldUxCekNJYXRvUmlyX2d1Y1k5VTJMTjhfdWdqUFZCVENCTVNHV2hpcGJScnpsMFhkZDY3QWdSbmVGR0k3N3RTRUJlMl9N?oc=5",
+        "source": "시도민 뉴스",
+        "description": "구미시, 세계 최대 방산전시회 `유로사토리 2026` 참가…글로벌 투자유치 나서 시도민 뉴스",
+        "pub_date": "26.06.18",
+        "section": "invest_ma"
+      },
+      {
+        "title": "AI 콘텐츠 스타트업 투자 유치…경기콘텐츠진흥원이 돕는다",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJd25fX1l3eVl1ZmlPcnkyd3JyZ0xoS0pmZzJFU2xNRGh3dzlQNngyQUcxVmhKNnd6UjdRNzNUakNjSmNETVNsWnpTbW1PT0dEV2ZNcNIBVEFVX3lxTFBJd25fX1l3eVl1ZmlPcnkyd3JyZ0xoS0pmZzJFU2xNRGh3dzlQNngyQUcxVmhKNnd6UjdRNzNUakNjSmNETVNsWnpTbW1PT0dEV2ZNcA?oc=5",
+        "source": "한국경제",
+        "description": "AI 콘텐츠 스타트업 투자 유치…경기콘텐츠진흥원이 돕는다 한국경제",
+        "pub_date": "26.06.17",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스타트업 AX 2라운드 돌입…단순 AI 활용 넘어 수익모델 찾는다",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvX3BqZXFrbXU3U0pOY1dXMzdSTDRTQ2NPY3M0aFp5QTEyRGt6b3hPTlpzbFplV2FvUjhSZGJNT19SSk8xaUV6Q1ZXdEVGTFJNZTZJ?oc=5",
+        "source": "네이트",
+        "description": "스타트업 AX 2라운드 돌입…단순 AI 활용 넘어 수익모델 찾는다 [스타트업스트리트] 네이트",
+        "pub_date": "26.06.17",
+        "section": "innovation"
+      },
+      {
+        "title": "“소금의 혁신을 꿈꾸다”… 기능성 소금으로 건강시장 개척하는 'RG바이오'",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUmRVa3psbVV3SE5rMWxmdUF5UWdSZS1VTjBSMWk5Xzg1WC1icFN3UmxORnphbWc1ME1fVF91NUVFVG5YVUVqaG1XelNtSzlaY1NoS2FwWTFicEU0cXhmSGNDQzRpNTg?oc=5",
+        "source": "영남경제",
+        "description": "[기획특집]“소금의 혁신을 꿈꾸다”… 기능성 소금으로 건강시장 개척하는 'RG바이오' 영남경제",
+        "pub_date": "26.06.17",
+        "section": "innovation"
+      },
+      {
+        "title": "\"은행 수익 일부 기업혁신 인내자본으로, 딥테크 기업 데스밸리 지원\"",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XSUVhdDJzb29vNGI3MEt5RmRmZkJjNFNTRlpZV3d6V3c5Y2ZsbG1SNlNtZEtBdmdYRFBBV1Y1aGNRZHBNdW55a2VDU29MUDR1LWprVWFuMHV5U2dOZ3ZWQnd1TlJsREJveEE?oc=5",
+        "source": "헬로디디",
+        "description": "\"은행 수익 일부 기업혁신 인내자본으로, 딥테크 기업 데스밸리 지원\" 헬로디디",
+        "pub_date": "26.06.17",
+        "section": "innovation"
+      },
+      {
+        "title": "“제노시스, 미래를 앞당긴다”...정밀의료 플랫폼 연내 상용화",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WN013aENXUzNZMGtzX08xdWdHR2kyMHo5V3lxX25Tb2dOMlFLTXh0bW9YeDQ0NFd2NG1JdGtoTDYySzVFNDBmRXg2UFdJcFdxQ3NYcUhzOC1Db3A3ajNaX0F6cHduS0NWbTUwNFVCbWg?oc=5",
+        "source": "한양경제",
+        "description": "“제노시스, 미래를 앞당긴다”...정밀의료 플랫폼 연내 상용화 한양경제",
+        "pub_date": "26.06.17",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-17",
     "news": [
       {
