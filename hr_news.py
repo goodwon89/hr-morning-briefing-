@@ -60,51 +60,51 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 6.8~6.12  |  수집 완료: 2026-06-12 (금)
+# ✅ 이번 주 업데이트 — 6.22~6.26  |  수집 완료: 2026-06-22 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "6.8~6.12",
+    "week_label": "6.22~6.26",
     "enabled": True,
     "metrics": [
         {
-            "label": "취업자 수 (2026년 5월, 통계청)",
-            "value": "전년비 -4만 명",
-            "change": "전년 동월 대비",
+            "label": "취업자 수 (2026년 5월)",
+            "value": "2,912만명",
+            "change": "전년동월 대비 4만명 감소",
             "trend": "down",
         },
         {
-            "label": "고용률 15세 이상 (2026년 5월, 통계청)",
-            "value": "63.3%",
-            "change": "전년비 -0.5%p",
+            "label": "고용률 15~64세 OECD기준 (2026년 5월)",
+            "value": "70.2%",
+            "change": "전년동월 대비 –0.3%p",
             "trend": "down",
         },
         {
-            "label": "실업률 (2026년 5월, 통계청)",
-            "value": "2.9%",
-            "change": "전년비 +0.1%p",
+            "label": "청년 실업률 15~29세 (2026년 5월)",
+            "value": "7.2%",
+            "change": "전년동월 대비 +0.6%p",
             "trend": "up",
         },
         {
-            "label": "AI 스킬 요구 채용공고 증가율 (2026년 4월, ICIMS)",
-            "value": "+144% YoY",
-            "change": "전년 동월 대비",
+            "label": "신규채용 계획 기업 비율 (2026 경총 실태조사)",
+            "value": "66.6%",
+            "change": "전년 60.8% 대비 +5.8%p",
             "trend": "up",
         },
     ],
     "reports": [
         {
-            "title": "ICIMS June 2026: AI-Driven Hiring Demand Surge",
-            "url": "https://www.icims.com/company/newsroom/juneinsights2026/",
-            "publisher": "ICIMS",
+            "title": "2026년 5월 고용동향",
+            "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=282480",
+            "publisher": "국가데이터처·통계청",
+        },
+        {
+            "title": "Mercer Global Talent Trends 2026",
+            "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
+            "publisher": "Mercer",
         },
         {
             "title": "2026년 신규채용 실태조사 결과",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504&pg=&pp=&issus=S",
-            "publisher": "KDI",
-        },
-        {
-            "title": "Global Talent Trends 2026",
-            "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
-            "publisher": "Mercer",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
+            "publisher": "한국경영자총협회",
         },
     ],
 }
