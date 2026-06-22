@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-23",
+    "news": [
+      {
+        "title": "자영업자 57% “경영 상황 악화”…34% “최저임금도 못 벌어”·25.2% “이미 폐업 위기”",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xR2dmaFd1TDhxdFAzV0tja3FWMU1GekdNODNOMUNVek5UQ203b2JWb25HWEViWmRSNnNpcE84eWxpQkdkV3EzZG9qcHVEVHE4ZmE1Y2tLQ05SbjRrUE5rYzQzUXRYVlpM?oc=5",
+        "source": "테크월드",
+        "description": "자영업자 57% “경영 상황 악화”…34% “최저임금도 못 벌어”·25.2% “이미 폐업 위기” 테크월드",
+        "pub_date": "26.06.23",
+        "section": "hr"
+      },
+      {
+        "title": "노동계 \"1만2000원\" vs 경영계 \"동결\"…최저임금 인상 폭 논의 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pVzZLSzFwTDJYLUFiazY1ZFlFeUVMYk9iNkVOTl96RmZnaElSeXNUWjU3bWNUbmxFaERsS2g1RnFvRjdVZDNUX3BWQnNfUlRxaTZvN0JvSm9JUWdmUG96dXFLMXNsc09R?oc=5",
+        "source": "뉴스1",
+        "description": "노동계 \"1만2000원\" vs 경영계 \"동결\"…최저임금 인상 폭 논의 본격화 뉴스1",
+        "pub_date": "26.06.23",
+        "section": "hr"
+      },
+      {
+        "title": "'N% 성과급'도 파업 대상? 모호한 법이 갈등 키웠다",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTnFMRklDUkd0VVAxUzFEc1MxeWRYLWROSE9KXzF4YzdpQnVkc1Y5UlBtNUpBbXo0My1RYjF1OXlUcklHQ1dpZXhpZ2tXMFV3QkNrMmU3ZHNQMkVsanJSZEdDM19LMjZvRzhRek5ZUHRwZFVpZWFpblRQcw?oc=5",
+        "source": "이데일리TV",
+        "description": "'N% 성과급'도 파업 대상? 모호한 법이 갈등 키웠다 이데일리TV",
+        "pub_date": "26.06.23",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금 ‘1만2000원 vs 동결’ 줄다리기…업종별 차등은 또 무산",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNnoyYjJHT0pBTHVSUmZ2NVVXWDdqcXhTYzQ1NUIzSGVhQnBYcVpSc00teUw0MEtzVEc2ZEd0UlcyWnpBeUZwdzhocEJXemZjUnlmaHZCT2NUQQ?oc=5",
+        "source": "농민신문",
+        "description": "최저임금 ‘1만2000원 vs 동결’ 줄다리기…업종별 차등은 또 무산 농민신문",
+        "pub_date": "26.06.22",
+        "section": "hr"
+      },
+      {
+        "title": "한국공인노무사회, 인사노무 AI 윤리적 활용 지원 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90a1JNVVFja2RoclRfeHZTdkM5czY1bndMSzZtc0dtR2VvTU5kRDc5R2lybEdQSjdwZi1JMEp4SmRXSGMtRzQ0ckpCMjlkS2RRSHp5MlYwU1N2X0ZEUUdUU0hTOVY4TXM?oc=5",
+        "source": "법률저널",
+        "description": "한국공인노무사회, 인사노무 AI 윤리적 활용 지원 본격화 법률저널",
+        "pub_date": "26.06.22",
+        "section": "hr"
+      },
+      {
+        "title": "\"AI 활용·인사제도까지\"…진승욱 대신證 대표, 직원들 질문에 답했다",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QMi02RXM5LThuYW9YZmFJR3NBdjBxQmhuelFuOWxUeFMyX29PWUVPRjQ4b1RGbTl4Rkd1bElHeFBfMUV0WlFKSy13NlFfVE1ZbFlNd3JwRGdtU2ZZdXpSd01CRGYtbDc5X3U4?oc=5",
+        "source": "뉴스드림",
+        "description": "\"AI 활용·인사제도까지\"…진승욱 대신證 대표, 직원들 질문에 답했다 뉴스드림",
+        "pub_date": "26.06.22",
+        "section": "hr"
+      },
+      {
+        "title": "두산로보틱스, '오토메이트'서 지능형 로봇 솔루션 공개",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aQ2ljQVJXMFEtYWkxY2RKVi1jelJUUmxfamRtSHhKMFJzdzVOcXMzeGFrc0tOS2ZWU1dSb0pSdG1SRUpic24tMjBmX25kTHlKd3dSWlBRclo3TEp6NmhOQVNMdE1NaFhyZGduLTFDaDg?oc=5",
+        "source": "비즈트리뷴",
+        "description": "두산로보틱스, '오토메이트'서 지능형 로봇 솔루션 공개 비즈트리뷴",
+        "pub_date": "26.06.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“AI 혁신, 강력한 보안 ‘브레이크’ 필수”…데이터 중심 ‘사이버 복원력’ 전환 시급",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1xOUNseV82cEhJSGcyWkZEa09pQXRKUnVpdDNZdGVOSjd1YzNTemtwN2JFVDlHaU56NFNpa3NMSnVEOHBC?oc=5",
+        "source": "산업일보",
+        "description": "“AI 혁신, 강력한 보안 ‘브레이크’ 필수”…데이터 중심 ‘사이버 복원력’ 전환 시급 산업일보",
+        "pub_date": "26.06.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZXF5YVU0ancwYWVkeVQyZGZJbGFfZnkxc3JNZU5wdjFnbU8zWHI3T20yLU1jLVFPWHluRnRJWFNoUlN6VFRKN3hmU050ZDBBcXA1S253dEFLaGhBNC1DRDRVMzE3TWJpRDVFRWpQN0k1Qzh3YVdjNk5lbUROM1RRM0NZa2lCRVVtS2JZNXpUb0Q3SldjaTM1SkhFcDZMZFNNQ1U4YThvREpJV3JhUFMxQ2dIZ3piRmhkc0F3eVFVT21WMi1LSlV2bnNxQjdpb2s2R01pbUdDWUN1dWJZeVZQVEFSektSQnhjaDB6TEtuMnJ3d2JJMTV0T2hnV1RPYjBqVGwtcW5nZGJ2MDNRYmVpOHdDTHF3dGZhNlc2OTRWamt3dGVjODVNbWRoV1NHaWxuM3ZyMVVYbnp0NkRTWVhOek1ON19UeXJwV09MUU9R?oc=5",
+        "source": "cio.com",
+        "description": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개 cio.com",
+        "pub_date": "26.06.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 드론이 적진 꿰뚫게…네이버클라우드, 육·해·공 전장 하나로 묶는다",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZE9ONl9vdmZ1cWlNV0pXS1lXamNsQVhKWm4xZ2tud0ZqQ1JveTdzMzdmZzg5WUN3M3FNd2gxZGZZcEFFeE5YdXMzMFJvUHNZdVJ6MNIBVEFVX3lxTE9tZE9ONl9vdmZ1cWlNV0pXS1lXamNsQVhKWm4xZ2tud0ZqQ1JveTdzMzdmZzg5WUN3M3FNd2gxZGZZcEFFeE5YdXMzMFJvUHNZdVJ6MA?oc=5",
+        "source": "한국경제",
+        "description": "AI 드론이 적진 꿰뚫게…네이버클라우드, 육·해·공 전장 하나로 묶는다 한국경제",
+        "pub_date": "26.06.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "'증시 활황'에 소비심리 두 달째 개선…금리전망은 9년 6개월 만에 최대폭↑",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00UEJlMkI0RWdGRTRJQ3d5djQteVp2QjNRUzlaSzZSZGZwaEs5enhpTVN3WDVoODVDU05ZUll6a21EcTY2RDFsTkJFdVl1cGpBZFJDQ1pqZWlrcWhlcVhhTmwzVTRHT1pKcmdHRnVjVkE2NW8?oc=5",
+        "source": "마켓인",
+        "description": "'증시 활황'에 소비심리 두 달째 개선…금리전망은 9년 6개월 만에 최대폭↑ 마켓인",
+        "pub_date": "26.06.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "인상 임박, 금리전망 9년반만 최대폭↑…증시·성과급에 집값 전망 들썩",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZzA1YVNVajA3WkpDaFFQREx5S3dwTDllTlVuWlN2V0txbHlKcGI5aS12Z2hVMU9VSlRJb3Z2dWZ6QkFnRVJPN2Jxa1BoNGFpd2RWWTZMM3NFZw?oc=5",
+        "source": "뉴스1",
+        "description": "인상 임박, 금리전망 9년반만 최대폭↑…증시·성과급에 집값 전망 들썩 뉴스1",
+        "pub_date": "26.06.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "반도체 ‘불길’이 부동산으로?…“주택 가격 더 오른다” 전망 5개월만에 최고",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlhLcXVNWXg5dVFJMGVTN05BR0Y5aHB0aGMtaHVkejdkWi1teFp4dFlyYXZnVVNXRy1qa1hVUVlLamZtTDFvSXV6WDA4N29uUUNfUUdQWGpOMUFwcjZQVmFaSWVXRDByWHpFVVhiZllwa2oyRlVqU2dXS0dEeWhxWXRKZVQzaEZ2cUl1Qkdn?oc=5",
+        "source": "조선일보",
+        "description": "반도체 ‘불길’이 부동산으로?…“주택 가격 더 오른다” 전망 5개월만에 최고 조선일보",
+        "pub_date": "26.06.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "카타르 'LNG 생산 거점' 폭발...전 세계 공급망 충격 우려",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HemJEWS1Jc0lmQ0pueGNIY1R2emhuZk4zaFNnSi1uSURlWUQ1eDZiOVBPc0ZIdk0xYTJTNEYwd0FRNkxYMmFCMjFDckFvSHUtNFdOOXZCRWcweU44WUE?oc=5",
+        "source": "YTN",
+        "description": "카타르 'LNG 생산 거점' 폭발...전 세계 공급망 충격 우려 YTN",
+        "pub_date": "26.06.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "엔비디아가 점찍은 피지컬AI 로봇… 디든로보틱스 몸값 5000억원 정조준 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2FDTlRGZDJtQlpJVERpTFJvTmU0aGZBeUNFaUQ2dDM4MWJRa0E1Wjg3MFRWeDVRNUZWYUd6dkU4aUdvY3NNRE9feHhGbmQyMXdmeEl2UFN1akFVbDZ5bldMOFk3aTRfMUFxY3JVSC1SRmRZYnliWHZHYmdzdkdaYkUycXdoRWvSAZsBQVVfeXFMUHZETk4zWjJjTk5LeDNta1dYX1U5UHFhOWxqRzZZbC1KSU0xamd5WDBadFBfX3dBWXNXckZoRklMYWJIX0VJdlNiZjktendwNnR1ZFlJTUFzc1pDeE5jdE9venphb00weHVhaDlGaVpJZXhGQXRyOHdOdGM3VkNwc2pvSXk3M01nM1g3ZlhTNTMtWXBoY0VreV9vQmM?oc=5",
+        "source": "Chosunbiz",
+        "description": "엔비디아가 점찍은 피지컬AI 로봇… 디든로보틱스 몸값 5000억원 정조준 - 조선비즈 Chosunbiz",
+        "pub_date": "26.06.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "럭스코 등 5개 벤처기업, 코스닥 상장예비심사 접수",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41N3cyb0JUM0R4bWhvVFNBQ1JMZktzYjYzS01PRkFYUGc5TmZsWjlydmhiTjB0ZmtVbGloN2dJcF81eTlsTC1TQW0tMHNoQmFTZ3N3TTdSTTc1MWpVRFRmWtIBYEFVX3lxTE41N3cyb0JUM0R4bWhvVFNBQ1JMZktzYjYzS01PRkFYUGc5TmZsWjlydmhiTjB0ZmtVbGloN2dJcF81eTlsTC1TQW0tMHNoQmFTZ3N3TTdSTTc1MWpVRFRmWg?oc=5",
+        "source": "연합뉴스",
+        "description": "럭스코 등 5개 벤처기업, 코스닥 상장예비심사 접수 연합뉴스",
+        "pub_date": "26.06.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "매드업, 공모가 상단 8000원 확정…상장 후 시가총액 약 1500억",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94OGY3UUlqNVFONm1iNm5iZTFTSll2NnIzQ1VlYVZSWjNVVmtNTDhMV3BWMEhkcF9VNWF5RFdZOWlmeEhTLXBVTEhtWUNNdHpPSkh2bDNMeWxTUmtiZ1M5V3RhT0RBcTRVVTFOU1pwTQ?oc=5",
+        "source": "뉴스톱",
+        "description": "매드업, 공모가 상단 8000원 확정…상장 후 시가총액 약 1500억 뉴스톱",
+        "pub_date": "26.06.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "실리콘밸리에 늘어난 '좀비 유니콘'...VC업계 긴장",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DdUdLTU44RkxXYjduQXVVMUkzTjFDbC1BakRDbjZRbHNRSmZGRm9ta1ZmZkhnOU5jNjhsb2thdlpvUTBWOWp0aFJ4OHRrRnh4Vm1hd3FhWjdCUGZfYm1sQmt0WTVfNHh0X3R6RQ?oc=5",
+        "source": "한경매거진&북",
+        "description": "실리콘밸리에 늘어난 '좀비 유니콘'...VC업계 긴장 한경매거진&북",
+        "pub_date": "26.06.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "경상북도, 600억 원 투입 `전략산업 핵심 인재 육성`",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWxwV0t1cmk5VHcta19rbXB6UU9faFA3dWF6T2lSMXhQWFg1ZHlOZkRtTEpzSFFvVXZpVU5MT0Y2cDE1dVI2MVhkOVVPRVJaRWM2TDR6UUJSU0NEb3lWQVBGLW94UWVqTDRZR2haSHh5aUM5VkdHbVdhUk1vZGFTRA?oc=5",
+        "source": "CBN뉴스",
+        "description": "경상북도, 600억 원 투입 `전략산업 핵심 인재 육성` CBN뉴스",
+        "pub_date": "26.06.23",
+        "section": "innovation"
+      },
+      {
+        "title": "KAIST, 바이오 원천기술·사업화 성과 글로벌 시장에 선보인다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNGpfSjVZR3otdnhzTUdCVGoxbnVkaDcxUEZreE1GeFJaTFJHVHZEMlFZVnhjaWxXakhGaHluNEhrbng4cE95MEtwYXRmaktnbnkycDVrVHRrdDM3SGV4Tk5reUp1YS1ZcThENHZB?oc=5",
+        "source": "elec4",
+        "description": "KAIST, 바이오 원천기술·사업화 성과 글로벌 시장에 선보인다 elec4",
+        "pub_date": "26.06.23",
+        "section": "innovation"
+      },
+      {
+        "title": "올해 바이오USA 화두는 'AI'…바이오헬스 전주기 혁신 가져온다",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQV9EdWlORG9yLXR5TGQzUm5wX3I0SmVYV1RQbWRDelJaeHNIQkd5Njl2MjJoX1ZsRURDZjZXenhETWtta2dOdmNsWllGSmZfZmlXbDhNa2JzS2UxXzVQUw?oc=5",
+        "source": "뉴스토마토",
+        "description": "올해 바이오USA 화두는 'AI'…바이오헬스 전주기 혁신 가져온다 뉴스토마토",
+        "pub_date": "26.06.22",
+        "section": "innovation"
+      },
+      {
+        "title": "금융위, 규제 샌드박스 적용대상 가상자산 업권으로 확대",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMYjkyNFFoeDFCU1lsWGVqcDhNZHFIWHM5ODZiaWlhQlFQQU9WZkNpYnJfVWV6b2EyTkpsUTN4SkZzMTFFV1dabEJwQmkxVDAtVTYwX1pMU0dFWlAzRmF6VFQ3VDhSdzVJelJmYW9HTC1YZw?oc=5",
+        "source": "디지털애셋",
+        "description": "금융위, 규제 샌드박스 적용대상 가상자산 업권으로 확대 디지털애셋",
+        "pub_date": "26.06.22",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "news": [
       {
