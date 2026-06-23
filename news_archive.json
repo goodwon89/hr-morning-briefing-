@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-24",
+    "news": [
+      {
+        "title": "AI 감원 공포 현실로…美 기업 해고 칼바람",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NUXNNU1NyWUtJUTFCTXZGWlJVMGhBZlFCQTJrUk56aXJsRkZScGZ1NVM4NXQ2Ni11QnBENDNXQUZNd0lJVk9JYktuWmk0WE9VdUFJNUZqSjd4UDRSbzVLZ3FDSFJiOGxS?oc=5",
+        "source": "ebn.co.kr",
+        "description": "AI 감원 공포 현실로…美 기업 해고 칼바람 ebn.co.kr",
+        "pub_date": "26.06.24",
+        "section": "hr"
+      },
+      {
+        "title": "이더리움 재단, 대규모 구조조정으로 직원 20% 감축",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94V2RIRVltWFotZDVBWnk5VHJZWnlFcUdadVJUOXplZFFpSUxfdEpkV2RJY29PWFk2N0QwQUo2TlZUczhtSnFTcjlXQmlvdm9GVEg5cmFZcXQtb1hLOWhzZUYtZ2p1eUZZNE5Wa1A3ckFKMFE?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "이더리움 재단, 대규모 구조조정으로 직원 20% 감축 Investing.com 한국어",
+        "pub_date": "26.06.24",
+        "section": "hr"
+      },
+      {
+        "title": "모빌리티 인재 확보와 스타트업 협력",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93UU9wb2tnTGRVX09TX1cwTFhSemtQYjBJM1ByVU9EeldOdGxpSWRidnE0UVpwQ3g1TXVNdllTdlZnQ1dtWm8ySTk3UXM?oc=5",
+        "source": "한국AI부동산신문",
+        "description": "모빌리티 인재 확보와 스타트업 협력 한국AI부동산신문",
+        "pub_date": "26.06.24",
+        "section": "hr"
+      },
+      {
+        "title": "임단협 갈등 6개월 G1방송 노사, 기본급 1.4% 인상 등 합의",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoeTM1c3EyS01vZWgzTTNiUWNNVVR2bkU3NHZvbkRjQmJnS1VDaFotMm5CbnAwZW0xY19xM2xITlM4MHFBSGxyZy1tRUtud1A5em91MDJJQ2QwT3hxV0JfbVJn?oc=5",
+        "source": "한국기자협회",
+        "description": "임단협 갈등 6개월 G1방송 노사, 기본급 1.4% 인상 등 합의 한국기자협회",
+        "pub_date": "26.06.23",
+        "section": "hr"
+      },
+      {
+        "title": "내년 최저임금 인상 두고 \"최소한 생존\" vs \"과도한 인상\" 공방 |",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JOElxcXZ1M2FEa3E5VWJ2cF95OEFmeHN6a2FFcjBpSC12dThpaWpDOEswVGhldE1naWl2OXVHd0pYSVdQY2NjNEV6Tk9MSjhtMFVPYVZveW1BR01IMzJySXNybVRCQzRRamtMbFlNNHU0Q1U?oc=5",
+        "source": "대전일보",
+        "description": "내년 최저임금 인상 두고 \"최소한 생존\" vs \"과도한 인상\" 공방 | 대전일보",
+        "pub_date": "26.06.23",
+        "section": "hr"
+      },
+      {
+        "title": "자영업자 57% \"경영 악화\"…최저임금 인상 최소화해야",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNalN3MXlLY0htNkY5OGgyalNTZGFuUzFYTDFfaDQyWUpJbkFqYW9kQldkSzhBWWhSQjlEYzl1VGtrVVd4MmJtbHpsNGZUM1ZkVV9fVNIBVEFVX3lxTFBNalN3MXlLY0htNkY5OGgyalNTZGFuUzFYTDFfaDQyWUpJbkFqYW9kQldkSzhBWWhSQjlEYzl1VGtrVVd4MmJtbHpsNGZUM1ZkVV9fVA?oc=5",
+        "source": "한국경제",
+        "description": "자영업자 57% \"경영 악화\"…최저임금 인상 최소화해야 한국경제",
+        "pub_date": "26.06.23",
+        "section": "hr"
+      },
+      {
+        "title": "\"2년후 로봇 투입\" 현실화되나…LG CNS, RX 총력전",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tTnZZb1FvQnhINXhDX2pvOG1OTzJyZDltT09tdkRuOWF2UnhMdHFXV2RiVWJldnh0MS1aS0k1TGRNd0V6a2VPSnFXRng5MDg?oc=5",
+        "source": "v.daum.net",
+        "description": "\"2년후 로봇 투입\" 현실화되나…LG CNS, RX 총력전 v.daum.net",
+        "pub_date": "26.06.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "에이전틱 AI 시대 진입을 앞두고 선도 기업과 후발 기업의 격차가 빠르게 벌어지고 있다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40Q0FORkxWS2tWRTJ3a0xFZV9ETDRib29hVVZGOHVIUE9JZzZ5YlhieFVDcDYwcGdXLU5WanFnUzhCSzJELVFxSXJmbmhianlOMFZleXZfYWs1QlpyS2RTeFZZZU5yc3NrcGZ1RA?oc=5",
+        "source": "디지털포용뉴스",
+        "description": "에이전틱 AI 시대 진입을 앞두고 선도 기업과 후발 기업의 격차가 빠르게 벌어지고 있다 디지털포용뉴스",
+        "pub_date": "26.06.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "시간 대신 무얼 팔까, AI가 바꿀 기업 법무… 특강 이어진다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hRl9QUWtQLUxrUEhJQ2xkX2dGZnBQZnA1eXU5RTBOaEpoaDRVa2ZjZUtzSHdjZm5XcHN0WkM2b3dnZ21JU19XRG5QWV9SMzlDSF9kSk5JR0xGYTlrRzg4R0toemFSUE1qd1JDcEZR0gFyQVVfeXFMTzRaYjFXbnNCT3FRcERiQ25sODVNX0xOR2ZkQWVyb0RPZW41em1oWWFISzdWN1FSMU83bG9kTFBCOWZEcVAtRmdUc1NyTV9QSERSb0FtMlJtcEFDRmZFTVZITV9BUGZzb1dBX2JLZ2VLSmR3?oc=5",
+        "source": "법률신문",
+        "description": "시간 대신 무얼 팔까, AI가 바꿀 기업 법무… 특강 이어진다 법률신문",
+        "pub_date": "26.06.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "휴머노이드 로봇, 쇼룸 벗어나 공장 라인 진입… NVIDIA가 '판' 깔았다",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXhfYTByVmd1XzdtS2Jla2xFT29yQnJXVUl2cjFxUkxaQUtaOFJSRHN0ckxuVFh6RUNaTzEzSWUxLWlKbUtWRGMzOUNTbVhZM2FyX1NLZldBVUVvTzFWYXVlTjhBLWluZDR4cjdmbjJSeW5qenNwNHlubVNILUlwUjN2Z0R0SDhs?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "휴머노이드 로봇, 쇼룸 벗어나 공장 라인 진입… NVIDIA가 '판' 깔았다 글로벌이코노믹",
+        "pub_date": "26.06.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"금리차 축소로 환율 잡으려면 6번은 올려야\"…핵심은 '기대'",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14SzNUbHVmV0k0SXJZNnM2SXJnV3J3WVFiTDVwMDJ5Vm55bUVheUtJdXBiUW1nNDE2SlYySzNZN2VjODJUWFBHNW80TFd4cDF4TmM5R0pVU1pKYVZvQThJbXk5MWp2VWxzSUpCdUZsbHFlQQ?oc=5",
+        "source": "KB Think",
+        "description": "\"금리차 축소로 환율 잡으려면 6번은 올려야\"…핵심은 '기대' KB Think",
+        "pub_date": "26.06.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "④하나증권, 회수 지연에 '요주의이하자산' 5년 새 급증",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUUN6RnltRGhDa1JyVXEyXzdYU08yTDU1MnpFSDE0NzM4LTUwNmRjSVVYY1BSWVQwMUQxN1BjajR2QTdDeE9nVTNXVmZicUpacC1jdGxMQTFOR0J4dF9LV3FKbWJkLXZU?oc=5",
+        "source": "fetv.co.kr",
+        "description": "[증권사 부동산 리스크 점검] ④하나증권, 회수 지연에 '요주의이하자산' 5년 새 급증 fetv.co.kr",
+        "pub_date": "26.06.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한국 원전 부품사 ‘잭팟’ 기회… 美·독 에너지 투트랙에 공급망 요동",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQm5XNlEtRnRqSENCY0Ezek9mMHdFT2wyVWUwUnotLXEyYUtTeXVtRTFNX2EyRTVDMEFMNkZSSUVsN3pOXzZFVG54a0R4UzV1ajlaX1lhdkpDQjZfY05BUnEwenlpVlo1SGViNU9HN2NoRVd0eVpQUTl6SE82b1BDMjNlREVwWVg0?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "한국 원전 부품사 ‘잭팟’ 기회… 美·독 에너지 투트랙에 공급망 요동 글로벌이코노믹",
+        "pub_date": "26.06.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"韓 수출기업, 공급망 기준 최저비용→관세·경제안보 중심으로 시급히 전환해야\"",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2lFLVRvbkRIVXM2cmxZdlhvX3hZcy1va1hXMXRkRDE2S0pGX1FwZHpXSzAyWDNsRGJUeVZBLXAtTVBzc2hnTEh3ZnNDWVdiWG9hd2czaGNDcXFfU2dXYW1QLUtsSkhIQlI3RGJnMWVuSkhaRHpVMHJ4VGRYQTRvUA?oc=5",
+        "source": "이데일리",
+        "description": "\"韓 수출기업, 공급망 기준 최저비용→관세·경제안보 중심으로 시급히 전환해야\" 이데일리",
+        "pub_date": "26.06.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "공모 흥행에도 주가는 '딴판'…IPO 수요예측과 상장 후 엇박자",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QTks4dG1GX0tPTEFJQnhsWVRZTF85Z2tablRNb2ZHQzlCNkFNQlc4ZTkzU3lYNHZrdE51YTBieHRoUWZpR093dXZFX0MwbzZQa3czZ1NWdE1adXJoUEFSdllJRVJzTFA5bE5YbVVxWQ?oc=5",
+        "source": "뉴스톱",
+        "description": "공모 흥행에도 주가는 '딴판'…IPO 수요예측과 상장 후 엇박자 뉴스톱",
+        "pub_date": "26.06.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "유럽 스타트업 펀딩 300억 달러, AI·국방 기술 대형 라운드에 쏠린다",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpbDk5RWpMd1p4RFdfd0xKMXBOLUJ2Q1V6al9mTjlrNnZzYUt2MHA3Q0VCT3RBNFBOM2lCaF84amJMQVF6QXdaQnNB?oc=5",
+        "source": "뉴스N연합",
+        "description": "유럽 스타트업 펀딩 300억 달러, AI·국방 기술 대형 라운드에 쏠린다 뉴스N연합",
+        "pub_date": "26.06.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "하나증권의 '외국인 모시기'…해외 투자 유치 속도",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWVmpYalRHRlpVNVJDbHlYeGdiVnFiNlhGSnFyZXJNUDJNQ19hdGdpTmJ3N3UwblJMSWdyWXdSNFRrdjYwdG84VnZUTGV6NkpSbGpNMko4TFhYcy1JdU1SNjJtNF9vVERnZ2c?oc=5",
+        "source": "뉴스워치",
+        "description": "[초점] 하나증권의 '외국인 모시기'…해외 투자 유치 속도 뉴스워치",
+        "pub_date": "26.06.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "서울 기업 글로벌 자본유치 돕는다…하반기 'Core기업' 모집 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00NVZ2YnpmM00yUXZvVDdra0hHS21DSFRGLU0xYTVXMllKSmZpaXJNc2lza252U0NtWEdyMUw2LTNsTzhmb1RGLVo5XzFRYWRXV2ZScWNCZWpCSEpsb1pyN0x1OWRHOVdBNklPSllYMNIBb0FVX3lxTE00NVZ2YnpmM00yUXZvVDdra0hHS21DSFRGLU0xYTVXMllKSmZpaXJNc2lza252U0NtWEdyMUw2LTNsTzhmb1RGLVo5XzFRYWRXV2ZScWNCZWpCSEpsb1pyN0x1OWRHOVdBNklPSllYMA?oc=5",
+        "source": "머니투데이",
+        "description": "서울 기업 글로벌 자본유치 돕는다…하반기 'Core기업' 모집 - 머니투데이 머니투데이",
+        "pub_date": "26.06.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "성남시니어산업혁신센터, AI 돌봄·스마트 주차 서비스 실증 및 상용화 지원",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16Mm52Z0FBdGxyMjlWRGNLemphamRUM1dfVE94eHQyYlFFY21nN1h5cEgxNWhUcUxuSXpXVW50TUVPVXRJNFBRbEFBRQ?oc=5",
+        "source": "분당신문",
+        "description": "성남시니어산업혁신센터, AI 돌봄·스마트 주차 서비스 실증 및 상용화 지원 분당신문",
+        "pub_date": "26.06.24",
+        "section": "innovation"
+      },
+      {
+        "title": "크리스아이티, 바이오·화학 AI 플랫폼 사업 확대",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82cFRTYlp1MGc3TUJjUjdWekx3VkpVNk9mU2h5WXVVWlBaUlA4ei1XTXotTFo4Zmp2TEJSR3Jac05SOGoxbVNnazBKMFRscU9PNFJfQy1n?oc=5",
+        "source": "중앙일보",
+        "description": "[2026 혁신 바이오 기술대상] 크리스아이티, 바이오·화학 AI 플랫폼 사업 확대 중앙일보",
+        "pub_date": "26.06.23",
+        "section": "innovation"
+      },
+      {
+        "title": "보산진, K-바이오 혁신 기술 알렸다…아스트라제네카와 협력 창구 가동",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wbTJKWlo2RExKTDZmcThGSmU2UHZ5T09PWUViUDdUZXJPclc2b0lBTjJEM016S1JNUGFya2MzSWZTS0hCQVVxTFVrSmJtM3NZVjNYWE8taXFPWHlU?oc=5",
+        "source": "뉴스핌",
+        "description": "보산진, K-바이오 혁신 기술 알렸다…아스트라제네카와 협력 창구 가동 뉴스핌",
+        "pub_date": "26.06.23",
+        "section": "innovation"
+      },
+      {
+        "title": "중소벤처기업부, 규제자유특구 규제 완화로 신기술 실증 가속화",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MXFLWkYzaFhaMGFWZWg0d1oxUjRxUlZzd2hNNXJTVlBURVFpUDFIby1DS0hTWmZDVXo5VjNWTDlXZzk1dVVQU2ZqYmlkVFpKeEtWdDNxTzhZdUNnNlhlT3A4SktVZW52?oc=5",
+        "source": "2news.co.kr",
+        "description": "중소벤처기업부, 규제자유특구 규제 완화로 신기술 실증 가속화 2news.co.kr",
+        "pub_date": "26.06.23",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "news": [
       {
