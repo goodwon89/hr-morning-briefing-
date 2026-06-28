@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-29",
+    "news": [
+      {
+        "title": "SK하이닉스, 직장인 수명 늘리는 ‘정서적 연봉’도 압도적 1위",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DcWFpVGtrWGh1eEREekVtNl9zQ1JtSGR3NzlsWHN2bUQza01MU1JDWVJnbWxEeXV5NktEQXgtcURMeU9CZ1pVQkdnUXFwVlNuaG96WjkwUnFWdzI1MXBnNTJoWEdFQk5lYUZ6SVZXWnNGM0cyeXZpSFp1UlVuVms?oc=5",
+        "source": "헬스조선",
+        "description": "SK하이닉스, 직장인 수명 늘리는 ‘정서적 연봉’도 압도적 1위 헬스조선",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "“환자경험의 시작은 직원경험”…병원도 EX 설계해야",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rY29ub3E4Slo1c1kwa2FXS0tMMnF5d1hXOEpOUkdJbXd1eEFrdU8xX0F5c0dNVDcycS1JSW9aZkdaekJwUENtazh1SkNiSTk3bmxobk9YN1pzUHhRMjE5MzZ2Uk56Qm9rOUg2TVR1bHBhR0HSAXNBVV95cUxOa2Nvbm9xOEpaNXNZMGthV0tLTDJxeXdYVzhKTlJHSW13dXhBa3VPMV9BeXNHTVQ3MnEtSUlvWmZHWnpCcFBDbWs4dUpDYkk5N25saG5PWDdac1B4UTIxOTM2dlJOekJvazlINk1UdWxwYUdB?oc=5",
+        "source": "청년의사",
+        "description": "“환자경험의 시작은 직원경험”…병원도 EX 설계해야 청년의사",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금 16.3% 인상 요구와 ‘일자리 쇼크’ 논쟁",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZm83RHI1eWtiVDZhRVRLc2lJelBZRGg4ZmszalFXVHRjWkZqdXFJNk9MaHZBZVR1aGtIU290VS1pU0RhbXZLMEQwNnhsSGxRX0xxQ3BiMU5zME0?oc=5",
+        "source": "데일리연합",
+        "description": "최저임금 16.3% 인상 요구와 ‘일자리 쇼크’ 논쟁 데일리연합",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "임금 격차 해결과 재정 제약 사이의 협상전, 내년 공무원 보수 논의의 쟁점과 전망",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zX2pKLTFIM1J1Rzh6Q2lKTWlwaEU4bnA2MGdZXzNKRXJBbHM3Z3kybElwczFIbHd0dDhBS0hrNFA1U3l6bXNrRTFnUFl6dDVpcG9qc3B5Y0R0dzg?oc=5",
+        "source": "데일리연합",
+        "description": "임금 격차 해결과 재정 제약 사이의 협상전, 내년 공무원 보수 논의의 쟁점과 전망 데일리연합",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "대기업 716만원 vs 중기 351만원…월평균 임금격차 10년새 298만→365만원",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UUM0V19ZVi15eXo5U2N6bXVmY1NWLUljZVl5OWFDWUZDMFZvcVMzX2J0TUlzdXViZjlFR3A2M3JkLWgtN3NPSE5rLURWMzl1eFluMTFjcDVnUQ?oc=5",
+        "source": "뉴스1",
+        "description": "대기업 716만원 vs 중기 351만원…월평균 임금격차 10년새 298만→365만원 뉴스1",
+        "pub_date": "26.06.28",
+        "section": "hr"
+      },
+      {
+        "title": "美 'AI 채용 도구' 주의보...\"한 번 찍히면 계속 탈락\"",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91c2RIOHU5WXJvMlh6a1JWdUM1MG9HNjlqZlpIR2J3QVdxd0FIc25jVmhTYmV6dDFtSzFqYW9UQ1N0dmZETTlKM1ZYenBoTGhKc3JUYkR3?oc=5",
+        "source": "지디넷코리아",
+        "description": "美 'AI 채용 도구' 주의보...\"한 번 찍히면 계속 탈락\" 지디넷코리아",
+        "pub_date": "26.06.28",
+        "section": "hr"
+      },
+      {
+        "title": "한전, ‘Open AI’와 에너지 산업 AI 전환 힘 모은다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fYzI3ZmhzZ29vdnN2OGIzbXgwYktRZ19pVXdkRTFBb09FVTV5SjFON3VCb2hkQzVWbmctcDJ6ZzBNNlhfQXB3MjBfUTBrNEJKeTFyQWVrXzloaVdmQU93bGI5WHBLN3QyeWdnVTM2aVhUQQ?oc=5",
+        "source": "에너지데일리",
+        "description": "한전, ‘Open AI’와 에너지 산업 AI 전환 힘 모은다 에너지데일리",
+        "pub_date": "26.06.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "Google은 Blackstone-backed AI 클라우드 그룹으로 칩 푸시를 만듭니다",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTZnR1FJMms0SlF3RVYxNDFDNkY0N0tBQk9aeURQaFY0amk0eFI2TkZsSUx6U3dGekxZZTAwQjJKczROTjhuQTZqSWN1LTN3Q25pXzJPWmxnTWYzaFdYNXczMU1BT2Y3OTMzUHd2eERFeVVoeUxDX3RyV3pQM290a0w0WFdOQ0k4dEUtcmk3ZkZfS0M0OWM4RTRSYmRkTVdUVlo3VGdR?oc=5",
+        "source": "Spherical Insights",
+        "description": "Google은 Blackstone-backed AI 클라우드 그룹으로 칩 푸시를 만듭니다 Spherical Insights",
+        "pub_date": "26.06.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "日 대형 제약사, 'AI 기술' 신약 개발·제조·유통 과정에 전면 도입",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xWFpGMERJVDlSLTZwaVI3R1VnUTZaVHlTcndRckhTRE5sdkRRd3hKbEc1NUlPOEd1Zml2Mm1SMkhXRW0wRXlDeVZlTG15ZHI4Y3VRdXo3OVU4NXJaOUNhVVRBZlFVY3lwQllYSw?oc=5",
+        "source": "팜뉴스",
+        "description": "日 대형 제약사, 'AI 기술' 신약 개발·제조·유통 과정에 전면 도입 팜뉴스",
+        "pub_date": "26.06.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "애플의 AI 혁신, 업그레이드 사이클 촉진…뱅크오브아메리카 장기 상승 전망 유지",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nVkhCVXltLWNzZTAxZEpLellMWEZaM3oxRlJiTklES2k1MjR6blJBZ201Q0ltMFVvblVVa05ycW1DcDJoZ2N4VXNaemNoa01XT0JiUVhVbU5UN0FBX0NsU1QwQ3AwMXlIdVVMWnV6bTc?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "애플의 AI 혁신, 업그레이드 사이클 촉진…뱅크오브아메리카 장기 상승 전망 유지 Investing.com 한국어",
+        "pub_date": "26.06.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "베네수엘라 강진에도 원유 생산 유지…정전에 에너지 시설 복구 지연",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OTFg2alVpLWtlS3FSQlhTUTZEYk9ZZGlkRWMxdnVSZEc0SDdfMmtyM1ZmUVJKUHd3eVd5VnZHWDFNWWdQQ3V1bjY2eDdSOHowX0hINHFCRUd0QdIBVEFVX3lxTE9ZeTEwQlpsbWVRX0VXN3A2bDRJb3pySDlWNmNqdU5jalJVeG5uRmlOUElsMC1rVlQ0WFVveE5aMFpCRHFxYVdiamZzUkxKN2ZZT1lGWQ?oc=5",
+        "source": "한국경제",
+        "description": "베네수엘라 강진에도 원유 생산 유지…정전에 에너지 시설 복구 지연 한국경제",
+        "pub_date": "26.06.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "㊦ ‘기형적 쏠림’의 그림자…한국 경제, 반도체 사이클 위험 노출",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jUG1BUFoyRmdKa2haa2hpMGRVM1A3enZWWUg3dWJsR2FELV8xN0xzbHlNdENtM0hib29CQy1DVllLM21CdXp6ek9tMnhIZV93dWNKaU5PSDRpQzViZlE?oc=5",
+        "source": "아시아타임즈",
+        "description": "[메모리 뉴노멀]㊦ ‘기형적 쏠림’의 그림자…한국 경제, 반도체 사이클 위험 노출 아시아타임즈",
+        "pub_date": "26.06.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美 고용지표·韓 수출 발표…변동성 장세 분수령",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vSS1yc1NETnpvZnhpdE1PNG5GM0dFSGFlX3VPM25ONDY3RVRLWjNKTFY2c2NlRmNGdXFOZTY3bUw1Z3Y5b254Sy1nSHlFTktvVjZ1Z1E2YjhvaVZh?oc=5",
+        "source": "뉴스핌",
+        "description": "[미리보는 증시재료] 美 고용지표·韓 수출 발표…변동성 장세 분수령 뉴스핌",
+        "pub_date": "26.06.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "동해신항 석탄부두 착공… 환동해권 산업 원자재 공급망 강화",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHLWttak8zZENXajBSM0FKU0ZxQksxUC1RWllvaXVnTGNidTI0Y2JSTlhqb054OTRkdWZiTXZxcDlZb1piVFk0NkhjNzJpSERfRUhFckJ4MExhMFZU?oc=5",
+        "source": "bseconomy.com",
+        "description": "동해신항 석탄부두 착공… 환동해권 산업 원자재 공급망 강화 bseconomy.com",
+        "pub_date": "26.06.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "9월 DDP서 서울 스타트업 축제…투자유치·해외 진출 지원",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fV0hGaEZaQkFNWTM1ejR6TjZ5MUpuVkJlUDBQZkdOU1hRNEdhR0xvZ2dDdGt6bnEzcUNnMWpOeWxUalFXZ2xvUzFZWkNhT2R3aXpv?oc=5",
+        "source": "네이트",
+        "description": "9월 DDP서 서울 스타트업 축제…투자유치·해외 진출 지원 네이트",
+        "pub_date": "26.06.29",
+        "section": "invest_ma"
+      },
+      {
+        "title": "부산항 신항 배후단지 글로벌 투자 유치 ‘시동’",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWlpxcFRyejhCc1FEWFJZdnpPMm1MUndVanZjaGtPNnlBM2ZFRUdKQ1daLTZFWWpwVjQwbHE5U2RtM0RubndVeDY5OUdvYks1ckhWeW9CYUh6SWFSZU81Z0k2NEVxUzhKa0RvZlNxYlBSdTBF?oc=5",
+        "source": "부산일보",
+        "description": "부산항 신항 배후단지 글로벌 투자 유치 ‘시동’ 부산일보",
+        "pub_date": "26.06.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "전북, 벤처투자 플랫폼 `J-피움` 본격 가동",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNXNYdlVreDNJaGxVYU04N2h3SldmdVBFYlN1NVJSbEx5M29Eb1BUTlEwZTZDQXAwQVIyb08zeFNZSzJLajB5Y0JzaGc5WDluUkE?oc=5",
+        "source": "전라매일",
+        "description": "전북, 벤처투자 플랫폼 `J-피움` 본격 가동 전라매일",
+        "pub_date": "26.06.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "시리즈벤처스, 여성 창업·벤처 생태계 강화",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83dUtZRmQtNVpGSlotckN1SU1GWXhmaDNGWGJEMXhkMk1hUzlJSmUtMWJWam5WR0V4SG5WS1kwTjVmd1FLVlNSYXp0d1FBRjA?oc=5",
+        "source": "v.daum.net",
+        "description": "시리즈벤처스, 여성 창업·벤처 생태계 강화 v.daum.net",
+        "pub_date": "26.06.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "릴리 혁신허브, 내년 송도에 들어선다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83cDNfTGxMLV96RTgycklkaXlwM3ktUG9Kc2VMaTNqQVpvdTNiUTlEbjktLUdManJTWUpJV3BnX2lqM254MVBjbWRySVhBcVE?oc=5",
+        "source": "v.daum.net",
+        "description": "[가보니] 릴리 혁신허브, 내년 송도에 들어선다 v.daum.net",
+        "pub_date": "26.06.29",
+        "section": "innovation"
+      },
+      {
+        "title": "송도에 심는 릴리+삼성 혁신...샌디에이고서 미리 둘러본 ‘릴리 게이트웨이 랩스’",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY2N0LWlzRVZvMmNtVUZabmtYM2VVMnlhN3AtUTYxZGFIZ2ZFeFlvTDBLSldoS0JvYXAzUk9iTzc2cjkyNlhuUUhMQl9KYWYzVkFWVjhldTZ2bEU3RGt1NWtKVkVoWVpXcW9SSkJB?oc=5",
+        "source": "팜이데일리",
+        "description": "[르포]송도에 심는 릴리+삼성 혁신...샌디에이고서 미리 둘러본 ‘릴리 게이트웨이 랩스’ 팜이데일리",
+        "pub_date": "26.06.29",
+        "section": "innovation"
+      },
+      {
+        "title": "대구보건대, AI 기반 바이오 혁신 주제 STAR+ 미래혁신포럼 개최",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBROFJYNXhld3FhVFJlQUN0aGRURVRqLWF2SUxfc2J1TTZMWFptSzRwOFF3MlpQeVY0dG9UTHdpSmxvOWZVZ3NHSDNMMFNXY00zSWlVd3lR?oc=5",
+        "source": "헤럴드경제",
+        "description": "대구보건대, AI 기반 바이오 혁신 주제 STAR+ 미래혁신포럼 개최 헤럴드경제",
+        "pub_date": "26.06.28",
+        "section": "innovation"
+      },
+      {
+        "title": "사업모델 다음은 마스터플랜…화성시, 스타트업 성장 해법 찾기 나서",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tUE1uYnFEMEhCTS14RTcxS2lXaDFOU0p2dXJLbXN3N2tpaHlMRE81WUhtRjNyLXBJZDNxYzJNSzA4VUNGQzdIb1RFcnhaZw?oc=5",
+        "source": "전자신문",
+        "description": "사업모델 다음은 마스터플랜…화성시, 스타트업 성장 해법 찾기 나서 전자신문",
+        "pub_date": "26.06.27",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "news": [
       {
