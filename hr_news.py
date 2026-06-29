@@ -52,59 +52,97 @@ FEEDBACK_SUBJ = quote(_FEEDBACK_SUBJ_RAW)
 FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
 NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 
+──────────────────────────────────────────────────
+📋 hr_news.py 붙여넣기용 WEEKLY_DATA — 6.22~6.26
+   수집 완료: 2026-06-29
+──────────────────────────────────────────────────
+
 # ──────────────────────────────────────────────────────────────
-# [Phase 2] 이주의 HR 데이터 인사이트 — 매주 금요일 수동 갱신
+# [Phase 2 이주의 HR 데이터 인사이트 — 매주 금요일 수동 갱신
 # ──────────────────────────────────────────────────────────────
 # ✅ 갱신 방법: 아래 WEEKLY_DATA를 매주 금요일 퇴근 전 수정 후 GitHub push
 #    → 다음 주 월~금 Morning Briefing에 자동 반영됩니다.
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 6.22~6.26  |  수집 완료: 2026-06-22 (자동수집)
+# ✅ 이번 주 업데이트 — 6.22~6.26  |  수집 완료: 2026-06-29 (자동수집)
 WEEKLY_DATA = {
     "week_label": "6.22~6.26",
     "enabled": True,
     "metrics": [
         {
-            "label": "취업자 수 (2026년 5월)",
+            "label": "취업자 수",
             "value": "2,912만명",
-            "change": "전년동월 대비 4만명 감소",
+            "change": "전년동월 대비 △4만명 감소",
             "trend": "down",
+            "note": "17개월 만에 첫 감소 전환 (2026년 5월 기준)"
         },
         {
-            "label": "고용률 15~64세 OECD기준 (2026년 5월)",
+            "label": "고용률 (15~64세, OECD기준)",
             "value": "70.2%",
-            "change": "전년동월 대비 –0.3%p",
+            "change": "전년동월 대비 △0.3%p 하락",
             "trend": "down",
+            "note": "실업률 2.9% (+0.1%p) 동반 상승 (2026년 5월 기준)"
         },
         {
-            "label": "청년 실업률 15~29세 (2026년 5월)",
+            "label": "청년 실업률 (15~29세)",
             "value": "7.2%",
-            "change": "전년동월 대비 +0.6%p",
+            "change": "전년동월 대비 +0.6%p 악화",
             "trend": "up",
+            "note": "청년 고용률 43.8% (-2.4%p) 동반 하락 (2026년 5월 기준)"
         },
         {
-            "label": "신규채용 계획 기업 비율 (2026 경총 실태조사)",
+            "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
-            "change": "전년 60.8% 대비 +5.8%p",
+            "change": "전년 60.8% 대비 +5.8%p 증가",
             "trend": "up",
+            "note": "경총 「2026년 신규채용 실태조사」(100인 이상 기업 500개사, 2026년 1~2월)"
         },
     ],
     "reports": [
         {
-            "title": "2026년 5월 고용동향",
-            "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=282480",
-            "publisher": "국가데이터처·통계청",
+            "title": "Gartner — 구직자 오퍼 수락률 48%로 2년 만에 반토막",
+            "publisher": "Gartner",
+            "date": "2026-06-18",
+            "summary": (
+                "4Q25 기준 채용 제안을 수락한 구직자 비율이 48%로 집계 — "
+                "4Q23(85%) 대비 37%p 급감. 30%는 '경제 불확실성으로 현 직장 유지 선호' 응답. "
+                "구인 경쟁 심화보다 후보자 관망이 채용 위기의 핵심."
+            ),
+            "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-18-gartner-hr-research-finds-48-percent-of-candidates-accepted-job-offers",
         },
         {
-            "title": "Mercer Global Talent Trends 2026",
-            "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
+            "title": "McKinsey — State of Organizations 2026: 고성과 문화 구축 기업 25% 미만",
+            "publisher": "McKinsey & Company",
+            "date": "2026-06",
+            "summary": (
+                "전 세계 조직 성과 현황 보고서. 다수 기업이 인재 성과 강화 노력 중이나 "
+                "지속적 임팩트 달성 기업은 25% 미만. 인간-AI 협업 전환기 조직 설계가 "
+                "핵심 과제로 부상."
+            ),
+            "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-state-of-organizations/2026",
+        },
+        {
+            "title": "Mercer — AI가 촉발한 대규모 인력 재설계 (June 2026 보고서)",
             "publisher": "Mercer",
+            "date": "2026-06",
+            "summary": (
+                "CEO 99%가 AI로 인한 인력 감축 예상, 65%는 인력 11~30% 재배치·재교육 계획. "
+                "직원 번영 지수 66%(2024) → 44%(2026)로 급락, AI 일자리 상실 우려 40%. "
+                "임직원 63%는 '연봉 10% 인상보다 AI 업스킬 기회 선호'."
+            ),
+            "url": "https://www.ceotodaymagazine.com/2026/06/mercer-ai-workforce-redesign-report-2026/",
         },
         {
-            "title": "2026년 신규채용 실태조사 결과",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
-            "publisher": "한국경영자총협회",
+            "title": "통계청 — 2026년 5월 고용동향 (2026.06.11 발표)",
+            "publisher": "국가데이터처(통계청)",
+            "date": "2026-06-11",
+            "summary": (
+                "취업자 수 2,912만명으로 전년동월 대비 4만명 감소 — 17개월 만에 마이너스 전환. "
+                "제조업·농림어업·전문과학기술서비스업 감소가 주도. "
+                "비경제활동인구 전년동월 대비 26.4만명 증가."
+            ),
+            "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=282480",
         },
     ],
 }
