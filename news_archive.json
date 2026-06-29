@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-06-30",
+    "news": [
+      {
+        "title": "스워머, CEO 및 CFO 등 주요 경영진 연봉 인상... 최대 37만 5,000달러",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBONzVtVlZUcHIzNllYaU5wbDM3ZU1ydUtaZGVYVkdTRUNITWFLTWhyRmJSdG4yb2g2UzdzakNDdXlCa3k1YU5jSnl4Mm9BNTJYLXRiekloczBrUVA0VEFIemdwZ1k3Ti1zTFN6RDVmOFp6WXM?oc=5",
+        "source": "데이터투자",
+        "description": "스워머(SWMR), CEO 및 CFO 등 주요 경영진 연봉 인상... 최대 37만 5,000달러 데이터투자",
+        "pub_date": "26.06.30",
+        "section": "hr"
+      },
+      {
+        "title": "'16.3% 인상 vs 동결' 격차 좁힐까…오늘 최저임금 1차 수정안 제시",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15ekxPZWswNWZWZXZWd2RQbXVUMEZQYkt4SGpuQ21FdVJPbTFvTUk3eGVGcnhBbWxveWNJSDJJQ3RQdlBvRlNETjVoeDVQOEJNdWI4eWE1NGpqX2VqaTJJYmdfdm1yeVRYUkNnbjBQUHk0YklleTgtR1pMSQ?oc=5",
+        "source": "이데일리TV",
+        "description": "'16.3% 인상 vs 동결' 격차 좁힐까…오늘 최저임금 1차 수정안 제시 이데일리TV",
+        "pub_date": "26.06.30",
+        "section": "hr"
+      },
+      {
+        "title": "'여성기업주간' 맞아 ‘여성기업 일자리허브 매칭데이’ 이벤트",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TVExPRTU1NHNEX3E3X1lTbGFQUnpDcGRiVXdQX0NtX2JhZkhZRy1VTVpIUW5DUmN4d0ItOWxKaWVwUEI5Uy1BMkV0eldTNHFCbjNHRU5yMFVQSEZaU0Z0VDlYel81bk5LVzB5aTIxeHJ5NW_SAXNBVV95cUxNU1RMT0U1NTRzRF9xN19ZU2xhUFJ6Q3BkYlV3UF9DbV9iYWZIWUctVU1aSFFuQ1JjeHdCLTlsSmllcFBCOVMtQTJFdHpXUzRxQm4zR0VOcjBVUEhGWlNGdFQ5WHpfNW5OS1cweWkyMXhyeTVv?oc=5",
+        "source": "여성신문",
+        "description": "'여성기업주간' 맞아 ‘여성기업 일자리허브 매칭데이’ 이벤트 여성신문",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "2027 최저임금 동결·인상 갈등…인천 소상공인·노동계도 대립",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSjF3ZWZSOU5yUlFXVUwwenExZXFWaUtUaE44X21KRWVfa3JNeS1TUXU1aWh3RE5nLTVGQjJmZHlTUVRUQXpzUlI0Rk9yM3JlT2lMaTU3MmlsTnJDeDMzd29MeWVXZHJy0gFoQVVfeXFMTmRKMXdlZlI5TnJSUVdVTDB6cTFlcVZpS1RoTjhfbUpFZV9rck15LVNRdTVpaHdETmctNUZCMmZkeVNRVFRBenNSUjRGT3IzcmVPaUxpNTcyaWxOckN4MzN3b0x5ZVdkcnI?oc=5",
+        "source": "경인방송 뉴스",
+        "description": "2027 최저임금 동결·인상 갈등…인천 소상공인·노동계도 대립 경인방송 뉴스",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "‘미미벨라’ 미용 의료 채용 시장 전문 구인구직 플랫폼 선보여",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91OHFjeWJ5MkxlM3Q3MWkxNHdvOS1Qemg3VzBZWXhEUHNnczQ5bXlfelBxZTU2Vjh5SEtNTVRYTy1IYzlwck1SOVFpbTNmVGtuREhYOGdPNllRU0hkN05TdVlSSFg4Z3Y2c2oxRQ?oc=5",
+        "source": "바이오타임즈",
+        "description": "‘미미벨라’ 미용 의료 채용 시장 전문 구인구직 플랫폼 선보여 바이오타임즈",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "삼성SDS, 新 인센티브 개편 투표 기간 늘린다 … 내달 7일까지 연장",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT2dSN2tBbWtmb3ZUS2t4MUM5M3p6cF82ZDY5ajRpQUo1a0pCN1E2eFd3OHJaVmk2TkZEYWFnVmdCWFdPNGcxbGdBdzFBRFlteDlZdzlsNkJyOEV3WWNHUVZRVzRBMF84bFNWaFpSWjE3MlJET2Y0Yjl4dl9hQmpsSNIBgAFBVV95cUxPT2dSN2tBbWtmb3ZUS2t4MUM5M3p6cF82ZDY5ajRpQUo1a0pCN1E2eFd3OHJaVmk2TkZEYWFnVmdCWFdPNGcxbGdBdzFBRFlteDlZdzlsNkJyOEV3WWNHUVZRVzRBMF84bFNWaFpSWjE3MlJET2Y0Yjl4dl9hQmpsSA?oc=5",
+        "source": "뉴데일리",
+        "description": "삼성SDS, 新 인센티브 개편 투표 기간 늘린다 … 내달 7일까지 연장 뉴데일리",
+        "pub_date": "26.06.29",
+        "section": "hr"
+      },
+      {
+        "title": "개발자 없이 자동화 앱을? 51년 건축기업의 대변신",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wYUVRVXhIZ0M3U3dxckUzUXJyUC1OUFlzV202ZHRVUDBrTjdXNUgtM1V5VGJtdHhJOThuUjk2X2RNaGxGenlqNDNXc3JId3dabll0bXBhdmd3NGI0THNiSG9OUVc?oc=5",
+        "source": "에너지안전신문",
+        "description": "개발자 없이 자동화 앱을? 51년 건축기업의 대변신 에너지안전신문",
+        "pub_date": "26.06.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "자동화에 AI·로봇 장착…디지털로 진화하는 의약품 유통업계",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4NHBOMC1tR2lPMndzUXZQWkVhWTJzS1RyX3NGQkhrU2pEa0g1RW8tamZFcUFTeFJaRm41WkJrQmt0VFBNdDFrWG54RGpmbFZu?oc=5",
+        "source": "데일리팜",
+        "description": "자동화에 AI·로봇 장착…디지털로 진화하는 의약품 유통업계 데일리팜",
+        "pub_date": "26.06.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "스마트팩토리, AI 도입하고도 성과 못 내는 이유는 ‘기술’보다 ‘실행’",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqaVEyai1ZMk9YbFJCOEZFTFY0Z0I5dHp0ZU9adUVjeEhRdDhuRThVdk5yMm9ESkY2OXlreVl3ZF9aWGJKdU9tdEI5OWM3blJWUWFnY2JoRHlhZ3MyYU84?oc=5",
+        "source": "헬로티",
+        "description": "[헬로즈업] 스마트팩토리, AI 도입하고도 성과 못 내는 이유는 ‘기술’보다 ‘실행’ 헬로티",
+        "pub_date": "26.06.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입률 높이려다 비용만 폭증? ‘토큰맥싱 Tokenmaxxing ’이 던지는 경고 | 인사이트리포트 | 삼성SDS",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTlNCbHBUQjNER1E3bXQybHEwR1ZtX3hvUEtpU2hDUnNmTmNnTm1kV1lGTkY1a0Z4X2pxbFYzX1M3M3IzTUNHeHpFQkxqSzdBWUFSdVBRS1Z5bkI4Uk9nd2VUUVdnV0VQRGVOazRVeHRjQ2M0d0Q3SVpFczJZTDg1TmJ4Q0hSNXJ6ZjlTdUdPMzhwdw?oc=5",
+        "source": "Samsung SDS",
+        "description": "AI 도입률 높이려다 비용만 폭증? ‘토큰맥싱 Tokenmaxxing ’이 던지는 경고 | 인사이트리포트 | 삼성SDS Samsung SDS",
+        "pub_date": "26.06.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "무협 \"美 관세 리스크 장기화…수출기업, 계약부터 다시 봐야\"",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wX08zMkwtU2dDZlpad3VOMERoWWVEYVo1aVNiaXJXSGt6RFE2ZHpUaDJlNjR1X3BGcGI0emJXQlJEcERHaUhaVkp3NTVGX3QxelFF?oc=5",
+        "source": "네이트",
+        "description": "무협 \"美 관세 리스크 장기화…수출기업, 계약부터 다시 봐야\" 네이트",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "국채가 보합권 혼조…중동·美 고용 경계 속 제한적 움직임",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNXFlMGhJWGRKZnFFcXZrcC1QeEU4cGxwa2JKbzIwNkN0Y0Q1VFJiSE9IUy1uOE1zelczT3VoZnRteF81Q25sY2tfbjFLclVSQjI3YjZPN3R6SWZxWElCMWJSSjZwdU1vWHRheFh5WjhHdw?oc=5",
+        "source": "KB Think",
+        "description": "[뉴욕채권] 국채가 보합권 혼조…중동·美 고용 경계 속 제한적 움직임 KB Think",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "남아프리카 랜드, 경제 지표 발표 앞두고 보합세 유지",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aRmUwMU5NZEx1MUZ2YUhDTWw2X1dkSzFLNjJfQ0lTZlcxM0labkpUQ2RDSVVCTVZwRjhQWFZuakxhRE54VWV4RjR6WTZwdDVHdFd0ZGxsNHQ0eGV3ZUhXT0FsRkNkZWhvb3VDSG5R?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "남아프리카 랜드, 경제 지표 발표 앞두고 보합세 유지 Investing.com 한국어",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "협력사와 함께 공급망 전체로 탄소 감축 확산",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTZoMWZmTE9nc3ZpNXBRNTdBQnRzYThqeTNHN1dkWWpscEgzRGpRVTJkWERrN1lUZk1STlVlZHdrTkRvc1NoV0FvNng3YzZaLXhucGU4azI4OEU3d1VaeXFSSFAwUzJkNTFCOGxCMlYya3dyclNPVVFabXltQ21nVXZFaEhWY2c1cUQxeXNR?oc=5",
+        "source": "조선일보",
+        "description": "협력사와 함께 공급망 전체로 탄소 감축 확산 조선일보",
+        "pub_date": "26.06.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "서울투자진흥재단, ‘BIO USA’ 참가…12개사 글로벌 투자유치 지원",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10a0I4am0wUno2X1lKWFBhQ2hmNEdRV09KZlZseEY4RGdFbHVaZThKbEhCQThWd1pJZ0ZoeU1HWVhQNHUxVHZwWDVUZzhXWUE?oc=5",
+        "source": "와우테일",
+        "description": "서울투자진흥재단, ‘BIO USA’ 참가…12개사 글로벌 투자유치 지원 와우테일",
+        "pub_date": "26.06.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "세계로 뻗는 K-스타트업…글로벌펀드 출자·국내 유입 해외 VC 확대",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43VW83UFBWZi1qang4MkFiRWViRUJUMFhKTEVSWndSU2ttdzFHS2REQU1JZzlueFA3b0x3ZzBIZWRfYk93b0kwUzhERENCWUw5X2tzdnVCX2U4UmpheEZoeHpn?oc=5",
+        "source": "아시아경제",
+        "description": "세계로 뻗는 K-스타트업…글로벌펀드 출자·국내 유입 해외 VC 확대 아시아경제",
+        "pub_date": "26.06.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "DGFEZ, 글로벌 투자 거점 도약 속도…올해 3천억원 유치 목표",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SEFERGNiQUZMWjhYYmszWDVGRGpqVUpVWm5rNWZPZEZTaEs4Qi1DM1FwZjlPSlFpRnp4RmhBNkxoWE1YaFQyOE5CVEd1bW5OaHQtS0YyWXlOMDlpQmEyTFd3?oc=5",
+        "source": "매일신문",
+        "description": "DGFEZ, 글로벌 투자 거점 도약 속도…올해 3천억원 유치 목표 매일신문",
+        "pub_date": "26.06.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "사모펀드 매각 대기 기업 ‘1.3만개’…현재 속도로 다 파는 데만 11년 걸린다",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vOXluRmpVeGNPR1V5VWNmS2VTdlY5Q0R5STByNzQ2dVFQdUJ6R0JYRnpUWEFZZHBDc0ZxcFRDQTlEdFhQdmZ1MHUyWXE1YnZ0VXNRZ245VEM?oc=5",
+        "source": "블록미디어",
+        "description": "사모펀드 매각 대기 기업 ‘1.3만개’…현재 속도로 다 파는 데만 11년 걸린다 블록미디어",
+        "pub_date": "26.06.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘제조업 메카’시흥의 대전환",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xZmQ4ZmhGN0FqWnN1MjJpLVNtc3BVMlNxcV8zSnVRODB0UUN1Ukt0cVdLYmt1aXVNX2FnNUpNVF9FUVYxVGE0N3dPbjZxM3NsTVNpbXN4Wng2TTNCUENhNzRzU0FFMDJWUzRIaV9pMA?oc=5",
+        "source": "기호일보",
+        "description": "‘제조업 메카’시흥의 대전환 기호일보",
+        "pub_date": "26.06.30",
+        "section": "innovation"
+      },
+      {
+        "title": "\"K-제약바이오, 글로벌 선도자 전환점… 식약처는 든든한 지원군\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DRkt0MGYwV2hkTnhUeklseVJJUGVpb2lrVHhONkxtak85VzJHcFNVQUlvblBaZjdPZGdIVmlmb2JCQ0M1NmJSYzRPY3kxdnlhNGpwTU5NX2JBdXprTzRDNjVLcGFFRlUxT3BB?oc=5",
+        "source": "히트뉴스",
+        "description": "\"K-제약바이오, 글로벌 선도자 전환점… 식약처는 든든한 지원군\" 히트뉴스",
+        "pub_date": "26.06.30",
+        "section": "innovation"
+      },
+      {
+        "title": "반려동물 혁신 치료제 연구 집중",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxV2xTRllhZXYtM1lpUkNHeHlkS0hZenlLb2xhX2tCN2t4RkV0MDVLWk50S0xPMEZSRTZqY1MyWExIc21fcTdscF9yejhwT0Rta005N25R?oc=5",
+        "source": "중앙일보",
+        "description": "[2026 혁신 바이오 기술대상] 반려동물 혁신 치료제 연구 집중 중앙일보",
+        "pub_date": "26.06.30",
+        "section": "innovation"
+      },
+      {
+        "title": "\"규제샌드박스 승인 받고도 법 개정 하세월\" 스타트업계 호소",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOYjE3RTVjUURDUGh1TlB3RU9kMEg0ZzFTWjVwRWJyU20yTHBuOGdXaWlkcXVIUGtDNHNwREs1YkdUY2VMRTdDZDB4UHI2bGJ4ZGwtQ0hhS0hjNmhYWVNkRWhYeXc3ekZISHhHM0xLRFhZZTJmckdR?oc=5",
+        "source": "아시아경제",
+        "description": "\"규제샌드박스 승인 받고도 법 개정 하세월\" 스타트업계 호소 아시아경제",
+        "pub_date": "26.06.29",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "news": [
       {
