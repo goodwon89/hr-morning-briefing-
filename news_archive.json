@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-01",
+    "news": [
+      {
+        "title": "내년 최저임금 올리긴 올리는데...노 ‘1580원↑’ vs 경 ‘40원↑’",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cG1TaXhrRmJYSlFia2JTZERQWEJaNmRTRXVILVdtOEVNLWkyOUh0VnQtVDB5dGpzemxaRF85Zk16dUxRMjFLZmI4WnR1Tm5oRlVGU1g0N1BPSnFpWm9TejRvalBKRVE0UU92U0l3?oc=5",
+        "source": "더스쿠프",
+        "description": "내년 최저임금 올리긴 올리는데...노 ‘1580원↑’ vs 경 ‘40원↑’ 더스쿠프",
+        "pub_date": "26.07.01",
+        "section": "hr"
+      },
+      {
+        "title": "외국계 반도체 기업들, 한국 인재 ‘빼가기’ 혈안",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pZU9oQmhHR1VnZEtDbEM0VVJESEY3YnppT3NMRFlhUGhIeTJTdWxXVVVFWldCdW9kWTMzMXVQbnc5RFpoOE5ISmh3RHI3amtvRjU5ZjFETGkyZndtWDhhT1g2RmxKOWZwRDVFVzFySk9GeXE3R25MbXA2aw?oc=5",
+        "source": "이데일리TV",
+        "description": "외국계 반도체 기업들, 한국 인재 ‘빼가기’ 혈안 이데일리TV",
+        "pub_date": "26.07.01",
+        "section": "hr"
+      },
+      {
+        "title": "한국MICE협회, ‘MICE 기업 전문관’ 개설",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bTNWTVpzeHFzTV9aVnMyNXU1VllCSGVzU2dEczZmaWhmSkFyYktnVTBGUmE2SVgySl9SWGFiT0JYa0JBUTJsOEhOaXBkbEh3bWZsNWxoSUtfZkFBSHY2TllfQkdSRkFrVVJvRXZMeUc?oc=5",
+        "source": "트래블데일리",
+        "description": "한국MICE협회, ‘MICE 기업 전문관’ 개설 트래블데일리",
+        "pub_date": "26.07.01",
+        "section": "hr"
+      },
+      {
+        "title": "법정기한 넘긴 최저임금 협상 … 勞 15.3% 인상 요구에 使 \"급격한 인상, 고용 충격 불가피\"",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHV3WjVMWEpmcVBaUkMtYTAwQWM4cWQ0Skp2a281ZEszN2tGVXNneU5WTTlTaDVpc3Bnd2s2RUFKbmdlWllRX05Uc2lWWkxkN3VfQXJZb1lXQnlNNm1pUWhrNDBYTl9SZGZseWVXOE1CcHVPNkhIdklTdkZYWHRxZtIBgAFBVV95cUxNZHV3WjVMWEpmcVBaUkMtYTAwQWM4cWQ0Skp2a281ZEszN2tGVXNneU5WTTlTaDVpc3Bnd2s2RUFKbmdlWllRX05Uc2lWWkxkN3VfQXJZb1lXQnlNNm1pUWhrNDBYTl9SZGZseWVXOE1CcHVPNkhIdklTdkZYWHRxZg?oc=5",
+        "source": "뉴데일리",
+        "description": "법정기한 넘긴 최저임금 협상 … 勞 15.3% 인상 요구에 使 \"급격한 인상, 고용 충격 불가피\" 뉴데일리",
+        "pub_date": "26.06.30",
+        "section": "hr"
+      },
+      {
+        "title": "R]대구시 첫 조례가 공공기관 임원 임금 인상?",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsTmVYd094c1h3Yi0xVW1ySUVRZTVzVzk0Z1l5SXl1RXNORDJLR0tGX2VKbURqbno3VjgyeVRsT2hsTkp1MmZkaDZ3WDlyQ2U5b1hwem9iN2dqUGZzQ3lyS3VBekdzQWVm?oc=5",
+        "source": "안동MBC",
+        "description": "R]대구시 첫 조례가 공공기관 임원 임금 인상? 안동MBC",
+        "pub_date": "26.06.30",
+        "section": "hr"
+      },
+      {
+        "title": "울산대, 글로컬대학 성과평가 ‘B등급’…국고 지원금 유지",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QMUFjbnR0UktsVDExYWNBYWI5T3VENDdZYlE5bmdUN21wZXNOSXlOMGlNT1VYVndkQWFpdlBBb1lBU1RyM3FReWZPMk1DTW42VVZlWGZGVEI1bDI4NlU0V00xS3o4dWhValR6RG130gFuQVVfeXFMTVAxQWNudHRSS2xUMTFhY0FhYjlPdUQ0N1liUTluZ1Q3bXBlc05JeU4waU1PVVhWd2RBYWl2UEFvWUFTVHIzcVF5Zk8yTUNNbjZVVmVYZkZUQjVsMjg2VTRXTTFLejh1aFVqVHpEbXc?oc=5",
+        "source": "iusm.co.kr",
+        "description": "울산대, 글로컬대학 성과평가 ‘B등급’…국고 지원금 유지 iusm.co.kr",
+        "pub_date": "26.06.30",
+        "section": "hr"
+      },
+      {
+        "title": "태평양, 리걸 AI ‘하비’ 全社 도입",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83SDJzR1hGZ0kwbUlBbmlnYlZMSlhhb2JzblI0NkpXYUFab2JyTXlCdEdURFR4TVB0eTl2RWQwaXRSNzRuSmtTUXMza1owNXY5ZG9fc1NBdjdiTzlHbjl3Z1Jkd0o5SXphU2ZlSWZB0gFyQVVfeXFMT1lZMENVNGNkTkRlSk1mUHc1ZHVrVmJOUE05a01TS1FIQkctZlo1dVZ5ZHJOWTUzRjZzX0tuS085V1VqRFNYTDRKWGxwSFdXWXAxamtDUEJtbm45ZGwwLUQxWndwandCTGhmNDdLallqR1Z3?oc=5",
+        "source": "법률신문",
+        "description": "태평양, 리걸 AI ‘하비’ 全社 도입 법률신문",
+        "pub_date": "26.07.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "가천대 길병원, '왓슨에서 닥터앤서까지' 의료 AI 선도",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RMXNMMnlZek1fZGEtYzFhT0VnZDVtdi1wUDlUaHBSZjdlNlhXSnRFY3RSOHpZTzRnX1E2UXQ1TVdnRGpUSFktWk1QVkxfSUpwUjhmZWRuVQ?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "description": "가천대 길병원, '왓슨에서 닥터앤서까지' 의료 AI 선도 MEDI:GATE NEWS",
+        "pub_date": "26.07.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "군의관 수급난 해결책이 AI 도입?",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9peDlDbGw5dnA4dHd3RHNHcWVPT0l5SVpydkdxWktWbGtwT1AtZmRybjNtMkJsTU9TcGFxNGN0cDRqR3Nmcm5BMkI3ZXBpbld5MmhWYjdqbVprQTdYSVVzQWZhY1hvbzhJbDg2MUtaVVfSAXNBVV95cUxQOHJSS2lFMkUzMjhobGtKWElqOVJzWUdJbWR2b19HQ3BIYldOU0ZfZFBYVkd2dGh3aWI1REd4a1RKSnFsTGw2U01lbi10cnVNOFZMWmdRVjNUeEJOTzJZaHB2QVJpckVQOHc2bHhVWVM3bHlv?oc=5",
+        "source": "청년의사",
+        "description": "군의관 수급난 해결책이 AI 도입? 청년의사",
+        "pub_date": "26.07.01",
+        "section": "ai_tech"
+      },
+      {
+        "title": "나우로보틱스, 한양로보틱스 흡수합병 완료…산업용 로봇 풀라인업 구축",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zUGRvTTZxNV9RcUpZa3NHSHBiLUkzMi12Z0lPVmJyUkFSc2MxQTl5VTduM2pIbGVTLWYwcUNiMUtkY19lSjd1RA?oc=5",
+        "source": "플래텀(Platum)",
+        "description": "나우로보틱스, 한양로보틱스 흡수합병 완료…산업용 로봇 풀라인업 구축 플래텀(Platum)",
+        "pub_date": "26.06.30",
+        "section": "ai_tech"
+      },
+      {
+        "title": "반년간 50조 쏟아부어도 '역부족'…환율 '1600원' 전망까지",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZaW9WalhWMXBsZWM3dUUteVlLMktFMTVKRENjR3daZGdCSVdqSFB0cXFBTDdBdzQ4aWNYNVF3WUdId3NQcjdnZnVQUXA1a2NwZzFhM2d3dk5Cd9IBVEFVX3lxTE5FbnJibHZMR3J0blY3Q0VhUkZrYV9BN19pYS1nVnNHU2RTdTRoT1dhQzRfQmdLdWtiSk5wTV8zdGdLLTJrWVFrdXZHakhWb0t2Q1E3ZA?oc=5",
+        "source": "한국경제",
+        "description": "반년간 50조 쏟아부어도 '역부족'…환율 '1600원' 전망까지 [분석+] 한국경제",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "스마트 그리드 ‘세계 3위’ 비츠로셀, AI 전력망 핵심 공급망 뚫었다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yTnJmazJiVUVlelA1YTVEOWN3R2E0aHI2LTVOSzNFUENYMG9HNVEwRE91UjAtTjRtQUdSd1h4TTc5Y0pSSW1lTW1hcElZRGgtYUZhR2NvUWdHZzFCdF91TFlHdlVqT0d6QjR3bFdn?oc=5",
+        "source": "아시아투데이",
+        "description": "스마트 그리드 ‘세계 3위’ 비츠로셀, AI 전력망 핵심 공급망 뚫었다 아시아투데이",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "이재명 대통령, 지역 전략산업·에너지 공급망 대응 지시",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pc0tsTjQ4THItNnZSQXFSQ1MyYTA3ZG9qQlhWQmpGbU9zYlhCNUswNGFJcDRrT0ZwQmtyb1RteEFlVEQySHR0YmlMT0ZOMlU5R1BQdlFZcWdmOFRiZE4yVGlHY2x0V2fSAWtBVV95cUxNTHJ6Q0dLMTJRaUJ5SUdsWmRwRHVHSm90bmtXMk9obWF4NmEyeHpheWxlRVFFR3p1Tl9UclJpdWpGY2xGT1dmVUJrNmEwaXhtLTZtSmtBWTB1cldzVmVWTmJ3eE9CbVladnNiRQ?oc=5",
+        "source": "K뉴스통신",
+        "description": "이재명 대통령, 지역 전략산업·에너지 공급망 대응 지시 K뉴스통신",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "슈퍼 엔저에 외인 엑소더스까지...“1600원대 환율 전망 나왔다”",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TUThZaUsxYXJqd3ZtbDNOX2dMeTlMQjNlb2J5NmM2OFNYR1pTbmpYMnFvU0JpdXpRZm5CS1ZlcEJWMXBwVDJRa0w3RThzRGl0aTBDLVlheFZTSEtmYWpNSEowNkV2ZzBaVF82U01Ob9IBb0FVX3lxTE1TUThZaUsxYXJqd3ZtbDNOX2dMeTlMQjNlb2J5NmM2OFNYR1pTbmpYMnFvU0JpdXpRZm5CS1ZlcEJWMXBwVDJRa0w3RThzRGl0aTBDLVlheFZTSEtmYWpNSEowNkV2ZzBaVF82U01Obw?oc=5",
+        "source": "투데이신문",
+        "description": "슈퍼 엔저에 외인 엑소더스까지...“1600원대 환율 전망 나왔다” 투데이신문",
+        "pub_date": "26.06.30",
+        "section": "macro_industry"
+      },
+      {
+        "title": "ITG, IPO 공모가 16달러 책정…2억 7,920만 달러 조달 예정",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CYXRhOXZOekg4clM4OGdHSDBiTjEtT0tfcmJGclk2STI5Y3hwQzFLOHU5RW9ROGpyblJTaVpPdDRjdm1JMVM2NnRFWXhXak1RU2RDSkMzLTJFcXVKb0RXLVA4WUEzRW1TLWRnWWs1ZHA?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "ITG, IPO 공모가 16달러 책정…2억 7,920만 달러 조달 예정 Investing.com 한국어",
+        "pub_date": "26.07.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "예술 스타트업에 베팅한 VC의 계산",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wZUk3TWVBX2c5MnZBLVlIR3RjVXNtVS1mQ3JPT1ZmYnJrWm81MG50bldxd3ByU24yT1lLV1p0Z3RtTmVkNjBCS0t3?oc=5",
+        "source": "뉴스N연합",
+        "description": "예술 스타트업에 베팅한 VC의 계산 뉴스N연합",
+        "pub_date": "26.07.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "서울투자진흥재단, 세계 투자유치기관 협회 가입…글로벌 투자유치 본격화",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUi1UTWVfRHBqcnZjSUJZZHJUUXRmSlVXNm1SdEVGYkYwQXRZZ29PUzhfQWNDVEJ4OWpFeVBfMEtabWlkMVRzbkYyTjBMaWNXRFR3ZWk2TmVnc2pKOGNHckYxU2RRZGhZRmdxatIBbEFVX3lxTE1GUi1UTWVfRHBqcnZjSUJZZHJUUXRmSlVXNm1SdEVGYkYwQXRZZ29PUzhfQWNDVEJ4OWpFeVBfMEtabWlkMVRzbkYyTjBMaWNXRFR3ZWk2TmVnc2pKOGNHckYxU2RRZGhZRmdxag?oc=5",
+        "source": "스타트업엔",
+        "description": "서울투자진흥재단, 세계 투자유치기관 협회(WAIPA) 가입…글로벌 투자유치 본격화 스타트업엔",
+        "pub_date": "26.07.01",
+        "section": "invest_ma"
+      },
+      {
+        "title": "상반기 IPO 55% 감소…수요예측은 선방",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbGR3OTAyQTZZRFM2dzZCd1gzNHpxZWlhbmxGSXJhWlRCaFVDWDc5akdZdjdZZlJMS1BhRWFxQU1odk9DSERINmdCdVpxQXhicEg5U1U3ejZWNHFqeHFRTmtVR3Q1WFN6cXlhRjVRdE9jNmMySENkbUx2enZCOHcxdzBrdTY4cEZHS0wzMTQ5ekdoX2Z3TlFlVWV5cWtFUXl3SVdhdURjaF9halhwXzVLa19laVpXZ3JxQnFreUU0S1NBTnFqbFhoV1lTRXZ3R3d3RnA1TVJ4R2lQUnVEVE9SSzh0ZGlBS1UxVGRyTS1nMl_SAfABQVVfeXFMUGxkdzkwMkE2WURTNnc2QndYMzR6cWVpYW5sRklyYVpUQmhVQ1g3OWpHWXY3WWZSTEtQYUVhcUFNaHZPQ0hESDZnQnVacUF4YnBIOVNVN3o2VjRxanhxUU5rVUd0NVhTenF5YUY1UXRPYzZjMkhDZG1Mdnp2Qjh3MXcwa3U2OHBGR0tMMzE0OXpHaF9md05RZVVleXFrRVF5d0lXYXVEY2hfYWpYcF81S2tfZWlaV2dycUJxa3lFNEtTQU5xamxYaFdZU0V2d0d3d0ZwNU1SeEdpUFJ1RFRPUks4dGRpQUtVMVRkck0tZzJf?oc=5",
+        "source": "데일리안",
+        "description": "상반기 IPO 55% 감소…수요예측은 선방 데일리안",
+        "pub_date": "26.06.30",
+        "section": "invest_ma"
+      },
+      {
+        "title": "동아에스티, PARP7 저해제 등 혁신 파이프라인 소개",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IT2ZzUUlvV0FIMml0LXhiVVZXZXJRRXh1MXhrckVTZ2NiS3JDeVV2NUg5dVpEeVlVaXYxNWoyMkZjRVZCd3lLVHE0X0tOaHo2SG9URVNsV3ltOTlCcHVrbmV6el85Y1NqSVJR?oc=5",
+        "source": "메디칼업저버",
+        "description": "동아에스티, PARP7 저해제 등 혁신 파이프라인 소개 메디칼업저버",
+        "pub_date": "26.07.01",
+        "section": "innovation"
+      },
+      {
+        "title": "K-헬스 해외 진출 본격화…베트남서 수출 성과",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05cDAtWlJXck4tNHp3ZTdNT3FRSHp4NXhLNkRzUm82b0RzN0lrbUpQUmRWWXM4YzY4U05COUQ4aUJxZ1I1NFczOTNzOHhtTXVndHVB?oc=5",
+        "source": "네이트",
+        "description": "K-헬스 해외 진출 본격화…베트남서 수출 성과 네이트",
+        "pub_date": "26.06.30",
+        "section": "innovation"
+      },
+      {
+        "title": "국내 의료AI 기업, 베트남서 수출계약·500만달러 MOU 추진…K-Health 글로벌 진출 성과",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOWpnZUZnQ2tmdTAzaWoxRWdDQVVfN2pTZTJLZFo2OUk3MkFIREpzSS1pa21teE1Db1FIMTRzakh3SWQyS2J4VU1HVmNXeldibkw3WGFJMk1WamRWOHpjWHVXWFhrYTRW0gFsQVVfeXFMTlZpcUwwWVJGeF9sdUxjYTk1QlczSTRiN3JIRkZxS0NrM09BRmhldnFBY3dzMzBFdjFUTVFIY1ZjVWJ1Y1N2Z3djV21EVnFGNzNrSjU1bzNRNndTWUE5YVUtdFdsb01CNjU0a2pC?oc=5",
+        "source": "스타트업엔",
+        "description": "국내 의료AI 기업, 베트남서 수출계약·500만달러 MOU 추진…K-Health 글로벌 진출 성과 스타트업엔",
+        "pub_date": "26.06.30",
+        "section": "innovation"
+      },
+      {
+        "title": "K-헬스 AI 기업, 베트남서 8.5만佛 규모 수출 계약 따냈다",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjTVNTMV8xQTRqazdXX0pWaTVXakpJbUZ0R1RWd3FJd1NYOE1VOXFiVmwyelFqT1M4eENmNVJjWnRvNWZzcDNoajZPV1hWSFRKenIxZlJTOEJaWDNFQjA2b0VfSklEdVYwS2haclZfTkRVT1RKNGZaTdIBeEFVX3lxTFBjTVNTMV8xQTRqazdXX0pWaTVXakpJbUZ0R1RWd3FJd1NYOE1VOXFiVmwyelFqT1M4eENmNVJjWnRvNWZzcDNoajZPV1hWSFRKenIxZlJTOEJaWDNFQjA2b0VfSklEdVYwS2haclZfTkRVT1RKNGZaTQ?oc=5",
+        "source": "뉴시스",
+        "description": "K-헬스 AI 기업, 베트남서 8.5만佛 규모 수출 계약 따냈다 뉴시스",
+        "pub_date": "26.06.30",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "news": [
       {
