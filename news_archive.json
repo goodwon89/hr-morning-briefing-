@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-03",
+    "news": [
+      {
+        "title": "‘사실상 구조조정’… 신한카드, 대규모 인사 개편에 ‘시끌’",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KSjY1ckx0c3Q0SjFkUVppTHp6alhFNTF3bDEwWERsUWxFMlRkV1pTRFpVbXNpTXpXbHpMRUFEdlpxS1JsUDc0SXRtb1p1c1AyVDNmLW5OWXZhQzNpMnN5THg4ZTV0aHRXdGpKVWNKd3c0UGk40gF0QVVfeXFMTkpKNjVyTHRzdDRKMWRRWmlMenpqWEU1MXdsMTBYRGxRbEUyVGRXWlNEWlVtc2lNeldsekxFQUR2WnFLUmxQNzRJdG1vWnVzUDJUM2Ytbk5ZdmFDM2kyc3lMeDhlNXRodFd0akpVY0p3dzRQaTg?oc=5",
+        "source": "IT조선",
+        "description": "‘사실상 구조조정’… 신한카드, 대규모 인사 개편에 ‘시끌’ IT조선",
+        "pub_date": "26.07.03",
+        "section": "hr"
+      },
+      {
+        "title": "벨 퓨즈, CEO 및 CFO 연봉 인상 등 고용 계약 개정",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43TC1lUVNzQ3NQWmZTSGc4WFpKUjhMYWxualZWQ3pTa3M3dE41cnl0d0lPVlJnN09mYzFMbi1KME9DdlQwZzV5X2pSVENFTFNNa2F0WnBidkVQWHZmV0NQcW9kRjZXcV8teXhYT1FORmlOOVk?oc=5",
+        "source": "데이터투자",
+        "description": "벨 퓨즈, CEO 및 CFO 연봉 인상 등 고용 계약 개정 데이터투자",
+        "pub_date": "26.07.03",
+        "section": "hr"
+      },
+      {
+        "title": "“채용팀, AI 활용한 직무 역량 검증 필요 지원자는 ‘내 전문성에 AI 결합’ 전략을”",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fXzRBMDZOb05hTldxU3ZDTi10S0ZTb1RKM1g0cU8wMkhPVU9xX2I5WE1kUXJCWXRSMTZ6QjZwWHpYMGFwV0E5RG1FUmNPQkJkdFlDd3V0ZTZJR0EwQXhPSG5VWHMzeHc?oc=5",
+        "source": "동아비즈니스리뷰 | DBR",
+        "description": "“채용팀, AI 활용한 직무 역량 검증 필요 지원자는 ‘내 전문성에 AI 결합’ 전략을” 동아비즈니스리뷰 | DBR",
+        "pub_date": "26.07.02",
+        "section": "hr"
+      },
+      {
+        "title": "지역 청년·기업 잇는 온라인 채용의 장 열린다",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dVE0YlZoM3o2RE9mNWY4OFZISnZyUnlRM0hyWFdpM3FwNWJBQmhUZTN2ckVIZ3NPZjJ0OG4tdmhPYWVIM0VoUDE1YUJKNUdDU1g0OHFsdF96UlVfengyRHczeGRsNDl1TkpZU2Fn?oc=5",
+        "source": "전국도민뉴스",
+        "description": "지역 청년·기업 잇는 온라인 채용의 장 열린다 전국도민뉴스",
+        "pub_date": "26.07.02",
+        "section": "hr"
+      },
+      {
+        "title": "에스넷그룹, 2026년 하반기 조직개편… 계열사 책임경영 강화",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82cHNtVnpfVW15M1VzTlhRNDRIaC1kOWE1Rll0cThsV3M4V0NvdE0wbEFWdmR6MGZDTVhPbmZQdDJaTlRwd0ZncERCSV8ySm9xcDJQU3N0dTV0S1U2WE8wYXNuLU9VQTJiekt0YTd6YjlabjNk0gF0QVVfeXFMTzZwc21Wel9VbXkzVXNOWFE0NEhoLWQ5YTVGWXRxOGxXczhXQ290TTBsQVZ2ZHowZkNNWE9uZlB0MlpOVHB3RmdwREJJXzJKb3FwMlBTc3R1NXRLVTZYTzBhc24tT1VBMmJ6S3RhN3piOVpuM2Q?oc=5",
+        "source": "IT조선",
+        "description": "에스넷그룹, 2026년 하반기 조직개편… 계열사 책임경영 강화 IT조선",
+        "pub_date": "26.07.02",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금 격차 1200원대로 좁혔지만… '일터 증발' 부르는 인상률 우려",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQelUzX3NkODdDRHhza0NXSy0xTVV1RkRCZzFjZEdBbEwyeUdkUGFsaTJKX1FpVm9NU1ZLQUd2WmZULVhwbnQtU29DbnVUN1Y5MHgtcGhYTTRMMUZ6Y1NkZXlWaWFzTjNTa3p4ZmY2X1NuRDdhVTFVbHk4OEZyVDF4eNIBgAFBVV95cUxQelUzX3NkODdDRHhza0NXSy0xTVV1RkRCZzFjZEdBbEwyeUdkUGFsaTJKX1FpVm9NU1ZLQUd2WmZULVhwbnQtU29DbnVUN1Y5MHgtcGhYTTRMMUZ6Y1NkZXlWaWFzTjNTa3p4ZmY2X1NuRDdhVTFVbHk4OEZyVDF4eA?oc=5",
+        "source": "뉴데일리",
+        "description": "최저임금 격차 1200원대로 좁혔지만… '일터 증발' 부르는 인상률 우려 뉴데일리",
+        "pub_date": "26.07.02",
+        "section": "hr"
+      },
+      {
+        "title": "국가건강검진에 인공지능 전격 도입…의료계 긴장",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VV2Nxd2NJdmlvRzJTRzJDOFg1VmpDLTFCeUZJbk9OZHdxZ0cwNFl4LXZzUVhUNnJ5QXBrLVlqUDZhTUE5aE4ycHhubi1jdFdISFU5WHMtQ3JoNVd4LS1rRURRa0d6bWIxTVVwVlNVTm5vb0FB?oc=5",
+        "source": "데일리메디",
+        "description": "국가건강검진에 인공지능 전격 도입…의료계 긴장 데일리메디",
+        "pub_date": "26.07.03",
+        "section": "ai_tech"
+      },
+      {
+        "title": "MS, 엔지니어 직파해 AI 도입 돕는다…3.8조원 들여 조직 신설",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85VV9xd0hOOUtaeWNUMlZGcERsazk1TGZhRm9lSW1KcHlxa2gzbS0wQW5ISDhwdmh1X1dWRU1hMDlIN1h2cnlRUVJQaTdxU3ZpeUE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "MS, 엔지니어 직파해 AI 도입 돕는다…3.8조원 들여 조직 신설 매일경제 마켓",
+        "pub_date": "26.07.03",
+        "section": "ai_tech"
+      },
+      {
+        "title": "마이크로소프트, AI 도입 지원 위한 6천 명 규모 조직 신설",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zaXZzMUFRVmQ0UnBrZXRaa0lfV091ajJ6OWt1OGxGM0ZiZUlGRjdOczR5bmFEeF90RzhEc25vamh0V1BWNno1UmlNbXQ5MTVxbjlNNGdvOWgwMk1UZWViT2xkU3lpazQwZW5BMGprMzY5emJIVUFv?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "마이크로소프트, AI 도입 지원 위한 6천 명 규모 조직 신설 Investing.com 한국어",
+        "pub_date": "26.07.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "로봇 배우러 안산으로…259억원 교육센터 품고 산단 혁신 가속화",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IdEVrampjTDV6M2wxdnIyaHlYUVJHa0pNR3dBeEZ4MHgxak5yUENEazRSVElZQUFOT3RHV2lLbXRWWloyanRsUXhyekJyQQ?oc=5",
+        "source": "전자신문",
+        "description": "로봇 배우러 안산으로…259억원 교육센터 품고 산단 혁신 가속화 전자신문",
+        "pub_date": "26.07.02",
+        "section": "ai_tech"
+      },
+      {
+        "title": "OECD, 한국 성장률 2.6% 유지…반도체·소비 회복이 경기 버팀목",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02WmQ4UWI5RTR1R1JhMnk4ZTkyM1pSRkROSklJREU4Sm81R2x0SkFfcnZPQ2xhcm1rSFpkQ3hTTmxNZzBUYnFnS3hrTnFLRElHakJQWjdhUkZzRC1rOXRiWFpVR3BhN00tNk43WGo2NThzaHfSAXdBVV95cUxPbXRYc0FfVVVqTGVwUjlWd05EYnlva19RQXFPamFSLUZ4d1hZcW93UDJTWThhTi0wRjBKTlByRy1SS0J1OVctS1lydWhHaFRlUjBqZ2V1d3ZxcUZSa2k3VWFBODZqRXpCdjFrRXl2QWlFYWRjUlpsTQ?oc=5",
+        "source": "스트레이트뉴스",
+        "description": "OECD, 한국 성장률 2.6% 유지…반도체·소비 회복이 경기 버팀목 스트레이트뉴스",
+        "pub_date": "26.07.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "⑦KB증권, 건전성 개선 열쇠 'PF 관리'",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2aVFDYmJoQUE1QmZMNV9GanFKYkFHbldZWW5OZGpTbVp5VjR4aUx0ZmZ0SjE0OV90WEdTcWI3M3owOU1IUDJpODJQaC14cXUySVJSZElBQVlVTFB4NzYzbWFFdTBKR0Mw?oc=5",
+        "source": "fetv.co.kr",
+        "description": "[증권사 부동산 리스크 점검] ⑦KB증권, 건전성 개선 열쇠 'PF 관리' fetv.co.kr",
+        "pub_date": "26.07.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "6월 소비자물가 상승률 3.2%… 2년6개월 만에 최고 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZG9YSDhSdXZJU0xRMDdab3h3ZVZ4enNqS1FhMmw2RFAteU96alpMcU1DQlNkQ2d6VUNqQi1OdTByUlVCZFlIeDA4TWRFbVpPUWwtZDhGSHFuSFlSYkhXSVBPT2hhaDc4MWfSAW9BVV95cUxPUm45TFRNSTlidXBjaVBVdzhoelpvcUMwYnI2TzhoNmZGSVY1ZW12ejNWckhHYnlDRGpfUFpVWUtXZ1RCY00ycFd0VFdiSzBrYkttVXp6aENMdHBUUlFvY05XVkFHcFpSbUFXMGctVkk?oc=5",
+        "source": "머니투데이",
+        "description": "6월 소비자물가 상승률 3.2%… 2년6개월 만에 최고 - 머니투데이 머니투데이",
+        "pub_date": "26.07.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "6월 수출 사상 첫 월 1000억 달러 돌파",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkJ1NnotcGt0RGJkWGppRmV4V1g0ZWtPNjA5N3RoVERZdVM5aXNsOHFVdkxFWVJNTC1WcXVLa0lLS2tTNEhxTEZlb1BpNFhra3lKVTZ1NlNsdWEwbjVlakFLUU1aeTFsd2RSSkhCbExvSExLM1dDZGVpV1Z2N2wzcDk1a0dENHZva0gwaEU3X1BPcEp6X1BaVUZXUTJWczg5NWhLd21yOFBzSk1rSlZJSXBEdWpxQzRtZ2hkZWJmZ2RFOGJqekl5eWVJdWVVekd2X2ZJUUVzc0x6UloyQTZrZUpJR1haY0FqY3hwQl82TmdFNkE?oc=5",
+        "source": "gonggam.korea.kr",
+        "description": "6월 수출 사상 첫 월 1000억 달러 돌파 gonggam.korea.kr",
+        "pub_date": "26.07.03",
+        "section": "macro_industry"
+      },
+      {
+        "title": "고환율 무기 쥔 글로벌 사모펀드, 한국시장 정조준",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aZm4yeDQ3Z0pWQXhTaFhwU2g3WG44ZU9Pc19UWmctSWZGYm5tOF9fM1JPWks1MFBmUXd5T3BNSnJlU0RCTU5VSVhLSHlRVGZCeE4zS24tU0QwclVCa0FkOE1oQ1gxdjktaHltbklEN3JDN00?oc=5",
+        "source": "마켓인",
+        "description": "고환율 무기 쥔 글로벌 사모펀드, 한국시장 정조준 마켓인",
+        "pub_date": "26.07.03",
+        "section": "invest_ma"
+      },
+      {
+        "title": "아바노스 메디컬, 사모펀드 AIP 인수 합병 관련 모든 규제 승인 획득",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QTG5uS05xVkdXcEp4RFdqVGRST3dYRG9MR3lTU2MwYzAyX1JEZlBpcXh1ejQ3d05uUHJja21CZWtmQzVFcVZFWVAtTWlOZVRzclRsOTc2Z2k5MmozTldsMHlxcElGTS1FRU5VejFNc0hHdw?oc=5",
+        "source": "데이터투자",
+        "description": "아바노스 메디컬, 사모펀드 AIP 인수 합병 관련 모든 규제 승인 획득 데이터투자",
+        "pub_date": "26.07.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "찬바람 불었던 상반기 IPO 시장…공모가 하회도 속출",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXlmZTZteXdSYkxDcnBpcUNFTzJ4ZGxSa2ZUcXlucG9jNlBHTEc4OU9tVG5ocWJBVzRSV3E0U2dKb0Y2SW5qc3pzQURac3VNa1F6ODZFOTJfd2tuY1dSTm8zcG9WeDU5aG5PWXZrd2ZXeTNPY3RlaDJPMXpwRGp5Yg?oc=5",
+        "source": "이데일리",
+        "description": "찬바람 불었던 상반기 IPO 시장…공모가 하회도 속출 이데일리",
+        "pub_date": "26.07.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "중고명품 '고쳐파는' 패피스, A 브릿지 라운드 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EZ0NMY2IwODR1cE5zY2hZRDZyam0zTEtlOUR6c19kcXRucnpHWjFxSG1yX0dTbW9QZUVJcnZDNUZOU0RibkdHMENRRVpCNlM4VlFNZ1VpMWpRRFU0eXFJTjVWOXVtb2VDeXRwMw?oc=5",
+        "source": "유니콘팩토리",
+        "description": "중고명품 '고쳐파는' 패피스, A 브릿지 라운드 투자 유치 유니콘팩토리",
+        "pub_date": "26.07.02",
+        "section": "invest_ma"
+      },
+      {
+        "title": "한미약품·SK바이오팜, 제약·바이오 신흥국 탑티어 지목",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnSzBXdW5KQjd6aUZKY0pHeXNqcFFZZUNEdTZqNjc4MUpLRHhuN2RGUE1RbDFYQ1lTZG1Ia2VidVNycWVraE84TlNhckNYUTJBUnRteXlHOV9Gd21LWXZ6TmtkRWowMERfenRJ?oc=5",
+        "source": "메디칼업저버",
+        "description": "한미약품·SK바이오팜, 제약·바이오 신흥국 탑티어 지목 메디칼업저버",
+        "pub_date": "26.07.03",
+        "section": "innovation"
+      },
+      {
+        "title": "아크릴, AI 데이터센터 시장 본격 진출…인프라 플랫폼 'GPUBASE' 상용화 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SlBPa1d6eV9rQ0lnM3VMYThSTDRmcVloRDd2amY5elJRWlZkSExjcXBVVkhtQWtMRDNYUHZ4TzRyWm9uNFQ5ODBhcnZ1cGNKSFZwR29oTlZJYzZwbjNOeXotNjcxRnh2TjBZOUYtLVhld9IBckFVX3lxTE56SlBPa1d6eV9rQ0lnM3VMYThSTDRmcVloRDd2amY5elJRWlZkSExjcXBVVkhtQWtMRDNYUHZ4TzRyWm9uNFQ5ODBhcnZ1cGNKSFZwR29oTlZJYzZwbjNOeXotNjcxRnh2TjBZOUYtLVhldw?oc=5",
+        "source": "머니투데이",
+        "description": "아크릴, AI 데이터센터 시장 본격 진출…인프라 플랫폼 'GPUBASE' 상용화 - 머니투데이 머니투데이",
+        "pub_date": "26.07.02",
+        "section": "innovation"
+      },
+      {
+        "title": "산불 진화 드론, 야간비행 길 열린다... 규제샌드박스 과제 선정",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85RG9vNEp2ampnQlRRUXJPS2FReTZlS0I5TE1MX0RNcURXVThvQ3hJeHJld1RVekRZWEhybFotSi15blZWN1VJX2RWcDdfMkxiSnlwb3FiWGVRWE44S3c?oc=5",
+        "source": "보안뉴스",
+        "description": "산불 진화 드론, 야간비행 길 열린다... 규제샌드박스 과제 선정 보안뉴스",
+        "pub_date": "26.07.02",
+        "section": "innovation"
+      },
+      {
+        "title": "네이처 리뷰 드럭 디스커버리가 꼽은 한국 바이오제약 혁신 선도기업은? 한미약품·SK바이오팜",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03MnRTX0IzSXdTekFPbmlZdkZjVlE0d1p1MVp0QnZYMkRfZUVGTC1weTBrWHRfMXIxNmhuUlhKME9OMEo1MkN3STFkN1JqME13VFNsbWZ3?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "description": "네이처 리뷰 드럭 디스커버리가 꼽은 한국 바이오제약 혁신 선도기업은? 한미약품·SK바이오팜 MEDI:GATE NEWS",
+        "pub_date": "26.07.02",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-02",
     "news": [
       {
