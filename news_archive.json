@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-07",
+    "news": [
+      {
+        "title": "스톡옵션 행사할 때 세금은? 벤처기업 임직원 유의점",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6d2FTSTV5emwwTWRCWlQzaWhabS1ickZNMzhsdU5qTG83MVVxTExYZFpRcUZUUG95UkktNjN0UHlrMENVa0c0cG5aUmNFMktwYklwWnllTmltNkVaai1LaXNHNG8?oc=5",
+        "source": "택스워치",
+        "description": "스톡옵션 행사할 때 세금은? 벤처기업 임직원 유의점 택스워치",
+        "pub_date": "26.07.07",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금 격차 '1290원' 좁혀지나…12번째 심의 돌입",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qUlAwMTNCdHdGdlBaU29SNUdJWlRBV3dOXzZfYVRzTGgyUmVLZi1jNThwQjlucU81cWF0QzViYktJYmFwR3B5cEN0aGxhZm9YRVBoR0puWDJ2bFZVa0ZVRjIzaUhUdzI0aGo1MHVILURQb3c5RTRKdNIBeEFVX3lxTE1qUlAwMTNCdHdGdlBaU29SNUdJWlRBV3dOXzZfYVRzTGgyUmVLZi1jNThwQjlucU81cWF0QzViYktJYmFwR3B5cEN0aGxhZm9YRVBoR0puWDJ2bFZVa0ZVRjIzaUhUdzI0aGo1MHVILURQb3c5RTRKdA?oc=5",
+        "source": "뉴시스",
+        "description": "최저임금 격차 '1290원' 좁혀지나…12번째 심의 돌입 뉴시스",
+        "pub_date": "26.07.07",
+        "section": "hr"
+      },
+      {
+        "title": "최저임금 막판 논의 돌입…약국가도 인건비 변수 촉각",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ME1SU2I4X1JCTHhmYTgzUy1hd1FDdFU4VGtCa3R3X3p5MldPR0lQMTRCR0RIcWZxS1M0X3JYTGtVZ2lCLXRldmo3V2RvcEgyTDBNZjlJMllOX2o3bnlDTG1wYnFEeXFma3c1Nw?oc=5",
+        "source": "약사공론",
+        "description": "최저임금 막판 논의 돌입…약국가도 인건비 변수 촉각 약사공론",
+        "pub_date": "26.07.07",
+        "section": "hr"
+      },
+      {
+        "title": "마이크로소프트, 대규모 구조조정 착수…엑스박스 인력 3200명 감원",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbXNEa2xCZW5aZk1nVWNMYzZzR01sOUNfMU5qUFBXTWlKUTFxcVdRS19MUE5nLVAzQmVscDg0eEhkMTFjTFpWeGFQYllOLTZPVWk2S1VjVGhrbkM3ZXRjQ3JpcGY?oc=5",
+        "source": "디지털데일리",
+        "description": "마이크로소프트, 대규모 구조조정 착수…엑스박스 인력 3200명 감원 디지털데일리",
+        "pub_date": "26.07.07",
+        "section": "hr"
+      },
+      {
+        "title": "MS, AI 투자 속 대규모 감원…엑스박스 대수술",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZTFNYUxHLUQ0RFJUanhnUC1FdGsxX1JlRnpwTU1YRkRyR05tRFZfalFkQ0xpLV9OLXpWa0w4WjU1Zlh3RGpGSkVPYlFPRjNkREpv0gFYQVVfeXFMUGZWZ1lpM0tDa2N2MWhHaF82VWpOUElUVHFJR25RMmtWV3Q0c0hnSXFLcU1TZndZeE0zV3ZFWHRMVGc5Zk9EUUN6VC1Lb1JfVlUtZERXTjhjQg?oc=5",
+        "source": "SBS Biz",
+        "description": "MS, AI 투자 속 대규모 감원…엑스박스 대수술 SBS Biz",
+        "pub_date": "26.07.07",
+        "section": "hr"
+      },
+      {
+        "title": "괴산군, 외국인 유학생 채용 기업에 1인당 300만원 지원",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4aUVPSzNnYXpiQUlUaUtJTmFfcmVndTlPWS1kWUtnOU8yeW51eWVRamFxNEJfUGNIMzZDd2MxQlhJd2VzbDdSd28yUHl2MXVI?oc=5",
+        "source": "청주노컷",
+        "description": "괴산군, 외국인 유학생 채용 기업에 1인당 300만원 지원 청주노컷",
+        "pub_date": "26.07.06",
+        "section": "hr"
+      },
+      {
+        "title": "AI 신약개발, 도입 넘어 '검증'의 시간으로",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BZUVBMUVBbDF0OVE2U1V3ajVEeDJoU2M0MXduVWpOelpkeDhWZk1jVjMxWnNNQU9mcWh3MkhqcG1SYlNFeTBWR0NjSVBwMjQ2bThGcmZ1THNwREx5RGNMM0ZtY2xuVjV3WDNabVcxY9IBc0FVX3lxTE1NZjNfY0J1MWlHamppdFNiRGg0RU5pNlNBcFhJZGdfZm90aDUwNjRwU29BTld3X2ZVM1dLdGhwczhNcVJOQ1NpRUZTbkYzSmowMGloaXluOGZaZUVobjdfdkxGSXEyM1VtNzJ1OFJUN1pDTDQ?oc=5",
+        "source": "청년의사",
+        "description": "[창간특집] AI 신약개발, 도입 넘어 '검증'의 시간으로 청년의사",
+        "pub_date": "26.07.07",
+        "section": "ai_tech"
+      },
+      {
+        "title": "BMW, 생산 현장에 '피지컬 AI' 본격 심는다…휴머노이드 로봇 '피규어 03' 전격 투입",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TE8xRGJVOHluYmh0dkRVMjdsZFc0Z000Y1F6RDlYNW5oZzI3QzNZNGEwTmZha0VkMGRFY2RPeldhc1V3ZEh3TnAzaEdRWjhiN2NmWVpHZmswV3U3TXlr?oc=5",
+        "source": "헬로티",
+        "description": "BMW, 생산 현장에 '피지컬 AI' 본격 심는다…휴머노이드 로봇 '피규어 03' 전격 투입 헬로티",
+        "pub_date": "26.07.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "양극화된 AI 도입, 실질적 법률 및 보급정책 절실",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLYUVHY3RSdnlwN3BvZjJtTnRMZEdCWUJ6VlhpOV9IU1JHdFBrWndwMW1ZSHdIZ1p5ZURYR3QyX0Jhd0Fx?oc=5",
+        "source": "산업일보",
+        "description": "양극화된 AI 도입, 실질적 법률 및 보급정책 절실 산업일보",
+        "pub_date": "26.07.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "한수원, ‘2026 국제안전보건전시회’ 참가…iSMR·안전로봇 등 미래 원전 기술 공개",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MT2hsTHFuRENNVUVKcnUzUkdnLWJjY29XZXB2THQ1ZWllcnRicVlxek9zV2l2OU1ZVVZyZ0tYbi03M01mbUItdnVINExWZXd0TjJHUGV3TEM4YTRMZ0NhM3g2NTY?oc=5",
+        "source": "에너지안전신문",
+        "description": "한수원, ‘2026 국제안전보건전시회’ 참가…iSMR·안전로봇 등 미래 원전 기술 공개 에너지안전신문",
+        "pub_date": "26.07.06",
+        "section": "ai_tech"
+      },
+      {
+        "title": "해외 부동산 후유증 여전…현대해상, 가중부실자산비율 '답보'",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kWXBCMW91VnhMVGFqdWNoSEJCY0t0ZFYxLTNqTV9aXzBKeG9RZXNfa0h4MG5mSFJuYzRxNm8tQUdveFBGLUlBcVNZOFVzOTQ?oc=5",
+        "source": "딜사이트",
+        "description": "[보험사 위험자산 진단] 해외 부동산 후유증 여전…현대해상, 가중부실자산비율 '답보' 딜사이트",
+        "pub_date": "26.07.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한은 포항본부·포항TP, 2026년도 지역경세미나개최 ‘위기의 지역철강’ 논의",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaTgxeE01UVlrQ1U5dERCYVYtaHJOek5mWmFJYWNyaGw2ZFczUlFtaW9Talpudi1RUXNsRlY4M3dCUElqWlZhei0xZEtPd3plV0VF?oc=5",
+        "source": "이야드",
+        "description": "한은 포항본부·포항TP, 2026년도 지역경세미나개최 ‘위기의 지역철강’ 논의 이야드",
+        "pub_date": "26.07.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "삼성, 오늘 2분기 실적 발표…’반도체 우려’ 잠재울까",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15TlkwbVAwT2xhQzQzQVB4WWY2TXdETFVPakF5RDI4b1hhMTkxLWl4bEdnZldLTTN0WkM2bkZTY1VsZGpiNEFCanF6Ui1aR05MdTJqQ0EtUWRZUk41Nk5RdHlsZFNmZ28?oc=5",
+        "source": "연합뉴스TV",
+        "description": "삼성, 오늘 2분기 실적 발표…’반도체 우려’ 잠재울까 연합뉴스TV",
+        "pub_date": "26.07.07",
+        "section": "macro_industry"
+      },
+      {
+        "title": "이스라엘 중앙은행, 금리 내리고 올해 성장률 전망 4%로 올려",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrNEpqVXBGeDgxYUhaQzNsendJNVhzZk1mX2ZTaDd0YWMwNDluaVN0NFhuR0lyNDJTRTNCd3dOalRMdFF0eEt3Mk1kX3dRWlo1SW9Ddm0yck1zeDBoQ2NfaVI4QlgxR0Z5cWExZ1B0enA3WU9H?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "이스라엘 중앙은행, 금리 내리고 올해 성장률 전망 4%로 올려 연합뉴스 한민족센터",
+        "pub_date": "26.07.06",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"전 10조 갑니다\" SK하이닉스에 전 오픈AI 연구원도 '통 큰 베팅'…나스닥 상장 흥행 조짐",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yaWNtcktVUVhPMnZDb0I0TkhYS1Zoa3Z5eVRzdV94YzNtcFZxbGlna0JydnRORDhfbUkyYS1wSFFkT00yQjQ1MmFRb1lVUFJDR3pfdWhEVkc1R2dBU3lESQ?oc=5",
+        "source": "아시아경제",
+        "description": "\"전 10조 갑니다\" SK하이닉스에 전 오픈AI 연구원도 '통 큰 베팅'…나스닥 상장 흥행 조짐 아시아경제",
+        "pub_date": "26.07.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "코스닥 상장 예비심사에 동승·셀트릭스 등 4개 중소기업 신청",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYUpHeWVkMHBSOUJibDZ5X1Zya0xnMEdmeFpobUVRV19sWnE4WW1ON1Y0dl9zd1JtNERPVHIzTlR2WmFWdTZqSElLUFc4ZE1BWVh2Q01n0gFbQVVfeXFMT3k1ZXJvRzdXUWVFeXF4VkNLVGxWN1ZsbGlmNU9NYUg2cFU1N2xtcGRqSlYtcTBHTmg0WVNUSWxQejA3Yk8xVVQ0Vk9kdmZkZEZtRHM5eXVuUlVncw?oc=5",
+        "source": "tokenpost.kr",
+        "description": "코스닥 상장 예비심사에 동승·셀트릭스 등 4개 중소기업 신청 tokenpost.kr",
+        "pub_date": "26.07.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "반년 남짓 만에 유니콘 90개… 예고편은 이미 3월에 나왔다",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nMnVmSkY3clVBUUxpUEg3QVdsRDVpbGVBLWxrblhCank3ejgtX2V1VktOUWpnenNyTWtseGNrVjJ5VXY1OEVXZA?oc=5",
+        "source": "플래텀(Platum)",
+        "description": "반년 남짓 만에 유니콘 90개… 예고편은 이미 3월에 나왔다 플래텀(Platum)",
+        "pub_date": "26.07.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "인천시, 외국인 투자기업과 협력 강화…글로벌 투자유치 확대",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pZFpPRlVkYkVvUmNrRE9pNEJWQUlBQUlOYmxjUXdWWTlTcWVvVUxaWC1Za2NZZWQ1SGl3alMyam1EbXBmYkN3UGZwZHUxeVZpZlAwLTZqRUlVTXVUMERHcTAtekdwQdIBZkFVX3lxTE5pZFpPRlVkYkVvUmNrRE9pNEJWQUlBQUlOYmxjUXdWWTlTcWVvVUxaWC1Za2NZZWQ1SGl3alMyam1EbXBmYkN3UGZwZHUxeVZpZlAwLTZqRUlVTXVUMERHcTAtekdwQQ?oc=5",
+        "source": "강화신문",
+        "description": "인천시, 외국인 투자기업과 협력 강화…글로벌 투자유치 확대 강화신문",
+        "pub_date": "26.07.06",
+        "section": "invest_ma"
+      },
+      {
+        "title": "뉴로이어즈, AI·VR 기반 어지럼증 의료용 소프트웨어 고도화",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MN1JOZ0tuWEF0M1F0VWF2THFXdjN6MUNpRU5yOTN3eWpCVDEtX0hTRVZpMUFTM0xUSUxMYklTdFpZZkxyTXNRaXB0LU1fV3VoU0kxUVZR?oc=5",
+        "source": "중앙일보",
+        "description": "[2026 혁신 바이오 기술대상] 뉴로이어즈, AI·VR 기반 어지럼증 의료용 소프트웨어 고도화 중앙일보",
+        "pub_date": "26.07.06",
+        "section": "innovation"
+      },
+      {
+        "title": "\"바이오 석학 '연구·창업·혁신 노하우' 배울 수 있어 뜻갚어\"",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaW1BcVViMHVyLVluclVMcE42eUZMMzRka296c2ZYb3BjUjNZZHVRSkF4QlJieG9UMVlKc1pfWVpQeHVSSEMxdUJqVmVvNkw5U2w1VmhzX01hanpWalYwY0ZlVUNDVTRIVksxVmxGUUNHaHU5ak1PMNIBeEFVX3lxTE5JaW1BcVViMHVyLVluclVMcE42eUZMMzRka296c2ZYb3BjUjNZZHVRSkF4QlJieG9UMVlKc1pfWVpQeHVSSEMxdUJqVmVvNkw5U2w1VmhzX01hanpWalYwY0ZlVUNDVTRIVksxVmxGUUNHaHU5ak1PMA?oc=5",
+        "source": "뉴시스",
+        "description": "\"바이오 석학 '연구·창업·혁신 노하우' 배울 수 있어 뜻갚어\" 뉴시스",
+        "pub_date": "26.07.06",
+        "section": "innovation"
+      },
+      {
+        "title": "산불 골든타임 지킬 대형 군집드론 실증 허용... 산림청, 규제샌드박스 선정",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14TzN2TnNyc0ZvMUhIeXNtYjM1WVF5cjVoWkpjejdwNmpHNEYwMm5nUE0xajAzN1h0aHNDOWU1SExTRkpMUEhQNmFVRWwyU2JaQmgzd2ZpZ0wyWk40YnNXOVlBcC1RdlVFY0E?oc=5",
+        "source": "한국재난뉴스",
+        "description": "산불 골든타임 지킬 대형 군집드론 실증 허용... 산림청, 규제샌드박스 선정 한국재난뉴스",
+        "pub_date": "26.07.06",
+        "section": "innovation"
+      },
+      {
+        "title": "씨엔티테크, 해양수산 스타트업 투자상담회 개최…6개 기업 사업모델 점검",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsb2I2OHVOUW80c251dE5tMkpROGNZTHBWdkZxSTQ1dVRfZ3IxVVIwMl9BdkEzeHBsSUtMa1h4UDUzT0NJM3JXOWs1c0J1T1N6V3pPQ1JTQTRyRmdsTFF0WndYVm5NaFQ3enhkMlFXSnA?oc=5",
+        "source": "신아일보",
+        "description": "씨엔티테크, 해양수산 스타트업 투자상담회 개최…6개 기업 사업모델 점검 신아일보",
+        "pub_date": "26.07.06",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "news": [
       {
