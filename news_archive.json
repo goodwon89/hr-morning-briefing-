@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-09",
+    "news": [
+      {
+        "title": "대한상의, 기업 '문화가 있는 날 자랑대회' 우수사례 공개",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVkdDM0xyaktMOU9iWFA2S01WNXFTZmdDTTBuN3ZVLW9ITTZ3blNwaFpUaDJnOWI0SjhZOE1LSmxZWG94Wnl1R0JfdmlteGt1RjNoQ2JNSE9YeFNNMlJlUXpZeTZNMVZTNFNGTkxB?oc=5",
+        "source": "이코노뉴스",
+        "description": "대한상의, 기업 '문화가 있는 날 자랑대회' 우수사례 공개 이코노뉴스",
+        "pub_date": "26.07.09",
+        "section": "hr"
+      },
+      {
+        "title": "현대차 노사 임단협 난항…13일부터 사흘간 매일 2시간 파업",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RWl82U3JmcjdZSERKZmRvVUFMc3Rvc0pvVXdvQWpwYV8yd25nR1hER1dadEg5Z1VLTTFYdXo4M19ERjlralJBRDNNYU1uNlpXWE1FcWVuNFFQOUxycmdhRnFDWUs?oc=5",
+        "source": "서울경제TV",
+        "description": "현대차 노사 임단협 난항…13일부터 사흘간 매일 2시간 파업 서울경제TV",
+        "pub_date": "26.07.09",
+        "section": "hr"
+      },
+      {
+        "title": "'그룹 현금 창고' 교원프라퍼티, 든든한 뒷배 역할",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0NmNvSlNOM1ZBTEpHc2E5RHZtQ0t4WjJqN2tSZ2I5WXVIbGlBa0Z5MUxna1VPeWF3cXloQjJIWnFOZmZkU0I2MjFOYktJWVk?oc=5",
+        "source": "딜사이트",
+        "description": "'그룹 현금 창고' 교원프라퍼티, 든든한 뒷배 역할 딜사이트",
+        "pub_date": "26.07.09",
+        "section": "hr"
+      },
+      {
+        "title": "장민영 기업은행장 첫 조직개편 임박…생산적 금융·AX 화두",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwYUlId3FvWlZmSUk2M2w0YXZKamswdExHQVk5bW5zSkdvVmhuSkhhOXdRVkpOd2FvcDFUc0xPYmM0NnhoeEtHU0hfRC12UEE?oc=5",
+        "source": "v.daum.net",
+        "description": "장민영 기업은행장 첫 조직개편 임박…생산적 금융·AX 화두 v.daum.net",
+        "pub_date": "26.07.09",
+        "section": "hr"
+      },
+      {
+        "title": "네이버 '완전 재택근무' 사실상 폐지…주3회 이상 출근 의무 > 뉴스포커스",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ydGdLUmdhNkZ6cy13VERjMktqYzdYcDZVQm54TWpoNlNIMlpSYnQ0c20xR3liT1gxb2M4MnpNMnNQQ0Vva1pnQ2hlNmFfaWRjc0lSYXRzZzh5SVNnLW9ENW9CRFZrVVlkajFRajZFNGNxU0E?oc=5",
+        "source": "SeattleN",
+        "description": "네이버 '완전 재택근무' 사실상 폐지…주3회 이상 출근 의무 > 뉴스포커스 SeattleN",
+        "pub_date": "26.07.09",
+        "section": "hr"
+      },
+      {
+        "title": "에스티로더, 개장전 하락…구조조정 비용 증가",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41aWdraG1PMmFRZ3Q4UEtyakxCbUdMeTZWQlpCSENZU2dHOWVaZzl5N1RMeFBxa0VlVlNoOGdXbktYVmZkRktRaWlhSVh3LXNRRkYyaGFiNVlTZFNUTmJWcU1wQzRROUZHZXo0b056VUgxRkE?oc=5",
+        "source": "마켓인",
+        "description": "에스티로더, 개장전 하락…구조조정 비용 증가 마켓인",
+        "pub_date": "26.07.08",
+        "section": "hr"
+      },
+      {
+        "title": "공공분야 인공지능의 미래…14일 '서울 AI 행정혁신포럼'",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SeWNtZnd5a2RhYXltY19lVXVYT3FuZ3lDV2RXdllRYThSZ1piaG1nQjFXLWlDdGNCY3JyNW0wTGR0TWktR2tOWEJFY2hXQ1ZpRzVja1AxQmg5S1RpTmt6c3BINnF1M3d1dV9hOW15bU05ZG9D?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "공공분야 인공지능의 미래…14일 '서울 AI 행정혁신포럼' 연합뉴스 한민족센터",
+        "pub_date": "26.07.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 시대 M&A 본질의 변화",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVJOQnhQQzVSSXB6cWJZa2JMcXVLRmlRUF8yVnV4a3F5T18zNHlTVlZnM1hKUG5CcEVlVE91NHBTZFpWNk9jVHZDV0pndl95VzNhY1JvNTI4eGw4QXVGVGRqNzNLal9ocGg3VS1XYlBGTkR3RF9Kd1JNTTZyOWRvVTgyeEhfMW15Ym81d3c1ZGtjc0VoZS1SSG1nckZJZw?oc=5",
+        "source": "Deloitte",
+        "description": "AI 시대 M&A 본질의 변화 Deloitte",
+        "pub_date": "26.07.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "대웅제약·동아ST “병원 인공지능 혁신 기여”",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aZG9aaDE5bGhKTUhmQU0td05EMXd1VW9oZFlUMjJSLXo2RWpUVlZGbGlpTDFKNDdFZUV5OWhtMUViWVZyVGlTME14SXJGZURLNENaMzRvN0UzeWtOMUs1U0U5QU9oUVY1?oc=5",
+        "source": "데일리메디",
+        "description": "대웅제약·동아ST “병원 인공지능(AI) 혁신 기여” 데일리메디",
+        "pub_date": "26.07.09",
+        "section": "ai_tech"
+      },
+      {
+        "title": "포항상의, 박종훈 뉴로메카 대표 초청 ‘로봇 자동화 비전’ 공유",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNmJUWWloTGUxLUkzX3dPODJoTENsekVVdlpIWEVJRVpvb3Jkc3dNZmVrWEg3RkdGVmhUOVFjaUwzalkzd0dWaUM0ZVVMVDROa2NIbUlRMzlPWFB4ZGx5MEV1T0Jmdw?oc=5",
+        "source": "이로운넷",
+        "description": "포항상의, 박종훈 뉴로메카 대표 초청 ‘로봇 자동화 비전’ 공유 이로운넷",
+        "pub_date": "26.07.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "⑩신한투자증권, 익스포저 낮지만 PF 질적 부담은 여전",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uRi1nUHZZRlkzZnBjNTVWeG95aEVIT0NmRTY1X3RXY2pPM2FuYzVLdEFqcGJyaGRuT05ncDI3cm02M1BBU0VsVGxXTzZNWWdEYVVLbmpid0gtRnJqOS1KRHZGT2JZaG9y?oc=5",
+        "source": "fetv.co.kr",
+        "description": "[증권사 부동산 리스크 점검] ⑩신한투자증권, 익스포저 낮지만 PF 질적 부담은 여전 fetv.co.kr",
+        "pub_date": "26.07.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "AI 훈풍에 웃는 ‘반도체 소부장’… 2분기 실적 개선 기대감",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PS0hHYklHaFFlTHpwSVl3QWpEOHlOcURtZ0Z4SFpBUWVkVmcwclB4Qk5EN0hWSk9ZVDh4dDhJMnRQTGdoc1pWWUE2VExXM1ZEd3RxblQ5VzVRLUdVVXhKU1FtY3VUclRSS2xrV29IYWFJVEwx?oc=5",
+        "source": "대한경제",
+        "description": "AI 훈풍에 웃는 ‘반도체 소부장’… 2분기 실적 개선 기대감 대한경제",
+        "pub_date": "26.07.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "연준 의사록 \"일부 위원, 6월 금리인상 검토 필요성 제기\"…인플레 경계 강화",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tWnFmVFFjcElXM3ROX285TEJpT0VndDk0aTBWR3hTSFRvR3FScWhhUzVqYjA1YWhaV0ZMelBic25POUVqSWVWMWJCZW9YaERyX0txSDl2V0c3QktGWTVSLUdZWmJqcFhzUnhFSms2TkxmbGc?oc=5",
+        "source": "마켓인",
+        "description": "연준 의사록 \"일부 위원, 6월 금리인상 검토 필요성 제기\"…인플레 경계 강화 마켓인",
+        "pub_date": "26.07.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "트럼프의 관세 폭탄?… ‘관세 재앙’은 오지 않는다",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW9YYnFlMXk4dlpYLWQzSFhKVDB4Qk5qbUIwaGpDaHZKY3EzT21VM3NCV1daNUs2YkRQOUVleG5zZ2o3TWk2ZHJzN05TNUNDQ2RTX2dSRVMxSEl0NThuWVNwNERxZUhBNDUyeUktOXRXdFdzSXBfTmd0YVN3MmMwMHpPRkhVZw?oc=5",
+        "source": "조선일보",
+        "description": "트럼프의 관세 폭탄?… ‘관세 재앙’은 오지 않는다 조선일보",
+        "pub_date": "26.07.09",
+        "section": "macro_industry"
+      },
+      {
+        "title": "SMAG 모바일 안테나 마스트, IPO 공모가 주당 46유로 확정",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0T1FlRjNzNzAtckR4bGNzVlVsUm5sVTYzS3ZwZ0syZW95Y0xFXzVxS1NBNUtMMmRQTmJmR252X0RCNmdBT1dhYnVrQTJVeXZkN2JTdGNTSVAzdWNKNTlZZEY2Sk9MZ0poOS1QTGY0ZUdVN1lYUzl3?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "SMAG 모바일 안테나 마스트, IPO 공모가 주당 46유로 확정 Investing.com 한국어",
+        "pub_date": "26.07.09",
+        "section": "invest_ma"
+      },
+      {
+        "title": "SK하이닉스 美 상장 흥행조짐… “메모리 성장성 시험대”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMUd5VllFdVUwQW5zajNSYkNlN25Uc290OWNidGZtTURaX1Nlc2V6MDNibXFLeHNfZjc5SHAwY1ZPVGZXM0tfLVBEWmdzODA?oc=5",
+        "source": "v.daum.net",
+        "description": "SK하이닉스 美 상장 흥행조짐… “메모리 성장성 시험대” v.daum.net",
+        "pub_date": "26.07.09",
+        "section": "invest_ma"
+      },
+      {
+        "title": "경기도-경과원, '경기 해외투자유치 IR Day' 개최",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uQjlHNTVGZTZRQjNZM3FZamFmcmtUSUMwNS1GUGV0aXRPczRCUFVPUjlEcVJKRm9kVl8yU0JWT2M0bGZHT0xYUnJwUzlyTGY3WDdYZDAzd0s0WkZoSFZXdUxKTEh5Zk1hNDVwNFVCekdaZ9IBckFVX3lxTE9uQjlHNTVGZTZRQjNZM3FZamFmcmtUSUMwNS1GUGV0aXRPczRCUFVPUjlEcVJKRm9kVl8yU0JWT2M0bGZHT0xYUnJwUzlyTGY3WDdYZDAzd0s0WkZoSFZXdUxKTEh5Zk1hNDVwNFVCekdaZw?oc=5",
+        "source": "경인종합일보",
+        "description": "경기도-경과원, '경기 해외투자유치 IR Day' 개최 경인종합일보",
+        "pub_date": "26.07.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "VC협회, M&A·투자 연계 밋업데이 개최…기업·투자사 매칭 지원 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tOE1NcG1TbDJFRUVoWWFDTEFkbUdKYUtHMUlOOHAzZU1aSHNlb1VQem5PcjVYSm16dUFTem5GQTd1MDJJZjkzWWFnX2dFdDJ3X0lSNVpvNzNLeF80WXdyOGg5cG40OVFtWnfSAW9BVV95cUxOc2x2Q0h4RGlPVlBoZ2VveXJIdVdfbWliLTY5UXZMelRzWDYwRHV0Tkl0YXVkR1dueTYwbjhZRWlTeHJOSmJaaVBnWXlFaGJkUUI2OXhyRU1LU0hGeFhlUm04UEh1ZTVWZFhzSnBCWjA?oc=5",
+        "source": "머니투데이",
+        "description": "VC협회, M&A·투자 연계 밋업데이 개최…기업·투자사 매칭 지원 - 머니투데이 머니투데이",
+        "pub_date": "26.07.08",
+        "section": "invest_ma"
+      },
+      {
+        "title": "대구경북경제자유구역청, AI 융합 바이오 기술 기반 미래 의료혁신 전략 논의",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB0cTVpRzNRSXF2U2dtUGFWeVRoV3VoM1dGTFFxcXJpNDVEU25PWFlQUExORDQyZkt1UE92R0pNTE1QV1dn?oc=5",
+        "source": "다경뉴스",
+        "description": "대구경북경제자유구역청, AI 융합 바이오 기술 기반 미래 의료혁신 전략 논의 다경뉴스",
+        "pub_date": "26.07.08",
+        "section": "innovation"
+      },
+      {
+        "title": "'2026년 Energy Up! 에너지 캠프 with 지열에너지공학’ 참가자 모집",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RdmhJakFrVDdEWjVIM2FFMFNyTXZaX3ZFLVNZYTh3a1pza09QeTNIRDhDZHUtN3Y1NFVpeXVfb2tleGZPdlNsemo2UnFreEVXUjFTNjRHalFBUFJiWUM0QzdpT0k?oc=5",
+        "source": "서울대학교",
+        "description": "[에너지신산업 혁신융합대학사업단]'2026년 Energy Up! 에너지 캠프 with 지열에너지공학’ 참가자 모집 서울대학교",
+        "pub_date": "26.07.08",
+        "section": "innovation"
+      },
+      {
+        "title": "LG, ICML서 엑사원 공개…산업 AI 상용화 경쟁 본격화",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1SkVvcUdIYnkzY2lUbkp0RFhFUEcybVZScm52cVpvM2w1WUo0OUUwMkEzcUxrNHQzSFA4dTNINlotZWpEdENfU2U5QV9INmx3UVc5S01xcm1YU3YwbmI2Um9qZThnTHhPYzI3eXB6VkZoQQ?oc=5",
+        "source": "디스커버리뉴스(DISCOVERYNEWS)",
+        "description": "LG, ICML서 엑사원 공개…산업 AI 상용화 경쟁 본격화 디스커버리뉴스(DISCOVERYNEWS)",
+        "pub_date": "26.07.08",
+        "section": "innovation"
+      },
+      {
+        "title": "경북도, 인터참 코리아서 212만달러 수출계약 성과…K-뷰티 해외 진출 확대",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzbHZuU0lrakwyeXl1Mmtnb084NlNjZWRKRld3aEw5cHMwR3pwblNIY25DVDRUaEY1NlJFdDlZRjVXZFJ1amRiRmwzd2xOeXFIakFFOTNEVVBLbml5QW0yelRGaFZJSmI4X3dLRkpHaw?oc=5",
+        "source": "프라임경북뉴스",
+        "description": "경북도, 인터참 코리아서 212만달러 수출계약 성과…K-뷰티 해외 진출 확대 프라임경북뉴스",
+        "pub_date": "26.07.07",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "news": [
       {
