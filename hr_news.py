@@ -60,63 +60,64 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 6.29~7.3  |  수집 완료: 2026-07-03 (자동수집)
+# ✅ 이번 주 업데이트 — 7.6~7.10  |  수집 완료: 2026-07-10 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "6.29~7.3",
+    "week_label": "7.6~7.10",
     "enabled": True,
     "metrics": [
         {
             "label": "취업자 수",
-            "value": "2,912만명",
-            "change": "전년동월대비 4.0만명 감소",
-            "trend": "down",
-            "note": "2026년 5월 기준 (6월 고용동향은 7.15 발표 예정)",
+            "value": "2,912만 명",
+            "change": "전년동월대비 4만 명 감소 (17개월 만에 감소 전환)",
+            "trend": "down"
         },
         {
-            "label": "고용률(15~64세, OECD기준)",
+            "label": "고용률 (15~64세, OECD 비교기준)",
             "value": "70.2%",
             "change": "전년동월대비 0.3%p 하락",
-            "trend": "down",
-            "note": "2026년 5월 기준",
+            "trend": "down"
         },
         {
-            "label": "청년 실업률(15~29세)",
+            "label": "청년 실업률 (15~29세)",
             "value": "7.2%",
             "change": "전년동월대비 0.6%p 상승",
-            "trend": "up",
-            "note": "2026년 5월 기준, 청년고용률은 43.8%(2.4%p 하락)",
+            "trend": "up"
         },
         {
             "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
-            "change": "전년대비 5.8%p 증가",
-            "trend": "up",
-            "note": "경총, 100인 이상 기업 500개사 조사(2026.1.19~2.11 실시)",
-        },
+            "change": "전년대비 5.8%p 증가 (경총 100인 이상 기업 500개사 조사)",
+            "trend": "up"
+        }
     ],
     "reports": [
         {
             "title": "2026년 5월 고용동향",
-            "source": "국가데이터처(구 통계청) · 정책브리핑",
+            "source": "국가데이터처(구 통계청)",
             "url": "https://www.korea.kr/news/policyNewsView.do?newsId=156766099",
+            "date": "2026-06-11"
         },
         {
-            "title": "2026 신규채용 실태조사 결과",
-            "source": "한국경영자총협회(경총) · KDI 경제정보센터",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
+            "title": "2026 신규채용 실태조사",
+            "source": "한국경영자총협회(경총)",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504&pg=&pp=20&issus=O",
+            "date": "2026-02"
         },
         {
             "title": "Global Talent Trends 2026",
             "source": "Mercer",
-            "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
+            "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
+            "date": "2026-02-25"
         },
         {
-            "title": "Gartner Identifies Four Trends Talent Management Leaders Should Prepare for in 2026",
+            "title": "Four Trends Talent Management Leaders Should Prepare for in 2026",
             "source": "Gartner",
             "url": "https://www.gartner.com/en/newsroom/press-releases/2025-10-29-gartner-identifies-four-trends-talent-management-leaders-should-prepare-for-in-2026",
-        },
+            "date": "2025-10-29"
+        }
     ],
 }
+
 
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
