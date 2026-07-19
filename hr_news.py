@@ -8,6 +8,8 @@
 """
 
 import os, re, json, base64, smtplib, html as html_lib
+import functools
+print = functools.partial(print, flush=True)  # GitHub Actions 로그 실시간 출력
 from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -361,11 +363,11 @@ def load_archive() -> list:
     try:
         r = requests.get(url, headers=headers, timeout=10)
     except requests.RequestException as e:
-        print(f"  아카이브 요청 실패, 빈 아카이브로 진행: {e}")
+        print(f"  아카이브 요청 실패, 빈 아카이브로 진행: {e}", flush=True)
         return []
 
     if r.status_code != 200:
-        print(f"  아카이브 조회 실패({r.status_code}), 빈 아카이브로 진행")
+        print(f"  아카이브 조회 실패({r.status_code}), 빈 아카이브로 진행", flush=True)
         return []
 
     data = r.json()
@@ -379,19 +381,19 @@ def load_archive() -> list:
             raw.raise_for_status()
             content = raw.text
         except requests.RequestException as e:
-            print(f"  대용량 아카이브 raw 조회 실패, 빈 아카이브로 진행: {e}")
+            print(f"  대용량 아카이브 raw 조회 실패, 빈 아카이브로 진행: {e}", flush=True)
             return []
     else:
         content = base64.b64decode(encoded).decode("utf-8") if encoded else ""
 
     if not content or not content.strip():
-        print("  아카이브 내용이 비어있어 빈 아카이브로 진행")
+        print("  아카이브 내용이 비어있어 빈 아카이브로 진행", flush=True)
         return []
 
     try:
         return json.loads(content)
     except json.JSONDecodeError as e:
-        print(f"  아카이브 JSON 파싱 실패, 빈 아카이브로 진행: {e}")
+        print(f"  아카이브 JSON 파싱 실패, 빈 아카이브로 진행: {e}", flush=True)
         return []
 
 
@@ -401,9 +403,12 @@ def _norm_key(text: str) -> str:
 
 
 def load_recent_archive_keys(archive: list) -> set:
-    """전체 아카이브의 기사 제목+URL 집합 반환 (중복 방지 강화)"""
+    """최근 ARCHIVE_DAYS일 이내 기사의 제목+URL 집합 반환 (중복 방지)"""
     keys = set()
+    cutoff = (datetime.now(KST) - timedelta(days=ARCHIVE_DAYS)).strftime("%Y-%m-%d")
     for entry in archive:
+        if entry.get("date", "") < cutoff:
+            continue
         for item in entry.get("news", []):
             if isinstance(item, dict):
                 if item.get("title"):
@@ -958,7 +963,7 @@ def main():
     else:
         print("  EMAIL_RECIPIENTS 미설정 — 이메일 발송 건너뜀")
 
-    # 4. 아카이브 업데이트 (최근 ARCHIVE_DAYS일만 유지 — GitHub 1MB 응답 제한 대비)
+    # 4. 아카이브 업데이트 (최근 ARCHIVE_DAYS일만 유지 — GitHub 1MB 응답 제한 및 중복 오탐 방지)
     print("\n[4] GitHub 아카이브 업데이트 중...")
     new_entry = {"date": today_key, "news": news_items}
     archive   = [e for e in archive if e.get("date") != today_key]
