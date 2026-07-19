@@ -358,11 +358,41 @@ def load_archive() -> list:
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json",
     }
-    r = requests.get(url, headers=headers, timeout=10)
-    if r.status_code == 200:
-        content = base64.b64decode(r.json()["content"]).decode("utf-8")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+    except requests.RequestException as e:
+        print(f"  아카이브 요청 실패, 빈 아카이브로 진행: {e}")
+        return []
+
+    if r.status_code != 200:
+        print(f"  아카이브 조회 실패({r.status_code}), 빈 아카이브로 진행")
+        return []
+
+    data = r.json()
+    encoded = data.get("content", "")
+
+    # GitHub Contents API는 파일이 1MB를 넘으면 content가 비어있는 채로 내려온다.
+    # 이 경우 download_url(raw)로 재조회한다.
+    if not encoded and data.get("download_url"):
+        try:
+            raw = requests.get(data["download_url"], timeout=10)
+            raw.raise_for_status()
+            content = raw.text
+        except requests.RequestException as e:
+            print(f"  대용량 아카이브 raw 조회 실패, 빈 아카이브로 진행: {e}")
+            return []
+    else:
+        content = base64.b64decode(encoded).decode("utf-8") if encoded else ""
+
+    if not content or not content.strip():
+        print("  아카이브 내용이 비어있어 빈 아카이브로 진행")
+        return []
+
+    try:
         return json.loads(content)
-    return []
+    except json.JSONDecodeError as e:
+        print(f"  아카이브 JSON 파싱 실패, 빈 아카이브로 진행: {e}")
+        return []
 
 
 def _norm_key(text: str) -> str:
@@ -928,11 +958,18 @@ def main():
     else:
         print("  EMAIL_RECIPIENTS 미설정 — 이메일 발송 건너뜀")
 
-    # 4. 아카이브 업데이트
+    # 4. 아카이브 업데이트 (최근 ARCHIVE_DAYS일만 유지 — GitHub 1MB 응답 제한 대비)
     print("\n[4] GitHub 아카이브 업데이트 중...")
     new_entry = {"date": today_key, "news": news_items}
     archive   = [e for e in archive if e.get("date") != today_key]
     archive.insert(0, new_entry)
+
+    cutoff = (now_kst - timedelta(days=ARCHIVE_DAYS)).strftime("%Y-%m-%d")
+    before_trim = len(archive)
+    archive = [e for e in archive if e.get("date", "") >= cutoff]
+    trimmed = before_trim - len(archive)
+    if trimmed:
+        print(f"  {ARCHIVE_DAYS}일 초과 항목 {trimmed}건 정리")
 
     push_file_to_github(
         content_str=json.dumps(archive, ensure_ascii=False, indent=2),
