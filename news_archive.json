@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-23",
+    "news": [
+      {
+        "title": "“AI 활용능력이 취업·인사 성패 가른다”… 기업 인사 방정식 ‘AI’에 무게추",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10aS1fVEhVMG5weUxGWC1aNHhOek43akJGckxNQ1RaRm5QYk15U3gwdVZjQmdnN2hodTJ3SFRwTGhLRExZaXlsclhfUzc3aXdDdDBwWGRQZ2h0enhON2EzWWNHMVBvaElRTGVNUA?oc=5",
+        "source": "이코노미톡뉴스",
+        "description": "“AI 활용능력이 취업·인사 성패 가른다”… 기업 인사 방정식 ‘AI’에 무게추 이코노미톡뉴스",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "식품·외식업 임금, 타 업종 60∼80%…전문대졸 이상 격차 커져",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwbGJfQU53dUIzOWh6SnY5OVFwMnFibkhKcDJMbGVEVldjajdpVy1TT2taaER6MDlmOVFRcndmRExwRUhCeVptXy11a1NsaHp2Y3c?oc=5",
+        "source": "매일경제 마켓",
+        "description": "식품·외식업 임금, 타 업종 60∼80%…전문대졸 이상 격차 커져 매일경제 마켓",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "한국GM 노사, 임단협 잠정합의…기본급 9만2000원 인상 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbWVzY0I2QmR5R1gwLU9YZWt3V3NFRlI5UVhwNVV6N1dBLU52bXpXZTE0OW1oMmd3ZnItMzRBckRwSWllczBIczZiOGpUQzlLZE0yOVRkU1pPZmM3ZFdXMjk1SjI1VmFPcVkwadIBckFVX3lxTFBqZTc5NDAwZ0luZE00YnctS3V0eVBGNmVyV3REU1piMmI4ajlSRWl0cUs1RjlzaUpZcDNZRzdzMjBWekRrMk9EYUIxRG0wcUFzc1k1ZGFKcDdZa1Vub3dQVERYczNPTmRoWDd4aTFBdHFHdw?oc=5",
+        "source": "머니투데이",
+        "description": "한국GM 노사, 임단협 잠정합의…기본급 9만2000원 인상 - 머니투데이 머니투데이",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "창녕군, 조직문화 혁신 및 업무방식 개선…혁신동아리 첫걸음",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmwzOGJxQldBU2duc1EyV1ZWTk5KcEFlUlREQkxMZkNvX0gxZHpjX3lMazUweTBmSDZ6dmUxTTVMaXpvaU9zQ2tZcTJiVEY3NXR3VWt5T1gzZTBQaEZGVWhTWE5lRk90eDNyQ1ZKTDZUeEhCTHFQU1R4RW5sQ01Jb1V3?oc=5",
+        "source": "아시아경제",
+        "description": "창녕군, 조직문화 혁신 및 업무방식 개선…혁신동아리 첫걸음 아시아경제",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "성과급·공장증설, 파업 대상서 뺀다 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XTVE5NmdGZGoyVXJQYUJYdGUtU3RLYjY0NVQxZnY3a2tXQm14U2d3bk1KX21waFJBOVF2Yy1Gc2x3a25sN0s5NnBYT3lzemNqck41VDQwVWYwZTBmUHRJZzhqdjdxSF8yM1VJ0gFwQVVfeXFMUHhGTEtYRFZ0MS1IQ0ZSVE9QcDdvS0p6ZWE4ZFdybVYtOUVHQ0Y2b1o0bkx1cmpoT0h3cHB5dkFIMWNpY0FacFNIREJyWlRSVFdDUU1WTENzblZjYU1TU1BPZkI1dnk1amstRlBVZm9XaQ?oc=5",
+        "source": "머니투데이",
+        "description": "성과급·공장증설, 파업 대상서 뺀다 - 머니투데이 머니투데이",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "하춘욱 ㈜아에르 대표이사",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WX042ZHVjU1dSWG5DZUdMWjhDdUZxaFVSYmxRVjBuamQyeUJBcUg1MHBaSW53bF9hN1BiQTZscGlUVEw3ODA4TEdrRlNPdTFNa0pzank3UGk1SUprRUhKZEJ0LUNjYXBKMlJF?oc=5",
+        "source": "안전정보",
+        "description": "[화제의 기업] 하춘욱 ㈜아에르 대표이사 안전정보",
+        "pub_date": "26.07.22",
+        "section": "hr"
+      },
+      {
+        "title": "알파벳, 올해 자본지출 최대 2050억달러로 또 늘린다…클라우드 매출 82% 급증",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Y0pWSzV4Z2ZiWHBGdE9vbXh6Zm5KTk9HM1Y4b2EtbllCODN5V2t4Q250NGNUOFRnQkl1YmlHZEZBMzRuY1k2WlJHRVcxQ09nQnhxVnBIS0FMRTBBWTlENFFaYWFCLTA?oc=5",
+        "source": "뉴스1",
+        "description": "알파벳, 올해 자본지출 최대 2050억달러로 또 늘린다…클라우드 매출 82% 급증(종합) 뉴스1",
+        "pub_date": "26.07.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI 도입하면 행복시작? \"잘 쓰는 기업'이 경쟁력 만들어\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWnI5RGI2djR0T0dobmRNNlE1TGRmeVZFYXozemRaWGMya05uYU5NeVEzenB3TjM2aGYwTHZKX0ZjbFQxUlAyTVQySmYxeTBwMmlwTkVldm9UbW9TREtwQm92NWFYQU52R2k4?oc=5",
+        "source": "히트뉴스",
+        "description": "AI 도입하면 행복시작? \"잘 쓰는 기업'이 경쟁력 만들어\" 히트뉴스",
+        "pub_date": "26.07.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "링게임즈, 서브컬처 RPG ‘어비스디아’ 개발·운영 인프라로 오라클 클라우드 인프라스트럭처 도입",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0l4N3pRTjVpQlFTSnZBZGtnVzNMQVJBZVlmZTBPZnhTUlVDN2lDcTk4ZHAwM09XYnFzeC1oVWtSNWhicWowQmplQ0d3T3gwcThkQjQxblRxZUxRZG5fRmhYdEJ6YW54dUEzbFZtNldtN1VVVE1qbzdHS0M0cnpOb2xNOThkdG1Hem5hM1NJME80SlJoS1ZZTDQ0LWFybTNyQ0JHTy13RnEtam1aQ2cxYnotWkY?oc=5",
+        "source": "Oracle",
+        "description": "링게임즈, 서브컬처 RPG ‘어비스디아’ 개발·운영 인프라로 오라클 클라우드 인프라스트럭처 도입 Oracle",
+        "pub_date": "26.07.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "딜로이트, 산업별 AI 혁신 가속화…'에이전틱 AI' 전담 엔지니어 전진 배치",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvMlI2MlRWeWJDSTRPOGZWbGlUbkktMGpPcWFyQ1RnMGxNR091OENQTUNrWkJJaVlZT0lmbW9GQ1NOX25fSy1VQnVTU3JHS0FnSTlPaDI4SzV1V0dqZlQ5QlliSXVVRGM?oc=5",
+        "source": "인공지능신문",
+        "description": "딜로이트, 산업별 AI 혁신 가속화…'에이전틱 AI' 전담 엔지니어 전진 배치 인공지능신문",
+        "pub_date": "26.07.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"복제약 관세 100%\" 美, 인상예고…국내 영향은?",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0RE9YLVVZaS1OV2wxdll4YzF3MDdUb0FyRF9FU2RnT2sxNHdVNklIeGFKX2t1LXVydDJueGMzaUlHVDNQamphdGk2RFlMcXhnMGUzTEFPdDd1ZDJJVEZJSHdGXzhwLVVMOXhzclFoT3RxeVhhNlFLStIBeEFVX3lxTFB0RE9YLVVZaS1OV2wxdll4YzF3MDdUb0FyRF9FU2RnT2sxNHdVNklIeGFKX2t1LXVydDJueGMzaUlHVDNQamphdGk2RFlMcXhnMGUzTEFPdDd1ZDJJVEZJSHdGXzhwLVVMOXhzclFoT3RxeVhhNlFLSg?oc=5",
+        "source": "뉴시스",
+        "description": "\"복제약 관세 100%\" 美, 인상예고…국내 영향은? 뉴시스",
+        "pub_date": "26.07.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "트럼프 '제네릭 관세 200%' 폭탄 … 韓, 영향 미비 시각 속 '바이오시밀러' 변수",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqa055VzZYZTVEUDN1NFdOdU1tb0J5TFJwUm5ST3IxR1FXdUN6eS1HWGo3Tm5oOV9OQ3F5aFIza3JZWkhGSG1SY3FRbGM4blJJMm1tUWRMa3psajdsU1FjQjJBLUlnWVlF?oc=5",
+        "source": "메디팜스투데이",
+        "description": "트럼프 '제네릭 관세 200%' 폭탄 … 韓, 영향 미비 시각 속 '바이오시밀러' 변수 메디팜스투데이",
+        "pub_date": "26.07.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "울산세관, 홍해 항로 공급망 모니터링 확대…원유 수급 대응 강화",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iblZfODFGWWVvaVZwTnZtT29QLXU2WFJ0Ty1GS2JiQ1paa3hXRGducmxZUF81aW9VSUdGd2s2N213T3dYUERnWC1OYkxydEJXdVp0WVRmVjZyNVNZaEdXeF9wZFNrRGROWWpUTl9n0gFuQVVfeXFMTWJuVl84MUZZZW9pVnBOdm1Pb1AtdTZYUnRPLUZLYmJDWlpreFdEZ25ybFlQXzVpb1VJR0Z3azY3bXdPd1hQRGdYLU5iTHJ0Qld1WnRZVGZWNnI1U1loR1d4X3BkU2tEZE5ZalROX2c?oc=5",
+        "source": "iusm.co.kr",
+        "description": "울산세관, 홍해 항로 공급망 모니터링 확대…원유 수급 대응 강화 iusm.co.kr",
+        "pub_date": "26.07.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "현실화시 석화 수출업체 '흔들'…과잉생산 지적도 우려",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5MTYxeHBnamQwV2VlZ2dvN05aX2ItSHNHQV92OTd6dF9CaVd2V01xR0hWQi04TkpKdEQ2VFY1aEs1bHdCREFqRnhHcmNNT2hFdjFLWQ?oc=5",
+        "source": "v.daum.net",
+        "description": "[美 관세 재점화] 현실화시 석화 수출업체 '흔들'…과잉생산 지적도 우려 v.daum.net",
+        "pub_date": "26.07.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "차세대 의료기기 유니콘, 김해서 꿈 영근다",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0V1FQOXFsVkxPV04xX1BmQW9UZ2FXa2dxVVRnNUkyV1lIOEFfOWxUbFdqZkVndXllTThJb1djakZCMDlnOHZlQkJPbVFpbzJVQ0RHaFNBMlcxNURXZUE?oc=5",
+        "source": "뉴스투데이",
+        "description": "[시리즈벤처스_김해특구①] 차세대 의료기기 유니콘, 김해서 꿈 영근다 뉴스투데이",
+        "pub_date": "26.07.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "대신증권 IPO 리그 반전 노린다…열쇠는 소노인터내셔널",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96cTBVT2ZtbV83aHRMV0ZJZWJSS0hJQmU0emtBeWNCcDk1SFlTTTM0SzI4cjFHWmZWUWF3TXhJRFU0S19PUkYxQjFzenlNUzl3bkhzTng4UWtuSzZmRXc?oc=5",
+        "source": "뉴스투데이",
+        "description": "[N2 포커스] 대신증권 IPO 리그 반전 노린다…열쇠는 소노인터내셔널 뉴스투데이",
+        "pub_date": "26.07.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "K-관광 유니콘 키운다…문체부·관광공사, 해외 투자 연결",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96V2ZjSjV1cktXeTRTSk05dDhLMHN3bW1qRUZLQVg4SXRHVWFaWl9OZXdDd1UtMEtmYmtDdVU3Z3kxNU9BVjJDREFadG9PMlhlRzZnVnlETXZocDFMYU9KN9IBeEFVX3lxTE5RWmdUUUlkMkEtUzhUWUV0Y0I2aVoycnlfZ0NpNVlEcG4xUW1zVTFTSDR5UW1lR0F5bkR0UU93S2dWbWNvNHJ4c29CRnZRMlJIOE9KRXQwb3JwTXdMa0xFV0kzZXRObVRRU1E0TmYtV1JRbjY1akVQQw?oc=5",
+        "source": "뉴시스",
+        "description": "K-관광 유니콘 키운다…문체부·관광공사, 해외 투자 연결 뉴시스",
+        "pub_date": "26.07.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "대전 바이오 스타트업 투자유치 위한 포럼 '후끈'",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nUExOVXhOeTdqS3Z4NE1DOFZWMlVJRlRFcWhQd0NKdjJOeVlESVpMYmdQUTZfaHd4UEdyQzZKN3lMekpmYjBNU1lkblowUGZVbktWM0tkN3ROM1RzZ01ZckViS290LTBaZl9LMg?oc=5",
+        "source": "중도일보",
+        "description": "대전 바이오 스타트업 투자유치 위한 포럼 '후끈' 중도일보",
+        "pub_date": "26.07.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "\"스타트업 홀로 규제 넘지 않게\"…신산업 규제혁신 네트워크 구축",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMzBkQVc4N1RJMzhYRW9VU1hWQ2Uxa1gxM21UbUdmR015RU5TSnhHV3JQeF9OSEFPQzlfNXBPamt6WTJ5RVRZX3pUcEo1bFphNnFjMlZyckd3QVdw?oc=5",
+        "source": "뉴스1",
+        "description": "\"스타트업 홀로 규제 넘지 않게\"…신산업 규제혁신 네트워크 구축 뉴스1",
+        "pub_date": "26.07.23",
+        "section": "innovation"
+      },
+      {
+        "title": "경기도, 국내 최초 '공유형 에너지저장장치' 규제특례 승인… 전력망 과부하 줄이고 전기요금 낮춘다",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBINVJFOW1sU0pQay1ITW5nVUxXaElrV3ZfMkdmR3hmTTRRck0yRXhKM2EtV3dNSWxRX2h0MFFGR2EySXJiT0UxWGw2VmVrQmRscTJpdGZDcGdpYWF6Z0IxNA?oc=5",
+        "source": "경기경제신문",
+        "description": "경기도, 국내 최초 '공유형 에너지저장장치' 규제특례 승인… 전력망 과부하 줄이고 전기요금 낮춘다 경기경제신문",
+        "pub_date": "26.07.22",
+        "section": "innovation"
+      },
+      {
+        "title": "라이프케어 플랫폼 청연, 고객 맞춤형 ‘옷장 정리’ 서비스 출시",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xaDdPNXFVSThXeEJYdXhDenIwZVIxN2Z1WUplMmVZYXdsWjl0UlVpZWNUQ05acWQ5aWZuQjBMTmdxSHFqN3YtdTRvVXVtUVhRbHI1RDM3ODZ0THJtcW9SX01SQmJpWGNyY1RDUA?oc=5",
+        "source": "데이터넷",
+        "description": "라이프케어 플랫폼 청연, 고객 맞춤형 ‘옷장 정리’ 서비스 출시 데이터넷",
+        "pub_date": "26.07.22",
+        "section": "innovation"
+      },
+      {
+        "title": "삼성바이오에피스-인투셀, 'SBE303' 후속 연구개발 및 상업화 계약 체결",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DS3pQTksyUVJFSHRjYVJtWlB2dmVyTERzZEM4NlU4cDNIMDVlVUtYRGU5UFlMdTRPMDVZRUVWdXA3a1QxbVBXem9JSDFELUszLS1IQ0FzTTExVGNWbFMwcEtmNGpEQ0k?oc=5",
+        "source": "팍스경제TV",
+        "description": "삼성바이오에피스-인투셀, 'SBE303' 후속 연구개발 및 상업화 계약 체결 팍스경제TV",
+        "pub_date": "26.07.22",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "매일일보",
         "description": "기보 신임 이사장에 권형택 임명…\"AI·딥테크 혁신성장 지원 강화\" 매일일보",
         "pub_date": "26.07.15",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-15",
-    "news": [
-      {
-        "title": "\"산별교섭 통한 임금 인상\"…이의주 후보 대전협 회장 출사표",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CSGE0UDFVbUFYLXFvU2trTzd3Nm00eHJLcjBGaUNoWTlfQURsR1lfRjhJQjk2aTFRcW5GdmxNS25ENDE3eXdlbU1sZGdya2t3ZThtM2RLandEZHRMRC02dEpCYjhod2VPaDVVYUdMUHhlMTjSAXNBVV95cUxNQkhhNFAxVW1BWC1xb1Nra083dzZtNHhyS3IwRmlDaFk5X0FEbEdZX0Y4SUI5NmkxUXFuRnZsTUtuRDQxN3l3ZW1NbGRncmtrd2U4bTNkS2p3RGR0TEQtNnRKQmI4aHdlT2g1VWFHTFB4ZTE4?oc=5",
-        "source": "청년의사",
-        "description": "\"산별교섭 통한 임금 인상\"…이의주 후보 대전협 회장 출사표 청년의사",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "“추가 수당 140만원 지급”…직원 성과 평가에 AI 능력 반영하는 일본",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hSGRCNFNmUE9RNFVrSk40LUg3N2x5Y01FM0g3WTNEcHpLSlVrbC1QbTh3QklZSmc1cmx1cFN0Q2x2Y2RRbWgtUzVJeDVINGM?oc=5",
-        "source": "v.daum.net",
-        "description": "“추가 수당 140만원 지급”…직원 성과 평가에 AI 능력 반영하는 일본 v.daum.net",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "또 오른 '최저임금'...\"직장인 점심값 2만원 시대 현실화 우려\" - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45QWlocWtQa0E4a1NyOC02NUFmS3Nlc0oyMG1aamNuT0xsQlJQYk1kRFRHYVdYVUtuVmx0YngwcV80RlhIMTJ2YWJKeXBxdnk4bzdCU0tSZ091RHNfblFwQkVOM0ZRZ1hBRGlxamI4UdIBb0FVX3lxTE45QWlocWtQa0E4a1NyOC02NUFmS3Nlc0oyMG1aamNuT0xsQlJQYk1kRFRHYVdYVUtuVmx0YngwcV80RlhIMTJ2YWJKeXBxdnk4bzdCU0tSZ091RHNfblFwQkVOM0ZRZ1hBRGlxamI4UQ?oc=5",
-        "source": "머니투데이",
-        "description": "또 오른 '최저임금'...\"직장인 점심값 2만원 시대 현실화 우려\" - 머니투데이 머니투데이",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "中企·소상공인 \"최저임금 3.7% 인상 유감…업종별 차등 적용해야\"",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDcjdvbHZ1Y2tnbEZTNGJsS2w5dll1RlFyZ2VUQlFBMHJ5aFVWbWVSa2FGUmdVb05jQjA1eWpBLUg1cC1vcEY2Y1VidnczUm5EZkZZdXFtUkc5eXNlMk16VkFyVTQ?oc=5",
-        "source": "서울경제TV",
-        "description": "中企·소상공인 \"최저임금 3.7% 인상 유감…업종별 차등 적용해야\" 서울경제TV",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "소상공인업계 \"내년 최저임금 인상 유감…부담 완화 대책 시급\"",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQ1NlajFWUmZPc01yV19GaHA1ZFlRc2NFYlltRXFrd0pvSDRpMUJqVU1DU1VXSVMxdk9MUGpfeF9zdkx3bjZIUE1zNnN6R2l5a2c?oc=5",
-        "source": "매일경제 마켓",
-        "description": "소상공인업계 \"내년 최저임금 인상 유감…부담 완화 대책 시급\" 매일경제 마켓",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "울산소방, 간부 259명 대상 ‘조직문화 혁신’ 교육",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWDdjTFE3VlZNQkltWWJ0RWprTEFpbXI2eldwSU1KX3ZvTU9zTld4VjFHYzRYSWNJTG9Zci1haWYwTG1VWXI4d1IwY3BzT3VUcUpZaWo2eVN1QVh4NzZqSUpPektaeTFBY3fSAW5BVV95cUxOeS1odkhQNWhNeGVKVlZsTkFlYkRPYkFNVHVDOUZ0MlM2cC1ESm9lajJSMEF6bWpGbTlKN3VOakRxM3pFYXpaN3JLcHIzdEFxWUpLSDFKbkJMcjIxNmliME50cV9YY3VGRkdEMkNhUQ?oc=5",
-        "source": "세이프투데이",
-        "description": "울산소방, 간부 259명 대상 ‘조직문화 혁신’ 교육 세이프투데이",
-        "pub_date": "26.07.14",
-        "section": "hr"
-      },
-      {
-        "title": "소프트뱅크, 엔비디아와 손잡고 ‘말랑한 물체’ 집는 로봇 AI 개발",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVdVNllyeGZIdXBQbG03dFVGVVpyTEFmTU9EVUhieFA0MFIyNnhtd2NUMWgzYW1tY2RWUGdPR3h4SHNQbEI4MzJRN2NrR0FsUm9pYi1jSGhSMDlHMkpTVkFQTjBBbTVPWnp1enlKTW04T0lhLThKSTViR3pLUWxJcUdoTUJmWkJm?oc=5",
-        "source": "글로벌이코노믹",
-        "description": "소프트뱅크, 엔비디아와 손잡고 ‘말랑한 물체’ 집는 로봇 AI 개발 글로벌이코노믹",
-        "pub_date": "26.07.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "바 연준 이사 “AI, 생산성 높이지만 부의 격차 키울 수도”",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DQkJaemM2TmxNX1g4ODdnVHFlQl9PNU1malkxWTFGRUFRTEZTVHphMEprUHFYbmtxdHEtMTZLY2VmbjJkbWU2bDlUNkdEN2hPWWpvWTJGalQ?oc=5",
-        "source": "블록미디어",
-        "description": "바 연준 이사 “AI, 생산성 높이지만 부의 격차 키울 수도” 블록미디어",
-        "pub_date": "26.07.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "충북TP, AI로봇·첨단제조로봇 실증 3개 과제 협약",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQ05NUWJ2UUtoN2hsX3hQSnUyckNiQUhmdEYyeDRXbUQzU0pIazY3NTUzZU5HUE9NakZIU0FNM0dKSHhhSXNpOUJscEdqR25KYlhkdzU1cTB4d0ctY3hVS1JpSUVTdU9fTkZyR25DUmRGdw?oc=5",
-        "source": "에너지신문",
-        "description": "충북TP, AI로봇·첨단제조로봇 실증 3개 과제 협약 에너지신문",
-        "pub_date": "26.07.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "확산되는 오픈소스 AI, 'AI 컴플라이언스' 도입 필요...율촌·OSBC, 국내 최초 '기업형 AI 거버넌스' 체계 구축",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSGxkbkY3djhLU0VFbl8wWUtyVnVuT3NHYkQzVnBmZC1uYmxmUWtId19QcHVVcDYySkNLX0VKLXZoZzE4bzYyVjNKRUU0Q2VBY1hGelhhd1BKdnRwYXIxWFpVNmZqMGc?oc=5",
-        "source": "인공지능신문",
-        "description": "확산되는 오픈소스 AI, 'AI 컴플라이언스' 도입 필요...율촌·OSBC, 국내 최초 '기업형 AI 거버넌스' 체계 구축 인공지능신문",
-        "pub_date": "26.07.14",
-        "section": "ai_tech"
-      },
-      {
-        "title": "BNP파리바 \"7월 만장일치 25bp 인상 전망…연내 3% 전망\"",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lM19rdDkzR1ZhazJDU1ZiUTExNkdvUlZNaHktS251VzV0eDVQQ0VMcHdRby1RM0k3VHgzOEJmR0tXSVhQUzhxOFdQTkE1TVd4YlkzOFBobzA4Si1pUWxyU2tydnFGRzBLNW96R3dxZlRxQQ?oc=5",
-        "source": "KB Think",
-        "description": "[금통위 인터뷰] BNP파리바 \"7월 만장일치 25bp 인상 전망…연내 3% 전망\" KB Think",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "⑦ 반도체 슈퍼사이클, 언제까지 갈까",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Dal94a0VnLVNNclQ4bGFJMkJkUklqT2Z0YkxnZjZybkpXNFY2dFdiUkhKVmxaWjJhWGVjbjh4M2Zab2VlczhqQXZ4ZmN5bGxCaS1FRlVGMjBsdmdTREZudWxiT3ZVSEdYWjItcXVlRS14UzlD?oc=5",
-        "source": "대한경제",
-        "description": "[2026 하반기경제성장전략] ⑦ 반도체 슈퍼사이클, 언제까지 갈까 대한경제",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "거시경제 안정적 운영, K-공급망·에너지 자립 확보",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQ05NcnRpZDdSeE1ZZVBOaWJaSmFwUmY0QmVmZm84cE9tVnd6MURSbm5BWVlKT2tzMk54d1FlemFzYkRsVHVzM2VRNlZrREtIOTNuMGdleHdRMHdxWVI0bDFpQzM5NUk1X2ZrNEd4MWpmT2Rw?oc=5",
-        "source": "대한경제",
-        "description": "[2026 하반기 경제성장전략]거시경제 안정적 운영, K-공급망·에너지 자립 확보 대한경제",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "韓 통화 긴축 진입 예고…한미 장기 금리차 3년여만에 최소",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kSHdRTzRVUXB6VnNfQ1hXZFltemYtOXZPS25FVHVmRGVpSml4bjlHMW9UcHFnUU5qejlnNmhrZGJGNm9SeGw1bXoyZTNCcVhFOUE?oc=5",
-        "source": "매일경제 마켓",
-        "description": "韓 통화 긴축 진입 예고…한미 장기 금리차 3년여만에 최소 매일경제 마켓",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "신규 자금 조달 나선 '뤼튼테크놀로지스'...IPO 흥행까지 이어질까",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ONndMX05rdm1yRDg4UzJLY3JlbTBIWC04N3B1MnJmLV9PMXVmU3ZSa04yRnJBOXl6R0d5ZlYwNm5CQVBNNEpjSW9taGw5a0NHYXZVUGllLTBueU1zQ2c?oc=5",
-        "source": "뉴스투데이",
-        "description": "[VC포트폴리오] 신규 자금 조달 나선 '뤼튼테크놀로지스'...IPO 흥행까지 이어질까 뉴스투데이",
-        "pub_date": "26.07.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "산업은행, ‘KDB NextRound in 강원’ 개최…지역 스타트업 투자유치 지원",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxRjJqbmt5Ul93VEZTQW9pLXM3UVZZY3dlT2ktbTJnZy04UWZ6MmhiMEplQXZBb0hyU2hyVEhhTGNfbzNTNEE?oc=5",
-        "source": "v.daum.net",
-        "description": "산업은행, ‘KDB NextRound in 강원’ 개최…지역 스타트업 투자유치 지원 v.daum.net",
-        "pub_date": "26.07.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "경기도, 뉴욕 투자유치 프로그램 추진... 미국 진출 스타트업 10개사 선발",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xVThHalppempCWnBDc2dwZDRDbGsxSEp0VmJGcXVFMlRFaFQ3M0s1Y3hseUowNkItR1Y0LWV6V3BBNlV5MHRKSVlOWkNqbzN3WlV2bzJPX1NDbXdOYWhjR3FPcFV1VGZkM2t4bFdQTmVEQlpucDFYZGFn?oc=5",
-        "source": "로이슈",
-        "description": "경기도, 뉴욕 투자유치 프로그램 추진... 미국 진출 스타트업 10개사 선발 로이슈",
-        "pub_date": "26.07.14",
-        "section": "invest_ma"
-      },
-      {
-        "title": "스텔라PE, 미래아이앤지 인수대금 추가 납입…휴마시스 신사업 M&A 지원 사격 나서",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xMEVUazVwLXJfZ1VhQTZEUlNyYl9wTHljZnk0bzg5bVBsTExpbVJBQVBUOElQbFdjV2JrTTM5a3dtZXBQTEcxYlcyRnhwRkdFcGhIYU5qd3F0d0otRmxVb0tGYTRSTFdFZGhn?oc=5",
-        "source": "비즈월드",
-        "description": "스텔라PE, 미래아이앤지 인수대금 추가 납입…휴마시스 신사업 M&A 지원 사격 나서 비즈월드",
-        "pub_date": "26.07.14",
-        "section": "invest_ma"
-      },
-      {
-        "title": "제네시스코텍스AI, 국산 AI 추론 플랫폼 상용화 시동",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Xy1Pd0Z2cXVfV1Npd2NjNHc1alJpNGRCdzRuREhSYW5vLWRXVFo4R3N4V2VpZVU1MWJlQzVLdlhoMnppcm00Z3pZNmN3Um9FYWNKejhMNGFHMkEwTU9Z?oc=5",
-        "source": "저스트 이코노믹스",
-        "description": "제네시스코텍스AI, 국산 AI 추론 플랫폼 상용화 시동 저스트 이코노믹스",
-        "pub_date": "26.07.15",
-        "section": "innovation"
-      },
-      {
-        "title": "SBS·코스포, K스타트업 생태계 활성화 위한 '파트너십' 체결",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13cUtEeS1WdzRfRDVlcVM0YnlDMVZndHFYYjQyYkFlOGJicS0wcEdnT3Riekk1c2gyeEVrcFpvX3BCWEh6LUFfUW9BQ1dmU19jYkow?oc=5",
-        "source": "네이트",
-        "description": "SBS·코스포, K스타트업 생태계 활성화 위한 '파트너십' 체결 네이트",
-        "pub_date": "26.07.14",
-        "section": "innovation"
-      },
-      {
-        "title": "\"공급자 아닌 사용자 관점에서\"…청년들, 제약·바이오 혁신을 디자인하다",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbXhtVmhNeFlBVzNEWklHaHdpRlpKNWZBQWxFa2dvdFJZUFhBRmhwWVc5d2c2Zy1UZlZsNHItUXVnUExVYVZhdnFzTkN5OW8xbkE?oc=5",
-        "source": "더나은미래",
-        "description": "\"공급자 아닌 사용자 관점에서\"…청년들, 제약·바이오 혁신을 디자인하다 더나은미래",
-        "pub_date": "26.07.14",
-        "section": "innovation"
-      },
-      {
-        "title": "대구경북경제자유구역청, 미래 의료 혁신산업 생태계 고도화 세미나 개최",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1paDg0aGF5Mk0tY1ZGbjZEdEJLcDNTRWthbzhwczVMaGl6emNNY1JNeG9xTldhb053ME5jYUNGTXdvSFl6bzVGTXotZ0VyVjEtRFNVTHFtLUNKbDhtMlIwQlRPazJ0UkFRcHc?oc=5",
-        "source": "인민망 한국어판",
-        "description": "대구경북경제자유구역청, 미래 의료 혁신산업 생태계 고도화 세미나 개최 인민망 한국어판",
-        "pub_date": "26.07.14",
         "section": "innovation"
       }
     ]
