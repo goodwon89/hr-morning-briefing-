@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-24",
+    "news": [
+      {
+        "title": "기업실적 양극화..N%성과급 재검토 계기로 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pZkdOT1Y2NGVsdTZoQWQ4dXZTam1MdV9Hb2gzSmtRREtxbU9qT3NqaXBPV0o0cTRWT2dQYUp0MmRLbUZtZHVUVWJLbElMNXlvYXoyUk0wOWotQzJCY19DS0xiMlNNTndCRW9z0gFwQVVfeXFMTjd0LXJYM0RUSFRfdFlEODEzemlGdHljYlVzN1RyaHNEa3JPYW5jTm5QeDhNY2YteEdnS0RkWVJrTFA2Z2xFOExucUlBR2R6UDZMX3c0U192aUVBUEZJNjFwTmVkVFVWZWRWaldvdnYzbQ?oc=5",
+        "source": "머니투데이",
+        "description": "[사설]기업실적 양극화..N%성과급 재검토 계기로 - 머니투데이 머니투데이",
+        "pub_date": "26.07.24",
+        "section": "hr"
+      },
+      {
+        "title": "R]대구시의회, 공공기관 임원 임금 인상 결국 통과시키나? 내부에서도 쓴 소리",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByYWhTWjVFalpHbFZnemNjR0JVVFVYS0dZaV9SMHJ5RGw2QWViY0JUY1d2ODBfOEQ1aGdjbk9KMXpVN25CTjBMWkJDdFp5N1RNTHI3TXZiWU1PNlp0LVMyY25CZm1hSHQ2?oc=5",
+        "source": "안동MBC",
+        "description": "R]대구시의회, 공공기관 임원 임금 인상 결국 통과시키나? 내부에서도 쓴 소리 안동MBC",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "부영그룹, 중복 맞아 임직원·협력업체에 삼계탕 전달 外",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IcExQNUtuRjVPMDZ6ZF9HRUtqZW02aFRiYldrTDFjWHRsSGllX0NSWi1CMlpNRlBheE11YVlPTW82TFRKd1Nrd2cyVWVkWVBJekNMajlkOC1hSm13ajdCZWRqdlcwZDA?oc=5",
+        "source": "베이비뉴스",
+        "description": "[나눔 트렌드] 부영그룹, 중복 맞아 임직원·협력업체에 삼계탕 전달 外 베이비뉴스",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "SKT, AIDC 사업개발 전문회사 'SK하이퍼' 설립...정석근 초대 대표이사 선임",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRlhpbVNJRDN5S1lWNXFzcHJkRDhjbl82czAyeDdVSEFSOTd0WmROSGUza1NNN3d1Uy1BdzZWazB6QjkzZXh2SFI5RTk5b2xRcnNGenRGWV9RcFoxR2tZaWc1MGNUbFU?oc=5",
+        "source": "인공지능신문",
+        "description": "SKT, AIDC 사업개발 전문회사 'SK하이퍼(Hyper)' 설립...정석근 초대 대표이사 선임 인공지능신문",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "경기도 맞춤형 단축근무, 퇴사율 낮추고 일자리 창출 효과 높였다",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sZmtIOG84SUpUVVE2YU9vanB3M2lic29QR3YtbEN4Zi1pYl93eXR1bnR1OUlBRWM3UHQwZGNZajljOU1vYjB1RnFn?oc=5",
+        "source": "경기평화신문",
+        "description": "경기도 맞춤형 단축근무, 퇴사율 낮추고 일자리 창출 효과 높였다 경기평화신문",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "\"5~7명만 본다\" 금융사 반전 채용…'소수 정예'만 찾는다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bGxMRDNfX2pISUkwbC1uVDREMTJWRGRvMjV2NU1YQTVJaTNNZ2l4YkRXRjF4MS0xdVdRYzN4cHZwc1hQVGo4a1pMRHZTbmVfM2FCdjJlZnE4UQ?oc=5",
+        "source": "한국경제",
+        "description": "\"5~7명만 본다\" 금융사 반전 채용…'소수 정예'만 찾는다 한국경제",
+        "pub_date": "26.07.23",
+        "section": "hr"
+      },
+      {
+        "title": "\"AI 에이전트 앞에 선 의약품 공장 GMP… 도입 전략이 핵심\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDalYwNjF6OG9aX3pPbEwtTFNOWGVSc2dRNngxMmdoWXNsbXRCTEpzNmFIcVJySThJdF96ckJMc2g1cUsxSThlZE04Vmk0RmIwZ2VFdEVsbDZ5NTVaR0N4WmppQ2ctUDFQa3ZJ?oc=5",
+        "source": "히트뉴스",
+        "description": "\"AI 에이전트 앞에 선 의약품 공장 GMP… 도입 전략이 핵심\" 히트뉴스",
+        "pub_date": "26.07.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "로봇이 수건 접고 주스 제조까지… “동작 한번 보여주면 알아서 배워”",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQSUZidE9taDc3dm8xdC1nSXNGNDU0VXlLbUh5dWhZS1lpc245dnk5YzJXWUFjV1l0dlVGa25pd3JvZDRXRHduUEVfcmlXd1l6VEJzd2FoZ0JUemNZZmRKVWphZDRpOUNsM1F4X3A4c9IBZkFVX3lxTE50NzAzNC1ocmtmOEJGalR0UXNjMHd5aTRpbFJSUHpfTWlLNTRLWEtLcXVkdkZwWXdiMjkteUF4STNzcUdmSm0wak1ZOFRFZXhDV1ZaR24wWkZCcnR2SU15UzB0RXMzQQ?oc=5",
+        "source": "동아일보",
+        "description": "로봇이 수건 접고 주스 제조까지… “동작 한번 보여주면 알아서 배워” 동아일보",
+        "pub_date": "26.07.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "심평원, 보건의료빅데이터 창업경진대회로 AI 혁신 지원",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1udVQ0bm45aTFNcUNiYWREb2dWNWg0VzJaMnhOcjJrV0ptODNQUWphLXhRNHlOTy1QdVN4MFBLZUZFbmd3Z0h6YnZqaC16UGRs?oc=5",
+        "source": "데일리팜",
+        "description": "심평원, 보건의료빅데이터 창업경진대회로 AI 혁신 지원 데일리팜",
+        "pub_date": "26.07.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AI·로봇으로 스마트한 식품 생산시대 연다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWHo0blVQazIxd1U1LU5vZG9zcW9SQW1wQ3BCNGhmc2FqOFlFRC1iWUJGQVlBWmthSHZBbzE5QjRDclVUMU95N1Y4RnN5YXNPMGdEaUFpMjV4Rl9HQW9aS1hpdGFNS25WaVRZeQ?oc=5",
+        "source": "식품외식경제",
+        "description": "AI·로봇으로 스마트한 식품 생산시대 연다 식품외식경제",
+        "pub_date": "26.07.24",
+        "section": "ai_tech"
+      },
+      {
+        "title": "삼성·SK하이닉스, 메모리 장기계약 확대. '반도체 사이클‘ 호황 길어지나?",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tdWZ3RXlUandQMHlYbjJJajIzNTViZGZqbWdCS2w0MWJqSXBrWGVsLXFIeUMxY3ZPMzFZMlhnU3pNTzBKT1djU1lfaFZxdkdXTEVrWTRYUVU0X3dtaGRyVl9SNmdsUUJaVmpHakxXONIBc0FVX3lxTE1kYlN0dm1RU1N6SEktY1VIeFM4aU9NczktMlNvd2p4elczd3RHNmZaQWJWVjB1eXZfWEJsd3hwTUxrZzhNTmozbXdaZzJCMTBQN01SN3EteDd2VlpoMTFaZnUwQXctVU4yUzJVaWJJSTg5bEk?oc=5",
+        "source": "엠투데이",
+        "description": "삼성·SK하이닉스, 메모리 장기계약 확대. '반도체 사이클‘ 호황 길어지나? 엠투데이",
+        "pub_date": "26.07.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "AI 반도체 호황에 웃었다\"…中企 반도체·장비 수출 '역대 최대'",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxdElva0JJYVB1OG1XRWk3LVNUUC15MHVRTFdKNUtHak82UjdxNGF3ckxJUkxzZGFIcnllNFFDTThIb3RhV2pVSmNiQkJBcGlCalFyQUFMc1dCWUdI?oc=5",
+        "source": "뉴스1",
+        "description": "AI 반도체 호황에 웃었다\"…中企 반도체·장비 수출 '역대 최대' 뉴스1",
+        "pub_date": "26.07.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美, 한국 '환율 관찰대상국' 유지…\"경상수지 흑자에도 절하 압력\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FR0cyc0tsbUhEdUxwdzVSTEFwb2ZjZTdFVEIxMWY3Y0RMVDcxTFJ1LTEtMkxCT0JEYW5ES0pjcVlwMGNHeUVLS2JsWUoyckVRaDhucnZqSFVtYW0ycEZIVHk2a3VMLUk4bnBVUmg1bXFJUQ?oc=5",
+        "source": "KB Think",
+        "description": "美, 한국 '환율 관찰대상국' 유지…\"경상수지 흑자에도 절하 압력\"(상보) KB Think",
+        "pub_date": "26.07.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "후티, 홍해서 첫 유조선 공격···호르무즈 이어 에너지 공급망 위기 현실화",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WU5YX0IzNUR1ZmtOV2Q4LVowWVZjdjZWWEhnZXpkbzE0elI0NEpqR2t3UHBaSm1VN3VTTHBqOUhBTWYtWVdrX0piMzdaYThiT2VFeE5NZTQxd9IBX0FVX3lxTE5jd2U5OXZCYWUzb3RYVFZ0NVhMZ0pWLXRsT281SUdfX3JLOXlOYmt4REs0U19uWldLN09PMExaeGUydVJ2OVczbk80c3BCT0xOOUZoZEVtNlQzcTRqdVV3?oc=5",
+        "source": "경향신문",
+        "description": "후티, 홍해서 첫 유조선 공격···호르무즈 이어 에너지 공급망 위기 현실화 경향신문",
+        "pub_date": "26.07.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "틱톡, 한국 브랜드 日 진출 지원 ‘코리아-JP 크로스보더 솔루션’ 출시",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xSnRhbE1hR0ZUVmRSMXpwNWZWQVBFV2hMUGFOTWpOa0lfRHdTUndtelNoakxkdUo0U1NTU3ZyVV96QVNQT0NnN21kMG44T0s0NHVwaG9CaTdScjVQNWfSAWNBVV95cUxPMzlKNzJfamdOTHlySXJfOE1kOFBmaTJra09id0dPNDQzY3N4VEFFRk9IZGFiWFk0eWY1Vi1vdmVfbTBvOUhTRzY4aWhmX1ZXY1REbXVudzlrR05ETTVDRkhUX2M?oc=5",
+        "source": "스포츠경향",
+        "description": "틱톡, 한국 브랜드 日 진출 지원 ‘코리아-JP 크로스보더 솔루션’ 출시 스포츠경향",
+        "pub_date": "26.07.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "대전혁신센터, 글로벌 VC와 손잡고 딥테크 스타트업 해외진출 지원",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HN1ZfVkotSGVCbjAyeU5Yc0tBUnV1a21zdWR3WGMxd0tDMV90TzBJUmIyNUk1UVVwaUhpQ0M1UFpka3pjeVZRclVieml0YVlzenhFeQ?oc=5",
+        "source": "타임뉴스",
+        "description": "대전혁신센터, 글로벌 VC와 손잡고 딥테크 스타트업 해외진출 지원 타임뉴스",
+        "pub_date": "26.07.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스크라이브 테라퓨틱스 IPO, 공모가 밴드 최상단 결정 전망 - 블룸버그",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhcElPMGhEcHBPN2g4Q0l4NkpQWlZyWFZTOVB4dUtrLUtrb01uR2N0Q2VOZWtzc1VHTnNGWU5jRDdSamxHZVhqM2VFM2JxLThDSVc5RVhUai1oR3FRS0Q4ejFZc3JEMG8yeDVTNlBPclJFT1FQZlg0?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "스크라이브 테라퓨틱스 IPO, 공모가 밴드 최상단 결정 전망 - 블룸버그 Investing.com 한국어",
+        "pub_date": "26.07.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "틱톡, 국내 브랜드 일본 진출 돕는 ‘코리아-JP 크로스보더 솔루션’ 출시",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ob2JVLXJZVHk5c0RGLW1Dc3ZIcW16RHQ3SGJqNTY3QUxZNU9odkxRZzRQWHVCRklHbmI3cFg2cWV4eWFqZnUxQmRMaW40UjQ0azdyNE5B?oc=5",
+        "source": "바이라인네트워크",
+        "description": "틱톡, 국내 브랜드 일본 진출 돕는 ‘코리아-JP 크로스보더 솔루션’ 출시 바이라인네트워크",
+        "pub_date": "26.07.23",
+        "section": "invest_ma"
+      },
+      {
+        "title": "기술 넘어 전략으로…K-바이오 성장공식 바뀐다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVUZNMmhFcEk1SW1OQVh5cGhYaFJsWlY0WXNJSHR2aGhUSVNTZ0dlUElUc1l5M1hhQ1VGekVxdk5sMFZmUWJZMk1PUU5fd2M?oc=5",
+        "source": "v.daum.net",
+        "description": "기술 넘어 전략으로…K-바이오 성장공식 바뀐다[In Depth] v.daum.net",
+        "pub_date": "26.07.24",
+        "section": "innovation"
+      },
+      {
+        "title": "허트사이언시스, 연간 보고서 제출… AI 기반 심전도 플랫폼 및 기기 상용화 추진",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnaTk2TktnNERfUnFRZ0hDTjVWalQyYlhJbmRXakFCRndhWkZsRjhIU0tGbnd4TXFmSlV5SEtLN3RrTmNOZ0Jwc3hKbkt3ZTZEZnVuRTdTMWY4SEI0ME1aOXF5RXhsa1R5aUtWcElHS0dGUDg?oc=5",
+        "source": "데이터투자",
+        "description": "허트사이언시스, 연간 보고서 제출… AI 기반 심전도 플랫폼 및 기기 상용화 추진 데이터투자",
+        "pub_date": "26.07.24",
+        "section": "innovation"
+      },
+      {
+        "title": "대전혁신센터, 글로벌 VC와 손잡고 딥테크 스타트업 해외진출 지원",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HN1ZfVkotSGVCbjAyeU5Yc0tBUnV1a21zdWR3WGMxd0tDMV90TzBJUmIyNUk1UVVwaUhpQ0M1UFpka3pjeVZRclVieml0YVlzenhFeQ?oc=5",
+        "source": "타임뉴스",
+        "description": "대전혁신센터, 글로벌 VC와 손잡고 딥테크 스타트업 해외진출 지원 타임뉴스",
+        "pub_date": "26.07.23",
+        "section": "innovation"
+      },
+      {
+        "title": "과학과 기술이 브랜드가 되는 시대, 이제는 'K딥테크 브랜드'다",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kTVo0TU5jd0VaRkNYaWthVlc3a2plcUhBeVphTHFQTnlDUzNPQ09IdlBhRllmZkRnMTNCTEJCZjZ2TmJnb3o1ZldEUlg1QQ?oc=5",
+        "source": "전자신문",
+        "description": "[ET시론] 과학과 기술이 브랜드가 되는 시대, 이제는 'K딥테크 브랜드'다 전자신문",
+        "pub_date": "26.07.23",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "한국투데이",
         "description": "제보왕, 서비스 출시 뉴스기사 작성·배포 지원…신규 플랫폼·앱 론칭 포털뉴스 노출 전략 제시 한국투데이",
         "pub_date": "26.07.16",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "news": [
-      {
-        "title": "IBK기업은행, 생산적금융·AX 방점 조직개편",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CSHQ2TWZFaUZmNU9aekZ0WjJnZmczYlVQVDJqeUlSWXUxYTM0bGpFbG9zUl9HM1FzR3diek0xMUJwMnBidmc0WUN1Nzk3a2lTdXNPVVo2Z1hTNzRsSmh5TlZPdUhsMFdKTXNZ0gFvQVVfeXFMUGZmY0ZEYk5BSzhaNS0xNko2aXF2dFNIT0VLMFdRYVpiVFVOUDBBaGtXYV9tM3JDeS1QeUdNZ1F4N3VNbzMtQklINW1Dc0FVTnhscmZ3ektYR0dmRW0xLWFjRERNcUdyQ2NWNHJFMnNV?oc=5",
-        "source": "한스경제",
-        "description": "IBK기업은행, 생산적금융·AX 방점 조직개편 한스경제",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "삼계탕 한 그릇 2만원 되나…최저임금 오르자 '을'끼리 갈등 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaUHFBVzRmWkFwdkFsdDlGd0NJUmN6a2llMFNBNG9NWjdzSE10SFFZSVVjbHB0NDZQUnVRLWQ2RW1PQjBFem9JM3ZrMlROamtJQkVXZVJUZWZFZFZYX3dmcjN2ZU43YjFmWmfSAW9BVV95cUxQU0x0OG0xRDNtTFA0TWY5M1BMN3FDR18xSnRXVTNxM1M4LTNwWlRrczQzX3hWeVNlNnowTkJyaHdMMVdiZlpLZkMxcXhYRnZtTzdwN0kxRkdfc1FINFhhcHA4WGtVRzVfV180aWNUR0E?oc=5",
-        "source": "머니투데이",
-        "description": "삼계탕 한 그릇 2만원 되나…최저임금 오르자 '을'끼리 갈등 - 머니투데이 머니투데이",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "\"문송? 우리는 문영합니다\"…효성, 창사 첫 인문계만 공채",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWTdkNmRGUVhjNlZXN3o2bE1lRWFFM2FKN2xmSldXVEc3TTdRMWFFREtZNUlIVzZXX0FSbGFybF9xeURDZkhRR1hsemdWOVBlRUpGWDNDc3p5UQ?oc=5",
-        "source": "한국경제",
-        "description": "\"문송? 우리는 문영합니다\"…효성, 창사 첫 인문계만 공채 한국경제",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "스프라우트 소셜, 전체 인력 20% 감축..구조조정 단행",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50aUdheVRDTFZFYUk3cDNUR3RnUkE2c3BnWW1CYkFyQlZrclFscHFfWGUzTl9CdVpRUnhkelJ5c2dkLVhzcXQyZG1VWE5RNW5zNUE?oc=5",
-        "source": "매일경제 마켓",
-        "description": "스프라우트 소셜, 전체 인력 20% 감축..구조조정 단행 매일경제 마켓",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "경기도의회, 성평등하고 안전한 조직문화 조성 나서",
-        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50bGNWYXVBU2lJSjdZZFh2TWlqQXlkQ3o3RjhXNVAzNXU3VUotNTVEU3BiY1JFeEN3VmNJbEVpcw?oc=5",
-        "source": "사회적경제뉴스",
-        "description": "경기도의회, 성평등하고 안전한 조직문화 조성 나서 사회적경제뉴스",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "최저임금 인상 4년 만에 최고…中企 \"채용·인력 줄일 수밖에\"",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mV2pSTHItT2h1ZjVlWkZTeU9IdXNLSjhaTU5QV2owanhJSndkRGIzcFJyalAtb3lNRHJPU252SkR0bFVxTWlXSlRPOVd4bUVvNlJCM29HZEMzNHBTTFRyal9uS2NiN3FaYkN1TmVwbkNWR0E?oc=5",
-        "source": "마켓인",
-        "description": "최저임금 인상 4년 만에 최고…中企 \"채용·인력 줄일 수밖에\" 마켓인",
-        "pub_date": "26.07.15",
-        "section": "hr"
-      },
-      {
-        "title": "현대약품, AI 기반 영업 교육 플랫폼 도입",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oOGxaRmx1REh2czF5WmVGQkRMTjd6TDVpc21WbVVRa19kSFF1bXJMak45dWJidDNpRGJ4UThMZkwzb0ZabXA0OFdzaVhOOV9takt0SGNzQnlIOWNaaWluMWJZWE92WnAxNktJcVY5dnTSAXNBVV95cUxPVlVlLUpsZ2JCOTgyR19PR2FuWVdwd0tJSDB4ZWRSZkk3M0JVbkk0Y0JwNnYyQ2Y4NzRKRXQ5TTJiNkRIeXltdGFHSVF4Q0RrM2RwZVNhY3J2OGM5b3FYclllZjhZSFczZVRmVEYtaEpJbDBJ?oc=5",
-        "source": "청년의사",
-        "description": "현대약품, AI 기반 영업 교육 플랫폼 도입 청년의사",
-        "pub_date": "26.07.16",
-        "section": "ai_tech"
-      },
-      {
-        "title": "\"동반진단 핵심 도구 부상한 디지털 병리…인프라 구축 시급\"",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uYnpIT2ZjaXZMMXNhT2NXa3F0a3gzS2lJTGJ5ZTlqSlcyYTBUMlRxYWJuRk5weWVTN0VKSFJsMDhaS0ViZ2tqU3FoMk5CQ21FOFRIRlVrbl9wNWZjUzY1NWxFa1c5RmlQUW1iRFNKZndkbGM?oc=5",
-        "source": "메디칼타임즈",
-        "description": "\"동반진단 핵심 도구 부상한 디지털 병리…인프라 구축 시급\" 메디칼타임즈",
-        "pub_date": "26.07.16",
-        "section": "ai_tech"
-      },
-      {
-        "title": "충북테크노파크, 2026년 AI로봇·첨단제조로봇 실증사업 3개 과제 협약",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SZXQxb3lVOFAxVlpES0VRa25kMFo3NVVEckhNMk9ldGV4c2gzV0RwRFh0NlVFTjB4VHZrNER0Rzh5OXphcUR0YWN2V1c2bnpRTktzWjU2M056dGpBTGpDZ2JqMXJlOXpZcGRwY2VFdWNoUXl2?oc=5",
-        "source": "글로벌뉴스통신GNA",
-        "description": "충북테크노파크, 2026년 AI로봇·첨단제조로봇 실증사업 3개 과제 협약 글로벌뉴스통신GNA",
-        "pub_date": "26.07.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "글로벌 로봇산업계, 자동화 공동 전략 마련에 손잡았다",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82TFBQSDlUeDUySWRlaWI4SDByOVcwWFQ5TS1SOVRhN1RNdGJEYzhoZW9mMi01anZDRkctWUdCNW52YUFvOWEzTEUzUmNGMEdRTmd3Q1ZRN0lPaFZ5TkY4?oc=5",
-        "source": "헬로티",
-        "description": "글로벌 로봇산업계, 자동화 공동 전략 마련에 손잡았다 헬로티",
-        "pub_date": "26.07.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "EU, 미국에 \"와인·치즈 등 관세 면제 요청\"",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LTkN3WDRfblNiNWdUelhVU1FYTThJM3hwcmpZbXZQWjYyMjhueWR2a0M3cGxfVDRDVlIxZkpUVHFnaVlUVlhkdWRhRjJWV1JpckVsVWpfWHhxWDA?oc=5",
-        "source": "연합뉴스",
-        "description": "EU, 미국에 \"와인·치즈 등 관세 면제 요청\" 연합뉴스",
-        "pub_date": "26.07.16",
-        "section": "macro_industry"
-      },
-      {
-        "title": "\"6월 자동차 수출 67.1억달러\"...역대 6월 최대 실적, 친환경차 수출 첫 10만대 돌파",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BUHNlMFNMc2NYM2dYRS1Wd2xZX1kyWnY2VERFWlhiMDZiNkZjcVBmRlFoNUJCT3VaTDVuMUZrdk1Zcmwwb1ZWNGxmN2hyMkM0dHI4aFl6S012aVhyMlNoSW0wSXkyNklpejJtRkRR?oc=5",
-        "source": "테크데일리",
-        "description": "\"6월 자동차 수출 67.1억달러\"...역대 6월 최대 실적, 친환경차 수출 첫 10만대 돌파 테크데일리",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "미국 이란 전쟁에 세계 석유 공급망 재편 흐름, 한국 중동 대안으로 캐나다에 눈 돌려",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nZnFLeGg1TE0wTWxtVDU2eFBzR0ppbEFJQnNTZ0RCWnlPZDNILTlzYlZyN2I3MHN3M1pocEFLbktKaHh4bFRYUFAtUUFralBVcWVoWGtJLVRaN0lDSGotdTRQRHpGZTh3REs3ajJpRFo5eEU?oc=5",
-        "source": "비즈니스포스트",
-        "description": "미국 이란 전쟁에 세계 석유 공급망 재편 흐름, 한국 중동 대안으로 캐나다에 눈 돌려 비즈니스포스트",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "中 6월 산업생산 5.3% 증가…소매판매 증가세로 전환",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GeWRYYkozTWlwLU9YRXVzdGlhcTJGR3hiaDZ3V0R6T3pFbDNwZk5mTFU3ejB5dTNHa1ZHTkFiaHpmcGFaRWtRNVM4c0VYQ2FUZGVCYUYzSlRCQWfSAWBBVV95cUxQSmtfNjdLaGVJbGZJOUpmM1hrNmlqTm5UdjlSX2piV2lXZjVtSUgtS0dOR21rdkdtS2hjSmhFMjFIMmswNFdLU3FScUFvSE9tS2RfSU96MkNSRjVma2gxMVk?oc=5",
-        "source": "연합뉴스",
-        "description": "中 6월 산업생산 5.3% 증가…소매판매 증가세로 전환(종합) 연합뉴스",
-        "pub_date": "26.07.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "스페이스X, 결국 공모가 아래로...랠리 '파삭'",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9seXNERXc2LS1QbTZTOXZBUXFqZ2tBOFZWcVIwdmgzQVdpT1FQbDdTZ0lOM25VNXNqTXo0UXdFUWYtRkV5M3A4Um9NbFFBTkU?oc=5",
-        "source": "v.daum.net",
-        "description": "스페이스X, 결국 공모가 아래로...랠리 '파삭' v.daum.net",
-        "pub_date": "26.07.16",
-        "section": "invest_ma"
-      },
-      {
-        "title": "‘미 상장 흥행’ 하닉도 못 피했다…두 달 만에 ‘7천피’ 붕괴",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOc3R5QmQtbExoWXZncXozLVVsRmN5RE9RcVNZbks3cjdlSHhsSTNoT2NXTGMzT1FnZ01hd3Y4cGNvU1F4UFo3WWhuTGttRktkOHc?oc=5",
-        "source": "JTBC",
-        "description": "‘미 상장 흥행’ 하닉도 못 피했다…두 달 만에 ‘7천피’ 붕괴 JTBC",
-        "pub_date": "26.07.16",
-        "section": "invest_ma"
-      },
-      {
-        "title": "SpaceX, IPO 공모가 아래로 하락…상장 후 랠리 마무리",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DeHBDcUFCdXZSQnFmc29VbkNfdUxrUTZkMWhUZ1FKXzdfNUVPX0pxbXJRX05LNXhuZDhCbFdpbFd4Z0VnQTdVbTBjM2w5RHZSajgtX1VKcmpLLVFUazhxNEVOOWx3UEZYSmpzZVJ3U08?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "SpaceX, IPO 공모가 아래로 하락…상장 후 랠리 마무리 Investing.com 한국어",
-        "pub_date": "26.07.16",
-        "section": "invest_ma"
-      },
-      {
-        "title": "베트남, 1.5조 달러 인프라 투자 유치 위해 글로벌 자본 적극 모색",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oVk56cm5sQmlhd0ZydEwwS2h1eTB2TmRrMEJXbDZwYTc0eDFGZHduV1E3cGRKUGpmckw0cWtYcmtZdVNkekJXcHFYeTVfdTJ4MGYyUmdYYTdqUldNUkVmQ2FmVk9XOFJiZnlQVnFmaV8?oc=5",
-        "source": "굿모닝베트남미디어",
-        "description": "[국제] 베트남, 1.5조 달러 인프라 투자 유치 위해 글로벌 자본 적극 모색 굿모닝베트남미디어",
-        "pub_date": "26.07.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "‘규제특례 받은 혁신기술’, KIAT 지원 힘입어 투자유치로 날개 편다",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zcUxOTENMUFRVUEc1U0laZmp5aG01cG12OTVjWWc3VklCeDU5MlFhYUVGeTRtMm9HWXZRTGhoY2RCMWtYd1BxVXVyYTVOMmRKN0x1TEk2dlItYTN6R0tPa1JlTm9ETTJZbG1OSXlkcVlNTmI2MER5VzZrQQ?oc=5",
-        "source": "부산일보",
-        "description": "‘규제특례 받은 혁신기술’, KIAT 지원 힘입어 투자유치로 날개 편다 부산일보",
-        "pub_date": "26.07.15",
-        "section": "innovation"
-      },
-      {
-        "title": "노키아, 엔비디아와 AI-RAN 상용화…무선 네트워크 전환 시동",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96eGxsWTduRmoySmNyaDlKNzBUVUhFWmdlaUZGSVM5N24zdkNhQ1c1S3lXOUZfRmtmdGlRUUx0R2JzSDNuNmpyN2dnTm9JUQ?oc=5",
-        "source": "전자신문",
-        "description": "노키아, 엔비디아와 AI-RAN 상용화…무선 네트워크 전환 시동 전자신문",
-        "pub_date": "26.07.15",
-        "section": "innovation"
-      },
-      {
-        "title": "KIAT, 규제샌드박스 승인기업 투자유치 설명회 개최",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1dXpJQnAzd2JGeUpPX3JjMmRTaEEwaldzN0xuNGlsTHhnNXZsYmpwR3pNblZRV0s1anp2OFpOWHA3Q3ZPQmdwNzNhNlBkNk83LVVjQmU4QkNuYmRmMnhfUTRRcTVvWUwwT1psRHRnWmc5a0N1ajRCVHRR?oc=5",
-        "source": "로이슈",
-        "description": "KIAT, 규제샌드박스 승인기업 투자유치 설명회 개최 로이슈",
-        "pub_date": "26.07.15",
-        "section": "innovation"
-      },
-      {
-        "title": "기보 신임 이사장에 권형택 임명…\"AI·딥테크 혁신성장 지원 강화\"",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hTzV6R1R1TWxxOVZLSExBSndFX0RTRzQzMTdURFhYRGdUcG5MR3pINWdOd1p1cFQ3TEFlc1ctS1JkWUExWUNrbVFLS0t0elgzUUctMmduQzItc25FNW5xY1JUYW8?oc=5",
-        "source": "매일일보",
-        "description": "기보 신임 이사장에 권형택 임명…\"AI·딥테크 혁신성장 지원 강화\" 매일일보",
-        "pub_date": "26.07.15",
         "section": "innovation"
       }
     ]
