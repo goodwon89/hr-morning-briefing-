@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-27",
+    "news": [
+      {
+        "title": "노사, '1만700원' 내년도 최저임금 이의제기…재심의 들어갈까",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xM1U2VlU3WkZUYW5uTXFzQmxLVk41WEI2UDlWRHVrYW50SjRRYUxrcmo5dEliNFM3c21TRHVOOEpyaHE1Vms4U0Y2VXFDeFgweURfYVVhOTcwVDdTYmxHQzVlVVhYbXNiSThtVEVlYjBCSDhDcjlRStIBeEFVX3lxTE4xM1U2VlU3WkZUYW5uTXFzQmxLVk41WEI2UDlWRHVrYW50SjRRYUxrcmo5dEliNFM3c21TRHVOOEpyaHE1Vms4U0Y2VXFDeFgweURfYVVhOTcwVDdTYmxHQzVlVVhYbXNiSThtVEVlYjBCSDhDcjlRSg?oc=5",
+        "source": "뉴시스",
+        "description": "노사, '1만700원' 내년도 최저임금 이의제기…재심의 들어갈까 뉴시스",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "2027년 최저임금",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zODc1NXZNMGJoVy1nNXQ1Ykg5bzhBLUlYUkxwb0NETmtxSHpteXZrSkU1U3BPeU1kSmd1b01WUG1mdHJqSnRneU1zaUt2c1VhLXA4RGRvRWFKd1pvMmFHMmlqS1EyaUdBakVFMg?oc=5",
+        "source": "기계설비신문",
+        "description": "(17) 2027년 최저임금 기계설비신문",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "“예비군 지휘만 해도 수억원”…삼성·SK ‘꿈의 동대장’ 된 까닭",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tMElEVmFsOGg3VHVoX282d0RwcGRuWmhMYV9LVWliSzVyYjQxZTVVMEV3MWs2MnM3MVRrYmw4MTFsN2ZNMHozalQwMDF4Y0twVmgyS3c5WDZMbkQwanZzU0VBZk13SEFWQWVnek93YzBGNGFpRjdGM3o1QQ?oc=5",
+        "source": "이데일리TV",
+        "description": "“예비군 지휘만 해도 수억원”…삼성·SK ‘꿈의 동대장’ 된 까닭 이데일리TV",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "간병 이직 확대가 기업과 시장에 미치는 영향",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adFl2RUhpYnN4TzVZSkJxLUoyT0ZyRDlFc2VRUlpHbFFJb1ZLa25QMUJ1ZDZJVUI3bUdrN1R4QW9Kal95Q1dJTVQ4VDY?oc=5",
+        "source": "한국AI부동산신문",
+        "description": "간병 이직 확대가 기업과 시장에 미치는 영향 한국AI부동산신문",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "최근 분석에 따르면, 올해 초부터 현재까지 미국 기술 기업들이 발표한 일자리 감축 규모는 약 14만 명에 달한다.",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9zVUp1aEFNd0VNTXFUXzd3aGROWHZuOVAtOUhjQjEwLVBCSS1FOVhsOE4xRnpFTy1vdVlfQXFMcmQ?oc=5",
+        "source": "AI넷",
+        "description": "[\"AI가 일자리를 바꾼다\"… Monday.com 이어 오라클·MS·구글까지, 2026년 기술기업 대규모 구조조정 분석] 최근 분석에 따르면, 올해 초부터 현재까지 미국 기술 기업들이 발표한 일자리 감축 규모는 약 14만 명에 달한다. AI넷",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "피지컬 AI 기업 선언한 현대차그룹…실리콘밸리 혁신거점 키운다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYN0s5TWwwdjBiMUxfVGY2UGVtREVnRmRfcEM2RGptRHowdDdWZDZUTG1NOEw1YWl0emZCbER6WFl2TlBmT1RDNWZqVWpFRGxOa214U2xB?oc=5",
+        "source": "지디넷코리아",
+        "description": "피지컬 AI 기업 선언한 현대차그룹…실리콘밸리 혁신거점 키운다 지디넷코리아",
+        "pub_date": "26.07.26",
+        "section": "hr"
+      },
+      {
+        "title": "자동화, 로봇공학 및 5.0 산업의 ESG 과제: 고용에 미치는 영향",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZWNuX0NQQTAwTk1GVUI4NERHMUVEeTZxTVYyRjd3TkRkQmM2UzlXYm1oLVlncTZWXzVZRzV1TUwtOG9Xc0VkTVM0SC1XYmNwSExNS1RxRTBBVHFEeTBaS0lIbFhzRWhGTVdVSXU1YnlIQQ?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[이용기 교수의 ESG 경영 이야기] 자동화, 로봇공학 및 5.0 산업의 ESG 과제: 고용에 미치는 영향 아웃소싱타임스",
+        "pub_date": "26.07.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "발전하는 돌봄 AI, ‘지켜보는 기술’에서 ‘돕는 기술’로",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHcXktOHhQS05oYjRyZHItMWhTTC1JRkt2aF9id01zZmdDLTVKOUZmMjA2S3hJUU04WlhNbGJoWW9DajNBM3IyY3BaS0x2UlowM0ZEaDUxdTQzUQ?oc=5",
+        "source": "이투데이",
+        "description": "발전하는 돌봄 AI, ‘지켜보는 기술’에서 ‘돕는 기술’로 이투데이",
+        "pub_date": "26.07.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "보험사 AI 도입, 기술보다 '실행력'이 갈랐다",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNjg1bnh3cXJlZndvdGY2MExsTkY4U25ZMW5TUm41bGRCdXR6V1RsMExNbVgydFFGNlpkWWgxaWpnOEs2WmZQUEZ3UkJCQ3BjY0RKLVZmeWFSZ3MydmRFUlVXaEVNQzYy?oc=5",
+        "source": "보험매일",
+        "description": "보험사 AI 도입, 기술보다 '실행력'이 갈랐다 보험매일",
+        "pub_date": "26.07.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "구매·조달 AI 도입 90%에도 안정적 확장은 23%...데이터·거버넌스 격차 해소 시급",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xUV9wdktnYnZiTFJKNGJZWUFRZFJLTW1yUkYtV2xjYkM0YzA4d1liakE3RHJ4MmRPZ0pDc185bjRDYklTeDAxNm0wRVJ4SDNyM2dtYmJuS1laZGRFSW1QdW5YZC1VNC1FLUE?oc=5",
+        "source": "지티티코리아",
+        "description": "구매·조달 AI 도입 90%에도 안정적 확장은 23%...데이터·거버넌스 격차 해소 시급 지티티코리아",
+        "pub_date": "26.07.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "원·달러 두 달 반 만에 1450원대…이번주 FOMC·중동정세에 방향 갈린다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1cnB0YThOVnRGcWhhTE43bV9oZXoyZUE4X3VyTGVfNkFTWjNBdk00YmIxYVdGUm5YOC1ZM2hTVGJ6a1Y3MEVETnl4NEFHTUt0ZHM3OEFPOUlhTGo0Q2xiejhjUTVncEE?oc=5",
+        "source": "자본시장뉴스",
+        "description": "[주간환율전망] 원·달러 두 달 반 만에 1450원대…이번주 FOMC·중동정세에 방향 갈린다 자본시장뉴스",
+        "pub_date": "26.07.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "ESS에 EV배터리 가세...배터리 3사 실적 반등",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zeU5lQXBoeTdvRnVwdXRtZGJvWlVHNXcwb3ZCUzJxOXlqbnpfdEJPU0N3THIzbC1la2hPcDNRVDhVSjNOTUE1T1dDRXo2ZnhaZGfSAVNBVV95cUxQemZnbHBXR1BuMXh3dzhMTkNsb1djTkI5SlhpVWNxRkpPVzhIZkRlLUdfaW1aQTdaem5rOWFBYkh0cXFrdGJrTEExRDBVSkx2alZfSQ?oc=5",
+        "source": "서울경제",
+        "description": "ESS에 EV배터리 가세...배터리 3사 실적 반등 서울경제",
+        "pub_date": "26.07.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 실적 주목, 美 FOMC도 변수",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jYzlYN01UaWZsbVVEeW1UTy04SThCUTRhTWNpS0xaTXgtR1k5bDdYdWVjWDZiUWI0QkZEUXFUbE13MjMyREFjWEpZUkxvUUEwY2dTdGNORFJqNFdZ?oc=5",
+        "source": "뉴스핌",
+        "description": "[미리보는 증시재료] 삼성전자·SK하이닉스 실적 주목, 美 FOMC도 변수 뉴스핌",
+        "pub_date": "26.07.27",
+        "section": "macro_industry"
+      },
+      {
+        "title": "인도, 미국 수출의 45%가 트럼프 신규 관세 면제 대상",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96XzBKRGd1a1J6alRSUGZIRENtVXdKRHF6OXF1TDBDdEtJMWVScEdBV3FHMFdmaDdLYVRYQW1fZzA3d2VRYjRWd205ZUJRY1pMdEtKR3N6bXNKOHBQb011d0dYbnhlMTZtU0E?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "인도, 미국 수출의 45%가 트럼프 신규 관세 면제 대상 Investing.com 한국어",
+        "pub_date": "26.07.26",
+        "section": "macro_industry"
+      },
+      {
+        "title": "인제니아테라퓨틱스 청약 돌입…수요예측 3곳",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qcUdqX2pDMWtpMlE4cGRZQ09oT1hQNXpNRzhLb3p4NllVR2RoVHBqVFNDanRTRVNDU2JvUVA3U1JDR2tQLXhfbUNobF9USWtRVmR5Zmg4SXluUGNCVVE?oc=5",
+        "source": "뉴스투데이",
+        "description": "[IPO 워치] 인제니아테라퓨틱스 청약 돌입…수요예측 3곳 뉴스투데이",
+        "pub_date": "26.07.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "이재명 대통령, 실리콘밸리 주요 VC 만나 “한미 스타트업 동맹 확대”",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85YmNPSG15eXdRWUd6ZWtHd1RuWVQxbUcxZmJHUnR0V3pabF9qczktNWEya2hPTEJGTWszQTdnRk9JbDlaVDJ2NQ?oc=5",
+        "source": "플래텀(Platum)",
+        "description": "이재명 대통령, 실리콘밸리 주요 VC 만나 “한미 스타트업 동맹 확대” 플래텀(Platum)",
+        "pub_date": "26.07.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'머크 픽' 인제니아 공모가에 쏠린 눈…하반기 바이오 IPO 잣대 되나 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSG85VjliVkp6S1FVUk04OW05UF94NTg3cHg1ZUg4QUs4bnc4TjVlaEs1S1hnRERYUThtOE5JOVlJanlKTk9lM0VKaWNnRXlfSHlGU0VVY2dNVWVONC1rb1hQRzV0aHhZRVHSAW9BVV95cUxNUTZfVGNOdVR3cmYzU21QWjF6M0NaeXR5LXVUYzFaWWhlNElWcUQyaFRPLWp5WEdqNjlOX0h1elE2Rk5qcS1MTUg3djQwU3JOMWZxSjB5ODVKd2tMTVJjYXI1N1pkbmxuaHhIVTVzbmc?oc=5",
+        "source": "머니투데이",
+        "description": "'머크 픽' 인제니아 공모가에 쏠린 눈…하반기 바이오 IPO 잣대 되나 - 머니투데이 머니투데이",
+        "pub_date": "26.07.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "역대 첫 실리콘밸리 VC 세일즈…'460조' 꿈의 투자자들과 K스타트업 연결",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14ZzRpT2hHVTgzd2c0OHZ6ODJ2NFV3b3lBR3NITS1ma1R6STRZbElOM2dFUkdzU3AtSzQxaGl3Y0lyQUJrWVIwOFM0SUVXUQ?oc=5",
+        "source": "전자신문",
+        "description": "[샌프란 AI선언] 역대 첫 실리콘밸리 VC 세일즈…'460조' 꿈의 투자자들과 K스타트업 연결 전자신문",
+        "pub_date": "26.07.26",
+        "section": "invest_ma"
+      },
+      {
+        "title": "실증에서 상용화까지…인천 스타트업 혁신기술 공공시장 안착",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcEZhZVlpM29uQjF1ZlJ6QjJOc1ZuZ1RzN3dWaWlCal80WkZhWThueTNwa0NNVXJtZHBuVHBmeXBjUnc2TVBWOTZrZ1VITUJadnlJR2poQ2wtUVRueTZ6djh3RkhRa25CbTUyX1NVaHBCWXozMzdIdXBrdlFENmV3THNydDM0N0xyZ1RNa1V4OUdnY01CVDJpazhlU2Jkd3d3bGp0akZkMUQ5ZG94M0xJTFlNWTZtdnVFY0l0ZGdSNDktbEhfejlYc0pRMWxiTnZIdDZZbDk1Wl90anp0cGtES05vNk9DMzBaM1lRMG9iaDZrMm1idmtRQTN3cmk2ZF9ERXh3LTY0M0dXWVNZazJnUW9vMFdKY2pWb1BFVGJBa3dYNFNRdVhKTV9udG4yZw?oc=5",
+        "source": "데일리안",
+        "description": "실증에서 상용화까지…인천 스타트업 혁신기술 공공시장 안착 데일리안",
+        "pub_date": "26.07.27",
+        "section": "innovation"
+      },
+      {
+        "title": "수원특례시, 산업혁신기반구축사업 선정…미래 반도체 경쟁력 강화",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HdGhNVkFBSjEwNUVNWTZTeWFXbk54bUpPYklWbmlYOTZHdmk4YmhXeGRJVjFXX2xFSENoOXBlRnJZR2xBZElwWnVPcnpFcmZkYTBkOEM5aGtQRnc1cjJBZjRwSjVzRzM0ZEl3cWd5QjBDUQ?oc=5",
+        "source": "웹이코노미",
+        "description": "수원특례시, 산업혁신기반구축사업 선정…미래 반도체 경쟁력 강화 웹이코노미",
+        "pub_date": "26.07.27",
+        "section": "innovation"
+      },
+      {
+        "title": "\"한국은 글로벌 핵심···혁신 접근성 높이겠다\"",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jSHBwNXVHZ1NmRnFnWEJOSVRVenFZOHRiMkQ3V2lFX08wZmJseDlMS1RrSmRFUTlKMFRTVUp6cHVBaVZFQkZrazQ3VHlWUWxmY0s5Sngyd0txSGhXSlZSR2MwQ21OMjcxTE1V?oc=5",
+        "source": "메디칼업저버",
+        "description": "\"한국은 글로벌 핵심···혁신 접근성 높이겠다\" 메디칼업저버",
+        "pub_date": "26.07.27",
+        "section": "innovation"
+      },
+      {
+        "title": "충남대학교 그린바이오 혁신융합대학사업단, 제주 '애그테크 스쿨' 성료…스마트농업 실무역량 강화",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54S2pGS0RlbnlUTkg3Wi1sMjR2ZFN0am5aakFHMUNFNElmSGthZFV3YkMzU3pjaFNTZFpDdm4wX0NUaXIwbDV6b09WNk1qUGJUZUJrc3pqNWJhN0Fpa0JrQUd0eVdCNlRvNWZYbjFrMVg?oc=5",
+        "source": "한국강사신문",
+        "description": "충남대학교 그린바이오 혁신융합대학사업단, 제주 '애그테크 스쿨' 성료…스마트농업 실무역량 강화 한국강사신문",
+        "pub_date": "26.07.26",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "조세일보",
         "description": "[참고자료] 해외진출기업 관련 자료 제출, 해외현지법인에 대한 지급보증 정상수수료율 조회 > 법인세 조세일보",
         "pub_date": "26.07.17",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "news": [
-      {
-        "title": "BNK금융그룹, 2026년 하반기 조직개편 실시",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pS3owVXF3XzVoOGNXNlBLZVlGU3M1ZGpKY01pVVoza0VuTmVnenBWUXktX0N3SWhwV3lDOHFGTjdxdjlqMGlIaW41OS10WnpaMlJzdlRFNUx6dmM4UFJCaHRUdjBMMTk1cWc?oc=5",
-        "source": "파이낸셜리더스",
-        "description": "BNK금융그룹, 2026년 하반기 조직개편 실시 파이낸셜리더스",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "출근 확대에도 재택근무 제자리…유급 근무일 26% 집에서",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lYTlFQ1RzVVcxd2YwWDlZVmc5aF9KVXd0UWJaRXZvVzJTNEtXdER2WExNcmsyZ3RRUUlOa1FFTldiSkctSmFyLVFLS0ZlRm8?oc=5",
-        "source": "애틀랜타 중앙일보",
-        "description": "출근 확대에도 재택근무 제자리…유급 근무일 26% 집에서 애틀랜타 중앙일보",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "내년 최저임금 시간당 1만 700원 올해보다 3.7% 인상",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXRLMk5IYlpOWjU2LTJLd1g5LUhmM3dmUmJnM2RlekRkX0tfSWh0Tm1BdnRpa1VBNWZEOEZyMW94b1oxVnd4Z2dYQ0VZVXM4MDZiXzJ2Z0pKVGdWS0REZU5IdFNoc05Kb00zdXpNeHVsRWdDU3ZFRU1QeGhwNzQxd016VkNkN2hwVHNLWTlid1hOWERHVEJjWENPT0NMc1FMMk5xTlhKUTJmank1OVpKWEcwMzdBT1dMLXlMamFxNTdkQ1hCMGM0?oc=5",
-        "source": "gonggam.korea.kr",
-        "description": "내년 최저임금 시간당 1만 700원 올해보다 3.7% 인상 gonggam.korea.kr",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "李 \"임금 격차 공시, 대선 공약...연내 법 통과 드라이브 걸라\"",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51T0dadkdTZElWcjhrUThuTUI5TG42ZjdOLWlELXRKSnRJbFpVb0VpOFpnY3o3RWhMS1daWHdOMU1FQlhDX1BTeThZOW1aTTJDNkxfYUVTemhYdzlJ?oc=5",
-        "source": "뉴스핌",
-        "description": "李 \"임금 격차 공시, 대선 공약...연내 법 통과 드라이브 걸라\" 뉴스핌",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "성과급 양극화에 삼성 파운드리 10명 중 8명 “이직 고민”",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QQlJTaDRzZ0dxdUV2d25tdG5OR0RrVEh6NnRJbDFhbXltdjJsVktVbE52cS13WDhFMWxGZTljUURvNUM0UzJETzVOcUpXdV9GTGZUT2s2NmMxOHU1di1GTWpBeGkyUUktdmx1S2FwOXrSAXRBVV95cUxOMHpOUTdBZXNpSF9DMFN1cGlPVUhfTWtRYzJkMjVaUzdRUTdGTmdUUnVUYlZjSU54cTAycndaX1NyQ2xoQ3Q1dnVPVTlqOXNmZ0xWZVBhRHlVYTBOd0kweU9xbWFwLXBIOExLVUNGVzYzMjVUdg?oc=5",
-        "source": "IT조선",
-        "description": "성과급 양극화에 삼성 파운드리 10명 중 8명 “이직 고민” IT조선",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "양산시, 성평등 조직문화 조성사업 면접조사 실시",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16dkQtV1RpcnZBTVRiSVFldUJHZm53X3MtTmZLcm5Hcy1OR1E1aTVxRmJvdWVidVplejRsOWx6ejJfN3FtREtLZ2xJeVhUaXFieFRwX1BUQnJUXzNwN1ZrbE5oZFh0Z9IBaEFVX3lxTE9PRDZrOVJocnVXREhTbzVqX3psMWhGTVFLUHloZ1plOTRKWlA4elp6Wl9kTmZta2QwRXR3bldWNWtrbGx4dVlISXlvYUtrZ3IyMjFTT3hNTWp3UWQ0RzVPU3B5dnVXOFp5?oc=5",
-        "source": "경남뉴스통신",
-        "description": "양산시, 성평등 조직문화 조성사업 면접조사 실시 경남뉴스통신",
-        "pub_date": "26.07.16",
-        "section": "hr"
-      },
-      {
-        "title": "LG도 투자한 AI 인프라 관리 스펙트로클라우드, 1억 달러 투자유치",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSUxROExJZGdXRXdhYnd0aGtUMEViMkNVeFoyeWJwZlhtWXpHdzlVdC1EX1BKSzVhSUtHc05DUzY2eGxPSGNtRnZZbU16ZnM?oc=5",
-        "source": "와우테일",
-        "description": "LG도 투자한 AI 인프라 관리 스펙트로클라우드, 1억 달러 투자유치 와우테일",
-        "pub_date": "26.07.17",
-        "section": "ai_tech"
-      },
-      {
-        "title": "인텔, 구글 클라우드와 협업 확대에도 6%↓…기술주 부진+새 제미나이 출시 지연",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SUHZsOWNNTnUxS2Q0Q2hQQlB2aEJBNzRGT2s0LTloVkVPaGI5N2JheG1lb3RRc3JlZnR6azJqUFRBS2tYLU5OTUF4UzFpdmNXWHlnWnEwc3NpMDM2RkxIMWF4NGRLSXdBZW4yaGlESXJaSUU?oc=5",
-        "source": "마켓인",
-        "description": "인텔, 구글 클라우드와 협업 확대에도 6%↓…기술주 부진+새 제미나이 출시 지연 마켓인",
-        "pub_date": "26.07.17",
-        "section": "ai_tech"
-      },
-      {
-        "title": "‘구글 AI 포 비즈니스 2026’ 현장을 소개합니다!",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYRjJpeVY0UHlkSUR0SUZ5RXhqcENkbDZSYW9UTl9EcEhuMlk4WHEtM2xRWXcwQ1BiVmRrWXRFMGtucXBIN1ozVldSWlYyWEdiX2Jlb2dYYWRhQ21qTUVaQjhoclctZThiRVZnXy1ZcllycFZQNnc?oc=5",
-        "source": "blog.google",
-        "description": "‘구글 AI 포 비즈니스 2026’ 현장을 소개합니다! blog.google",
-        "pub_date": "26.07.16",
-        "section": "ai_tech"
-      },
-      {
-        "title": "히타치, 오픈AI·구글 클라우드와 피지컬 AI 확산 대응 강화",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zUnhNcTNYcGw4LVc4WHhxR3lzUlo1UURwQ3lrY3E4YjJ1ZEVDNVk5dTE5eDdBMEtoZUZqa1lic2UwRVdkeTY3bTdLTTZwdVNuMjItcmctX0loZ0pZQzNR?oc=5",
-        "source": "헬로티",
-        "description": "히타치, 오픈AI·구글 클라우드와 피지컬 AI 확산 대응 강화 헬로티",
-        "pub_date": "26.07.16",
-        "section": "ai_tech"
-      },
-      {
-        "title": "부동산금융 익스포저 ‘여전’, 질적부담 커",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mRnZISEJGdEtRVXE2cjBJNUcyeFRXaTU1UlZxYW84V256VG5IOHpmTnJTeWpIRWp4VU9oeW5FWHVGYURTMFU5YWNiTWNLMWYtM05iNjdB?oc=5",
-        "source": "DealSite경제TV",
-        "description": "[위기의 중소형사] [iM증권] 부동산금융 익스포저 ‘여전’, 질적부담 커 DealSite경제TV",
-        "pub_date": "26.07.17",
-        "section": "macro_industry"
-      },
-      {
-        "title": "캔자스시티 연은 총재 \"인플레 압력, 에너지 넘어 상품·서비스까지 전이\" |",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWDI0TDlnaUo4aXp1dkJNZjVDTkY5LWwtZC1JMDNPdnlGdTBiUDRWdTJmdzczdTZuMFlZQVVZbVdhV29TbGx3YnBlQ0FfS0hhakVaZkxnM1NqYzZtNW95XzhoY0ZqSjUwN0lnTTJtTl94R09D?oc=5",
-        "source": "연합인포맥스",
-        "description": "캔자스시티 연은 총재 \"인플레 압력, 에너지 넘어 상품·서비스까지 전이\" | 연합인포맥스",
-        "pub_date": "26.07.17",
-        "section": "macro_industry"
-      },
-      {
-        "title": "JP모건 \"한은, 8월 인상 가능성 높아…최종금리 3.75% 전망\" |",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85REx6Rzh4Sjc5bFdvVkplcURIYksxdzF6OVUzZlVNeHpSN2xWVnFOc0E5VXlCTlJCakszTDg3djB6VXcyUTBPYWpHWVg1bXFhYldWTEhwM1NhdjF1MUhpak1Fd3l4MWY2TXNjN0EwUnpWTEpP?oc=5",
-        "source": "연합인포맥스",
-        "description": "JP모건 \"한은, 8월 인상 가능성 높아…최종금리 3.75% 전망\" | 연합인포맥스",
-        "pub_date": "26.07.16",
-        "section": "macro_industry"
-      },
-      {
-        "title": "신현송 \"2.6% 성장률 전망 너무 낮아…5월 금리동결 실기 아니다\" By EBN",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MFJWa2lKUnp3VTNtVm9qLWVwTDFLaWxUa1lHU2dKS1ljcTMtMWtjOGJYV3BDWHRST0c1emFEY3ZJREx1LXBTQlFKNFJ2NG5KQWN1Qmx1WC1VTkxldWE1Ty1YQWZrM0drLTBIbmZlQUI?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "신현송 \"2.6% 성장률 전망 너무 낮아…5월 금리동결 실기 아니다\" By EBN Investing.com 한국어",
-        "pub_date": "26.07.16",
-        "section": "macro_industry"
-      },
-      {
-        "title": "Csquare, IPO 공모가 $21에 $20.90으로 거래 시작",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZHNOVHJhZ0dCbzI3OTMxdWdvdGtIYzV2a1EyUklGaUhrZW40TW81akFOeTZvS3BVMkZCNXkzd3JwaWIxa1RDM3BRdmU4ejNjQnh0V0NRV005aWhTdTM5Q0dhOUJ6azBuT0RmN2NqSjhKc3MzX0hKQw?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "Csquare, IPO 공모가 $21에 $20.90으로 거래 시작 Investing.com 한국어",
-        "pub_date": "26.07.17",
-        "section": "invest_ma"
-      },
-      {
-        "title": "한미약품, 바이오벤처·VC 한자리에…오픈이노베이션 확대",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KMFJMY0VRNThzT3Rxc0plb1ptakdkR3JZRXo0U0FhOGxpclFyWjFPLXAwVnExc0luMFJna0xPcEsyTHRVc3REODJrNlhMejdjVGJ2Z1o2N2U1ZjZzdmdmMUMtdkxibVdrdGs0?oc=5",
-        "source": "한스경제",
-        "description": "한미약품, 바이오벤처·VC 한자리에…오픈이노베이션 확대 한스경제",
-        "pub_date": "26.07.16",
-        "section": "invest_ma"
-      },
-      {
-        "title": "씨스퀘어, IPO 공모가 21달러 확정…희망가 밑돌아",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuXzJscXlkWXE0WlBVSU5nQTNWX0poRHpnQ2d6aUhKb0lXbHhXY3NieXE0bnVucFV5MW9ldTYtME9hMzhoRk9ieVQxQUttb1JCWnhBTXV0N28wQ21M?oc=5",
-        "source": "뉴스핌",
-        "description": "[미국 특징주] 씨스퀘어, IPO 공모가 21달러 확정…희망가 밑돌아 뉴스핌",
-        "pub_date": "26.07.16",
-        "section": "invest_ma"
-      },
-      {
-        "title": "투자유치‧글로벌 진출 기회!…‘경기 스타트업 서밋’ 전시 참가기업 모집",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkt3UVlXR2NwdDhhd3N3ZFpKLVM0bWlpbDRlSDhkVW9ZMFVwZmNSWEh6azUxV0gxU3A2dExWRWpHZlZidDZTSURkeFFnSnhvbnYtT01PX2dDcWQwX0NFNlduNzhoSi1ybU16aHlrdVR6dWFLdFdiWXBMVGg1YmEyeGhuekwwcDVTeHctX2xTOUluTUVKLXU1Q1doZmtjekROTEFZd0RHQ2RKSlU4akNr?oc=5",
-        "source": "경기도뉴스포털",
-        "description": "투자유치‧글로벌 진출 기회!…‘경기 스타트업 서밋’ 전시 참가기업 모집 경기도뉴스포털",
-        "pub_date": "26.07.16",
-        "section": "invest_ma"
-      },
-      {
-        "title": "앰플리, 블루포인트파트너스 시드 투자 유치…'생화학적 일상진단 플랫폼' 상용화 승부수",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1QZlRFWXRHRGE0VU5NUjJLRGhra0hKc1doWWxxdlgyQ0VnalBtNGNPM0RveDV3Z3ZqcFVsdGQyLWdnYnc?oc=5",
-        "source": "한국공공정책신문",
-        "description": "앰플리, 블루포인트파트너스 시드 투자 유치…'생화학적 일상진단 플랫폼' 상용화 승부수 한국공공정책신문",
-        "pub_date": "26.07.16",
-        "section": "innovation"
-      },
-      {
-        "title": "한동대 ‘AI·바이오 혁신 모델’ 통했다... 글로컬 3년차 가속도",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tc0p3bnJpMHZmaVp4OXBIbFBuMDZwUFpVenZKQ0FxLVhfQUJRR3Fab1VRN2JiTU5aY0J1Q0RxZmJDWDI5MWNIVzVKRjU3QmNGWjgyV0V3eEVvdTkyeTZFelpMLU5Vdw?oc=5",
-        "source": "이로운넷",
-        "description": "한동대 ‘AI·바이오 혁신 모델’ 통했다... 글로컬 3년차 가속도 이로운넷",
-        "pub_date": "26.07.16",
-        "section": "innovation"
-      },
-      {
-        "title": "복지부 하반기 청사진, '제약·바이오 혁신'과 '필수의료' 집중 투자…약업계 파장은?",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nd0UxZkJwOGRFQkFQOFV2eUlrcHRxRWMtUHh1MDNlV1V4bk5EbHYzMWU5dHpTaGR0c2x0OG9KUDR3Zkcwb2RSWVpMdFJuS2VzOTh2NnA3NDFRaVNwZUlQZzVvZXpVdw?oc=5",
-        "source": "약업신문",
-        "description": "복지부 하반기 청사진, '제약·바이오 혁신'과 '필수의료' 집중 투자…약업계 파장은? 약업신문",
-        "pub_date": "26.07.16",
-        "section": "innovation"
-      },
-      {
-        "title": "제보왕, 서비스 출시 뉴스기사 작성·배포 지원…신규 플랫폼·앱 론칭 포털뉴스 노출 전략 제시",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZkRnak81Uk5ncmUyU1BadktKNTVkVFVuT2E3RkJhbUxrbmVfTXl3SFRUSFBMU3NwU1JZcHJqNkZGZkVzSk9HbTFRUHFTSk9vY0hodUx6cjBQVU9HZlhBZ1g1NzlldjRKbzVvTW9R0gFuQVVfeXFMTlpmRGdqTzVSTmdyZTJTUFp2S0o1NWRUVW5PYTdGQmFtTGtuZV9NeXdIVFRIUExTc3BTUllwcmo2RkZmRXNKT0dtMVFQcVNKT29jSGh1THpyMFBVT0dmWEFnWDU3OWV2NEpvNW9Nb1E?oc=5",
-        "source": "한국투데이",
-        "description": "제보왕, 서비스 출시 뉴스기사 작성·배포 지원…신규 플랫폼·앱 론칭 포털뉴스 노출 전략 제시 한국투데이",
-        "pub_date": "26.07.16",
         "section": "innovation"
       }
     ]
