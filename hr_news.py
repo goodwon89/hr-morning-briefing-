@@ -62,60 +62,64 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 7.13~7.17  |  수집 완료: 2026-07-16 (자동수집)
+# ✅ 이번 주 업데이트 — 7.20~7.24  |  수집 완료: 2026-07-24 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "7.13~7.17",
+    "week_label": "7.20~7.24",
     "enabled": True,
     "metrics": [
         {
-            "label": "취업자 수",
+            "name": "취업자 수",
             "value": "2,915.4만명",
-            "change": "전년동월대비 +6.3만명(+0.2%)",
+            "change": "전년동월 대비 +6.3만명 (1개월 만에 플러스 전환)",
             "trend": "up",
+            "source": "통계청(국가데이터처) 2026년 6월 고용동향 (7.15 발표)",
         },
         {
-            "label": "고용률(15~64세, OECD 비교기준)",
+            "name": "고용률 (15~64세, OECD기준)",
             "value": "70.2%",
-            "change": "전년동월대비 -0.1%p",
+            "change": "전년동월 대비 -0.1%p (6월 기준 역대 두 번째 높은 수준)",
             "trend": "down",
+            "source": "통계청 2026년 6월 고용동향",
         },
         {
-            "label": "청년 실업률(15~29세)",
+            "name": "청년 실업률 (15~29세)",
             "value": "7.0%",
-            "change": "전년동월대비 +0.9%p",
+            "change": "전년동월 대비 +0.9%p (청년 고용률 43.9%, 26개월 연속 하락)",
             "trend": "up",
+            "source": "통계청 2026년 6월 고용동향",
         },
         {
-            "label": "신규채용 계획 기업 비율",
+            "name": "신규채용 계획 기업 비율",
             "value": "66.6%",
-            "change": "전년대비 +5.8%p (2024년 수준 회복)",
+            "change": "전년(60.8%) 대비 +5.8%p, 2024년 수준(66.8%) 회복",
             "trend": "up",
+            "source": "경총 2026년 신규채용 실태조사 (100인 이상 500개사)",
         },
     ],
     "reports": [
         {
-            "title": "2026년 6월 고용동향",
-            "source": "국가데이터처(통계청)",
-            "date": "2026-07-15",
-            "url": "https://www.newspim.com/news/view/20260715000066",
+            "title": "2026년 하반기부터 이렇게 달라집니다 (노동분야 제도 변경)",
+            "publisher": "고용노동부",
+            "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19588",
+            "note": "7월 시행 단기 육아휴직(방학 중 육아휴직) 등 하반기 HR 제도 변경 총정리 — 계열사 규정 정비 시 필수 확인",
+        },
+        {
+            "title": "2026년 7월 최근 경제동향 (그린북)",
+            "publisher": "기획재정부·KDI 경제정보센터",
+            "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=284260",
+            "note": "이번 주 확인 가능한 최신 거시·고용 동향 종합 — 채용계획 수립 근거 데이터",
         },
         {
             "title": "Global Talent Trends 2026",
-            "source": "Mercer",
-            "date": "2026-02-25",
-            "url": "https://www.mercer.com/insights/people-strategy/future-of-work/global-talent-trends/",
+            "publisher": "Mercer",
+            "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
+            "note": "직원 'thriving' 비율 66%→44% 급락, AI 고용불안 28%→40% — 글로벌 12,000명 조사",
         },
         {
-            "title": "2026년 신규채용 실태조사 결과",
-            "source": "한국경영자총협회(경총)",
-            "date": "2026-03-10",
-            "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=233108",
-        },
-        {
-            "title": "SHRM 2026 Talent Trends Report",
-            "source": "SHRM",
-            "date": "2026",
-            "url": "https://www.shrm.org/about/press-room/shrm-unveils-2026-talent-trends-report--data-driven-insights-for",
+            "title": "CHRO Top Priorities for 2026",
+            "publisher": "Gartner",
+            "url": "https://www.gartner.com/en/newsroom/press-releases/2025-10-02-gartner-says-chros-top-priorities-for-2026-center-around-realizing-ai-value-and-driving-performance-amid-uncertainty",
+            "note": "1위 리더·관리자 육성(2년 연속), 2위 HR Tech & AI 전략 신규 진입",
         },
     ],
 }
