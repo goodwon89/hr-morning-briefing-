@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-28",
+    "news": [
+      {
+        "title": "“미국 대기업들 다시 채용 시작”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vZzdJN3ppODZETHdNYlNTdThuNDBaSEx5RTBrNnZWdEZUN2xDdTIyc3MzNk1md2wzbHc0MWNyNlpfNm1ZdlVkUXFOY0JYX1k?oc=5",
+        "source": "애틀랜타 중앙일보",
+        "description": "“미국 대기업들 다시 채용 시작” 애틀랜타 중앙일보",
+        "pub_date": "26.07.28",
+        "section": "hr"
+      },
+      {
+        "title": "금융권도 ‘夏鬪’… 임단협에, 지방이전 갈등까지",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94bUhiaFkwRTllWHc2MHgwWE5zOFU2ZEgtbVJuU0Z6b2hlYkhFSW1NOGhIQm84Vk9MajNIQmZ1Tl84OU1EOC1BeTlNZU1EUXBjckoxODRZR0NtS0xtbEFLOUx6Q1JKN0xGcjdJckdIWmHSAXRBVV95cUxQcHFfbVltcmZoYTlEa1c5TTdiaXZnb3pscC1aOVQtdTRmbjkwNTJCd1ZMQjl3WXBaZVZsbmRfcTdtVFVzQVJGLU5mTGRxamJWWlV3MU53eGdGZEJZLUZpT1N2bkZWcEpCeXNWRExrNzdfUDFuNA?oc=5",
+        "source": "IT조선",
+        "description": "금융권도 ‘夏鬪’… 임단협에, 지방이전 갈등까지 IT조선",
+        "pub_date": "26.07.28",
+        "section": "hr"
+      },
+      {
+        "title": "AI가 일자리 줄인다더니...미 대기업들 다시 사람 뽑는다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XcDh2SmlsaFZZTlhhZkFEYUV6QWhZRk81dW9HdS1GMnBSRGxobXZic1JYNi1sVG1VZFVlNzBtUER1Y2lneF84OWhRTzNVcEllekVocWRSV0tqSXc5Tmx2TWhDQ3l6cEE0NnNrZA?oc=5",
+        "source": "한경매거진&북",
+        "description": "AI가 일자리 줄인다더니...미 대기업들 다시 사람 뽑는다 한경매거진&북",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "\"금융기관 AI 혁신 장애물은 조직문화\"",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lNmpybTgzdXhiYkZEcDNZVF9MTTFpQmFWa2lrdGhPWi1rVEdkVUNjV0IyZ29sTGdUU2dtWmdrWm0zWGR4a0E?oc=5",
+        "source": "매일경제",
+        "description": "\"금융기관 AI 혁신 장애물은 조직문화\" 매일경제",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "소공연, “지불 능력 초과한 최저임금 인상” 이의제기",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55dDhuZUJXbGpJODFlLWJyZWxXLWJaRXR4UmtjX0NvZ1ZRTEVlZ1lkRjRjaW1Ha2lZaS02YXJMaG0wNGtOYmF5MzVyeVR6em5mb0xpcDBZVUJSSVJYbkRVMzRDZk80Y0lxbWlqVkJoeUxOdw?oc=5",
+        "source": "숙박매거진",
+        "description": "소공연, “지불 능력 초과한 최저임금 인상” 이의제기 숙박매거진",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "상반기 적자 키운 中 태양광…구조조정 한파 버틸까",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNYzJZX3RHYXFybEZ3N2NnOEdoay1rQkhEVUlUS09aTUEzYVFPMDdwRm90bFM2LUV4dWtSOV9FSGo3ZFEtZG56QlVaNnhqTWZma21iWFBkQVRaUW1oeUl0bEo2Y1Y0UHB2VXJtSkJrb095ZXM?oc=5",
+        "source": "마켓인",
+        "description": "상반기 적자 키운 中 태양광…구조조정 한파 버틸까 마켓인",
+        "pub_date": "26.07.27",
+        "section": "hr"
+      },
+      {
+        "title": "광주시 선한빛요양병원, 진료기록 작성 도와주는 AI 도입",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaTWNBT3pCT0JFa01WR2pyUlM5VnF3Nm5mR2YzWjF4cDVnSE5nZU42U21TaDNLdGRJWHZ4TkowVl9ST05iYlF4T19DZ1ZKazFKWHV4clJpeEJBUGRKTmJzMDJqRzFfUUtHS2FR?oc=5",
+        "source": "의료&복지뉴스",
+        "description": "광주시 선한빛요양병원, 진료기록 작성 도와주는 AI 도입 의료&복지뉴스",
+        "pub_date": "26.07.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "국내 AI 스타트업 3사, 글로벌 AI 시장 공략 위해 오라클 클라우드 인프라스트럭처 도입",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdXFMYmZ3RGEzX21TajBSakdOZTYzeGpsbFFDRGZGMmFadGUtczBUSm85bkVVWlhsWGVIdmRGTXVWcHl1ckFoeVdwckY2eTFFb01pQ3ZsS2d1aUJLaTJaNWMzT01Td3pMVmNfcVdfemEtRXZfZTFCb3k1ZjBZN1R1MFJpelJhenhPU3ZzbHNCRmx0OTJjN1Vr?oc=5",
+        "source": "Oracle",
+        "description": "국내 AI 스타트업 3사, 글로벌 AI 시장 공략 위해 오라클 클라우드 인프라스트럭처 도입 Oracle",
+        "pub_date": "26.07.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "모건스탠리 \"AI 도입 기업, 이익률 개선 뚜렷\"",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBySmhDb1ZCV0hxa1czblFTZVJQX190MF9TZzFVZmpiQVMxaGdlMTdndkQ3eFpPR3dUTTlsRzZPRzBmdmJ0RFlLRWoxLW43WnR5ZGEtaHM5ZjFVTW5jVzViSnlTWkpYYmdaaGhFdUJTZG44TUU?oc=5",
+        "source": "마켓인",
+        "description": "모건스탠리 \"AI 도입 기업, 이익률 개선 뚜렷\" 마켓인",
+        "pub_date": "26.07.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "모건스탠리 “AI 도입, 여전히 기업 실적 전망의 핵심”│Global Money Club",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cUdUMm1UR0JMUW5uSmdqYnBPVkdoMnlGMkxCQVY0YXBzcmtSczJvX1FTc2JLSVVXUVZfODdBODJsQ2NUT2NYdWhGSFlBR1pJemUyTmRPV3cwa0k?oc=5",
+        "source": "중앙일보",
+        "description": "모건스탠리 “AI 도입, 여전히 기업 실적 전망의 핵심”│Global Money Club 중앙일보",
+        "pub_date": "26.07.27",
+        "section": "ai_tech"
+      },
+      {
+        "title": "잘 벌어도 '폭락'…빅테크·반도체 운명 가를 ‘AI 투자 청구서’",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5POGEycmJpYXU3STU4QzNLT2o1MnlmenMzUUxxWjF6SWJENXdvREhFVUdFQkw0TnVRMG1nd1NnZDkyOTBOU1dQRy1odVJ1aFg0N040?oc=5",
+        "source": "머니투데이",
+        "description": "잘 벌어도 '폭락'…빅테크·반도체 운명 가를 ‘AI 투자 청구서’[이번주 美 증시는] 머니투데이",
+        "pub_date": "26.07.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "‘소년공’ 공통 경험 각별한 공감대…한·브라질, 공급망·에너지·우주 협력 확대",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nbVp2WV95aWJITmYzZ3VyemxFSVM1U1ZMSENCOFg1RERVVXJaZUR4dnpqM1VNMEEtLXh4ZFNZTnpyZUR3cXMydjBqRHhfbmtxT3YtWDdRQkFqanM?oc=5",
+        "source": "KBS 뉴스",
+        "description": "‘소년공’ 공통 경험 각별한 공감대…한·브라질, 공급망·에너지·우주 협력 확대 KBS 뉴스",
+        "pub_date": "26.07.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "역대 최대 수출 K뷰티⋯ 美 12.5% 관세에 하반기 ‘시험대’",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1URkREODZ1THlJYnp0LVB2eUU2dktKS3hrY05GaE0wbHluc0I0Rlk0YzhnVDl6c2lkcUVfcUNfNzU2VnQ5cjE3TDV0UkNONVkzcUpwSVdnVFJ1Zw?oc=5",
+        "source": "브릿지경제",
+        "description": "역대 최대 수출 K뷰티⋯ 美 12.5% 관세에 하반기 ‘시험대’ 브릿지경제",
+        "pub_date": "26.07.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "건설사 2분기 실적 희비…반도체 공사·원가율 관리가 갈랐다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JalhtQnZzTzcxVVAwQ21CbEdPMGZYTHZwTE55bU93NmJtRV9IMkV1WlZUWFo4amRJbWpRWm5YODdNcDJCZnVsaVpfOVZoc0NkZ1dGMXRTRDhxZ0E?oc=5",
+        "source": "뉴스1",
+        "description": "건설사 2분기 실적 희비…반도체 공사·원가율 관리가 갈랐다 뉴스1",
+        "pub_date": "26.07.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "유상증자 이후 자금줄은 '큐로드 IPO' - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BdkpNc3dxLW82TldqY2JvTS1Jb3lVaXV4N1ZaSWJIUWxJa2liY1E0cmFWRFlTN1ZHcHdNZmhNUnVuaUhra1F3cGNuQ0Z3NjZjVDBHd3JwdWhaUnp4SVJsNUZCLU9IeVJI0gFuQVVfeXFMUGpjZkFtZXh6dURyUlF1UEZlQXNxeUdtTXFJUHY1SVUwZ29hMkRxZFhKMXhvalJyMW11Nkc4TnkybUNFVzBsLUxKSmxpUlc1Yno0MFJMdmlOUjd3WUQ4YktJbmJxSWQxMjB5ZU5MY3c?oc=5",
+        "source": "머니투데이",
+        "description": "[더벨][다시뛰는 썸에이지]유상증자 이후 자금줄은 '큐로드 IPO' - 머니투데이 머니투데이",
+        "pub_date": "26.07.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'K-파운더 펀드' 띄운 정부…벤처·VC \"실질 투자 생태계 구축 관건\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5VVVwTE4wTmlrSWtjdmU3ZGZaOTFpWlZ5SWhuR3FSeWRlU2ZJWUdScmhTWUhEaThkQUFDTlRlVm9iYVhXazhJNWdfUjNEcFNvd0dCYzlmMDQyRGxJ?oc=5",
+        "source": "뉴스1",
+        "description": "'K-파운더 펀드' 띄운 정부…벤처·VC \"실질 투자 생태계 구축 관건\" 뉴스1",
+        "pub_date": "26.07.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "K-딥테크에 반한 해외VC… 뭉칫돈 들고 '한국행' - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55OHVPc2ZiMDdlWDA4UHZ6b0RPMU5jdHhFZmdHdF85cmZYRmdLX19yWjZwZ2Q3UHd4cVZnZjY5WVBwV1dDU3pPLVZkeF9jdTFId2lQOGRZUmhYQWhaUGpsNWUtQmQxZ04wUlHSAW9BVV95cUxQUkxGNF9weW9JQTBWZW1UaExRQ2xmakhmRU9HbWhRdDJyQkxYblVWeHFha29WVDFhdnlkMU9ac3J5dkQzT3VTeDB6cGFBRUk5RVg5S1BjZGk3QW11Q3RkdU1wWmtNQnVCY2pVVE9qUkU?oc=5",
+        "source": "머니투데이",
+        "description": "K-딥테크에 반한 해외VC… 뭉칫돈 들고 '한국행' - 머니투데이 머니투데이",
+        "pub_date": "26.07.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "에스에프씨, 코스피 상장예비심사 청구",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MRU9fYVdpb1VGbHdBQmlrbVdnVWdLcUJMVk81N2c2aEdlQnByakx6ZU1tY0JXX1NaT1BUaXh1STRBTHJqRXgxdEZFQ1JZdzNrdjlxdkdEMlBiOURxdDltcXRfNnNpRXR2a3VRaVJRYw?oc=5",
+        "source": "뉴스톱",
+        "description": "에스에프씨, 코스피 상장예비심사 청구 뉴스톱",
+        "pub_date": "26.07.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "충북창조경제혁신센터 ‘바이오 창업 아카데미’ 성료… 실무 갈증 해소",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04UVdyRU5Cal9qRnYzemFBTzhsd1hXc1FMNWxaMzUtcWxDbmFlS1dQZkV2OHVHbjBGbWprd1BaYjlzbmpnVWZ3SW1sQzRmMC1maDFMcjFKUWducDN2X0FVa1NxT2huVmRzODBMaUdScw?oc=5",
+        "source": "약업신문",
+        "description": "충북창조경제혁신센터 ‘바이오 창업 아카데미’ 성료… 실무 갈증 해소 약업신문",
+        "pub_date": "26.07.28",
+        "section": "innovation"
+      },
+      {
+        "title": "예산군, 그린바이오 중심 농산업 혁신으로 미래 성장동력 키운다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2LWZ1MTV6XzY1Njd0Q3U2cUFXZzFESHp4ZGFVWmM3bjBYUU1aU1dZWXk0bmpwclliMEp1Z2dTczZUZWtLM25qN1kyYXpTcU5zNmpmeEludEFJYXM3b1M5UEhjYkFCVlVmbmlLTw?oc=5",
+        "source": "농수축산신문",
+        "description": "예산군, 그린바이오 중심 농산업 혁신으로 미래 성장동력 키운다 농수축산신문",
+        "pub_date": "26.07.27",
+        "section": "innovation"
+      },
+      {
+        "title": "노르마, 생성형 AI로 양자 프로그램 실행 ‘Q 플랫폼 MCP’ 서비스 출시",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oclo0RzZnaHFyVUNsTWFpQ0VqWXZwQi1tWGRtaWxuUGtrdFFYbVVDUHQ4X0ktUWVzSHVaN2NrX1pHX2FZbTlWR3J5QlU3VnhKemowNWRvM1g5ZFBub3ZBTHVaUnlMNkZlY0dFS3h6SGjSAXRBVV95cUxQajhnVGI5d181MDVIMHlNeTVCYlRscmU5OC04eG9DNEFnQnpaN0NPOEpEX1h6LV81c2hVa3ZxNWFCMFk1QnJNOFdBRXF1OEYwdFBNem11SFh5REU4eG9VZjVKRFlGOGVNeS1La3UtTDdsNW1oSA?oc=5",
+        "source": "IT조선",
+        "description": "노르마, 생성형 AI로 양자 프로그램 실행 ‘Q 플랫폼 MCP’ 서비스 출시 IT조선",
+        "pub_date": "26.07.27",
+        "section": "innovation"
+      },
+      {
+        "title": "\"중국 바이오 특허, 미국 턱밑까지 왔다\"... 美 ITIF '10년 내 세계 1위' 경고",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2QnlXV0V1TG9aSHRqeHpxdkJtal9jOHlsaC1lUy1zZHFJZHdPaERqbWRfX3QtQUZHOGgwUzFVMlM2ajRRanpPZA?oc=5",
+        "source": "특허뉴스",
+        "description": "\"중국 바이오 특허, 미국 턱밑까지 왔다\"... 美 ITIF '10년 내 세계 1위' 경고 특허뉴스",
+        "pub_date": "26.07.27",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "유니콘팩토리",
         "description": "경기혁신센터, 딥테크 스타트업 6개사 신규 투자…엑셀러레이팅 지원 유니콘팩토리",
         "pub_date": "26.07.20",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "news": [
-      {
-        "title": "삼성전자·SK하이닉스 \"사람 뽑는다\"…반도체 채용 '훈풍'",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSWc2S2dTckQza3JnUGJQa2QwdVp4dnd4aXNldlFVWkUwX2g0N3U5VG9sUFBEclJmLVNSbDhXLVJwT1BVQTlnWjN5VGVkV0NYM1NsdzRva0RjZw?oc=5",
-        "source": "한국경제",
-        "description": "삼성전자·SK하이닉스 \"사람 뽑는다\"…반도체 채용 '훈풍' 한국경제",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "'홈플러스 사태' MBK, 오스템임플란트도 구조조정 논란",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LcWV6ZWRqbVFEbFdZejlmVnpuSmhtRTF5b2VSU3d5N0phdnQ5SGo4MUpzLUtZamdsZGdwNDg4aHYxN2s5RU4zZF9ySHRpcm1Rd1E?oc=5",
-        "source": "매일경제 마켓",
-        "description": "'홈플러스 사태' MBK, 오스템임플란트도 구조조정 논란 매일경제 마켓",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "“또 구조조정”..루시드, 직원 18% 추가 감원 계획!",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4R256VjJZeGZab294QXRuaFRDZ0JqUEE2UTlwRHpTenpoNEU0SnRaYVI2cnEzNHdpS3c3Q3BTcTlmQWlCVDlocWtuYWFNSFl3YUNHVElNemJHbXZOb25JUmJidW5zQXcza1RlbXlndkZNdkRZX0E?oc=5",
-        "source": "dailycar.co.kr",
-        "description": "“또 구조조정”..루시드, 직원 18% 추가 감원 계획! dailycar.co.kr",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "내년 수가 인상 1.6% vs 최저임금 3.7% 증가",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfdGdfcFhOQTVxOG1EaFFsOThRMnpjRXRadU90NldHS2steTVtS3dpSW9vMk9PclhpVFg1MGwycDk2UFlxSzJxckRhcGUwNlJCLTBBMm81Y3lNZVhmcnhreFQwbTcwTE4z?oc=5",
-        "source": "데일리메디",
-        "description": "내년 수가 인상 1.6% vs 최저임금 3.7% 증가 데일리메디",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "울산과학대, 전문대학 혁신지원사업 3주기 성과 평가",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CQmpoUXdzMDREUmYybE8xeDduTUhMSTE5TUJRS3FXYmluVThSWGFTR2hzcXUxTDcwMm5QZmNpMjFUaHpWdnFDdGpCc3pIM2pHUzhuZXRsN0w4bWdUWFg0X050R2xKSzJFM2NXOExCUWFFUdIBckFVX3lxTE1CQmpoUXdzMDREUmYybE8xeDduTUhMSTE5TUJRS3FXYmluVThSWGFTR2hzcXUxTDcwMm5QZmNpMjFUaHpWdnFDdGpCc3pIM2pHUzhuZXRsN0w4bWdUWFg0X050R2xKSzJFM2NXOExCUWFFUQ?oc=5",
-        "source": "울산신문",
-        "description": "울산과학대, 전문대학 혁신지원사업 3주기 성과 평가 울산신문",
-        "pub_date": "26.07.19",
-        "section": "hr"
-      },
-      {
-        "title": "‘내년 최저임금 1만 700원’…경남 소상공인 70% “높다”",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iYldJNWk5UF90TDlnWnlJTWswVzlqbTU5WUgtSWplV3VTUzhXQmJ5WGtuVkpLd1dnWlA0b2FmN0ZNUDZySFE0OVluWHJQVXRqMkxZT3A4cGNENHZ3cEJ2WXU3MDh1S3JCY0E?oc=5",
-        "source": "경남도민일보",
-        "description": "‘내년 최저임금 1만 700원’…경남 소상공인 70% “높다” 경남도민일보",
-        "pub_date": "26.07.19",
-        "section": "hr"
-      },
-      {
-        "title": "현대제철, 로봇 시스템으로 선재 생산라인 자동화",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZUk5DVTVCYmZtd2U3U1RtaVJyREUwcmR1MWlRS2hjZElZWGRrRlpoX2M0eVNaRm5qUUg2X3lRNWZGMk1NSktqQ3NSZEhncDdPRTFpeEVoVGN1ZEpKbkh0Z2MzYnItbTlZOXc?oc=5",
-        "source": "철강금속신문",
-        "description": "현대제철, 로봇 시스템으로 선재 생산라인 자동화 철강금속신문",
-        "pub_date": "26.07.20",
-        "section": "ai_tech"
-      },
-      {
-        "title": "유일로보틱스-삼성웰스토리, 식음사업 로봇 자동화 MOU",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWTGEzSDFKMVpTVjJvcElOekNuVVppZFJSdnlRTkRIWnZ0bmZzY21tUUt6Mjc4TlJfWExDbHU4bEZJUkJjOEU3V3hNbTRVajBsTlZvcURualpzcmRnVzNTV9IBeEFVX3lxTE8xSlpkaFdWSUoxOFFfUXB2NFpTek1jWDkzMXdpMU9DRmlCenFud0FkZXEzZ0R2Qm1SZUJ3MnZYZWE2Ym9vX2VKSjVTYlB3SkluQzBlNkJYMmNYX1JVT1JPWWhhUjhIc054Zm5Fd0dRcUllaXloOTNfYw?oc=5",
-        "source": "뉴시스",
-        "description": "유일로보틱스-삼성웰스토리, 식음사업 로봇 자동화 MOU 뉴시스",
-        "pub_date": "26.07.20",
-        "section": "ai_tech"
-      },
-      {
-        "title": "“AI 시대 산학연 혁신 생태계 이끌 것”...김종옥 대한전자공학회장 청사진 제시",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56WWVxNlV0ZlZqaTdLd2NfQ1U0S0huU3NueFVxcHVJVk9DYTZNSU5Td2NVV29VNDJIYWVZdDd5aFgzTHV3NGtvVnA0QzdORG9GYkdUYndMODFMc2xzTjBtcmhieVFLNDA?oc=5",
-        "source": "교수신문",
-        "description": "“AI 시대 산학연 혁신 생태계 이끌 것”...김종옥 대한전자공학회장 청사진 제시 교수신문",
-        "pub_date": "26.07.20",
-        "section": "ai_tech"
-      },
-      {
-        "title": "복지시설 행정에 생성형 AI 도입…서울시 맞춤형 컨설팅",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLaVpKRXN1eXZ1NncwejlwM3o0aEt3ZndYM1lFTzZsSTYxOG8yLWNsWm5LS1R4dmNYUU8yMGh6dUx6bnBQWV9WTG05NFJTdmdFTXc?oc=5",
-        "source": "매일경제 마켓",
-        "description": "복지시설 행정에 생성형 AI 도입…서울시 맞춤형 컨설팅 매일경제 마켓",
-        "pub_date": "26.07.20",
-        "section": "ai_tech"
-      },
-      {
-        "title": "반도체 랠리 분수령 알파벳 2분기 실적발표, 관전포인트 4가지",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTjBDSmZkcDdCZmFFRzQ1V2lLZFlWTEtqbGNfZU9QZkYybGY1Mk9tWm5uYWJoUHlmUzNXQjdGcE9nWlJYUXJxUjhDLXVpV2w1UTA5UlpmNEN0QQ?oc=5",
-        "source": "한국경제",
-        "description": "반도체 랠리 분수령 알파벳 2분기 실적발표, 관전포인트 4가지 한국경제",
-        "pub_date": "26.07.20",
-        "section": "macro_industry"
-      },
-      {
-        "title": "자산건전성·충당금 추이 지켜봐야",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zQlRGa0l1bkhmOG1MTThvU0NpWHVjbUx4LUpfRUoySmFPZ3JLWEhoUFhuM0hWVUdBaWFkQjR2MWNpeVFpQzFPZ0tvTDdvT2g4ZG1UV25n?oc=5",
-        "source": "DealSite경제TV",
-        "description": "[위기의 중소형사] [유안타증권] 자산건전성·충당금 추이 지켜봐야 DealSite경제TV",
-        "pub_date": "26.07.20",
-        "section": "macro_industry"
-      },
-      {
-        "title": "알파벳 실적 앞둔 뉴욕증시…한국 반도체주도 촉각",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uOGxnY0NITmFxaElFTDgtMnhFZlBRV2dJVXExZ3JXbkkyVE56RHZGRjJaR0Z0VEI2dHpxdmstcXBPY2YyVWxCRl80dHlxZ2xrVV93SnNPMkVzNnROX2FXNjZxaFpSNHhDSk51aTRwU2tvdw?oc=5",
-        "source": "톱스타뉴스",
-        "description": "알파벳 실적 앞둔 뉴욕증시…한국 반도체주도 촉각 톱스타뉴스",
-        "pub_date": "26.07.20",
-        "section": "macro_industry"
-      },
-      {
-        "title": "中 7월 대출우대금리 발표 예정 등",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSW11cmtaT3NJZFhwdmpmQzh1S0lNei1FamhRMERwVGxyS0NlOGZaRlh5N1lBUzc0Y1RhX1hGUndEZVNwMWUwSEZ6X1JISC0ycDNOX1p0WHZLSWpmcmhaRUhWRGRwcl9QOVpUc0NGYUNzaWNtYUE?oc=5",
-        "source": "인포스탁데일리",
-        "description": "[0720주요일정] 中 7월 대출우대금리(LPR) 발표 예정 등 인포스탁데일리",
-        "pub_date": "26.07.20",
-        "section": "macro_industry"
-      },
-      {
-        "title": "5년만에 국민연금 GP 복귀...미래에셋벤처, 5000억 펀딩 노린다",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96M0cwdlljSVM2V2pfZ0Jpa18yTE8tRnQySGNmRXZIblVhdk95dy1Zd05kRzJQeWpPLTRwblRSMHFqbnkzVzNvU3hoWlF0Z0dvN3dwZzNnUGVmWWJITXdScEl1Q192Q2Vz0gFsQVVfeXFMTm1QU0Vta3d3UWlZSllEQm1YYXdJdUp3dnVVZ2lBZmhFZGhsVDFxcXZUZE4yR20yZUJiVnN0ZG5HbFgwenpBRVVidWphdzY3ZzNhNjdOQXo2d3NSOGl2XzlvUFhIQVBqS1JnUjhO?oc=5",
-        "source": "블로터",
-        "description": "5년만에 국민연금 GP 복귀...미래에셋벤처, 5000억 펀딩 노린다 블로터",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "문샷 AI, 6개월 내 홍콩 상장 추진…'키미 K3' 흥행으로 동력",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zMUEwY2w5UnhGa09YVTNxeWFBdnFmRlRhektyUUItckVjcXJta0lJUTJUNUYwRzNXUkdhaU5zc21YRzkzNEtjZ3duS3F3Zw?oc=5",
-        "source": "전자신문",
-        "description": "문샷 AI, 6개월 내 홍콩 상장 추진…'키미 K3' 흥행으로 동력 전자신문",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "에이치엘지노믹스 코스닥 입성…수요예측 2곳",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoN3RiQkh2Y0FMTU9rSnhNeGhiQkhyU040TXJSaDdacDZCZHpnbDA3eWt3SUZQS1k5WTVrMkU5VlFkeEphNlRpY3YtZnE5c0x3OFVxOXRZZnNDTTRZbUE?oc=5",
-        "source": "뉴스투데이",
-        "description": "[IPO 워치] 에이치엘지노믹스 코스닥 입성…수요예측 2곳 뉴스투데이",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "씨엔티테크, 경기도·경과원과 스타트업 미국 진출 지원…뉴욕 투자유치 프로그램 모집",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXa0RPWi03X3Q0b3o3czlHaEU1ZE9lYWFNODJ6ak1JbHB4eGNyaTZqb0RSVmp5dTV5dnJQbWZvYjJOeFhtZW1BTll5Z2FxdlpZeDdIVnNIMk1rOWNCMURfUzdBbmZQSU9IbHVBSVRqNkM?oc=5",
-        "source": "신아일보",
-        "description": "씨엔티테크, 경기도·경과원과 스타트업 미국 진출 지원…뉴욕 투자유치 프로그램 모집 신아일보",
-        "pub_date": "26.07.19",
-        "section": "invest_ma"
-      },
-      {
-        "title": "\"MLCC 검사도 AI 시대…\" 한울반도체, '전수검사 플랫폼' 상용화 눈앞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RU3ItSzRkcnRKV09YRFJnMklzbFNIMUlCZmh6UGJPVC1rZjl4WlZNOVduaUtnbUFqdEhtOVRuNW9lQ3VoYk1vVWZILW1jdE9TWTZJ?oc=5",
-        "source": "네이트",
-        "description": "\"MLCC 검사도 AI 시대…\" 한울반도체, '전수검사 플랫폼' 상용화 눈앞 네이트",
-        "pub_date": "26.07.20",
-        "section": "innovation"
-      },
-      {
-        "title": "농식품 스타트업, 해외 진출 시 기술력보다 현지화 우선",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QYUs0U1JSMUVtWE5qU0VBbXl3WllielRYdkl2OUhjM3lUZm5VTXk1a1l4cTY3UjlzS1ZzYjNTMVhIM2JMdVQ3UXY1Uml2dDgtVWt6cVpfZw?oc=5",
-        "source": "바이라인네트워크",
-        "description": "농식품 스타트업, 해외 진출 시 기술력보다 현지화 우선 바이라인네트워크",
-        "pub_date": "26.07.20",
-        "section": "innovation"
-      },
-      {
-        "title": "“노원에 ‘서울형 랩센트럴’ 조성…바이오 스타트업 전 주기 지원”",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MFFqSDVfM0o4TmhnSWhmX2N2MUtjOGtGWDNiUzdCSGRoRzFJN1dKc2JpQndWcElsZ1A5UlRmS1ZZYjZLZXg0MzBENU1oN05EbEJXdGpObGw2V3RRX1dWZVNIWGJ5MTVfMmc?oc=5",
-        "source": "의학신문",
-        "description": "“노원에 ‘서울형 랩센트럴’ 조성…바이오 스타트업 전 주기 지원” 의학신문",
-        "pub_date": "26.07.20",
-        "section": "innovation"
-      },
-      {
-        "title": "해외진출기업 관련 자료 제출, 해외현지법인에 대한 지급보증 정상수수료율 조회 > 법인세",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHVjSldpM0FXSDNTdnhRNWRRM1BVZEQ1TFFJX0dxTl9TelgtdlQ3WG1wakhydkdRaEU4OTZsY0FqcUd5aUtsSXgxWExxdGdjVV9EUWNJSFA1V01kWEc4ellHQVN3MVZyT285QnNuc0JtTWtmdTYzOWRUVVlJVktvR2phVm1JdHkyVFBsU0o2RzJicVhyazNIcEgyUk8xR0k?oc=5",
-        "source": "조세일보",
-        "description": "[참고자료] 해외진출기업 관련 자료 제출, 해외현지법인에 대한 지급보증 정상수수료율 조회 > 법인세 조세일보",
-        "pub_date": "26.07.17",
         "section": "innovation"
       }
     ]
