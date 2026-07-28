@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-07-29",
+    "news": [
+      {
+        "title": "AI 땜에 신입 안 뽑던 대기업들이 다시 채용을 늘리고 있다...왜?",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYYVRrZXNtaXhVbHZUZFBFVW0zUEJhbC1IYVNZM1V0OHpMc2lXanB0WDBvSko1N2haOWpPMm9HT2J2MzhnbVh4ZVVDeU93TUhfekJoSHZtQ09ONVA0YXhZQTNPTHhMYnI1dkhDNWpYTWYxVEU?oc=5",
+        "source": "디지털투데이",
+        "description": "AI 땜에 신입 안 뽑던 대기업들이 다시 채용을 늘리고 있다...왜? 디지털투데이",
+        "pub_date": "26.07.29",
+        "section": "hr"
+      },
+      {
+        "title": "적자 3.3조 모셔널, 연봉 대신 주식 뿌리는 까닭",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WM3hMNjNNTjZ5LWxyZVpMc2sxNWRZZnJjN0ljSkN3Nk5UTkdPZ09tdlcxOEdyUU9iZXVra1pXSDZBV2oxSmFxZ1Rmcm94ZHgwSnVONmkwX2ZVUTNSbDcyNU9TRmZYdzZRUDU0N3loY3Zjdw?oc=5",
+        "source": "마켓인",
+        "description": "적자 3.3조 모셔널, 연봉 대신 주식 뿌리는 까닭 마켓인",
+        "pub_date": "26.07.29",
+        "section": "hr"
+      },
+      {
+        "title": "공노총, 내년도 공무원 임금인상 요구 관련 전재수 부산시장과 정책간담회 진행",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05akZFWmNNa0Fta19IcVpxdmJ2Z0I3aVd5VHBob1U5VG1qVnBuNEVNaWZjZmJGUndTcktFWWhlamQ4cjd3THFnNDNZMWpGNnBXVl9NYWdzTU44ckx1a0VHU0hvamN0M2JZXy1N?oc=5",
+        "source": "충청메시지",
+        "description": "공노총, 내년도 공무원 임금인상 요구 관련 전재수 부산시장과 정책간담회 진행 충청메시지",
+        "pub_date": "26.07.28",
+        "section": "hr"
+      },
+      {
+        "title": "AI 감원의 역설… 사람 줄인 기업들이 다시 채용에 나선 이유",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XdVpCTEdxQnliWkh1TnVSOGxSUm5MbVBmbkhWQ0YzanFUb2Z5LVFMbGdCVWhtTXBJVjNCdlZtQTRYZWZrMVNBVG1qZXVqSDNu?oc=5",
+        "source": "더밀크 | The Miilk",
+        "description": "AI 감원의 역설… 사람 줄인 기업들이 다시 채용에 나선 이유 더밀크 | The Miilk",
+        "pub_date": "26.07.28",
+        "section": "hr"
+      },
+      {
+        "title": "한국지엠 노사 2026년 임단협 타결…17차례 교섭 끝 합의",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tU0VTZGMxSzFjempRc1dKLW45dEpDMmRTcUVuYkJIdlE4U2VkcUQyVWlLN0pTT180bDQzSzlrUEtBYlVlNlRPWTNqdkhKaGZyQ2JJSmktSjUzRG9xNzFOUF9nNFMzTldi?oc=5",
+        "source": "테크월드",
+        "description": "한국지엠 노사 2026년 임단협 타결…17차례 교섭 끝 합의 테크월드",
+        "pub_date": "26.07.28",
+        "section": "hr"
+      },
+      {
+        "title": "한국지엠, 임단협 타결…기본급-성과급 모두 인상",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNVJ5WEFrRklELXZieGFBZi1nUzAxc3JQSFh4UGdTWGViREd6blJObXFHVnNzZUxvUWZyS3YwY3BvZU9KdkxPWUVHNVJaV3g5UWVYVEdZQzQ2YWRRWGxpMWxMOHRWOV9sZjdrZFk3U2p5WElzY0xCYkFoaGljWEE?oc=5",
+        "source": "starnewskorea.com",
+        "description": "한국지엠, 임단협 타결…기본급-성과급 모두 인상 starnewskorea.com",
+        "pub_date": "26.07.28",
+        "section": "hr"
+      },
+      {
+        "title": "AI 도입 지원… 클라우드관리기업 'AX 파트너' 진화 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fS1Z3aHFVbUdVOUxVd1MxNnFGaVp4V1FTRlNIbEx0VHo2eUFwLXhYR3A0M2RxQkRyUW82ZnRSWTVMdDZVX2xGNWdLdnlwWEtFbkxJSzhITXJQVXZDNmFqOTg3OHVMQUZJZHhtc9IBbEFVX3lxTE1fS1Z3aHFVbUdVOUxVd1MxNnFGaVp4V1FTRlNIbEx0VHo2eUFwLXhYR3A0M2RxQkRyUW82ZnRSWTVMdDZVX2xGNWdLdnlwWEtFbkxJSzhITXJQVXZDNmFqOTg3OHVMQUZJZHhtcw?oc=5",
+        "source": "머니투데이",
+        "description": "AI 도입 지원… 클라우드관리기업 'AX 파트너' 진화 - 머니투데이 머니투데이",
+        "pub_date": "26.07.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "정부 클라우드 시장 보고서 2026-2035 | 크기 및 예측",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUjg4dGl3T0k3ZXhpcVZEd2xSOXlkd3o1M1VkMHpNQWNnTXg3YVc4c1h1SzYzYXA5eXhVT3ZpcjJDV3Zrc1FxYUN4SnpoRzlsNTJlWkRLb0FSX2VaeXlKOXdsajU4cExZWllKZC1kN0pXX3M4QkFv?oc=5",
+        "source": "Spherical Insights",
+        "description": "정부 클라우드 시장 보고서 2026-2035 | 크기 및 예측 Spherical Insights",
+        "pub_date": "26.07.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "생성형 AI 도입 99%… \"AI가 에이전시와 광고주의 관계를 바꾸고 있다\"",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZM0lHM1dreko2b25xcVlVTGFWS2VGUlRqVU04dG5DLUV2S0ZsNVdHSTBMSnQ4dVhyWUowR0ZTUDNyWVl6b0Jzb2swbUU1d2hiVEJzSGhjTXBnQko5d29YMG9PMGVGWFQ4QV84VA?oc=5",
+        "source": "매드타임스",
+        "description": "생성형 AI 도입 99%… \"AI가 에이전시와 광고주의 관계를 바꾸고 있다\" 매드타임스",
+        "pub_date": "26.07.29",
+        "section": "ai_tech"
+      },
+      {
+        "title": "경일대, AI·로봇 융합센터 구축…기업 손잡고 미래 제조인재 키운다",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZG5BSnA1cXA0Z0syUkY2RG5GNTQya3BXeFdlOUpuYXdlU2RWRE9RMUVibjBOcWdoM0FxR1c4TEFrU0hscDVsYnN5RXhndTI2WGFucUlsamVxRlBVNXllZHBJYzRZRG83eXRyMWpjcw?oc=5",
+        "source": "kyongbuk.co.kr",
+        "description": "경일대, AI·로봇 융합센터 구축…기업 손잡고 미래 제조인재 키운다 kyongbuk.co.kr",
+        "pub_date": "26.07.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "기업 실적이 뉴욕 증시 살렸다, 반도체 약세에도 상승 마감",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkd4RHZwZkhoRnh1Vk9rb284RXFVbGZhOWFJRkk1OUFoRkZEekRTYk41U21vTVBZZjlCd2ppUzZPbG1LQzBOcjJxMzdld3ZyeXpsLV9rSHdJV3hNblNCQnNnMjgtWk9jRm1iRHM2YmMtSDFuUlJQVkdnN2N4MGdmQkhTQmV4bGcteUtvSGUtdlVqNEZhWXJtZnQ5Zmttdw?oc=5",
+        "source": "조선일보",
+        "description": "기업 실적이 뉴욕 증시 살렸다, 반도체 약세에도 상승 마감 조선일보",
+        "pub_date": "26.07.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "아레스 캐피털 실적 발표 임박: 금리 변화 속 배당금 유지될까?",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWd2RLb1ZnMXVqN1VzSVZuc0JBQm5RSnVKVXU0RW1lQmZkQWRoaktxc0Y0dGE5QlFVNnVTSkNfQ2Q1aXJldC05cHlVSXhPbFROd3BXT2tHUm1fbTlKb1R3aXB5V2hpTjJoa1hv?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "아레스 캐피털 실적 발표 임박: 금리 변화 속 배당금 유지될까? Investing.com 한국어",
+        "pub_date": "26.07.29",
+        "section": "macro_industry"
+      },
+      {
+        "title": "美, 베트남 내 중국계 공장 불시 점검…우회수출 단속 확대·추가 관세 압박 가능성",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3h0ZXNqNG16bjVwWDJleE5CZ0lWVzFneXZkNDJZRWc0ekl0OUUzbFNDTHdyZllZMmNmWU45SDNycHB0NnFrQU85TlM4aTJYbThjdzlZaHVJeDI2WVpNTGl2cWFNTFJndGZDVUFIclBod0hrYXdFMHMyYVJzMld1YmFzNUxzeHo5U3FZa3VoYlRiNjdfSE1EWG1XamJyUQ?oc=5",
+        "source": "Chosunbiz",
+        "description": "美, 베트남 내 중국계 공장 불시 점검…우회수출 단속 확대·추가 관세 압박 가능성 Chosunbiz",
+        "pub_date": "26.07.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "\"미국, 베트남 내 중국계 공장 불시검사…추가관세 부과 우려\"",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbW0wTmlxMnJibWt1UWNpd0hVQkZsSkM0dC03ZDE1bUdPUGZOclVvQlRXY2NrbXJJV3FtUk9PTVUtRHJxeE10akR3MFVMWVlYVDFxQ2hVR3Y1SWgwNUp2S9IBYEFVX3lxTE5nbW0wTmlxMnJibWt1UWNpd0hVQkZsSkM0dC03ZDE1bUdPUGZOclVvQlRXY2NrbXJJV3FtUk9PTVUtRHJxeE10akR3MFVMWVlYVDFxQ2hVR3Y1SWgwNUp2Sw?oc=5",
+        "source": "연합뉴스",
+        "description": "\"미국, 베트남 내 중국계 공장 불시검사…추가관세 부과 우려\" 연합뉴스",
+        "pub_date": "26.07.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "경과원, 바이오 스타트업 투자유치 실전 지원",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZN2oyN090SUptblNFWGYyU1I2aDN4cVA1RXBmNl83NlRiblpSV0VmbzI5bGdpUXAwNE1CTFZtUG5ZU1FpV1M1UldmWFFnZEtXT1R5dk5ZWE1sQ3hmZlU1QjNEZGc?oc=5",
+        "source": "매일일보",
+        "description": "경과원, 바이오 스타트업 투자유치 실전 지원 매일일보",
+        "pub_date": "26.07.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "인제니아테라퓨틱스, IPO 공모가 1만2000원 확정…”8월 중 코스닥 상장”",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lb0JmVGdGUGZickZIMjN1cjE4ZXJBckpDb2dReTZUei1RZ2tvUHBnOTZMMTMtQ2NUSGJZcjRQb3FKeXJvbzV4OEp3MlFrdFduOFhieWdnX3l3NEM0eWN1dHZBWGxFMEJtSkJBQtIBcEFVX3lxTE9FNld4UFV5aGZCV1VfWDdQZ1V6OE5lSWhuQmE3RWo5WElSdTdDb3F6Wk1pbzRQYnFQT2g5bk83cXhhRjFqZDRZbEpsOThsSG1sWHVhdGo1YWh3dG83eFF5NlpPcTZHQzN2T2ppQ05NWGM?oc=5",
+        "source": "더바이오",
+        "description": "인제니아테라퓨틱스, IPO 공모가 1만2000원 확정…”8월 중 코스닥 상장” 더바이오",
+        "pub_date": "26.07.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스텝랩 등 6곳, D-유니콘 선정···대전시, 성장·투자유치 지원",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFM2ZwMVlRXzdPLU1SMEF6dFV0UnNfSHg0alRQMFZqSkl2ZF83SnppRDlKMGF0aXVWbWR4WlVmQXZmWUlweDBrZ3U3a1lPN1gyaUtrM0FRSUsxa1NObERsZnUyTXVlWXoyLXc?oc=5",
+        "source": "헬로디디",
+        "description": "스텝랩 등 6곳, D-유니콘 선정···대전시, 성장·투자유치 지원 헬로디디",
+        "pub_date": "26.07.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "대형 카브아웃이 이끄는 유럽 M&A…올해 거래액 70조 육박",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lZ01JdFczQ3o4d2ZiRWprRUoxVk9NdUJkdFYxczNSMkxBRGJKS3V2U1M1Zlk1UTVmcEhhTF9wSTJBTDV5RHZ1Y3BjRzhSMGdnSUZMTkc2LWhpU09vWUJMLUh1YnVDUVFaYy1SWHFEVnVxUQ?oc=5",
+        "source": "마켓인",
+        "description": "대형 카브아웃이 이끄는 유럽 M&A…올해 거래액 70조 육박 마켓인",
+        "pub_date": "26.07.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "바이오넥서스 진 랩, VitaGuard 동남아 상용화 본격화..中 병원 현장 점검",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdEo4bEdOUlVybDE2bFlzMm5VM1dITnBBVTlvMHU2YlZFZVNpSDBzZXdFNlpFLTJ3ODBKTXpQSGZ1WmRyS2NEaFhqUzFZaGUyUHc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "바이오넥서스 진 랩, VitaGuard 동남아 상용화 본격화..中 병원 현장 점검 매일경제 마켓",
+        "pub_date": "26.07.29",
+        "section": "innovation"
+      },
+      {
+        "title": "바이오넥서스 진 랩, 암 액체생검 플랫폼 '비타가드' 동남아 상용화 속도",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNkw1ZHRTYWVTTzFmVXlqT3Vac2x1VGRxSU1DQ1NLcE5vWFVVOGFXUGNRaFhLQklubjBUN1M4MVlKazl2dVZwdFhaYVRtS2dpLThwa24ydVdjaGFULUpPd0VDM0l0ZjllV3RINHRqdDhOblU?oc=5",
+        "source": "데이터투자",
+        "description": "바이오넥서스 진 랩, 암 액체생검 플랫폼 '비타가드' 동남아 상용화 속도 데이터투자",
+        "pub_date": "26.07.29",
+        "section": "innovation"
+      },
+      {
+        "title": "대구 미래신산업 혁신기업, 동남아 시장 영토 넓혔다",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95NGpsSDlfZVN1Rnd6TGJuR09ORGNCRkFmN0xWa1VWcGQ1cUFnejZWVHVnNFkxMTRjaDlrSm41czZFa0l6UURxZlRR?oc=5",
+        "source": "문화매일신문",
+        "description": "대구 미래신산업 혁신기업, 동남아 시장 영토 넓혔다 문화매일신문",
+        "pub_date": "26.07.28",
+        "section": "innovation"
+      },
+      {
+        "title": "대동, '국가 농업AX플랫폼' 이끈다…20년간 1.53조 사업모델 구축",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Sb3VvWW13cHJvZVdIc0hDZFNmS1UwTmFTX0RVQzFqUW9NUmJfU3cxMVJWOVYzYjRBdmRqMkwyY09PQ1l5NDdEWnJlU2s?oc=5",
+        "source": "전자신문",
+        "description": "대동, '국가 농업AX플랫폼' 이끈다…20년간 1.53조 사업모델 구축 전자신문",
+        "pub_date": "26.07.28",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "한국영농신문",
         "description": "농업로봇 스타트업 노만, 2억 원 시드 투자 유치…스마트팜 자동화 기술 상용화 속도 한국영농신문",
         "pub_date": "26.07.21",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-21",
-    "news": [
-      {
-        "title": "\"주주가치 훼손하는 N% 성과급, 노사 협상 대상 아냐\"",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oZVRHMlE5enNvVG5YOWFIMkVUMnNGckVqNmFtU3dQZ3hFa1pNZUlKYzNVZVRteDNidk9sMkxvUDN4R3hmcHpMS1lyMlRmZXZCb1ZKT0R2eU1oNmFTLUtvNURCeFNfb05JVDhVN1FDRzY5MWNSakZMNk16SQ?oc=5",
-        "source": "이데일리TV",
-        "description": "\"주주가치 훼손하는 N% 성과급, 노사 협상 대상 아냐\" 이데일리TV",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "와이즈넛, 인사혁신처 3세대 e-사람 적용할 AI에이전트 시연",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kc1F4NmRwR3h6aW91YVJXbFU4dU15azIxU1Bqa2h4eWtvMkhoVXhKTmRYT3p3OUstd3J2RlRhVUJOUms3aDgzN3VrZlVrUQ?oc=5",
-        "source": "dt.co.kr",
-        "description": "와이즈넛, 인사혁신처 3세대 e-사람 적용할 AI에이전트 시연 dt.co.kr",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "서울시, 중장년 채용 희망기업 300개사 8월 14일까지 모집",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CbzBFT01vQzVWLUdnc082cU1qaDlWQk0tRTVNT29hVXNoZjBQU2tJZFJOTmE2dEg4YTN2d25pNnp6RmlGdDhobF9nX1NKb0JCRU16ZF9SSWlWa19OZDBnRHR0enVLOTdxcHpVNUJR?oc=5",
-        "source": "G밸리타임스",
-        "description": "서울시, 중장년 채용 희망기업 300개사 8월 14일까지 모집 G밸리타임스",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "석화 구조조정 대산·여수 문턱 넘는데···울산은 난항",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00OElxTHhNbXA4YjVPUUVFWHU2bC1SbEctRHM3U0FLdk80SlJaSXFXQ01qM1VTa1JCMTRpNnU3VkJhY0hkaUQxZk5RaWk4WWVNek9TcHV4dV9ncVg3YXRleE5YeV96VUlYYzRQTzl6SGhRQdIBdkFVX3lxTE9IN1FUM2ptZmZOZVRWLWFmdllPaDl2WWo1NDA5TWtSbmhqWVJ3TEZudVliZlJQdFNsYkp1aTJZM1JDRTNCYmpDZV9vOUlteHFrRXMzajVLamVhVktxQ29JdzIyY1A2c2VxN0ZlWHduN010a3BWb0E?oc=5",
-        "source": "시사저널e",
-        "description": "석화 구조조정 대산·여수 문턱 넘는데···울산은 난항 시사저널e",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "반도체 성과급, 현금서 주식으로···노사합의만 하면 될까",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YdnpyRVRkYlFvV3VJMXAzRnNveW9jWVY5YlZ2VUFZbzFZOG5QMVh6MjdFQl9IdW1KVXV4VzBRX2RVOHBOd3EwVmRJYVVBT1RGbjlVb0U3U3V2NV81NzAtQ3RJa1pKbkd4YmJuNE51WjdHUdIBdkFVX3lxTE1wX0dHWlBnODd3b1JubXpOV2RoMGpuYUdvQlJtQjdXN0dHeWdQNHEzQVpjeDdKemxMSGRaY3lFa3JoQ1g1VTdSellJRnJOTFphNGlUbHQwZXlmbmFVZFJ1NldRb2pMQUhSdHY4X2FPWk1TZmlUNkE?oc=5",
-        "source": "시사저널e",
-        "description": "반도체 성과급, 현금서 주식으로···노사합의만 하면 될까 시사저널e",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "①채용 넘어 AI 전문기업 도약 I 원티드랩①",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RQi1IeHZSb2VRbUNVbmNxdVVFWFkta0M3endINmRNX0NPOWdLb2NmdzFEdFE2dWpWaVNWN1h2dFBSRTZpZkFzTzczeHVQbGs4MG82VWxhREt6ZGlmMXVrS1hUUGY5b3VI0gFsQVVfeXFMTUhrN0Jmek9kNkhVRHFYRTdRSmtiVC1qTlMxRmxNTDhIYm1oVTNKTVdSdkZ1Q1FxLWFNNUxrWUw3dzlfb2VrdGhyVFJpWHNsR1hITko1anRrWGhKYkUzS0hSZ2VrZVBXMW9ZYW13?oc=5",
-        "source": "블로터",
-        "description": "[HR기업 AX 열전] ①채용 넘어 AI 전문기업 도약 I 원티드랩① 블로터",
-        "pub_date": "26.07.20",
-        "section": "hr"
-      },
-      {
-        "title": "AI 에이전트 시스템 연결·보안 설정 재사용...부서별 업무 자동화 빠르게 확대",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeGtOMU53OEI0UzhDUE9UVmxqbUFRdkYwaTdrNGZvTy1jVFYwMFlzc0ZQMC13UGs3QWNLNWtQSzNVb2plYWluM3F3dGhfNzUzTVNKYmo0b29YRWxwS1FEWV9TTkVxMXNIR0E?oc=5",
-        "source": "지티티코리아",
-        "description": "AI 에이전트 시스템 연결·보안 설정 재사용...부서별 업무 자동화 빠르게 확대 지티티코리아",
-        "pub_date": "26.07.21",
-        "section": "ai_tech"
-      },
-      {
-        "title": "보고 판단할 수 있는가로 이동한 피지컬 AI",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pLUFTMjBMcW1ZUm5lbjBBTmFfaFVxTVhqMFpsbEVWSFZvdERmMXdOY1ZMcDRXQU5JVGxlYm5HRGttdzNTZklkTFFtaFVleEVHeUVodzB6SHZGeE5jcHBLX0xyWlVyR0J0blZPLTVod1TSAXRBVV95cUxQVG85N3NXMUpXUW9xcnFnRDItSUJZZDd3ZFdSYlBBbFFHZktzc2Y2NWFjQU9sVTdMQl9QQ051RkpwbXEwd1BVWUNDczVtRVNGMHVWUlMxc0FSNEpZTDlFX3Bpb2lIejZzNDlGLXR5LUpMQl9OZA?oc=5",
-        "source": "IT조선",
-        "description": "보고 판단할 수 있는가로 이동한 피지컬 AI [이승현의 AI 네이티브] IT조선",
-        "pub_date": "26.07.21",
-        "section": "ai_tech"
-      },
-      {
-        "title": "글로벌 기업, 중국 시장 생존 위해 AI·로봇 자동화 사활",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1NZaDlfRnJUeVdQNUJLWDcwaUV4NzFDaXhlc3J0aWJTeE8wZWlDdmc1VENDQW5TYWJIUC03bnNTb0FsVm5kS2NqNnpfNlhyek1pNElZY2c3QU42d3NPLW5WdFgyQlhVeTFOR0tFYzlQcmpZWnlhTkNjOWU1clNscDRmUFJaekNY?oc=5",
-        "source": "글로벌이코노믹",
-        "description": "글로벌 기업, 중국 시장 생존 위해 AI·로봇 자동화 사활 글로벌이코노믹",
-        "pub_date": "26.07.21",
-        "section": "ai_tech"
-      },
-      {
-        "title": "MS, 클라우드 ‘애저’에 AMD AI랙 대거 도입…엔비디아 독주 견제",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiWFJ4cW1McldMUUhiQkxlbVAtSllVV3pDMERWd2xDdDltT1R1MW1vbXhkaENxTjhSdGZ3ZUhqSV9kOWV4N2RzQXZhMzJ3Y2FtbnZWODZoWnFQRjg?oc=5",
-        "source": "KBS 뉴스",
-        "description": "MS, 클라우드 ‘애저’에 AMD AI랙 대거 도입…엔비디아 독주 견제 KBS 뉴스",
-        "pub_date": "26.07.21",
-        "section": "ai_tech"
-      },
-      {
-        "title": "호르무즈 우회로 홍해까지…미·이란 '중동 양대해협' 전선 위기",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NV2RoQjFjanhYVF9vVENfSEQ3LVJDSF9STUZ2MmRLVEJ4NDlIVFBrZjVPLVlQV3ozTi1pRjJlNmMxbTU3NlBjOEdabEpsRUR1WHhkcFV6NVZGRGZyUHY5cdIBYEFVX3lxTE9NV2RoQjFjanhYVF9vVENfSEQ3LVJDSF9STUZ2MmRLVEJ4NDlIVFBrZjVPLVlQV3ozTi1pRjJlNmMxbTU3NlBjOEdabEpsRUR1WHhkcFV6NVZGRGZyUHY5cQ?oc=5",
-        "source": "연합뉴스",
-        "description": "호르무즈 우회로 홍해까지…미·이란 '중동 양대해협' 전선 위기 연합뉴스",
-        "pub_date": "26.07.21",
-        "section": "macro_industry"
-      },
-      {
-        "title": "무역협회 창립 80년, 특별하고 귀한 수출탑 포상 신청 받는다",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9va2NzVVhWV2toNWtnV1hUblc3MVJFM1d0ZFhtM0Y5YW9uVzdsT1JCa1dpbGtkU29EcDJWUXVmS1A0UWdEWE80NWU3dnVUalZ2cXQ3SFZHb3BrQVgzSUZSRTFpOHh6c3gyZ2pVSg?oc=5",
-        "source": "재외동포신문",
-        "description": "무역협회 창립 80년, 특별하고 귀한 수출탑 포상 신청 받는다 재외동포신문",
-        "pub_date": "26.07.21",
-        "section": "macro_industry"
-      },
-      {
-        "title": "주요 경제지표 / 기관이 투자의견 / 실적발표 / 신규 IPO 일정 / 10년물 미국채 금리 동향 / WTI 원유 선물 동향",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3Y1UDgzVS1Td3hOREQ4bGN3dXVHcEtpaHp3VHFyMUk1ZVdGTWhDMlJycl9lUFZxNS1nemxveUxsZjg0QWJ0MlB3bDY0UFVBeHJseXpvWXQwd0JyS3lTaTMzMFRtcHpUQS1pcFJZQnB3emU5NXRsQWpyZ2FtVWhCOEh5NWE?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
-        "description": "[2026-07-20 브리핑] 주요 경제지표 / 기관이 투자의견 / 실적발표 / 신규 IPO 일정 / 10년물 미국채 금리 동향 / WTI 원유 선물 동향 네이버 프리미엄콘텐츠",
-        "pub_date": "26.07.20",
-        "section": "macro_industry"
-      },
-      {
-        "title": "6월 경기 수출 355억달러 돌파…월간 최대 실적 또 경신",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZC1pcFlJcFpLd2htNWM1Mno0UEQ4aXk5RW9MbGZyOURRenJiUEI5dzBDSDdrTFI5UGFKdFk4NGpxUFpHd193SXVjWUQwV2hBdWROZmVrTTY2N0RBMkozeFUzMlZaV1ZHT1lRanNXSjI?oc=5",
-        "source": "인천일보",
-        "description": "6월 경기 수출 355억달러 돌파…월간 최대 실적 또 경신 인천일보",
-        "pub_date": "26.07.20",
-        "section": "macro_industry"
-      },
-      {
-        "title": "中 AI기업 문샷, 키미 K3 흥행 업고 홍콩 증시 상장 추진 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByU0J4S3kySHJpMmw0cGM2SFFQV19Db2Z5dzRmQVRKVWhJS1d4YUJIclJvMUdfVHF1VE9Rbkhjb0VHYTJCdmdLTVBadHlTZU5SLTU5RERiZ0NTMXdCMmNkUnV5ME5mSFc10gFuQVVfeXFMT0JZazdBTFVncFdIazZiTFJyeXpCQU9sZnFZeFkzSnRrUDNxYko5T3RmYU11c1RZM0s1cWtJWW11OUY1Y1NtM0xTWk1kOGtFVXFjdlBucUNDUUpKMWQ4NFBMYXh6S3pybHZFZ2I2UXc?oc=5",
-        "source": "머니투데이",
-        "description": "中 AI기업 문샷, 키미 K3 흥행 업고 홍콩 증시 상장 추진 - 머니투데이 머니투데이",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "'15년' 초장기펀드 등장…벤처·VC업계 \"환영하나 보완 필요\"",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyUTVXLXdEWUR4VHdjNVAyTWRINm5wWmtubWpnNzFJTTNQVUgtd0ZpdE5oMFFyTDJSbkxQTmJWczRlUlBhZWJGYVZjbHlHVEh2a3FzVg?oc=5",
-        "source": "v.daum.net",
-        "description": "'15년' 초장기펀드 등장…벤처·VC업계 \"환영하나 보완 필요\" v.daum.net",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "‘중복상장 예외’ 첫 관문 넘었다…덕산넵코어스·디티에스 예심 통과 - 조선비즈",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDNJdDBrQTdRNVRORkVsRHFleFYtYzNOdHFmRkxRSWI5NjlPVlRNTUo0NFJXaS1VZzQwRlY1UGJ4QVpzVmQxN3NQYmNPZEVmT2wtWV91dUs1NTE1TkZFRWpBYUtjcFJXMWhfOElUM293azcwbjE3cWFyWHpBUUhqcExKNjNWeW5h0gGcAUFVX3lxTFAtS0g5Tm5VZXpTNU5LeElUcjFEbWJXeWVwdTBhVTdUcTFqWmxoUDgyYVVZZ1lXNUVXWnllWmlYMmdWMTZvM3N4NDR3d29aa3BrWEVjbzlrSXVJY0dLckRjUUZjTkJxQl9hQmN1UE5fUmo2RGo3aV9yNmZZazhnRllXZFlZMXVKMVF1OFhJcUhib2c1OFV1NEp4bC1hQg?oc=5",
-        "source": "Chosunbiz",
-        "description": "‘중복상장 예외’ 첫 관문 넘었다…덕산넵코어스·디티에스 예심 통과 - 조선비즈 Chosunbiz",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "'전기차 충전기 운영' 에버온 등 코스닥 상장예심 신청",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS2t6TGowX3BCUDZ6c2owMGI3Tl9oeUcxbmlDNXFjU0RyTXBkZENST2N5eFNMSzNzcnZucW5pWDBkbno0MlhsbExFZ1Nibi1veXgxR2xsZXdWUTTSAWBBVV95cUxOaTl6UXdtWlBPYnd0Z0Fmd2s1WnFibndYZXRTWWpBMlp0c3FGWmU5OGkwWk9MbGxrdC13QVBDYldNWWJYc3Q2UWhyak1jVUozVS0xcUxXV3l1S2FPRm81WVQ?oc=5",
-        "source": "연합뉴스",
-        "description": "'전기차 충전기 운영' 에버온 등 코스닥 상장예심 신청 연합뉴스",
-        "pub_date": "26.07.20",
-        "section": "invest_ma"
-      },
-      {
-        "title": "딥테크 스타트업 日 진출 돕는다···대전혁신센터, 한·일 협력 첫발",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOeWxiNTM4MlhzYnhOdG9DRkhoVk12QndIYmtWbHlxY3BhSERTaF9Sa0tqOWs4SHBvNGE1Qjc1V0xtRWdHMUR0NldWT1RVZFRCd0RveHdkY3BWRzdDM0otY1RuMG43bVI3clE?oc=5",
-        "source": "헬로디디",
-        "description": "딥테크 스타트업 日 진출 돕는다···대전혁신센터, 한·일 협력 첫발 헬로디디",
-        "pub_date": "26.07.20",
-        "section": "innovation"
-      },
-      {
-        "title": "신약 개발 '10배' 빨라진다…정부, 'AI 바이오 혁신' 시동",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMUh2bFhUSmt3UmFwSWRaMHVqbU1uOWkxeWJRLWtBUDV4aW91akNFSlVJemVLYk93OGtwWjBxV1ljN0R5dENnaGVZZURZX2tpV1JPbHkzRW1zd1RndEU0VNIBeEFVX3lxTFBMWnFHMVNSLWJZRUV4RU5Pb0IydDR4ZURNSW1ERVZwR3lNSUJzTXkwMVJONUhocUNsWWdhRE1udm1mV2dZbjcxYUNqWmRFSEtqLVNNUXNFdTVQVjZKemFiNEphMWpoMlF4VWFuZ3gtNDJ4SzVHS1B0dA?oc=5",
-        "source": "뉴시스",
-        "description": "신약 개발 '10배' 빨라진다…정부, 'AI 바이오 혁신' 시동 뉴시스",
-        "pub_date": "26.07.20",
-        "section": "innovation"
-      },
-      {
-        "title": "20년 막혔던 美 선케어 규제 완화…K-뷰티 ODM 기회의 문 열리나",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SQmlJVTF6LVE2cGJQemMzMVdRd1BUQzhpUk9ISjk3b0k0U3pKYnVTVjJYQXJJRTV5YVlqZm1VbTlhbGZnSFhPMlJ4VGxPQUtObm1nRkxJek1WYWkxbEhVUNIBeEFVX3lxTE5jSVdzeXVrVk9jRnNrYnVLYmJ5RXNkZ0FkcDFndzhWMW9NbzU3a0Nhb25XTWdzdnVkMlhNUmdpbzYxeE9NdzVCMFZ3aXY3OEE5Yk9QVWlTZVlTQ2Nhb0hwUkszam9xaFhVUDhpNXBMSGlRaUQ1UHVIaQ?oc=5",
-        "source": "뉴시스",
-        "description": "20년 막혔던 美 선케어 규제 완화…K-뷰티 ODM 기회의 문 열리나 뉴시스",
-        "pub_date": "26.07.20",
-        "section": "innovation"
-      },
-      {
-        "title": "경기혁신센터, 딥테크 스타트업 6개사 신규 투자…엑셀러레이팅 지원",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03OGNrdDYzdmdmQkRoakI4Y1JzZURPSjBIR1V5dWNHTFF4Sm8yMHdJVHIxQnZ4R2RzS2ZtcFp1cl95MVlXbmNzQTRnV1R3U0NoaXdYaTNudlMtQzdSUy1TUEYwQ0VmelItNlVKdQ?oc=5",
-        "source": "유니콘팩토리",
-        "description": "경기혁신센터, 딥테크 스타트업 6개사 신규 투자…엑셀러레이팅 지원 유니콘팩토리",
-        "pub_date": "26.07.20",
         "section": "innovation"
       }
     ]
