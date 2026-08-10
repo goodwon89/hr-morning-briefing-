@@ -62,68 +62,64 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 7.27~7.31  |  수집 완료: 2026-08-03 (자동수집)
+# ✅ 이번 주 업데이트 — 8.3~8.17  |  수집 완료: 2026-08-11 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "7.27~7.31",
+    "week_label": "8.3~8.7",
     "enabled": True,
     "metrics": [
         {
-            "label": "취업자 수 (2026년 6월)",
+            "label": "취업자 수",
             "value": "2,915.4만명",
-            "change": "전년동월 대비 +6.3만명 (+0.2%)",
+            "change": "전년동월대비 +6.3만명",
             "trend": "up",
-            "source": "통계청 「2026년 6월 고용동향」",
+            "source": "국가데이터처, 2026년 6월 고용동향 (2026.07.15 발표)",
         },
         {
-            "label": "고용률 (15~64세, OECD 기준)",
+            "label": "고용률 (15~64세, OECD 비교기준)",
             "value": "70.2%",
-            "change": "전년동월 대비 -0.1%p",
+            "change": "전년동월대비 -0.1%p",
             "trend": "down",
-            "source": "통계청 「2026년 6월 고용동향」",
+            "source": "국가데이터처, 2026년 6월 고용동향 (2026.07.15 발표)",
         },
         {
             "label": "청년 실업률 (15~29세)",
             "value": "7.0%",
-            "change": "전년동월 대비 +0.9%p",
+            "change": "전년동월대비 +0.9%p",
             "trend": "up",
-            "source": "통계청 「2026년 6월 고용동향」",
+            "source": "국가데이터처, 2026년 6월 고용동향 (2026.07.15 발표)",
         },
         {
             "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
-            "change": "전년 조사 대비 +5.8%p (60.8% → 66.6%)",
+            "change": "전년대비 +5.8%p",
             "trend": "up",
-            "source": "한국경영자총협회 「2026년 신규채용 실태조사」",
+            "source": "한국경영자총협회, 2026년 신규채용 실태조사 (100인 이상 기업 500개사, 2026.01.19~02.11 조사)",
         },
     ],
     "reports": [
         {
-            "title": "2026년 6월 고용동향",
-            "publisher": "통계청",
+            "title": "6월 취업자 수 6만3천명 증가…고용률은 석 달 연속 하락",
+            "publisher": "국가데이터처 / 파이낸셜뉴스",
             "date": "2026-07-15",
-            "summary": "취업자 6.3만명 증가로 1개월 만에 플러스 전환. 다만 청년(15~29세) 취업자는 19.7만명 감소해 44개월 연속 감소, 청년 고용률은 43.9%로 26개월 연속 하락.",
-            "url": "https://kostat.go.kr/board.es?mid=a10301010000&bid=210",
+            "url": "https://www.fnnews.com/news/202607150802253534",
         },
         {
-            "title": "2026년 상반기 직종별사업체노동력조사 결과",
-            "publisher": "고용노동부",
-            "date": "2026-07",
-            "summary": "산업·직종별 부족인원 및 채용계획 인원 등 인력 미스매치 현황. 계열사별 직무 기준 인력계획 수립 시 벤치마크 자료로 활용 가능.",
-            "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19590",
+            "title": "2026년 신규채용 실태조사 결과",
+            "publisher": "한국경영자총협회(경총) / KDI 경제정보센터",
+            "date": "2026-02",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504&pg=&pp=&issus=S",
         },
         {
-            "title": "Global Talent Trends 2026",
+            "title": "Global Talent Trends 2026 Report",
             "publisher": "Mercer",
             "date": "2026-02-25",
-            "summary": "전 세계 약 12,000명 조사. 직장에서 'thriving' 응답 비율 66%(2024) → 44%(2026) 급락, AI로 인한 일자리 상실 우려는 28% → 40% 상승. AI 도입의 정서적 영향을 전략에 반영한 HR 리더는 19%에 불과.",
             "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
         },
         {
-            "title": "잡코리아 HR 머니 리포트 2026",
-            "publisher": "잡코리아",
-            "date": "2026-07",
-            "summary": "11개 산업군 평균 채용 경쟁률 11:1(2024) → 17:1(2025)로 약 55% 상승. 기업 42%는 채용 예산 확대 계획. 산업·직무·규모별 연봉 데이터 및 '대잔류 시대' 조직 운영 전략 수록.",
-            "url": "https://www.jobkorea.co.kr/help/notice/view?no=15029",
+            "title": "잡코리아 vs 사람인, 'AI 후불형 채용' 승부…차별점은",
+            "publisher": "ZDNet Korea",
+            "date": "2026-07-31",
+            "url": "https://zdnet.co.kr/view/?no=20260731162923",
         },
     ],
 }
