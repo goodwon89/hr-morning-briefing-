@@ -62,64 +62,56 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 8.3~8.17  |  수집 완료: 2026-08-11 (자동수집)
+# ✅ 이번 주 업데이트 — 8.17~8.21  |  수집 완료: 2026-08-18 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "8.3~8.7",
+    "week_label": "8.10~8.14",
     "enabled": True,
     "metrics": [
         {
             "label": "취업자 수",
-            "value": "2,915.4만명",
-            "change": "전년동월대비 +6.3만명",
+            "value": "2,913.6만 명",
+            "change": "전년동월대비 +10.8만 명",
             "trend": "up",
-            "source": "국가데이터처, 2026년 6월 고용동향 (2026.07.15 발표)",
         },
         {
-            "label": "고용률 (15~64세, OECD 비교기준)",
-            "value": "70.2%",
-            "change": "전년동월대비 -0.1%p",
-            "trend": "down",
-            "source": "국가데이터처, 2026년 6월 고용동향 (2026.07.15 발표)",
+            "label": "고용률 (15~64세, OECD기준)",
+            "value": "70.3%",
+            "change": "전년동월대비 +0.1%p",
+            "trend": "up",
         },
         {
             "label": "청년 실업률 (15~29세)",
-            "value": "7.0%",
-            "change": "전년동월대비 +0.9%p",
+            "value": "6.8%",
+            "change": "전년동월대비 +1.3%p (5년6개월 만에 최대폭 상승)",
             "trend": "up",
-            "source": "국가데이터처, 2026년 6월 고용동향 (2026.07.15 발표)",
         },
         {
             "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
             "change": "전년대비 +5.8%p",
             "trend": "up",
-            "source": "한국경영자총협회, 2026년 신규채용 실태조사 (100인 이상 기업 500개사, 2026.01.19~02.11 조사)",
         },
     ],
     "reports": [
         {
-            "title": "6월 취업자 수 6만3천명 증가…고용률은 석 달 연속 하락",
-            "publisher": "국가데이터처 / 파이낸셜뉴스",
-            "date": "2026-07-15",
-            "url": "https://www.fnnews.com/news/202607150802253534",
+            "title": "2026년 7월 고용동향",
+            "source": "국가데이터처(통계청)",
+            "url": "https://www.newspim.com/news/view/20260812000049",
         },
         {
-            "title": "2026년 신규채용 실태조사 결과",
-            "publisher": "한국경영자총협회(경총) / KDI 경제정보센터",
-            "date": "2026-02",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504&pg=&pp=&issus=S",
+            "title": "2026 신규채용 실태조사 결과",
+            "source": "한국경영자총협회(경총)",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504&pg=&pp=20&issus=O",
         },
         {
             "title": "Global Talent Trends 2026 Report",
-            "publisher": "Mercer",
-            "date": "2026-02-25",
+            "source": "Mercer",
             "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
         },
         {
-            "title": "잡코리아 vs 사람인, 'AI 후불형 채용' 승부…차별점은",
-            "publisher": "ZDNet Korea",
-            "date": "2026-07-31",
-            "url": "https://zdnet.co.kr/view/?no=20260731162923",
+            "title": "\"뽑긴 뽑는데, 10명 이하로만\"…채용 데이터로 짚어본 2026년 하반기 채용시장 흐름",
+            "source": "Korea Business Review",
+            "url": "https://www.koreabizreview.com/articles/kbr-news-deep-analysis-10-2026-20260812-1gs6",
         },
     ],
 }
