@@ -1,5 +1,162 @@
 [
   {
+    "date": "2026-08-18",
+    "news": [
+      {
+        "title": "청년보다 50대가 많아졌다…대기업 고용시장에 무슨 일이",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xRUVzWXpuaVVaMVp6WDZ3R2NHelE0NWRBR3VwelFoNDM3NHBXZFA2dGRqSGxMRjBBV29QQ2ZqWnpVN1VCUjJ4R29EaEItU1RvWjZRVzdwRDhYUQ?oc=5",
+        "source": "한국경제",
+        "description": "청년보다 50대가 많아졌다…대기업 고용시장에 무슨 일이 한국경제",
+        "pub_date": "26.08.18",
+        "section": "hr"
+      },
+      {
+        "title": "대기업 채용 2년 새 15% 감소…청년 일자리 줄고 50대 이상 늘었다",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56dFEyUW05aTRqVWdzdW1yMXRlSFBjUGF6YTRUNHlzVGlnQ3Y1MkdhTm0yMWF1RDhkUTJJMkZyRVRjY2VWcVE2UjRmZjFIbVo4bzVNN3hvUXpEdzFIU3p0NXBHenpHWnRV?oc=5",
+        "source": "ebn.co.kr",
+        "description": "대기업 채용 2년 새 15% 감소…청년 일자리 줄고 50대 이상 늘었다 ebn.co.kr",
+        "pub_date": "26.08.18",
+        "section": "hr"
+      },
+      {
+        "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVT0Z1TEoyM0JaN1lQRWV3UkNVeXI3STJSRThoN0tSc2piZ21SZFdnSURQbGRSM3hRZkhWc2RNenBkenctNDF6MzZnQXUzR2FleUE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전 매일경제 마켓",
+        "pub_date": "26.08.18",
+        "section": "hr"
+      },
+      {
+        "title": "리알파 테크, 2분기 글로벌 인력 25% 감축… 구조조정 단행",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ac0JkWU1TTVItT1h0OWxSbm9mQ1ZyYjl5TWFfNmFsWENsaHQ2ckRzdDRnOEEwRll4M0s1cUVaZTZoN2FBeE5QVXJyWml6a09UYnRwVXlZYngtNGxzUThkMEZzVzZIYWhrMWFrUGN5Zm52Ulk?oc=5",
+        "source": "datatooza.com",
+        "description": "리알파 테크, 2분기 글로벌 인력 25% 감축… 구조조정 단행 datatooza.com",
+        "pub_date": "26.08.17",
+        "section": "hr"
+      },
+      {
+        "title": "가격 12배 올린 딥시크…中 AI 수익 경쟁 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSXhIYm9DSUVkemQxcGd4Y3A1Mnh2Z2UxalRiRk1xbWVLYnZJX3ItQVotZEhxWTRtM21kVW42TkFrSTBxR2s1aUlwTmNQOUw4QWc?oc=5",
+        "source": "서울경제",
+        "description": "[영상] 가격 12배 올린 딥시크…中 AI 수익 경쟁 본격화 서울경제",
+        "pub_date": "26.08.17",
+        "section": "hr"
+      },
+      {
+        "title": "기업 반기보고서에 등장한 수백억 주식보상…'RSU'가 뭐길래",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdnJtaENUQ2R6by1BYmtjQjAzQzQ2T0R4aTVGTEtic3ZSY3FJZUpDaERqTFMzVEhjb2t5MnJSSmMzZU5kM0VDUkYzTFFjSFZxNG1FeG13ZVhLQ0V0TjUtbDhQOHdwQktrNWRzUXlyQzZIWkNFSjBmbNIBeEFVX3lxTE9RdnJtaENUQ2R6by1BYmtjQjAzQzQ2T0R4aTVGTEtic3ZSY3FJZUpDaERqTFMzVEhjb2t5MnJSSmMzZU5kM0VDUkYzTFFjSFZxNG1FeG13ZVhLQ0V0TjUtbDhQOHdwQktrNWRzUXlyQzZIWkNFSjBmbA?oc=5",
+        "source": "뉴시스",
+        "description": "기업 반기보고서에 등장한 수백억 주식보상…'RSU'가 뭐길래 뉴시스",
+        "pub_date": "26.08.17",
+        "section": "hr"
+      },
+      {
+        "title": "글로벌 빅파마, AI 도입 아닌 '업무 재설계’에 베팅",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44WmVGWHlnaW1mci0taG54SHVHS2hWOTRETzlxLW1JY1lrZ0VMMVRTZGVXOHF2WjF2S0hURW1JcUV0ZVh4UENjUzRTbEc0Yk91MnVRYmczQ0NJUzhUekdaQlJaaUdZYzhyZVpsWnYzbw?oc=5",
+        "source": "약업신문",
+        "description": "[제약 AI 대전환 ③] 글로벌 빅파마, AI 도입 아닌 '업무 재설계’에 베팅 약업신문",
+        "pub_date": "26.08.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "“검증된 사례 활용해 AX 확산 속도 높인다”",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NS0xabl85WF9qTkdGOS1Cc29jV2JEb2lGMnV1R08zelNyS1BXTGlzWjJ3ZmJUVjYtenQxSVhCMUdlc21UUHlMMUVfQnBUb2dPVWlHb0hGdjZCV0VXcWJ1Z1ZLN0VFU3JxcHJOOTV0djbSAXRBVV95cUxNWnlFVnpVVlFybktqSXRTVGQ2OGZPQ3Q1Z0Y2M21wRTlqRnBBZlNzWU5RbDcwZFBTbG9Kc1dnblBMYW9RYS1xZ3FoS2hGWXJLOXl4VE1VMllvUWJiUjlNY1VDYUpuN2x2azJqdjVONURiTU1iSw?oc=5",
+        "source": "IT조선",
+        "description": "“검증된 사례 활용해 AX 확산 속도 높인다” [K-AI 파트너십③] IT조선",
+        "pub_date": "26.08.18",
+        "section": "ai_tech"
+      },
+      {
+        "title": "상반기 매출 95억 달성한 씨메스로보틱스, 전년비 매출도 101% ‘껑충’",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PQW1PZk9UdWJ2N0IxMlNfTVEyVWkwMTFteGNub1JCcnBZMDZtVFVmRDItUE81VFZyZERGWm5TOWh1LVE0U19qX1VjUnhfVVFYWHgzM3pHbUI1dWdndnZ3?oc=5",
+        "source": "헬로티",
+        "description": "상반기 매출 95억 달성한 씨메스로보틱스, 전년비 매출도 101% ‘껑충’ 헬로티",
+        "pub_date": "26.08.17",
+        "section": "ai_tech"
+      },
+      {
+        "title": "日혼다, 차량 안전설계에 AI 도입…개발기간 40% 단축 목표",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiWVhyOU8xQ1FlZ3ZjeC1UeTBOOTBJQ3NsMnNFRnpFN01Kb3dJc29aYlktaUgtVXZuZGtpZmMwRUlVdEZjTTZCMV8tUmhSTDlPOXhndFFxYTA0UHdfVkZFV3BtcGJ4Mk44cTFlUVhPLU1md293?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "日혼다, 차량 안전설계에 AI 도입…개발기간 40% 단축 목표 연합뉴스 한민족센터",
+        "pub_date": "26.08.17",
+        "section": "ai_tech"
+      },
+      {
+        "title": "약가 실익 커진 혁신형 제약기업…‘쌓아둔 실적’이 변수",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50cldOSUtTazZlQTVYZ0RGaE14aUdoMHJuVFZIZlRicDg2aFJMc2k4WFlzakZrVEVFU1cxbjdYaERuSXlvZFZtOVUzNjdMTzU2alhhTnFhVGRJeFRfYVE2UTJUYmZ1QmxJWmc?oc=5",
+        "source": "의학신문",
+        "description": "약가 실익 커진 혁신형 제약기업…‘쌓아둔 실적’이 변수 의학신문",
+        "pub_date": "26.08.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "무디스, 韓성장률 3.5%로 '깜짝' 상향…대체 메모리기업 제한적\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lS25LT0VEZDNXZnNGa2dzTTFVNnFrYUJpV3p2VXV3S0Y1dVlwVmFZQm9zTjdweDFHb3pqWTdSbERjUzNJYmt6MGM5Mkd5U09zWHl2a0xXWmxwVzTSAWBBVV95cUxPcE1XVVNSOWIzOFE4eks5MURRVmoxVDJ3TExleGxoYS1Td3NleWgwUDdkZktfSnZfLXpYTkw2TENsYlBtS1FWVld0bXhfMWpQTnpvNzQydzQ1aWVFOFJTVWk?oc=5",
+        "source": "연합뉴스",
+        "description": "무디스, 韓성장률 3.5%로 '깜짝' 상향…대체 메모리기업 제한적\" 연합뉴스",
+        "pub_date": "26.08.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "프리덤 브로커, 원자재 가격 전망 상향에 프라임에너지 투자의견 ’보유’로 상향",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpWUdndjEyZjQ1eE1RLUNuQnM2VmxSalpIS0lob3RqcE5ybHFlSndSOXJnV3pUa3o3MzZ6NF9STzZGVkdoNTlPcG5rMlRfOGZyTlQ0Y1VPdnBEVzNkZnBJZXFGRWdhckREY1FNLUU5M1U0UHFj?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "프리덤 브로커, 원자재 가격 전망 상향에 프라임에너지 투자의견 ’보유’로 상향 Investing.com 한국어",
+        "pub_date": "26.08.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "캐나다 7월 소비자물가지수 3.0% 상승…유가 급등에 전망 상회",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jdmVaZk1DRXlCeVpqZ09ab2F5QU82OHlEVUxLLWtIMGZ5RVJHNFgxci1fOENOWHUtcmZhUWVrRlU1SmZEc2g4aHFJenNOekd0MXh0QVg5eDc2bnl0NFZ3ckhYTHFWUDEySHhzY2F3aGk?oc=5",
+        "source": "연합인포맥스",
+        "description": "캐나다 7월 소비자물가지수 3.0% 상승…유가 급등에 전망 상회 연합인포맥스",
+        "pub_date": "26.08.18",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'라방으로 검증하고, 크로스보더로 판다'...동남아 진출 공식 대전환",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hNmFTT2h2UFpRY0p1TVNUaC1xZi1rcWgxYVFwWlNOVEU3SGlrQWQ5WFgtR0MzVC0xQjR4XzJJUjZoYlJvYU9vYlJGTjBHSlpzRFJNOUlfMHZxdVZMV1VORkxKT2ZoM2RCMzhjZlozQlh3QVk?oc=5",
+        "source": "apparelnews.co.kr",
+        "description": "'라방으로 검증하고, 크로스보더로 판다'...동남아 진출 공식 대전환 apparelnews.co.kr",
+        "pub_date": "26.08.17",
+        "section": "invest_ma"
+      },
+      {
+        "title": "\"다자 딜부터 PE까지\"…韓 M&A 역사 빌려 쓰는 김앤장 '키맨들'",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5henAzNnAwWXBpM1luRDhEWmI4SFJ6eGpDMFBfUzVZR1g0SDdsWHdTM3dzZ0k2M0dLcHV5TGpTVTlUdzBNTy1Ba3ZlYUsyd0xoOF94Q3pZMjlMYWQ1ak9tNk1lbnkyZVlfV1piVGF3UDNnZw?oc=5",
+        "source": "마켓인",
+        "description": "\"다자 딜부터 PE까지\"…韓 M&A 역사 빌려 쓰는 김앤장 '키맨들' 마켓인",
+        "pub_date": "26.08.17",
+        "section": "invest_ma"
+      },
+      {
+        "title": "벤처 발굴해 상장까지 지원사격... IBK투증 '육성형 IPO' 통했다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XdGczNUhVZDNiM3hPbFRia1d4R2lIVnY1N3M2Rl9UcGx5bDNMU1ZlSy1fMDhaLTJ5VXAzQWlmSEIxXzB1YVV3ZzlKOXRyWkJFZ1A0R1RMdXByZw?oc=5",
+        "source": "파이낸셜뉴스",
+        "description": "벤처 발굴해 상장까지 지원사격... IBK투증 '육성형 IPO' 통했다 파이낸셜뉴스",
+        "pub_date": "26.08.17",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘경기 스타트업 서밋’ 일대일 밋업 참가기업 21일까지 모집",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMFNkd0lNdnhOZUdKbHI2cWNNMUNvQko0eVBsLWgyR1FsM29xR3g0aUxKYy1iOUtFWl9IWVFPX254U2VDS25LZ1hmRGtXVkZYM0ktV2RQNnBVbUk?oc=5",
+        "source": "경기일보",
+        "description": "‘경기 스타트업 서밋’ 일대일 밋업 참가기업 21일까지 모집 경기일보",
+        "pub_date": "26.08.17",
+        "section": "invest_ma"
+      },
+      {
+        "title": "뉴스페이스부터 바이오 오픈이노베이션까지···대덕특구, 산업 협력의 장 연다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Vem9rUUY1Z2tyeWFwdjdaeFVwM1pHUEd2VnpUZlFtcmJSczFITEp3VUtHbVVwelBYdTJieDhZVnhQRVk4RHBXWE1URjM1dXptXy1kd0puSHFWaHNwNkJQLUpjY1lFYW1IN0E?oc=5",
+        "source": "헬로디디",
+        "description": "뉴스페이스부터 바이오 오픈이노베이션까지···대덕특구, 산업 협력의 장 연다 헬로디디",
+        "pub_date": "26.08.17",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "news": [
       {
