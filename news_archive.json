@@ -1,5 +1,178 @@
 [
   {
+    "date": "2026-08-25",
+    "news": [
+      {
+        "title": "\"조기 퇴사는 '온보딩 실패'의 결과\"…기업교육, 현장중심학습 돼야",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FT1JvQ05sQUJadmRwYS04eFo0b3hLTlZOS0M2NllxbTh2cE9oNXByWHhjRUFlMG5VS2V1dXhwLTdLaDA1czNkODZQbEU2QjdPVzNNRGFDZTZnQQ?oc=5",
+        "source": "한국경제",
+        "description": "\"조기 퇴사는 '온보딩 실패'의 결과\"…기업교육, 현장중심학습 돼야 [홍석환의 인사 잘하는 남자] 한국경제",
+        "pub_date": "26.08.25",
+        "section": "hr"
+      },
+      {
+        "title": "꿈의 ‘연봉 10만달러’는 옛말…직장인 “이젠 25만달러는 벌어야 여유”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oMkxsaDI1ck5jdGpQRmtrZkdSZWNMUTJyUEg3Wko2aEhsZHhvWjRxNWZkSHU0UTllWHUwTEwyU2hNVjdHQ21NcmJlVGJhWW8?oc=5",
+        "source": "애틀랜타 중앙일보",
+        "description": "꿈의 ‘연봉 10만달러’는 옛말…직장인 “이젠 25만달러는 벌어야 여유” 애틀랜타 중앙일보",
+        "pub_date": "26.08.25",
+        "section": "hr"
+      },
+      {
+        "title": "현대차 임금협상 도출…기본급 10만원 인상·성과금 400%+1270만원",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRWd5YS1CbVZjRnJjQ25yb2RJMGluUnJOZDd4LUVTTVQ5V3dkNmUtZWJDWldyMVJNSGJIb2wzMGNOVHQwRFltOWF3c1g1SkNKa001SHBtZ3E1MXJqWGtYZWhyY0RQNW5ENHB5SNIBcEFVX3lxTFAtajJELXlnU2dnVi00QXdBNm5IS0J5Z2RNMF9temlNaXJqcTVQOE1UTElxajFwaVE0MjNVR1dOTnB6R1ZUVFpqN0tZdngwck9rMy1zUXlEQm1sV1pZZUxtZkdnd0FNV19YaTgwSmdQdzQ?oc=5",
+        "source": "뉴스에듀신문",
+        "description": "현대차 임금협상 도출…기본급 10만원 인상·성과금 400%+1270만원 뉴스에듀신문",
+        "pub_date": "26.08.25",
+        "section": "hr"
+      },
+      {
+        "title": "실적 따라 갈린 임단협의 온도차…완성차 ‘파업’과 ‘타결’의 온도차",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xYlh3OE9vMHV3TlFqNTJobW5YbXdtLVdVdFp6cE8tOW5feWU1VGF2OW5GMEd2RzNjc3lzUDZzT0o3UVZRRkp0NXpjYVVlcU00bWJtd0RPNE5mc2M1VFJOUDVMWjFfclhuei1ob181YWrSAXRBVV95cUxPSk55bm9POFJXZ0lZM29jYTRIbGJseU4xbkZCdEdRZFV4dUpNa0VWU3lvMmFyV2JUN2xTX09fRFNWTDIyQ1VXWF9vb3lVWTNVMWtVMGxfOUlkWTVhelNwNXBZeGhvQk9teEgxRmQ2TmlOWDM1dw?oc=5",
+        "source": "IT조선",
+        "description": "실적 따라 갈린 임단협의 온도차…완성차 ‘파업’과 ‘타결’의 온도차 IT조선",
+        "pub_date": "26.08.24",
+        "section": "hr"
+      },
+      {
+        "title": "\"기업 임직원 접점 확대\"…창고43·현대이지웰, 'EZ멤버스' 제휴",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45aGp5bGdTOENHanh3eEZXM1Z1aXAxd0kzcll1S0I2WW1iczduaXFPdGtENXpxdlBmR01EZl9PT1MyMjkyOTlsZHh2cTBGRlpxUTRsUmtFZ19Ud25lT2JCUjl5ZDh3bGxpZEpxRkZhVHZvZDIy?oc=5",
+        "source": "파이낸셜포스트",
+        "description": "\"기업 임직원 접점 확대\"…창고43·현대이지웰, 'EZ멤버스' 제휴 파이낸셜포스트",
+        "pub_date": "26.08.24",
+        "section": "hr"
+      },
+      {
+        "title": "현대차 92개 분야 신입 채용…해고자 복직 놓고 노사 대치",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QkZrbGdWM29fR29PN3RmTXNYYkZjbEh1cFFJalQ0VnZydzNfY0NaZlNqTzJXeGdaZDN5SXJERnI2MjhmZ3FIb3FzMGljNkdkSXFGTkkyVmtmWFFKSFJfME9ScjkwclE?oc=5",
+        "source": "자본시장뉴스",
+        "description": "현대차 92개 분야 신입 채용…해고자 복직 놓고 노사 대치 자본시장뉴스",
+        "pub_date": "26.08.24",
+        "section": "hr"
+      },
+      {
+        "title": "생명체 설계부터 뇌 연결까지…AI가 여는 ‘첨단바이오’",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UcFVObzd4OW1ERFBRS2pkbGwtUWdYYkpHckl2NHZnZTN3VjhuN3Z4b3RJOGhobHcxZ3VQQmZhOVBGdWhaMU9nV3RRZXloTzJGZHNlUUJrb2J2RWJfUE9ua2ZGc2NJSnNVdlFvSA?oc=5",
+        "source": "한경매거진&북",
+        "description": "생명체 설계부터 뇌 연결까지…AI가 여는 ‘첨단바이오’[7대 첨단기술 투자지도] 한경매거진&북",
+        "pub_date": "26.08.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "공공 부문의 디지털 전환: 데이터 활용 극대화, 지속 가능한 인프라 구축.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmNMNkl4Rk5tN005LWh1Q3JFVzByZEhJYWRPaHV5TGlCTm9qSGJGZW11UmxKQWpVSTRQU1dfSUw2SGxwZ3lyMXVCVDdTejl3VEt5RHppZHI3dFVXSW5IaTZLQkFSUldZa1BPc0swYWF1Z0c4c2dCalBuQjU5ZWpqZk1jTWhiYkU5bWZWRElTd1B5V1VNUVZiay1B?oc=5",
+        "source": "Vietnam.vn",
+        "description": "공공 부문의 디지털 전환: 데이터 활용 극대화, 지속 가능한 인프라 구축. Vietnam.vn",
+        "pub_date": "26.08.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95a1kxcGwzQUJYODY0R0VDZjVxQzRmZzB3VG9nNWxjd0daWDlpMzd2S2J3V092MWlMTDJnQmFORTVBckQ5RVo5Vy1OMm1kQXdIWEtwU3hqWVVaeGV3NXh2LTBzM3hXanEzOVVnTw?oc=5",
+        "source": "재외동포신문",
+        "description": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표 재외동포신문",
+        "pub_date": "26.08.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "클라우드·AI 인프라 채용 기준...자격증보다 실제 구축 성과가 합격 좌우",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DX0MyXzIzNDYyMzNfODVEVm5weWZWcG4tVjJyemRhMmM0MVZGdVNuNnkyYmFLRGxZZ3VpVExGYlFnVXloRVJ6WjZYTTY2WUJIMnBQcF9yNkFlX2lNbXBuOVJ3a2EzQ2E4Q2c?oc=5",
+        "source": "지티티코리아",
+        "description": "클라우드·AI 인프라 채용 기준...자격증보다 실제 구축 성과가 합격 좌우 지티티코리아",
+        "pub_date": "26.08.25",
+        "section": "ai_tech"
+      },
+      {
+        "title": "국내기업 경기전망 6개월만에 '긍정적'…환율 안정·추석 특수",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14UUtUdVVjSHVOeHczT1ZNX3BJWlNpQkEwMkx6aUJSNk14VWRpWTZBenFKUEVGaHRXNGpEVmZzOFJKZGs1Unh5WmdraEVzSnpZU0E?oc=5",
+        "source": "매일경제 마켓",
+        "description": "국내기업 경기전망 6개월만에 '긍정적'…환율 안정·추석 특수 매일경제 마켓",
+        "pub_date": "26.08.25",
+        "section": "macro_industry"
+      },
+      {
+        "title": "정부 '7대 SEED' 대응… 전북도, 재생에너지·바이오·공급망 집중",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMjVkVDVlemJ4anNMSm8wOEZtY1NuRjhfR3dhY085b0FZbVpMQVZKUWxwWkE5QXdCd1JHUThkU1VSX2YzTWl4T1lBY1dyYnJxbDdVRU94MkZxQk9Wb05iMHQxN1VuamNWSkdqN9IBcEFVX3lxTE53aFYxTHJBVV9yck9Rc0VOVFJaN0E1VHA1T1c4VFA5d1NLVW1jRC15R1RNTDRmdFdCVjJTOW9kWkI2dEhHb2tfUkYxUnBoSkZia0lsQTRZeUE4dGd4VmM2Vm9tc2M2MlBObGRXTG1TcEY?oc=5",
+        "source": "전라일보",
+        "description": "정부 '7대 SEED' 대응… 전북도, 재생에너지·바이오·공급망 집중 전라일보",
+        "pub_date": "26.08.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "엔비디아 실적 발표 앞 AI·반도체 흔들…닛케이, 0.74%↓ - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LallOSkRIaG9WbVdIVVdnaHRxelE1aVA1bE90Mm1MMF9hQVR2LUxyb3lCdUpZV2Y3VG5tX0gyNUFrTlg2SGFaZnZwS0VOSmJNQzBtM0RQbnlQSDdSR3lOZkdlcklMOXo30gFuQVVfeXFMT20wTjJYejNmamU0aUt3RDRSV28xZ0J6ZGxoQmtUaEUtRUt3YXp5UDJwNzMwV1RRbFN1LTAzRWxEWGF2ai1UMHQxeTdDbDhGSWNsdTEtVHhqVjJyQ0xwZ0l4SjJtTld2TWVLSDZJWFE?oc=5",
+        "source": "머니투데이",
+        "description": "엔비디아 실적 발표 앞 AI·반도체 흔들…닛케이, 0.74%↓ [Asia마감] - 머니투데이 머니투데이",
+        "pub_date": "26.08.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한국주택협회, 부동산 대전망 관련 강연회 9월 3일 개최",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M3NVNWRrWU5FaG1Tc0xIeXU3NjRyRkVGZGYzUTl1QUhBbkhrSHpyRU42RkpObkJmMjFUcF9CWGhSRTAwdDgzWGJScnNZS2NVRDlmQThkTWhEaHJwYkFBb3pYNE1neTZmbHhZ?oc=5",
+        "source": "BBS불교방송",
+        "description": "[포토뉴스]한국주택협회, 부동산 대전망 관련 강연회 9월 3일 개최 BBS불교방송",
+        "pub_date": "26.08.24",
+        "section": "macro_industry"
+      },
+      {
+        "title": "'1000억 배상' 스마일게이트, 태평양 앞세워 IPO 소송 2라운드",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rOVV0NzBkaF9ydzJvaWkxX29haHVPSmxXeFVjZUNZNzExOTkyWlpoQVVvVTNPOG5XNmFTdTVycGs3MDFZU0Q3THVkQTBraVdsbnFsck45XzRlZ1ZZQ04zdXNIcUlsRjhXbFA0bWNWZnBVZw?oc=5",
+        "source": "마켓인",
+        "description": "'1000억 배상' 스마일게이트, 태평양 앞세워 IPO 소송 2라운드 마켓인",
+        "pub_date": "26.08.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "제약·바이오 IPO 공모가 산정 깐깐해진다",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fcWtDbERSR1VBekN5cGJyNzRxcUhxNFpFZkRJT3NnMFg0Z1RwMHRjSXk1Q3Z6bDByNE5EZ2d0UW5vWVp6bGNoQmZPcHAyM3ZNTlpUTXVLVnZuekhJ?oc=5",
+        "source": "뉴스핌",
+        "description": "제약·바이오 IPO 공모가 산정 깐깐해진다 뉴스핌",
+        "pub_date": "26.08.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "스타트업얼라이언스·코딧 글로벌정책실증연구원·코리아스타트업포럼, 국회 브라운백 미팅 개최",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DUEVhUUNXV254R3ZPbzZaS0VYLUloa0FaaWQ0aktRTHlMSlBMdldvRTZhcmNjcUFRdk41MGNid25LYVlGQXc3dmpnQklRdGZIckRDVWwxNkZxc2xiWEVKM1BDc3NWUQ?oc=5",
+        "source": "벤처타임즈",
+        "description": "스타트업얼라이언스·코딧 글로벌정책실증연구원·코리아스타트업포럼, 국회 브라운백 미팅 개최 벤처타임즈",
+        "pub_date": "26.08.24",
+        "section": "invest_ma"
+      },
+      {
+        "title": "순천시, 산업지도 바꾸기 본격 시동",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LT1ZyNlcyYmhEcV9IbXJ4d1JBZDRHR3VBV1JwVG1ETUxfd3g5WEhmdjFWLVpON2tpbS1XN0YxeXJqZ1JGQUZkQWJ1T2hTVWRHQWtvR3hzNjN0ZlR5NHBjTW1pMmlEVjNL?oc=5",
+        "source": "남해안신문",
+        "description": "순천시, 산업지도 바꾸기 본격 시동 남해안신문",
+        "pub_date": "26.08.25",
+        "section": "innovation"
+      },
+      {
+        "title": "순천시, 미래 신산업 혁신성장위원회 출범",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ENkJjR0NHQ0ZkN1Y2UUE5Z2I5M3dKWXA3OWsyd1ZNMC1nNi1HMTFTN0hJLWItNnY5VzhaRWs1WkFTZmJzRXhTM09aOGZadS12?oc=5",
+        "source": "여수MBC",
+        "description": "순천시, 미래 신산업 혁신성장위원회 출범 여수MBC",
+        "pub_date": "26.08.24",
+        "section": "innovation"
+      },
+      {
+        "title": "트럼프 일가, 은행업 진출…규제 완화 속 이해충돌 논란",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWlFZThQY0o5X29fOVkySmRGV0lVU2xqb2xCSXJxYTI1ZW5NX2FaT21rOWF2TnhVT3FVYi1UYnZJb0FvbENTT0VTajNJRTB5Y0VkLVZKLTkwbnlBRmRvYUhrTGU0UExSS19QVVMyMEpsNUJRWEZCUHRJVlgxRHFLcw?oc=5",
+        "source": "edaily.co.kr",
+        "description": "트럼프 일가, 은행업 진출…규제 완화 속 이해충돌 논란 edaily.co.kr",
+        "pub_date": "26.08.24",
+        "section": "innovation"
+      },
+      {
+        "title": "안산대, 2026학년도 앵커사업 ‘비즈니스모델 고도화 창업캠프’ 개최",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5makhBT1ZQWVc1RkdNMTRKSlp6RXZhTE9oQkhndnd4RDNUUEp2YWdwRklUUnZoaVc2TTBDbHlybmxyUVAwNWRVVUFfWDltMElheUllU0x0U01YZ295VDJpT0ZvbC05UQ?oc=5",
+        "source": "한국대학신문",
+        "description": "안산대, 2026학년도 앵커사업 ‘비즈니스모델 고도화 창업캠프’ 개최 한국대학신문",
+        "pub_date": "26.08.24",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "news": [
       {
@@ -860,187 +1033,6 @@
         "source": "헬로디디",
         "description": "뉴스페이스부터 바이오 오픈이노베이션까지···대덕특구, 산업 협력의 장 연다 헬로디디",
         "pub_date": "26.08.17",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "news": [
-      {
-        "title": "임직원 선물 복지 플랫폼 애드웰, 최대 80% 할인 추석 기획전 오픈… ‘선택형 상품·선물하기 기능으로 예산·업무 부담 최소화’",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tU2pUYi02UDJEeUxIMzdVam9CbkxkdGI5R092WlBadncyajBwUC1tblZtcHBkd3JPbWhscmwxS2lDTllSY09XMWxyc0ktNTVkckM2ZTlYN1pxUURDN1NVeW5PYlJ5MXPSAWdBVV95cUxPbVNqVGItNlAyRHlMSDM3VWpvQm5MZHRiOUdPdlpQWnZ3MmowcFAtbW5WbXBwZHdyT21obHJsMUtpQ05ZUmNPVzFscnNJLTU1ZHJDNmU5WDdacVFEQzdTVXluT2JSeTFz?oc=5",
-        "source": "국민기자뉴스",
-        "description": "임직원 선물 복지 플랫폼 애드웰, 최대 80% 할인 추석 기획전 오픈… ‘선택형 상품·선물하기 기능으로 예산·업무 부담 최소화’ 국민기자뉴스",
-        "pub_date": "26.08.17",
-        "section": "hr"
-      },
-      {
-        "title": "직장인 80% “기간제 차별 있다”…공정수당에도 “임금격차 해소 못할 것”",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55bWZ6ZVJ0QUxkVkpTZ3JmYWpjSHZLdlFvRVkwQWxBTVZJSFpuZmJLeXVtZ29fMUZGNXZsYlRrQ29pVS1LTXJyZGZYS2xRQTZhQUlVOE1RQm84d3R4am16dmVQWC1QbkpTdXhkYnlEVkdpeHEzbDJ0NQ?oc=5",
-        "source": "서울Pn",
-        "description": "직장인 80% “기간제 차별 있다”…공정수당에도 “임금격차 해소 못할 것” 서울Pn",
-        "pub_date": "26.08.16",
-        "section": "hr"
-      },
-      {
-        "title": "직장인 80% \"기간제 차별 존재\"…출산휴가·육아휴직도 '눈치'",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0bk5MYl9YMjF3dDVqUWJqM3Q0eUJMLUJDOVlvUWZ2bXNoWjMyNkZUaWJJQzUyLWdBNjk1UVZPUzFSWE5ndEJaZGFaQXdaNmFmbWtfVnZFSHoxWjhEa1dKdW9ROWhQeElpX21VVzVvZ3Y3SU9v?oc=5",
-        "source": "연합뉴스 한민족센터",
-        "description": "직장인 80% \"기간제 차별 존재\"…출산휴가·육아휴직도 '눈치' 연합뉴스 한민족센터",
-        "pub_date": "26.08.16",
-        "section": "hr"
-      },
-      {
-        "title": "\"AI 등장에 기업 구조조정↑, 민간에 정보공유해 '시장서 조정' 활성화\" - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50SDNodHFnZkZHeUlVQ1RaVG56b2VLUUZucHRoWVZwTGxrZHJWckVKVDZXelg0WFV6WnllaXBnYmhrVm1LSHVoS1BEMFJxbU11VkRxSTE2dkVZYU1ObnptMkVvdFBwMXhq0gFuQVVfeXFMTWlOR1ZKenJ6cjV1VmQ1b2lFTlpmYXFjZS11VW14dEc4Z1NhQURJNFE4cnp6Tl94Z1RrN003djhzRWVJaUFwaFQ3NmJoeXdqaDlZV2Q0aEd0RnlkS0pYZlI3a2NURU5UNHJ4VVVpMHc?oc=5",
-        "source": "머니투데이",
-        "description": "\"AI 등장에 기업 구조조정↑, 민간에 정보공유해 '시장서 조정' 활성화\" - 머니투데이 머니투데이",
-        "pub_date": "26.08.15",
-        "section": "hr"
-      },
-      {
-        "title": "풀무원, 5년차 이상 희망퇴직 받는다",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOLVN4Sjc3WlZ2RUVWVjlmRFdUOUI1QXlCbWhYb1VubkdQeW1xQXh0ekU0V2ViQUxvOEc4U2FfZWZ2TUprLWlnX1JWRWswOHlaX2VaUUx4LXNGNjJ6WmRmbGktSjAyaHRHVm5OQXYtV3g?oc=5",
-        "source": "연합인포맥스",
-        "description": "풀무원, 5년차 이상 희망퇴직 받는다 연합인포맥스",
-        "pub_date": "26.08.14",
-        "section": "hr"
-      },
-      {
-        "title": "삼성바이오 노사, 임단협 돌파구 찾나…‘사후조정’ 합의",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VZlM2QmxENHktc3dDOFl2RmlUeFFQVVBSYWpLQS1qZlhVcUFrUzhtZy13cXl2VUJWZHhDV1lxeF9YekFMU2FMWFBNTG1tOUJkQzlXc2RvY2dzWnhET0xhLVNtTE5tS0ZncFhQaTB3?oc=5",
-        "source": "팜이데일리",
-        "description": "삼성바이오 노사, 임단협 돌파구 찾나…‘사후조정’ 합의 팜이데일리",
-        "pub_date": "26.08.14",
-        "section": "hr"
-      },
-      {
-        "title": "Top 20 기업 글로벌 헬스케어 클라우드 컴퓨팅 시장",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTGZIRVlqcGJuVW5DU21iU1ZZWU5ONHVybjZHa3o0b2RXQVhMWEhhV19HQkljQU5rME1yMjI5T2pnbnFRdnduQ1FjYXhHd0F4VXMza1ZBeGJGbXRqMmotM1o3d2wzS195X2NCa2NONnFzdjdKSkU0YTJtSU96Qm9FZ2t3VjhadHpGMnBmRmFqWGdFUFNoU096WFc3X1pNS3FaeFZOQXVDNnRIUzhOY2pOVjdlclo5cFlCUjZGT2FsdzVhOVFYZEh5OElCTmNSTTFOTnRabnhhejQ?oc=5",
-        "source": "Spherical Insights",
-        "description": "Top 20 기업 글로벌 헬스케어 클라우드 컴퓨팅 시장 Spherical Insights",
-        "pub_date": "26.08.17",
-        "section": "ai_tech"
-      },
-      {
-        "title": "슈퍼센트 인터뷰: 생산성을 폭발시키는 AI 도입 전략",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1BWVGJYa0VQblpCcmVzdUlPQ2RXY3RldzNJR2lXV2hqZ3BrU0puc0g0SGVVVm80WGowRDJIR1J6NlgzRTNGRll2d0tmRTJ0bzA1bWVLaWxPQWN6Mzcyc1NrM3hOSFRyMWlwU2JNR0tXTkI2eHVjaHQ1eWtsdTVQY2pMRW45ZjlQM25ZOFZ3QjhhdmZpX29oT3cwZlc2RWNOeF9ZQg?oc=5",
-        "source": "Google Business Profile",
-        "description": "슈퍼센트 인터뷰: 생산성을 폭발시키는 AI 도입 전략 Google Business Profile",
-        "pub_date": "26.08.17",
-        "section": "ai_tech"
-      },
-      {
-        "title": "\"AI·로봇이 일자리 다 가져간다\"...흔들리는 中 노동시장",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xN3A3UE9la3lNdkVLWHN0ZmhlRDEtRDkyRUNUVmhETS1kdlZzSjBmMktkTF8wQThGc1BfTGN6MEl1dmt0QXpkRE5OYVNpNERFb1BiR0NmSk5KWHM3UDNLOGdLNA?oc=5",
-        "source": "더구루",
-        "description": "\"AI·로봇이 일자리 다 가져간다\"...흔들리는 中 노동시장 더구루",
-        "pub_date": "26.08.17",
-        "section": "ai_tech"
-      },
-      {
-        "title": "英 국가 핵심 전력망 운영사 해킹 당했나... 내부 기술 데이터 40GB 유출 주장 제기",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fTmdyeU9DT1I1N241ekluWG4tU0R2aU5wbko4azJadVQ1cFhkOTVxT0xvY3hYRXI4dDJha3MzMEtnZk5iMEM1WkFJUlQtcHNaaWVMQVBZY1RrSTNWbnc?oc=5",
-        "source": "보안뉴스",
-        "description": "英 국가 핵심 전력망 운영사 해킹 당했나... 내부 기술 데이터 40GB 유출 주장 제기 보안뉴스",
-        "pub_date": "26.08.16",
-        "section": "ai_tech"
-      },
-      {
-        "title": "개미들, 4개월만에 다시 금 '사자'…본격 반등할까",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aNEVRRjUyQ3dORUlKX1JCdnJFeFJBYm55dlBnVmdnWGtrLUhxX3ZvQUt1c2lRMGt1NWVRYmVRa09VbzNsUG90RUl5QlZ5c1MyVVE?oc=5",
-        "source": "매일경제 마켓",
-        "description": "개미들, 4개월만에 다시 금 '사자'…본격 반등할까 매일경제 마켓",
-        "pub_date": "26.08.17",
-        "section": "macro_industry"
-      },
-      {
-        "title": "중국, 제3국 우회 수출로 관세 수백억 달러 회피",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1EzX2ZLLXB1NUhfNWFYUmdrZTd4SGVONFU3SHdkOUxHR2pFeG9mekdEVkFvb0ItYjhFajJlVHV1UWF1TzBUNF9ITnBDUW1wbDQ0VEpGc3F2LWNOel9UNGRuSE9KVzF4c0xFSmhLM25mTEx5Tk5jcnVFRW1GTDdXa2wxdmx0RjQ?oc=5",
-        "source": "글로벌이코노믹",
-        "description": "중국, 제3국 우회 수출로 관세 수백억 달러 회피 글로벌이코노믹",
-        "pub_date": "26.08.17",
-        "section": "macro_industry"
-      },
-      {
-        "title": "정부 세제개편안 ISA '핀셋 손질'…부동산 골격은 국회논의 전망",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92di1yZFNMUlhPbU1MUnA3WFpSODBObWd3UlB3a3IxUkFTNUVKZ0NUcEdUQkFTeVBpR1JRQmRFUlIzUWVwbGR3SzFfYWtQcWM?oc=5",
-        "source": "v.daum.net",
-        "description": "정부 세제개편안 ISA '핀셋 손질'…부동산 골격은 국회논의 전망 v.daum.net",
-        "pub_date": "26.08.17",
-        "section": "macro_industry"
-      },
-      {
-        "title": "모건 스탠리 \"디스인플레이션 확인, 2027년 금리 전망 리스크 여전\"",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmeWpUV3VtM0JCOXRlUUY0RUpuU3JMcHp2REVETy1pMmY4dHVlNEVOLVRZeFRxcFpab3E0dEhwbTZKemtQd21ldS1PdW9VRXd6b1pnc0tVNHBBT2RXR3ZOTnkxWWMzU1Y2U1E?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "모건 스탠리 \"디스인플레이션 확인, 2027년 금리 전망 리스크 여전\" Investing.com 한국어",
-        "pub_date": "26.08.17",
-        "section": "macro_industry"
-      },
-      {
-        "title": "인제니아·기도산업 코스닥 입성…스카이랩스 수요예측",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2TGVrUmtja2xZYUIzQk9Bb3RVMFY5MF95OWx3MnpFMnRFM2tKZXNqYWtUMjVZZkNldk9aTVoxcldyaFd2d0hJSDRZbjQxSEdkQVNoTkFodnFCQ0I0bGc?oc=5",
-        "source": "뉴스투데이",
-        "description": "[IPO 워치] 인제니아·기도산업 코스닥 입성…스카이랩스 수요예측 뉴스투데이",
-        "pub_date": "26.08.17",
-        "section": "invest_ma"
-      },
-      {
-        "title": "바로팜, 코스닥 상장예심 통과…사업영역 확장 '첫 단추' : 네이버 블로그",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQam1JV0kwWjZ6NE9USTRzRDFxdDM5WnhZRDhLQ3lKYTF3WDhCTDg5eThvb2MzamJYa2IxbEpKbzR1OU1QZ01WXzlXclhnUVF1b19ORzlWSjFFQXZmOEJwcmJPTXRSR204aDVRX2JRdFFYeHVhWFJab1RyOVRwSnJDOVgwRVNSczM3bzVXZmlrQQ?oc=5",
-        "source": "Naver Blog",
-        "description": "바로팜, 코스닥 상장예심 통과…사업영역 확장 '첫 단추' : 네이버 블로그 Naver Blog",
-        "pub_date": "26.08.17",
-        "section": "invest_ma"
-      },
-      {
-        "title": "진주 스타트업 10개사, 투자유치 도전…9월 투자자 앞에 선다",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RdjU1dUV0UEg5UEZjZVh2RlZNRnJXNVVMYXFPQWppNjdaczNJcVdYTV9hUWttV2dOb3dmZkVUaV9FM1lZV1RjM1p2YVB5ZVZlNk5Ib1NuZEQ5YW1nOUJOQmRqdHVtNU5i?oc=5",
-        "source": "더쎈뉴스",
-        "description": "진주 스타트업 10개사, 투자유치 도전…9월 투자자 앞에 선다 더쎈뉴스",
-        "pub_date": "26.08.17",
-        "section": "invest_ma"
-      },
-      {
-        "title": "500억 유치 직전 분식회계 들통난 스타트업… VC, 애즈위메이크 투자금 전액 상각 추진 - 조선비즈",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdng2WDNidUlTRTZOQkg3T0xNSWhCcm9jYU5HSzJEYURrMHZBdzRjWThjRkpRemFybmVWTTdNN1BnMTVtWmJfUWtvMl94NnpUTXFHSkVWTjZzNHl6eEV3VUMtTV94eU5SWFFld1R6ekJueUJKcmpZQVNtb1hHODVMZ1ZqS05fdkHSAZsBQVVfeXFMTW9QX04yVjBjc2NVdVhaNnVObnkxRlFvVHVMSFZnLXBWUGYtOW1xUllPbWd4S2ZJLTlUdnFLZ3RpaVNFLU9GWGpGbFBWS215VVJhR05KWkZBZmdFbEVHQVhSVjZpaUJkMzJuZzNhZ3VIV2gxcjRHSFlaLUs3bVZBb1JidnR5N2ZKTTVwNTJjc28xYkZFMjFielJra2M?oc=5",
-        "source": "Chosunbiz",
-        "description": "500억 유치 직전 분식회계 들통난 스타트업… VC, 애즈위메이크 투자금 전액 상각 추진 - 조선비즈 Chosunbiz",
-        "pub_date": "26.08.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "경북대, 'AIx 바이오 혁신 연구 거점 사업단' 출범해 신약개발 거점 구축 나서",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ieV9wTmdwa1NCVUJGaVZUVTg3UVJMZ3YzU0todHo4OGZQbWxuODVzbzQ0VDkyY0lOa19vaHJhZGQ1MFhrQldncDVvcU0?oc=5",
-        "source": "dgmbc.com",
-        "description": "경북대, 'AIx 바이오 혁신 연구 거점 사업단' 출범해 신약개발 거점 구축 나서 dgmbc.com",
-        "pub_date": "26.08.15",
-        "section": "innovation"
-      },
-      {
-        "title": "랜턴 파머, AI 플랫폼 상용화 위해 자회사 '오픈 메디신 AI' 설립",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VanVEVnpqSzRPWXJxZ2lpNjUtN3hJQnBKdnpNcVNlWXJwQ0xyMGZwejF0RXZ5YVkwMkxqRzMtWjF5Ml9TR3JXX2RpdkZIYXpWUHE2aERJUGhPX1d5QWZGU055T3ZyemFyY24wTXRxMUhTNG8?oc=5",
-        "source": "datatooza.com",
-        "description": "랜턴 파머, AI 플랫폼 상용화 위해 자회사 '오픈 메디신 AI' 설립 datatooza.com",
-        "pub_date": "26.08.14",
-        "section": "innovation"
-      },
-      {
-        "title": "제네시스코텍스AI, 차세대 'AI Debate Engine' 개발 완료… 국산 AI 추론 플랫폼 상용화 시동",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SU2JyTzU4RE94ZVg1NVZLQ1NmUk9BUGRFT1haQVJUMkM2aFN0RzljNkNSTS05d2dBVWhzY2t5eVpSRG5JVWY3QjlfNnRNYms4clBkOQ?oc=5",
-        "source": ":: 위즈경제 ::",
-        "description": "제네시스코텍스AI, 차세대 'AI Debate Engine' 개발 완료… 국산 AI 추론 플랫폼 상용화 시동 :: 위즈경제 ::",
-        "pub_date": "26.08.14",
-        "section": "innovation"
-      },
-      {
-        "title": "플랫폼 사업모델, 경쟁력 있나?",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51MC03MWlyWjRlU2JGcG1wa0VRa2dwTFZJWW1CNHRxRXZUNnNtTWRhYjlIZUxVTE9sRW0tMjV2aFU5SXFiclJWbFZsYV9fT2tDT1RoS21R?oc=5",
-        "source": "DealSite경제TV",
-        "description": "[IPO 뜯어보기] [빅웨이브로보틱스] 플랫폼 사업모델, 경쟁력 있나? DealSite경제TV",
-        "pub_date": "26.08.14",
         "section": "innovation"
       }
     ]
