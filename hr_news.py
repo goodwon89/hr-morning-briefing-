@@ -62,68 +62,60 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 8.17~8.21  |  수집 완료: 2026-08-21 (자동수집)
+# ✅ 이번 주 업데이트 — 8.24~8.28  |  수집 완료: 2026-08-28 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "8.17~8.21",
+    "week_label": "8.24~8.28",
     "enabled": True,
     "metrics": [
         {
             "label": "취업자 수",
-            "value": "2,913.6만 명",
-            "change": "전년동월 대비 +10.8만 명",
+            "value": "2,913.6만명",
+            "change": "전년동월 대비 +10.8만명",
             "trend": "up",
-            "period": "2026년 7월",
-            "source": "통계청(국가데이터처) 「2026년 7월 고용동향」(2026.08.12 발표)",
         },
         {
-            "label": "고용률 (15~64세, OECD기준)",
+            "label": "고용률 (15-64세, OECD기준)",
             "value": "70.3%",
             "change": "전년동월 대비 +0.1%p",
             "trend": "up",
-            "period": "2026년 7월",
-            "source": "통계청(국가데이터처) 「2026년 7월 고용동향」(2026.08.12 발표)",
         },
         {
-            "label": "청년 실업률 (15~29세)",
+            "label": "청년 실업률 (15-29세)",
             "value": "6.8%",
-            "change": "전년동월 대비 +1.3%p (5년 6개월來 최대폭 악화)",
+            "change": "전년동월 대비 +1.3%p (5년6개월만 최대폭 상승)",
             "trend": "up",
-            "period": "2026년 7월",
-            "source": "통계청(국가데이터처) 「2026년 7월 고용동향」(2026.08.12 발표)",
         },
         {
             "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
             "change": "전년 대비 +5.8%p",
             "trend": "up",
-            "period": "2026년 (경총 조사, 2026.03.20 발표 / 신규 발표 없어 기존 값 유지)",
-            "source": "한국경영자총협회(경총) 「2026년 신규채용 실태조사」",
         },
     ],
     "reports": [
         {
             "title": "2026년 7월 고용동향",
-            "org": "통계청(국가데이터처)",
-            "url": "https://www.ajunews.com/view/20260812073920804",
-            "summary": "7월 취업자 10.8만명 증가(2개월 연속)하며 고용 호조 지속됐으나, 청년 실업률은 6.8%로 5년 6개월 만에 최대폭 상승.",
+            "source": "국가데이터처(통계청)",
+            "date": "2026-08-12",
+            "url": "https://biz.heraldcorp.com/article/10838371",
         },
         {
-            "title": "Global Talent Trends 2026",
-            "org": "Mercer",
+            "title": "Mercer Global Talent Trends 2026",
+            "source": "Mercer",
+            "date": "2026-02",
             "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
-            "summary": "전 세계 C-suite·HR리더·직원 약 1.2만명 대상 조사. AI로 인한 고용 불안 우려가 28%(2024)→40%(2026)로 급증, 직원 번아웃 지표(Thriving)는 66%→44%로 역대 최저.",
         },
         {
-            "title": "2026 하반기 채용시장 트렌드 (채용 데이터 분석)",
-            "org": "Korea Business Review",
+            "title": "채용 데이터로 짚어본 2026년 하반기 채용시장 흐름",
+            "source": "Korea Business Review",
+            "date": "2026-08-12",
             "url": "https://www.koreabizreview.com/articles/kbr-news-deep-analysis-10-2026-20260812-1gs6",
-            "summary": "하반기 채용계획 기업 78.7%이나 78.9%가 10명 이하 소수 채용 계획. 정규직 공고 비중 2년새 64% 급감, HR·기획·마케팅 직군 공고는 증가세.",
         },
         {
-            "title": "2026년 신규채용 실태조사",
-            "org": "한국경영자총협회(경총)",
-            "url": "https://kefplaza.com/web/pages/gc79582b.do?siteFlag=www&mnuId=&returnUrl=&bbsAuth=0&bbsFlag=View&nttId=18791&bbsId=0001&bbsIds=0024,0018&pageIndex=1&pageUnit=7",
-            "summary": "100인 이상 기업 500개사 조사. 신규채용 계획 있음 66.6%(전년比 +5.8%p), 채용 시 최우선 평가요소는 '직무 관련 업무 경험'(67.6%).",
+            "title": "채용 트렌드 2026: 컬처핏을 넘어 팀핏으로",
+            "source": "원티드랩",
+            "date": "2026",
+            "url": "https://blog.wantedlab.com/hr/report/hr-trend-report-2026",
         },
     ],
 }
