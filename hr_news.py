@@ -62,9 +62,9 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 8.24~8.28  |  수집 완료: 2026-08-28 (자동수집)
+# ✅ 이번 주 업데이트 — 8.31~9.4  |  수집 완료: 2026-09-04 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "8.24~8.28",
+    "week_label": "8.31~9.4",
     "enabled": True,
     "metrics": [
         {
@@ -72,50 +72,61 @@ WEEKLY_DATA = {
             "value": "2,913.6만명",
             "change": "전년동월 대비 +10.8만명",
             "trend": "up",
+            "source": "통계청 2026년 7월 고용동향",
         },
         {
-            "label": "고용률 (15-64세, OECD기준)",
+            "label": "고용률 (15~64세, OECD 기준)",
             "value": "70.3%",
             "change": "전년동월 대비 +0.1%p",
             "trend": "up",
+            "source": "통계청 2026년 7월 고용동향",
         },
         {
-            "label": "청년 실업률 (15-29세)",
+            "label": "청년 실업률 (15~29세)",
             "value": "6.8%",
-            "change": "전년동월 대비 +1.3%p (5년6개월만 최대폭 상승)",
+            "change": "전년동월 대비 +1.3%p (2021년 1월 이후 최대 상승폭)",
             "trend": "up",
+            "source": "통계청 2026년 7월 고용동향",
         },
         {
             "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
-            "change": "전년 대비 +5.8%p",
+            "change": "전년 조사 대비 상승",
             "trend": "up",
+            "source": "한국경영자총협회 2026년 신규채용 실태조사 (100인 이상 500개사)",
         },
     ],
     "reports": [
         {
             "title": "2026년 7월 고용동향",
-            "source": "국가데이터처(통계청)",
-            "date": "2026-08-12",
-            "url": "https://biz.heraldcorp.com/article/10838371",
+            "publisher": "통계청",
+            "summary": "취업자 10.8만명 증가·15~64세 고용률 70.3%로 외형은 개선됐으나, "
+                       "청년(15~29세) 취업자는 19.1만명 감소하며 45개월 연속 감소. "
+                       "청년 실업률 6.8%로 5년 6개월 만에 최대폭 상승.",
+            "url": "https://kostat.go.kr/board.es?mid=a10301010000&bid=210",
         },
         {
-            "title": "Mercer Global Talent Trends 2026",
-            "source": "Mercer",
-            "date": "2026-02",
+            "title": "2026년 신규채용 실태조사 결과",
+            "publisher": "한국경영자총협회 (KDI 경제정보센터 수록)",
+            "summary": "기업 66.6%가 신규채용 계획 보유. 수시채용만 실시 54.8%, "
+                       "최중요 평가요소는 '직무 관련 업무 경험' 67.6%, "
+                       "2026년 채용 트렌드 1위는 '직무중심 채용 강화' 72.2%.",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
+        },
+        {
+            "title": "2026 하반기 채용 동향 조사 — '롱테일 채용' 확산",
+            "publisher": "잡코리아 (인사담당자 569명)",
+            "summary": "기업 78.7%가 하반기 채용 계획. 단 채용인원 '10명 이하' 응답이 78.9%로 "
+                       "전년 대비 18.4%p 급증, 채용예산 300만원 미만 74.3%. "
+                       "대규모 공채 대신 소규모·상시 충원으로 구조 전환.",
+            "url": "https://www.newspim.com/news/view/20260810000140",
+        },
+        {
+            "title": "Global Talent Trends 2026",
+            "publisher": "Mercer (글로벌 임원·HR·투자자·직원 약 12,000명)",
+            "summary": "C-Suite의 82%가 'HR의 미래는 인간 인재와 디지털 에이전트의 병행 관리'라고 응답. "
+                       "직원 Thriving 지표는 2024년 66% → 2026년 44%로 조사 이래 최저.",
             "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
-        },
-        {
-            "title": "채용 데이터로 짚어본 2026년 하반기 채용시장 흐름",
-            "source": "Korea Business Review",
-            "date": "2026-08-12",
-            "url": "https://www.koreabizreview.com/articles/kbr-news-deep-analysis-10-2026-20260812-1gs6",
-        },
-        {
-            "title": "채용 트렌드 2026: 컬처핏을 넘어 팀핏으로",
-            "source": "원티드랩",
-            "date": "2026",
-            "url": "https://blog.wantedlab.com/hr/report/hr-trend-report-2026",
         },
     ],
 }
