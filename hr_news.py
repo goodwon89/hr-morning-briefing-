@@ -54,6 +54,11 @@ FEEDBACK_SUBJ = quote(_FEEDBACK_SUBJ_RAW)
 FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
 NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 
+──────────────────────────────────────────────────
+📋 hr_news.py 붙여넣기용 WEEKLY_DATA — 9.14~9.18
+   수집 완료: 2026-09-18
+──────────────────────────────────────────────────
+
 # ──────────────────────────────────────────────────────────────
 # [Phase 2] 이주의 HR 데이터 인사이트 — 매주 금요일 수동 갱신
 # ──────────────────────────────────────────────────────────────
@@ -62,68 +67,56 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 9.7~9.11  |  수집 완료: 2026-09-11 (자동수집)
+# ✅ 이번 주 업데이트 — 9.14~9.18  |  수집 완료: 2026-09-18 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "9.7~9.11",
+    "week_label": "9.14~9.18",
     "enabled": True,
     "metrics": [
         {
             "label": "취업자 수",
             "value": "2,915.1만명",
-            "change": "+18.4만명 (전년동월비)",
+            "change": "전년동월대비 +18.4만명",
             "trend": "up",
-            "source": "국가데이터처 2026년 8월 고용동향 (9.9 발표)",
         },
         {
-            "label": "고용률 (15~64세, OECD 기준)",
+            "label": "고용률 (15~64세, OECD기준)",
             "value": "70.4%",
-            "change": "+0.5%p (전년동월비)",
+            "change": "전년동월대비 +0.5%p",
             "trend": "up",
-            "source": "국가데이터처 2026년 8월 고용동향 — 8월 기준 역대 최고",
         },
         {
             "label": "청년 실업률 (15~29세)",
             "value": "5.4%",
-            "change": "+0.5%p (전년동월비)",
+            "change": "전년동월대비 +0.5%p (2022년 이후 8월 기준 최고)",
             "trend": "up",
-            "source": "국가데이터처 2026년 8월 고용동향 — 2022년 8월 이후 최고",
         },
         {
             "label": "신규채용 계획 기업 비율",
             "value": "66.6%",
-            "change": "+5.8%p (전년비)",
+            "change": "전년대비 +5.8%p (경총, 100인 이상 기업 500개사 조사)",
             "trend": "up",
-            "source": "한국경영자총협회 2026년 신규채용 실태조사 (100인 이상 500개사)",
         },
     ],
     "reports": [
         {
             "title": "2026년 8월 고용동향",
-            "org": "국가데이터처",
-            "date": "2026.09.09",
-            "summary": "취업자 18.4만명 증가로 3개월 연속 증가폭 확대. 15~64세 고용률 70.4%로 8월 기준 역대 최고. 반면 청년 취업자는 46개월 연속 감소, 청년 고용률은 28개월째 하락.",
-            "url": "https://kostat.go.kr/board.es?bid=210&mid=a10301030200",
+            "org": "국가데이터처(통계청)",
+            "url": "https://www.seoul.co.kr/news/economy/2026/09/09/20260909500017",
         },
         {
-            "title": "美 2026.8월 고용지표 내용 및 뉴욕 금융시장 반응",
-            "org": "한국은행",
-            "date": "2026.09.10",
-            "summary": "미국 8월 고용지표 세부 내용과 시장 반응 분석. 글로벌 인력시장 및 국내 채용 기조 전망의 선행 참고자료.",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000207324&pg=&pp=&issus=S",
-        },
-        {
-            "title": "AI가 선진국·신흥국 생산성에 미치는 영향 점검",
-            "org": "국제금융센터",
-            "date": "2026.09.08",
-            "summary": "AI 도입이 국가·산업별 생산성에 미치는 차별적 영향 분석. AI 전환기 인력 재배치·리스킬링 전략 수립의 근거 자료.",
-            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000207292&pg=&pp=&issus=S",
-        },
-        {
-            "title": "Global Talent Trends 2026",
+            "title": "Mercer Global Talent Trends 2026 Report",
             "org": "Mercer",
-            "date": "2026.02.25",
-            "summary": "전 세계 약 1.2만명 조사. '직장에서 활력을 느낀다' 응답 44%(2024년 66%에서 급락), AI로 인한 고용 불안 28%→40% 상승. C-Suite의 82%가 'HR의 미래는 인간 인재와 디지털 에이전트의 동시 관리'라고 응답.",
             "url": "https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/",
+        },
+        {
+            "title": "2026년 신규채용 실태조사 결과",
+            "org": "한국경영자총협회(경총)",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000203504",
+        },
+        {
+            "title": "2026 HRD Trend Report",
+            "org": "한국생산성본부(KPC)",
+            "url": "https://www.kpc.or.kr/download/pt/KPC2026HRDTrendReport.pdf",
         },
     ],
 }
