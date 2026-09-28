@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-09-28",
+    "news": [
+      {
+        "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zalZOcV8zVHFQOXZBalFmRFB5YUxtMkZHdDVZZGtkV1pUZUxfWE8zUHhoUTJObGlCLWNld0dQeDgzRzlheUtRRFNlcWVsMUdSVmw4TkRoWG9qNEtMdzBSNWFzdFBGX1lL0gFoQVVfeXFMTXNqVk5xXzNUcVA5dkFqUWZEUHlhTG0yRkd0NVlka2RXWlRlTF9YTzNQeGhRMk5saUItY2V3R1B4ODNHOWF5S1FEU2VxZWwxR1JWbDhORGhYb2o0S0x3MFI1YXN0UEZfWUs?oc=5",
+        "source": "경인방송 뉴스",
+        "description": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기' 경인방송 뉴스",
+        "pub_date": "26.09.28",
+        "section": "hr"
+      },
+      {
+        "title": "“연봉 더 드립니다”…AI 시대 몸값 뛴 직장인 따로 있었다",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LT2g4bGZ2UjUyV3FlcEFfcGVJTEwzYWFTRjNNQjQ4cktyelM5Ukx1UDBqeWdFOUtFYmthTTFXdVpjaGpmb2M1NTRmUzRaQzlhS0F5Z1BMX0Ixc1NSNUhKWmx3?oc=5",
+        "source": "이코노미스트",
+        "description": "“연봉 더 드립니다”…AI 시대 몸값 뛴 직장인 따로 있었다 이코노미스트",
+        "pub_date": "26.09.28",
+        "section": "hr"
+      },
+      {
+        "title": "삼성바이오로직스 ‘성과급·격려금’ 등 평행선",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wVUo0alhiaFQ3akQ1dHdiX0tabkF4cWVrTnQzWlpTV3JkeFJ0eXBLQnJHTVVSTDBud0dtUkJPYzV5QllHUjQxdFJaaHl6T2NxdEdZZnJBaENKbzJNSU44bW9nVHhISW5C?oc=5",
+        "source": "데일리메디",
+        "description": "삼성바이오로직스 ‘성과급·격려금’ 등 평행선 데일리메디",
+        "pub_date": "26.09.28",
+        "section": "hr"
+      },
+      {
+        "title": "\"이제 출근 하세요\"…日기업 사무실 복귀 확산에 소니 반도체도 합류",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qZ1hfN1pkMEFKYmI3Tld2M1JYazAydENMT3ZwaVk1N0R2QjBHTXY4M2dNUEpWRzc0cEsta1Q3SDcxSUNzVGJYOWFKR3l1T1U?oc=5",
+        "source": "v.daum.net",
+        "description": "\"이제 출근 하세요\"…日기업 사무실 복귀 확산에 소니 반도체도 합류 v.daum.net",
+        "pub_date": "26.09.27",
+        "section": "hr"
+      },
+      {
+        "title": "성과급 격차 불만 커진 삼성전자 DX 직원들…노태문 사장, 직접 소통 나선다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53cmtYZWFxX2dHUEJQNWlhd1UyeTBoQ09CQU03T0lGUlhTUkZnbXhOQ2pqcFdRQUlBZm5hZjlGcE5LaGNLS3diWEx2SlBCcngycm5rWWQyTU1fT0RzbjB5VUF5c1BqdkdoUy1VdA?oc=5",
+        "source": "메디컬투데이",
+        "description": "성과급 격차 불만 커진 삼성전자 DX 직원들…노태문 사장, 직접 소통 나선다 메디컬투데이",
+        "pub_date": "26.09.27",
+        "section": "hr"
+      },
+      {
+        "title": "소니 반도체, 직원 8천명 '출근 체제'로…日 재택근무 축소 확산",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwOVFBdk1BVHh2WC1mNlA2aDRJMUl0aXpNODJTeXViZnRXX05ieU01NkVOOTB3LTZVakUzZWkxcmpSRWlGMkp5bGZtWk01a2Z2WmNB0gFYQVVfeXFMT045aW0xVTBKSXpmMUFUNmpOckROT3MtN3dOMlJMQzdkcDVzamVndEpvYlhFWmpKYUNlYmgxNFNMMlluTGhrbFpicDdGcUs1MVk3TmlVYTJBdA?oc=5",
+        "source": "SBS Biz",
+        "description": "소니 반도체, 직원 8천명 '출근 체제'로…日 재택근무 축소 확산 SBS Biz",
+        "pub_date": "26.09.27",
+        "section": "hr"
+      },
+      {
+        "title": "뉴로메카, '인간-AI 협업형 LAM 개발' 주관 기관 선정",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93OW9sb3hxNkduZTBkNUpmS3lmM3kyazVmalFKQU1Kc3ZNS1JuWHY3c3FCSUQ4cDJjbm51U1FzQVhJQnhsSjNqZVBoUjd2TWtBREgzbEZMcTFuWldZVzNBbNIBeEFVX3lxTE9mUENjMjUtaEh4bk9mNmE0YUJtYW02Z29ISXU2cFRWb0JpNDFjR2J3VnJESUFIY3NMVmlIc0xIQ0d5R3pONDJJQ3dPaEhjTlhZMGVMd05XdjU5TTFzX1NKZUF1Sl9sTVkzdHdPSzUwLWJmT1lhR3V3MA?oc=5",
+        "source": "뉴시스",
+        "description": "뉴로메카, '인간-AI 협업형 LAM 개발' 주관 기관 선정 뉴시스",
+        "pub_date": "26.09.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "앤트로픽, 아카마이와 약 16조원 초대형 클라우드 계약…AI 인프라 확보 총력",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdXhtWEZnd2dmVFZQRm84TGUxVHpZNVVyUlpPZ1RTaEI0dk5pT1Z3Y3JQTkcwRElTaGxJWmtWTWxmUGdlNDNJQXNmN0lsaWRMeVhPbnV0bEZhS3AyMFNQQWVQUlZ6U0VKV3FUVUZB?oc=5",
+        "source": "알파경제",
+        "description": "앤트로픽, 아카마이와 약 16조원 초대형 클라우드 계약…AI 인프라 확보 총력 알파경제",
+        "pub_date": "26.09.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "안산사이언스밸리내 첨단로봇 연구·제조 시설 11월 착공",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LaEFPdXIyNUNMVUZKWG16ZEM1ZEpzSl9LYjJnQUUxeVRHdFpSdUJNMVhvT3dudWZObFAzQ3NrVDJ1N1luN3VPLWR1X1FySzJ1RGxidnZZTENocUdhTXd1a283X3FpNlNw?oc=5",
+        "source": "중앙신문",
+        "description": "안산사이언스밸리내 첨단로봇 연구·제조 시설 11월 착공 중앙신문",
+        "pub_date": "26.09.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "배민, 내달 가게배달에 AI 시간 예측 도입…정확도 1.7배 향상",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50ajl6MkJKbk5qM1VFSWJZMHBLMUtlM25DZmxZRkk1YTBWS2luNU1ET3RDczFtc1F3dTY2b1RWa3BnNXFLN0kzZE9RbDM5WEFUVkE?oc=5",
+        "source": "매일경제 마켓",
+        "description": "배민, 내달 가게배달에 AI 시간 예측 도입…정확도 1.7배 향상 매일경제 마켓",
+        "pub_date": "26.09.28",
+        "section": "ai_tech"
+      },
+      {
+        "title": "금리 부담에 건설업 경기전망 ‘먹구름’…10월 BSI 95.3",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xN1RSTURlc21mRVN4MVN4eGtHSHQ5bFRsWjZ6VXBwOEVaN1NzcHpOVnpGX09mTXY1SmxFc0sxZHRRbzMxSFZyRnVmbkVXUC0wZXE4ZWY2OE4yQVFoSjFYQWJha2gtb2gxbmszQw?oc=5",
+        "source": "기계설비신문",
+        "description": "금리 부담에 건설업 경기전망 ‘먹구름’…10월 BSI 95.3 기계설비신문",
+        "pub_date": "26.09.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한수원, 원전 공급망 문턱 낮춘다…중소기업 10곳에 최대 800만원 지원",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aWpPNlBvdVZhbmNCWllnYUdzaUNwOVEtalZmNlJBaVMwZ0Ixd0VrRVI2UEdBeFE0UHd6ZnRldzM5bFpfR05CMWdLLU0xWjNCSFVnRWZDLWVIUXp6cDVMOVJETU4?oc=5",
+        "source": "에너지안전신문",
+        "description": "한수원, 원전 공급망 문턱 낮춘다…중소기업 10곳에 최대 800만원 지원 에너지안전신문",
+        "pub_date": "26.09.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "“추석 연휴 사흘 만에 20bp 뛰었다” 미국 장기 국채금리 더 오른다는데",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdDlPOXlHczJ6LUJqS3dUMEgwd3V0T21mRTRfbWpLY1ZhbVVrWnlCNjNDb1NsX01fVmlmSEdnd0xMbHdlcktYaWg2LVlGenQzWGc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "“추석 연휴 사흘 만에 20bp 뛰었다” 미국 장기 국채금리 더 오른다는데 매일경제 마켓",
+        "pub_date": "26.09.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "금리 불안 vs 반도체 실적…코스피 7000선 공방",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZWRhMXdHeXl5MkVISXhjWkRHS1ZwY3BsOGtzU19lVHBJdE9aVTk1XzdCdzhQM2MtblJGZ2h2bGZONmlpVDFuVUxtTTl5MkJFWThLMDZodkxyY2VMc0xMSFE3endvWlBxcHpCWg?oc=5",
+        "source": "etoday.co.kr",
+        "description": "[오늘의 투자전략] 금리 불안 vs 반도체 실적…코스피 7000선 공방 etoday.co.kr",
+        "pub_date": "26.09.28",
+        "section": "macro_industry"
+      },
+      {
+        "title": "메가 시리즈A 시대 왔다…왜?",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84STlVbWZ6a0c3cE5iLWFMdnBYM2x5VG1lYzRzRVpseXdxd0tWcWE1Ym9RVEcwWFFLOUd2XzEteWtnc1VYblFpMGpyNGpST3g2aEVGbHhOYi1NZzBlMlVKLTlBZ1plTW1TOU9teFd3NA?oc=5",
+        "source": "스타트업레시피",
+        "description": "[StartupRecipe] 메가 시리즈A 시대 왔다…왜? 스타트업레시피",
+        "pub_date": "26.09.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "140일씩 걸리던 상장심사, 70일로 줄었다…빨라진 바이오 IPO 시계",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5odm12V0FJOWd0MlZoX0I0RjduRmktbUJoRkRyY1F2Um5IbXBkSXJIeDVsbmZ5aU1SNHNQWHc4U3FIZVg3T2YtVWJSSXcwbGF2R3c?oc=5",
+        "source": "매일경제 마켓",
+        "description": "140일씩 걸리던 상장심사, 70일로 줄었다…빨라진 바이오 IPO 시계 매일경제 마켓",
+        "pub_date": "26.09.28",
+        "section": "invest_ma"
+      },
+      {
+        "title": "경남도, 스타트업 55곳 고용·투자 성과…AI·콘텐츠 기업 33억원 투자 유치",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KblJRY3p5ZVhRRkp4UXk1Q1lYU19Uc1pJNU1lOXVadzhnLVBqVTl6WlF3dTVVS2RCUUZYRUZtcEZDaFV3Rl80ZEFjTTFJM3VqcnFLOVdIdmRXNUlK?oc=5",
+        "source": "뉴스핌",
+        "description": "경남도, 스타트업 55곳 고용·투자 성과…AI·콘텐츠 기업 33억원 투자 유치 뉴스핌",
+        "pub_date": "26.09.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "경남도, 수도권 투자유치·스타트업 육성…미래산업 성장 기반 확대",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZHpwS0loVXJzQVhHQ3lrVXUzaGlSVG1aZkVLWFlXaWpzc2FUaTRJcVVVdFJYT3ZiYkEyTVZWLTJOMmRTNmlJblBkcnJtTnZjRjU5Y1NKYVVTNEV2cy1zYlg0TlRQTHB1cmV2bTZ5Z3dudw?oc=5",
+        "source": "인더스트리뉴스",
+        "description": "경남도, 수도권 투자유치·스타트업 육성…미래산업 성장 기반 확대 인더스트리뉴스",
+        "pub_date": "26.09.27",
+        "section": "invest_ma"
+      },
+      {
+        "title": "삼성바이오, 글로벌 콘퍼런스서 제조공정 혁신 전략 알렸다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TREJpajlsNjdNTUxSVW5rOEhLLU5TOHNudkhBWDlHeFY0eXBaSjZ0OTdyZElWclhQYjduZ0VMbllZUW9kZzBpYzJ2UVcyWlVnTVIzUU92dlBDWms?oc=5",
+        "source": "연합뉴스",
+        "description": "삼성바이오, 글로벌 콘퍼런스서 제조공정 혁신 전략 알렸다 연합뉴스",
+        "pub_date": "26.09.28",
+        "section": "innovation"
+      },
+      {
+        "title": "삼성바이오, '2026 BPI'서 바이오의약품 제조 혁신 전략 소개",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wT0dBaGhqQVdkUWxDUVM0Tl9sOEROTFhpR2FkWkpPZXBtNVlpeDFFbTNrVXNTWS1LNU5hTGtxa3o0OHBpSEhUeUE2NF9sOW84Mk1BQXhkZHphMU5BdmR6WA?oc=5",
+        "source": "아시아경제",
+        "description": "삼성바이오, '2026 BPI'서 바이오의약품 제조 혁신 전략 소개 아시아경제",
+        "pub_date": "26.09.28",
+        "section": "innovation"
+      },
+      {
+        "title": "삼성바이오로직스, BPI서 공정 혁신 공개…개발기간 3.5개월 단축",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWTAzUGtmcnVTOW85ckJPLWh3YTdyN2o3cEl0a0FUY2NpVHlkTEVLdlpkY3Q0RzJNMllfYXFpbm9HUXVBOUx1WXh4dkZ6b3lNTC1sVzJiUEIydjVk?oc=5",
+        "source": "뉴스핌",
+        "description": "삼성바이오로직스, BPI서 공정 혁신 공개…개발기간 3.5개월 단축 뉴스핌",
+        "pub_date": "26.09.28",
+        "section": "innovation"
+      },
+      {
+        "title": "인천 바이오 ‘생산 1위’ 넘어 연구·창업·사업화 생태계 구축해야…인천연구원 '인천 미래 산업혁신 정책포럼' 열어",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Vd3U5SkFKTHFsZ0JaTm8tS0dEeW5ZYTdFRkVXV0FqSkV1d1ZRLXZpM2F1aTNFMWVzWUo0bXJJbDQxOGxwX3NRWWVwUGxaRlotNU1XNV9fZGs2MGs?oc=5",
+        "source": "경기일보",
+        "description": "인천 바이오 ‘생산 1위’ 넘어 연구·창업·사업화 생태계 구축해야…인천연구원 '인천 미래 산업혁신 정책포럼' 열어 경기일보",
+        "pub_date": "26.09.27",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "news": [
       {
