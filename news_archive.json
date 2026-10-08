@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-10-08",
+    "news": [
+      {
+        "title": "한국전력기술, AX 전환 박차…AI 리더십 강화하고 협력사와 노하우 나눈다",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pbVplVFNIRjYwS0dSVVR3aUlqa3dTejZOcUdUYnFESmllRTJ1S2U1MWRhS3RqckxUZEtURWRvWXVsQ1ZYYUd3bGtGYmdvOU5NVDVQVTZHYlJkaDdTWjN3eDJ4N05rWDhaRlpSMGFOUQ?oc=5",
+        "source": "뉴스캐치",
+        "description": "한국전력기술, AX 전환 박차…AI 리더십 강화하고 협력사와 노하우 나눈다 뉴스캐치",
+        "pub_date": "26.10.08",
+        "section": "hr"
+      },
+      {
+        "title": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPYmJsaUx2TDlhczM2VUp4R3k2T25xWDVFYUZlRTh4SjNQcjFrTDEzUjNaWkZzX0lYSzZwSXFLNnQ5cDdsdy1BWG14ek5Vd0xxTFIzLWc1TVhydw?oc=5",
+        "source": "한국경제",
+        "description": "채용공고도 이력서도 쏟아진다…'귀한 몸' 된 반도체 경력직 한국경제",
+        "pub_date": "26.10.08",
+        "section": "hr"
+      },
+      {
+        "title": "3분기 반도체 대기업 채용 공고 102% 증가",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEZEExTWRGYks5d29MdThUQzlOT0FIT3R2bGV6NlJYZ3Z0WGtVSTVZSjdMQkFOdkFTZFM0ZnN1SmNfNkxXbU5fWkY2S0ktTWtKa0Q4bzBpUjBkYkpmZ2JDUU9HNHk?oc=5",
+        "source": "서울경제TV",
+        "description": "3분기 반도체 대기업 채용 공고 102% 증가 서울경제TV",
+        "pub_date": "26.10.08",
+        "section": "hr"
+      },
+      {
+        "title": "\"물가 오르는데 2% 인상?\"…KT새노조, 무성의 협상안에 공분",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3V0hVZHJ3WGJtYUktXzRTaUhTNjdMNjFNcnl3S0FJUmNMOFQ0Zmx4UWNDXzd3YXB4cllCdGVKc1E5aTZTUGhFemZwU2FIWmJiQURMQlFyQlR6S1RoUFphbl9TU1YxRXls?oc=5",
+        "source": "테크월드",
+        "description": "\"물가 오르는데 2% 인상?\"…KT새노조, 무성의 협상안에 공분 테크월드",
+        "pub_date": "26.10.08",
+        "section": "hr"
+      },
+      {
+        "title": "최광진 IBK투자증권 대표이사 사장",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xaHVScXhlRVdTOWRRUl9rRHZjcDFGZjlibmlRenI2OW5vc0hvMFFQdGV6UHpFTnpxc0U3dm1DVjlmUWNhYVE2ZTZZelNqZGw0N0tLSGF0OVlpWkZrNXpkWmtPZ2pjQlZvRmgyQUFBTjB3dWs?oc=5",
+        "source": "비즈니스포스트",
+        "description": "[Who is ?] 최광진 IBK투자증권 대표이사 사장 비즈니스포스트",
+        "pub_date": "26.10.08",
+        "section": "hr"
+      },
+      {
+        "title": "중기부 장관, 최저임금 업종별 차등 적용 고민 필요",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsNzNFOFQ5VnBxaW9yM1V1eWM4RFFfVUVkRU1GYTFCb1VrOWFUazFoS2REX1E5WnFZZS1NLVA1U09pbHZkUWx3b1V3aWpGaUp1OXQySDVjb1JlaXRUWXA0U1RadmFYSGx3bXdBaFR5WjA?oc=5",
+        "source": "숙박매거진",
+        "description": "중기부 장관, 최저임금 업종별 차등 적용 고민 필요 숙박매거진",
+        "pub_date": "26.10.07",
+        "section": "hr"
+      },
+      {
+        "title": "“100세 시대, 부모 돌봄 어떻게” AI에서 답 찾는다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dXA3Z0NJNVRsdXNuUjNobHRLYkJTOURGekVITmZVdEJiWkpOOGJZRE9YS1VNTXZ1T3VrbV9xR2dpY1VaOUtPdkw3ZllkQmN5bGxOMHItRVdjQQ?oc=5",
+        "source": "이투데이",
+        "description": "“100세 시대, 부모 돌봄 어떻게” AI에서 답 찾는다 이투데이",
+        "pub_date": "26.10.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "금융당국, AI 해킹에 CEO 제재 가능할까…과거 사례 보니",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lVDE0SXVxcHdNdmUwdENiN2xXTy0zMWhLU2VITm5qanBPRWh6cVFGVWttaVJmd0phMVFaTUdtNmVjdkNJRGJmR2tTdnJrTVg4MnhrT3dXNjd5OHJtOE9LWEs1LWhtb1J5QnZmcktrcnY?oc=5",
+        "source": "연합인포맥스",
+        "description": "금융당국, AI 해킹에 CEO 제재 가능할까…과거 사례 보니 연합인포맥스",
+        "pub_date": "26.10.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "알리바바, 수이와 협력…AI 에이전트 클라우드 결제에 블록체인 도입",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIOUJzTjczSTNpRkdiZE5RNVNJN19tOW9JMkRZRDA4Mm1CNDQxQnhHdUVWcWI4cDQ0MUNQUEZUa1NvbHBuN1k4Z0F1VTN3X0dNNnZubmdIZl9JeWMzWHpPbS1GY2ZrTzhubmlqcVRCb3ktQQ?oc=5",
+        "source": "디지털애셋",
+        "description": "알리바바, 수이와 협력…AI 에이전트 클라우드 결제에 블록체인 도입 디지털애셋",
+        "pub_date": "26.10.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "청년의 아이디어가 바꾸는 복지현장, AI 혁신의 시작",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82bjljV1ZsbldvcFBobS1PS05kZGtlY19GRGw3WmVsakZFTE90cDRVdGZmNFJzdFZuMVdzMEFyT1F6R09ncVhCSkV4R3pMTlE5YktQdE1ERHRLdFFIR1hiNmFrWDFoenVfN3Y0?oc=5",
+        "source": "헬스경향",
+        "description": "[특별기고] 청년의 아이디어가 바꾸는 복지현장, AI 혁신의 시작 헬스경향",
+        "pub_date": "26.10.08",
+        "section": "ai_tech"
+      },
+      {
+        "title": "바클레이즈 \"美증시 실적상향 75%가 반도체·하드웨어…쏠림 심화\"",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nVWx2elJlV0VJd0c0anUxMENDYnNmc2tSVkRqT0d1NGxFZWlraGxBMWVXZmZVcm1lYVdldXd2U29xYmN1Q1hDU3ozN0x1TUNibXdfM2VVSVduNlRwaWVBT3QzOUxpb043UmRtTjFNS2ZWQQ?oc=5",
+        "source": "KB Think",
+        "description": "바클레이즈 \"美증시 실적상향 75%가 반도체·하드웨어…쏠림 심화\" KB Think",
+        "pub_date": "26.10.08",
+        "section": "macro_industry"
+      },
+      {
+        "title": "LG에너지솔루션, 캐나다산 리튬 정광 24만톤 확보…북미 공급망 강화",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIelhMLWllMEVORGxJVUpmYndVWlFSVjBVLW00YlJjQzNRd0V2ZWg5RzJxbkZCdzBLWEZmNmpncWdxTEZqRW9LeEctNmZ1bGhyUEtQMnJGVUU3aTZOMkZYalNDR3A?oc=5",
+        "source": "디지털데일리",
+        "description": "LG에너지솔루션, 캐나다산 리튬 정광 24만톤 확보…북미 공급망 강화 디지털데일리",
+        "pub_date": "26.10.08",
+        "section": "macro_industry"
+      },
+      {
+        "title": "금리 인상 우려에 英 주택시장 냉각…주담대 금리 6% 육박",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aa1NybEkwN2tUVFZfdnNWVlhYV25WdlczZ21LZ1JBU2tMN042N0JJYndJNGw4bHl4QUwyR3VrM3VaX2FPeWpxZlFNSkxEOUVVVFJUUzlIMFp1cWJ6OUN1ZHhoU0ZoSzlOVlhPSkNoMGxOSkE?oc=5",
+        "source": "마켓인",
+        "description": "금리 인상 우려에 英 주택시장 냉각…주담대 금리 6% 육박 마켓인",
+        "pub_date": "26.10.08",
+        "section": "macro_industry"
+      },
+      {
+        "title": "LME 비철금속 및 환율 동향",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HbUo1X2d6VUJYbC03anlvQWlhdUJkdTduY285cG5taE5OSGMzcDdlTkVDQnlERXFHYjFxNjZTTXpmUGt5bmVDWHdMRjBoa3otMHkyQ0RORHBQZGxQdl9JdTBfSmprU0I2cWc?oc=5",
+        "source": "철강금속신문",
+        "description": "[표] LME 비철금속 및 환율 동향(10월 7일) 철강금속신문",
+        "pub_date": "26.10.08",
+        "section": "macro_industry"
+      },
+      {
+        "title": "엠에스바이오 IPO 공모가 상단 확정…시총 2100억",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IQ1JIYUtFOGQ4QklNdHN3LTdSWklTT0hKWW9ONzBlSnpUNGljRkxJN0FBRWJVRkVDX3QzVUVFblJqRDVtVG0zWHB2WHo1MFJmUXfSAVNBVV95cUxQM1JTWlJ0VDZxNGYxalJGdXZMRW50QXhsTlR5eVZqOXlMZHVXMnZiUzRPQnEzdTBhdENnMEEzbWd6dTZ6dTlMdEtabVpGdDBDOXlyRQ?oc=5",
+        "source": "서울경제",
+        "description": "엠에스바이오 IPO 공모가 상단 확정…시총 2100억 [시그널] 서울경제",
+        "pub_date": "26.10.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘600억 지역혁신펀드 만들었지만⋯’ 전북 벤처투자 핵심 VC ‘0곳’",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHdsVm9leTEtRjFZVHpKNm5lZGRtVU00TUpCUnlINDhFQm5FM1JsZ1JPam9sSkthODgzT3E1NEVvUUNvem9LTF95WkRpRkJUMjhmZnJCNGFickdwRFdKWkRKTVB4T0Q4c2Z5MW9HazNfYndTZGNOSXJDMWdxc1Q5UWllbTQwczg?oc=5",
+        "source": "전북도민일보",
+        "description": "‘600억 지역혁신펀드 만들었지만⋯’ 전북 벤처투자 핵심 VC ‘0곳’ 전북도민일보",
+        "pub_date": "26.10.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "산업은행, 지역 스타트업 글로벌 진출·투자유치 지원 확대",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0hqMjROdFNjZkoxWEdabWV4aHF4T3hoZjh2alJCTzZIRHBaWUQ3b2huMTN1OHVna3JiZnJGenVqSHowaWNOOC1yZDFoTkUwTHNEU3d6V1FsYlh2ajIxNmxlLTRlLWFxMWFDdTA0c1Y1YjBMbkNRYVpuS1otMlN3WnFnMA?oc=5",
+        "source": "글로벌이코노믹",
+        "description": "산업은행, 지역 스타트업 글로벌 진출·투자유치 지원 확대 글로벌이코노믹",
+        "pub_date": "26.10.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "GH, 판교기업 5곳과 미국행… 글로벌 투자유치 본격화",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BS3ktTDdNUVZVS1VkT2hlWklfQlZJWFduLXJxaWliLUxua3lJMTVXQkdmWU42NGdqbVN5RkVzWUpNQkw1cWUyclFGVHlVRndPWWxDUzdZV0YwZmhNU1RuY2p0ZWUyZU5uQnFHMmVMaFp4YVZKRk0tTi1OTjV1UjTSAX9BVV95cUxNQUt5LUw3TVFWVUtVZE9oZVpJX0JWSVhXbi1ycWlpYi1Mbmt5STE1V0JHZllONjRnam1TeUZFc1lKTUJMNXFlMnJRRlR5VUZ3T1lsQ1M3WVdGMGZoTVNUbmNqdGVlMmVObkJxRzJlTGhaeGFWSkZNLU4tTk41dVI0?oc=5",
+        "source": "뉴데일리 경기",
+        "description": "GH, 판교기업 5곳과 미국행… 글로벌 투자유치 본격화 뉴데일리 경기",
+        "pub_date": "26.10.07",
+        "section": "invest_ma"
+      },
+      {
+        "title": "구미시, 반도체·방산·로봇 기업 기술협력 본격화…산업혁신 생태계 구축",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90V3M3Rmh2RlVNcnByMmNyZnk2QmV2YS1ibWRPb05XTmxnQmNQNUFkSXpvVG9MYkpBdXBaVXZXczhJUVNyNVJCZ1hidjU5VzFkT0tDSXpuYTdfTk9HN2dISlZsZGtsOGRkWEdVVkNRNmE?oc=5",
+        "source": "신아일보",
+        "description": "구미시, 반도체·방산·로봇 기업 기술협력 본격화…산업혁신 생태계 구축 신아일보",
+        "pub_date": "26.10.08",
+        "section": "innovation"
+      },
+      {
+        "title": "쑥쑥 큰 中바이오…\"승인은 빨리, 책임은 기업이\"",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vRHR1aGdORlZDdWxrTHVYejBVQmFvYzNOeUhUbkktei04ZzdOV3BSNlRfdms1cmJwYzBqZmRJZWZ1WTRaQzRVRGItV0VRaExUYUxXVEpDNGVKUWc0MFZyT0tyazhuZl9vekJNa2ZzaXlsTndqVDBpSNIBeEFVX3lxTE1vRHR1aGdORlZDdWxrTHVYejBVQmFvYzNOeUhUbkktei04ZzdOV3BSNlRfdms1cmJwYzBqZmRJZWZ1WTRaQzRVRGItV0VRaExUYUxXVEpDNGVKUWc0MFZyT0tyazhuZl9vekJNa2ZzaXlsTndqVDBpSA?oc=5",
+        "source": "뉴시스",
+        "description": "쑥쑥 큰 中바이오…\"승인은 빨리, 책임은 기업이\" 뉴시스",
+        "pub_date": "26.10.08",
+        "section": "innovation"
+      },
+      {
+        "title": "인천시, ‘송도 바이오’ 연구개발 역량 고도화",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Hc2lvWUJHVWo5N1hpemV0Um1ZWUpRRGZYWTJ6aEJiNXNucXk1RFBmM1hyLTg1WmZzMmZJdEtleHBuT3UyUkZIdW91bHJLYWdkd19BTzNiQXh5UXdFeERVRlBFUEI1WWpqa0dF?oc=5",
+        "source": "일간투데이",
+        "description": "인천시, ‘송도 바이오’ 연구개발(R&D) 역량 고도화 일간투데이",
+        "pub_date": "26.10.07",
+        "section": "innovation"
+      },
+      {
+        "title": "홍성, KAIST와 미래산업 혁신 생태계 선보여",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94eUpGV0FSdXVCNFpKRXc5MG5jeXo4Vk5DenJpc0l4QzRYaWFhWHZCYXVFUThOR2RVRno4Qm9zUHk4eFRDcDdQdVRMWTlkemtBWFN1LWh3WkNUalJWMXVKejN4aXdNemRiSW9oONIBb0FVX3lxTE45YVJ6NWdBcEtlWVhtOFphUmtUNkY1cmk0QkhLQ1BOWDZoN2hkTjdMeFZYdWI3YV9HNzJLN2EzV0ZrVXh6QS1VTGlkSVdnVjh5SEhFenU5cUY2aGI3eTFQeW40UlR0SUhORWRKN3AtZw?oc=5",
+        "source": "서울일보",
+        "description": "홍성, KAIST와 미래산업 혁신 생태계 선보여 서울일보",
+        "pub_date": "26.10.07",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "news": [
       {
@@ -884,187 +1065,6 @@
         "source": "한국보험신문",
         "description": "보험개발원, ‘2026 KIDI 보험미래포럼’ 개최… AI·바이오 혁신 조명 한국보험신문",
         "pub_date": "26.09.30",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "news": [
-      {
-        "title": "“정규·비정규직 생활만족격차 76%, 고용보험·임금·건강 영향”",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wdVBiNW5QYVlsSk5YMGxTMUg2VUQzekNLNU5PWEotOE1ZV3ZVVU9BQmt4YUh3NmJkTDlXX3E2MktQX2RINFBXVjFHbUdzMF9za2o2Q1VUZVg0eWU2Y01WV0phclo?oc=5",
-        "source": "서울경제TV",
-        "description": "“정규·비정규직 생활만족격차 76%, 고용보험·임금·건강 영향” 서울경제TV",
-        "pub_date": "26.09.30",
-        "section": "hr"
-      },
-      {
-        "title": "대기업 취업 한파 끝? “하반기 대졸 신입 채용 계획 있다”",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HRzU5dEE1U1dUejEwVTA1SkM3R0Y1bngzN0xYRW50blV1OUxoSEpTSW43a3VjVE00VlV6X25MTXZPbVZQSHYwQ3ByUE9NOHYxWUE?oc=5",
-        "source": "더나은미래",
-        "description": "대기업 취업 한파 끝? “하반기 대졸 신입 채용 계획 있다” 더나은미래",
-        "pub_date": "26.09.30",
-        "section": "hr"
-      },
-      {
-        "title": "전영현 부회장 \"AI, 조직문화 근본 바꿀 것\"…'삼성 AI 포럼' 개최 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0TWZMcmRDWlVIZGJqSGpmSG9GTDNRZEhBbHlzNGRRZ0g3d1lFNmpBTm5GREd6ZldiYWxIV05hZERrQWczeWRueEwtSjZQOG9MQ3NpdGNDR2F1OEVHRUlMRkdfSllFMC1tc3ZjN9IBckFVX3lxTE84TXFLbklXV3N4R1FrWDdhNV9XbGc1QWp1dWNqZVN0TTltV09jSGRsZ3Y3dm1GMC01N1RqamZZZXRWT2dDeW1vVjBtdWg2Z1hpYnVTWVBDREYtbWlKM0FnZ1VRa3pzM3lPUWhCMnZ0Yi10QQ?oc=5",
-        "source": "머니투데이",
-        "description": "전영현 부회장 \"AI, 조직문화 근본 바꿀 것\"…'삼성 AI 포럼' 개최 - 머니투데이 머니투데이",
-        "pub_date": "26.09.30",
-        "section": "hr"
-      },
-      {
-        "title": "전영현 삼성전자 부회장 \"에이전틱 AI, 조직 문화에 근본적 변화\"",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFQlhGSE4wMHMzQUZuYklhQ005NURwVmF3NkFDd2wyZ0lPSXFvVkhYTlRjdmJpUmdHVzQtdnVEUzlLdkp5Qk1OWHBUdTFJWmtKUjlUN21IdXhfc1hYelA5dVpSallVczlvcXlJMVNEYk5sblct?oc=5",
-        "source": "파이낸셜포스트",
-        "description": "전영현 삼성전자 부회장 \"에이전틱 AI, 조직 문화에 근본적 변화\" 파이낸셜포스트",
-        "pub_date": "26.09.30",
-        "section": "hr"
-      },
-      {
-        "title": "HD현대중공업 노사, 기본급 12만원 인상 잠정합의…120일 만에 타결 수순",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VRkVvWHZoVlF3LUlfWkdjT2hHYmZZTTJkTWxicExVdVlDeXhKUzZuemI5SGN5U3UweHJJSVZpVjBlUHZIdEsyUmJMa1VBbG8?oc=5",
-        "source": "v.daum.net",
-        "description": "HD현대중공업 노사, 기본급 12만원 인상 잠정합의…120일 만에 타결 수순 v.daum.net",
-        "pub_date": "26.09.30",
-        "section": "hr"
-      },
-      {
-        "title": "유통 대기업 채용 늘렸다더니 70%가 기간제, 정규직은 되레 줄어 |",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWU43cVUtWFhxeGpxdFBYLUJ2bm8xZXg0eDFvTTRlazJ6RHNYSkZpdlhLX2l2by0tam5MbUJtQkpiT1k3YlJ1LVdEMXlvc3RBUHZkU19STU5GTkZFLVlyMHhHRlNuUWIyTm1pWlY4VFV2YjRK?oc=5",
-        "source": "IT조선",
-        "description": "유통 대기업 채용 늘렸다더니 70%가 기간제, 정규직은 되레 줄어 | IT조선",
-        "pub_date": "26.09.30",
-        "section": "hr"
-      },
-      {
-        "title": "지니언스, AI 혁신으로 ‘주4.5일제’ 시범 운영... ‘대한민국 일자리 으뜸 기업’ 선정",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWX2YyWDlWYkQzWFNWQ09TS0IxR3JCcFdBVmh4cnBOMWRMYjNHenhJRUVFRDBackRfWmpyTFF5N3h3N3FUZnoyNnpyQ3pGOHJmSDYwM250cml5WmhMUEJMdDlCbEdfd3Z2bGtz?oc=5",
-        "source": "보안뉴스",
-        "description": "지니언스, AI 혁신으로 ‘주4.5일제’ 시범 운영... ‘대한민국 일자리 으뜸 기업’ 선정 보안뉴스",
-        "pub_date": "26.09.30",
-        "section": "ai_tech"
-      },
-      {
-        "title": "무늬만 클라우드를 넘어, 진짜 클라우드 네이티브로",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TUGRuampyUDhvVWRjQ2hpcURCOE8tNkh1Ry1EbkNGenhMaEM4dDNpcGpaYUhpVkZCME5rdDR6eUhlN0o2MDJ3VUMwV0ZtQQ?oc=5",
-        "source": "전자신문",
-        "description": "[AI하스피탈 인사이트]무늬만 클라우드를 넘어, 진짜 클라우드 네이티브로 전자신문",
-        "pub_date": "26.09.30",
-        "section": "ai_tech"
-      },
-      {
-        "title": "제이앤피메디, 다올데이터와 ‘헬스케어 유통 DX·AX 사업’ 계약",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ua1ZsQkFTZ3plaUFBR2lFY0luUVdhbjIteGxSbVV5M09rcjZrc2k5VWcwLU5SSVg3UkdhRFZpYVVCNmlpZWRocnA5eU0zdzUydlZrQTdaR0dreWJJV1l6SkFPZm1ubmI2azZZYlBoelByalpVYUc0?oc=5",
-        "source": "약업닷컴",
-        "description": "제이앤피메디, 다올데이터와 ‘헬스케어 유통 DX·AX 사업’ 계약 약업닷컴",
-        "pub_date": "26.09.30",
-        "section": "ai_tech"
-      },
-      {
-        "title": "과기정통부, 15개 인공지능혁신대학원에 현판 증정",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMlVtRE1uX05ZMFV4cjJROVdhaXdkWC12M2VOd2tfSEZVQTNLTTFvQVh3Y2laYXFUOUxxNlFtdFNBQmx6NGR1Nmp6UEtha3RpSW9paFNB?oc=5",
-        "source": "지디넷코리아",
-        "description": "[포토] 과기정통부, 15개 인공지능혁신대학원에 현판 증정 지디넷코리아",
-        "pub_date": "26.09.30",
-        "section": "ai_tech"
-      },
-      {
-        "title": "LME 비철금속 및 환율 동향",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTkRTVFFZNDdlQ2VfSmhuVThEakNzZUdMeU9PekM1d01SNnJwWkxjcWIwXzFKekpoOFZiQWFXODNCWFdMVUVmX1J1QXpIRmJPLUJUdVNub3FEelpvWHNFazhtWXBMTldIOUE?oc=5",
-        "source": "철강금속신문",
-        "description": "[표] LME 비철금속 및 환율 동향(9월 29일) 철강금속신문",
-        "pub_date": "26.09.30",
-        "section": "macro_industry"
-      },
-      {
-        "title": "반도체 독주 끝나나…“3분기 깜짝 실적, 대한항공·넥스틴 주목”",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWpvYzJlaTNZRFhscDlocUg5d0lFbXZ5cVdTY3dodElnVDJYekotLWJyZEUyREtIUjVON1RCZWQ2UTg0UmhndlZ2UnFYWGg3SzlTVnV3cDFSVkNGVGRrXzNpLURLQm5zYU5mY25FZHJlWTZhLTdQUFp4QU54Q09lYw?oc=5",
-        "source": "edaily.co.kr",
-        "description": "반도체 독주 끝나나…“3분기 깜짝 실적, 대한항공·넥스틴 주목” edaily.co.kr",
-        "pub_date": "26.09.30",
-        "section": "macro_industry"
-      },
-      {
-        "title": "반도체 호황에 초과세수 63조…220조 규모 미래대응기금 가시화",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZnhlbGVQb2tNZkl1bzlzcHotNXB4VUwyT3ZuS3FKYVVzTWxYblB5XzkxU19BQnVtVVFhNlZjWndMQzJIaXNnYmk1WmhldmoyeWlnNmV6YUNOUjVt?oc=5",
-        "source": "뉴스핌",
-        "description": "반도체 호황에 초과세수 63조…220조 규모 미래대응기금 가시화 뉴스핌",
-        "pub_date": "26.09.30",
-        "section": "macro_industry"
-      },
-      {
-        "title": "KMI “호르무즈 사태, 공급망 취약성 드러내…해운·에너지 통합 대응해야”",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NZWFTZnFqUFR2dHF6Nzc1dkdKaktOckhKSTFuVHJpbnUwcGxHUnFTVUJ2eUxYWjJxZUdTekVQYzk0emFRREpEVW5MRk1KQ1B5MVZ2REtWX2YxS1QtYjJXbDM0Uk13YzF2Zzdn?oc=5",
-        "source": "해사신문",
-        "description": "KMI “호르무즈 사태, 공급망 취약성 드러내…해운·에너지 통합 대응해야” 해사신문",
-        "pub_date": "26.09.30",
-        "section": "macro_industry"
-      },
-      {
-        "title": "기지개 켜는 IPO 시장, 이달 상장 기업 모두 공모가 웃돌아...10월 ‘1조 대어’ 등 줄줄이 청약 일정",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnd5enh3ZnlkcXpqdkJGV2pMM0ZPLThGQ213YUdoTlpOY0tYVUY4MEtBeUowVld4dDc0RjdmYmVFajNCSFpEeXUtTHNPUmdUTXVmZFFLM1drOEtoaFhFS2Q1VWlDNjFSOHlib1p1cWo1YmMySnhKQlI4WFdkcEc5Zg?oc=5",
-        "source": "조선일보",
-        "description": "기지개 켜는 IPO 시장, 이달 상장 기업 모두 공모가 웃돌아...10월 ‘1조 대어’ 등 줄줄이 청약 일정 조선일보",
-        "pub_date": "26.09.30",
-        "section": "invest_ma"
-      },
-      {
-        "title": "VC협회, 제9회 '벤처투자분석사' 자격시험 원서 접수 개시",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yMEoyc3RmamlmUGh5ZDUtelBSalQ3SjBCN1FCbFRWTHJZM2xwcmdVbGlrYWxZVFI3ODJGTjZHZlpGelRZQTktdkJUalRWSEY5TUc2MXFNWS1BbjJi?oc=5",
-        "source": "뉴스핌",
-        "description": "VC협회, 제9회 '벤처투자분석사' 자격시험 원서 접수 개시 뉴스핌",
-        "pub_date": "26.09.30",
-        "section": "invest_ma"
-      },
-      {
-        "title": "Accelevation, 나스닥 IPO 공모가 주당 $18로 확정",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53bmZRWU40Z3J6QmlUYUhVcGFOc3BWRk1DVWh3bjR4azlQVTFCa2JhN0xoUl9CaWpyMHhYQnJkZ2hkNXh3SGdMbkNjRzQ4cjFEMlllQWhUbHVSQkhCTFcxRmdTd09tLTQ2aUw5NkRKZC1qWEFNaDF4eg?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "Accelevation, 나스닥 IPO 공모가 주당 $18로 확정 Investing.com 한국어",
-        "pub_date": "26.09.30",
-        "section": "invest_ma"
-      },
-      {
-        "title": "올 하반기 IPO 나서는 제약바이오기업들",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DR0dpaDNXYXE5OUppdVhRRGlyTzRLUUV1blZ5VGlFZkVQU0NQNjhTWVJKTXRJZXVEaG9yR3R0ekxNY1B2NjZfN1ZMRzc0Q0pPdF9hQUVuV2hTTFlkeFdja3U0VUVhSUZ0NVE?oc=5",
-        "source": "의학신문",
-        "description": "올 하반기 IPO 나서는 제약바이오기업들 의학신문",
-        "pub_date": "26.09.30",
-        "section": "invest_ma"
-      },
-      {
-        "title": "시흥시, 서울대 'SNU BIO-DAY' 참가…바이오 특화단지 경쟁력 알렸다",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VVk1yT2lZaHdOTXhzemlUdlRVaWMzOWJvNGkySlJfWkM1WnRfaWEtSjl2SUZvTDRSRE45V3NpZ1hOdDRsMkF6VGVSZjRxcnA3bHBnNmcxTElHUE0?oc=5",
-        "source": "연합뉴스",
-        "description": "시흥시, 서울대 'SNU BIO-DAY' 참가…바이오 특화단지 경쟁력 알렸다 연합뉴스",
-        "pub_date": "26.09.30",
-        "section": "innovation"
-      },
-      {
-        "title": "삼성바이오로직스, 공정 혁신 고도화…글로벌 경쟁력 키운다",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zREEyOGstbWJ5bmZGc1dUM3FQMHYyQkE4UmdPS0o3QXRRVUZPdlR1OGdrWS1aakpELW0wdHJyRzAwRndTTDgwLXRVckthSHBNd1BGTkVLTVZIMDQ?oc=5",
-        "source": "에너지경제신문",
-        "description": "삼성바이오로직스, 공정 혁신 고도화…글로벌 경쟁력 키운다 에너지경제신문",
-        "pub_date": "26.09.30",
-        "section": "innovation"
-      },
-      {
-        "title": "인천 관광스타트업 7곳, 사업모델 선보여",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVHNxN1d6NVVnRW9hM3lpQkRjZ1BJMk00eFRpaVFEX08tWkZtaGdiZ2h5OEcwTFI1RThoZHlRcFozTDRNejNnbThQWXFaenQzVEFFUXpXQUUxVlNIRUhSWi1R?oc=5",
-        "source": "timess.co.kr",
-        "description": "인천 관광스타트업 7곳, 사업모델 선보여 timess.co.kr",
-        "pub_date": "26.09.29",
-        "section": "innovation"
-      },
-      {
-        "title": "파수 AI, 중소기업·스타트업 위한 ‘보안 케어 서비스’ 출시",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzYS1DcGRERXBvQlRiX004TGZscmNwVTRHVENXU1Q4RHJPOE9jTDRBUFdOajE3VnJyZUhzaTc1bVRBU1hLTDhJYm11Q3h4S0FDM0I5VTUzZy1aM0E1SlZSMF9VdlVzNzN4M2h5bA?oc=5",
-        "source": "데이터넷",
-        "description": "파수 AI, 중소기업·스타트업 위한 ‘보안 케어 서비스’ 출시 데이터넷",
-        "pub_date": "26.09.29",
         "section": "innovation"
       }
     ]
