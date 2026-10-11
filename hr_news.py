@@ -62,68 +62,43 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 9.28~10.02  |  수집 완료: 2026-10-02 (자동수집)
+# ✅ 이번 주 업데이트 — 10.05~10.09  |  수집 완료: 2026-10-09 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "9.28~10.02",
+    "week_label": "10.05~10.09",
     "enabled": True,
     "metrics": [
-        {
-            "label": "취업자 수",
-            "value": "2,915.1만명",
-            "change": "전년동월 대비 +18.4만명 (+0.6%)",
-            "trend": "up",
-            "source": "통계청(국가데이터처) 2026.8월 고용동향",
-        },
-        {
-            "label": "고용률 (15~64세, OECD 기준)",
-            "value": "70.4%",
-            "change": "전년동월 대비 +0.5%p (8월 기준 역대 최고)",
-            "trend": "up",
-            "source": "통계청(국가데이터처) 2026.8월 고용동향",
-        },
-        {
-            "label": "청년 실업률 (15~29세)",
-            "value": "5.4%",
-            "change": "전년동월 대비 +0.5%p (악화)",
-            "trend": "up",
-            "source": "통계청(국가데이터처) 2026.8월 고용동향",
-        },
-        {
-            "label": "신규채용 계획 기업 비율",
-            "value": "66.6%",
-            "change": "전년 대비 +5.8%p (2025년 60.8%)",
-            "trend": "up",
-            "source": "경총 2026 신규채용 실태조사 (100인 이상 500개사, 2026.3.10 발표)",
-        },
+        {"label": "취업자 수", "value": "2,915만명", "change": "전년동월比 +18.4만명", "trend": "up"},
+        {"label": "고용률 (15~64세, OECD)", "value": "70.4%", "change": "전년동월比 +0.5%p", "trend": "up"},
+        {"label": "청년 실업률 (15~29세)", "value": "5.4%", "change": "전년동월比 +0.5%p", "trend": "up"},
+        {"label": "신규채용 계획 기업 비율", "value": "66.6%", "change": "전년比 +5.8%p (경총, 3월 발표 유지)", "trend": "up"},
     ],
     "reports": [
         {
-            "title": "2026년 8월 고용동향 (KDI 경제정보센터)",
-            "publisher": "KDI 경제교육·정보센터 / 통계청",
-            "summary": "취업자 +18.4만명, 청년층 취업자 46개월 연속 감소(-14.3만명), 제조업 26개월·건설업 28개월 연속 감소.",
+            "title": "2026년 8월 고용동향 (국가데이터처)",
+            "source": "KDI 경제교육·정보센터",
+            "desc": "취업자 2,915만 1천명(+18.4만), 청년 고용률 44.1%(-1.0%p). 고용 총량은 늘었으나 청년층은 부진.",
             "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=286555",
         },
         {
-            "title": "2026 신규채용 실태조사 — 기업 66.6% 채용계획",
-            "publisher": "한국경영자총협회(경총)",
-            "summary": "직무 중심 채용 72.2%, 수시채용 상시화 41.8%, 채용 시 직무경험 중시 67.6%.",
-            "url": "https://www.newspim.com/news/view/20260310001155",
+            "title": "2026년 하반기 주요 기업 신규채용 계획 조사",
+            "source": "한국경제인협회(한경협)",
+            "desc": "하반기 채용계획 수립 기업 51.2%(전년比 +14.0%p), 공채·수시 병행 54.9%.",
+            "url": "https://www.dailian.co.kr/news/view/1695135",
+        },
+        {
+            "title": "청년 취업 트렌드 설문조사",
+            "source": "한국경영자총협회(경총)",
+            "desc": "청년 62.9%가 취업시장 '어렵다', 정년연장 시 신규채용 감소 응답 81.0%, 내년 채용 감소 전망 57.0%.",
+            "url": "https://news.mtn.co.kr/news-detail/2026092908562443196",
         },
         {
             "title": "Global Talent Trends 2026",
-            "publisher": "Mercer (Marsh)",
-            "summary": "임직원 thriving 66%(2024)→44%(2026), 고용불안 28%→40%, 경영진 65%가 2년 내 AI로 인한 재교육·재배치 필요 응답.",
-            "url": "https://info.marsh.com/global-talent-trends/2026/",
-        },
-        {
-            "title": "HR Monitor 2026: A turning point for the people function",
-            "publisher": "McKinsey & Company",
-            "summary": "보상이 리텐션 1순위 요인으로 +24%p 상승, HR 프로세스 중 운영 단계 AI 적용은 28%에 그침.",
-            "url": "https://www.mckinsey.com/~/media/mckinsey/business functions/people and organization/our insights/hr monitor 2026 a turning point for the people function/hr-monitor-2026-a-turning-point-for-the-people-function_vf.pdf",
+            "source": "Mercer (Marsh)",
+            "desc": "글로벌 인재 트렌드 연례 보고서. 사람과 AI 역량 결합이 경쟁우위라는 내용.",
+            "url": "https://www.mercer.com/ko-kr/insights/people-strategy/future-of-work/global-talent-trends/",
         },
     ],
 }
-
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
