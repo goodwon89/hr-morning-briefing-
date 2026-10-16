@@ -62,43 +62,33 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 10.05~10.09  |  수집 완료: 2026-10-09 (자동수집)
+# ✅ 이번 주 업데이트 — 10.12~10.16  |  수집 완료: 2026-10-16 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "10.05~10.09",
+    "week_label": "10.12~10.16",
     "enabled": True,
     "metrics": [
-        {"label": "취업자 수", "value": "2,915만명", "change": "전년동월比 +18.4만명", "trend": "up"},
-        {"label": "고용률 (15~64세, OECD)", "value": "70.4%", "change": "전년동월比 +0.5%p", "trend": "up"},
-        {"label": "청년 실업률 (15~29세)", "value": "5.4%", "change": "전년동월比 +0.5%p", "trend": "up"},
-        {"label": "신규채용 계획 기업 비율", "value": "66.6%", "change": "전년比 +5.8%p (경총, 3월 발표 유지)", "trend": "up"},
+        {"label": "취업자 수", "value": "2,926.6만명", "change": "전년동월 +11.3만명", "trend": "up",
+         "source": "국가데이터처(통계청) 2026년 9월 고용동향"},
+        {"label": "고용률 (15~64세, OECD)", "value": "70.6%", "change": "전년동월 +0.2%p", "trend": "up",
+         "source": "국가데이터처(통계청) 2026년 9월 고용동향"},
+        {"label": "청년 실업률 (15~29세)", "value": "5.4%", "change": "전년동월 +0.6%p", "trend": "up",
+         "source": "국가데이터처(통계청) 2026년 9월 고용동향"},
+        {"label": "하반기 대졸 신규채용 계획 기업 비율 (500대 기업)", "value": "51.2%", "change": "전년 하반기 대비 +14.0%p", "trend": "up",
+         "source": "한국경제인협회 500대 기업 채용계획 조사 (2026.9.29)"},
     ],
     "reports": [
-        {
-            "title": "2026년 8월 고용동향 (국가데이터처)",
-            "source": "KDI 경제교육·정보센터",
-            "desc": "취업자 2,915만 1천명(+18.4만), 청년 고용률 44.1%(-1.0%p). 고용 총량은 늘었으나 청년층은 부진.",
-            "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=286555",
-        },
-        {
-            "title": "2026년 하반기 주요 기업 신규채용 계획 조사",
-            "source": "한국경제인협회(한경협)",
-            "desc": "하반기 채용계획 수립 기업 51.2%(전년比 +14.0%p), 공채·수시 병행 54.9%.",
-            "url": "https://www.dailian.co.kr/news/view/1695135",
-        },
-        {
-            "title": "청년 취업 트렌드 설문조사",
-            "source": "한국경영자총협회(경총)",
-            "desc": "청년 62.9%가 취업시장 '어렵다', 정년연장 시 신규채용 감소 응답 81.0%, 내년 채용 감소 전망 57.0%.",
-            "url": "https://news.mtn.co.kr/news-detail/2026092908562443196",
-        },
-        {
-            "title": "Global Talent Trends 2026",
-            "source": "Mercer (Marsh)",
-            "desc": "글로벌 인재 트렌드 연례 보고서. 사람과 AI 역량 결합이 경쟁우위라는 내용.",
-            "url": "https://www.mercer.com/ko-kr/insights/people-strategy/future-of-work/global-talent-trends/",
-        },
+        {"title": "9월 고용동향: 취업자 11.3만명↑, 청년층 취업자 14.7만명↓ (47개월 연속 감소)",
+         "org": "국가데이터처(통계청)", "date": "2026.10.16",
+         "url": "https://www.mt.co.kr/economy/2026/10/16/2026101607392023346"},
+        {"title": "500대 기업 하반기 채용계획 조사: 대졸 신규채용 계획 51.2%, 공채·수시 병행 54.9%",
+         "org": "한국경제인협회", "date": "2026.09.29",
+         "url": "https://news.mtn.co.kr/news-detail/2026092908562443196"},
+        {"title": "Global Talent Trends 2026: 직원 번영(thriving) 44%로 하락(2024년 66%), AI 일자리 불안 40%",
+         "org": "Mercer (Marsh)", "date": "2026.02.25",
+         "url": "https://www.businesswire.com/news/home/20260225391406/en"},
     ],
 }
+
 # ──────────────────────────────────────────────────────────────
 # 2. 카테고리별 목표 건수
 # ──────────────────────────────────────────────────────────────
