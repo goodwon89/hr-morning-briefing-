@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-10-22",
+    "news": [
+      {
+        "title": "광주전남기협 '초임 최저임금 1.5배 이상' 미이행 점검·징계",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14dWplLUh2T0YxVm5FcGtTTXJhY0QwbEdDUjFGbDRNdmFYYWRtLVl3YjZMVTFsUExBMFBFVDIzQ3hJSEZCQ19helR4eklmUXd2MmVhZGtkQU10a1ZyZEtPamlB?oc=5",
+        "source": "한국기자협회",
+        "description": "광주전남기협 '초임 최저임금 1.5배 이상' 미이행 점검·징계 한국기자협회",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "벡스코서 220여 개 기업 참여 채용박람회 등",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xdUFVbG1RWnZ6bzV1SW96YTd1WExWcDJjUHM2RWlqUTh6QXpwdy1uZmpFaEN4SGF4SldiVEwtVmdIaWF3ZUFqaTkxQUcyVjNkMEhVV1M3X0JsVFA5VXFvTnRrVXhtTW1NUHc?oc=5",
+        "source": "서울파이낸스",
+        "description": "[부산소식] 벡스코서 220여 개 기업 참여 채용박람회 등 서울파이낸스",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "IBK기업은행, 중소기업 763곳 채무조정…부실 심화 전 선제 지원 강화",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dktFNDNtN2xhZUM1YWZUbks5d0Uwb3lIOFNXZWUxeHhpd0ZCeW41QUppZDIyaklYSWYtcWlmc0F3aVJxVUw0bkNOTVNnSHZPeG5UcUxEVjN0eEJ4RXJkUVBnVdIBbEFVX3lxTE1vNVJWa2wwYnNBTFM2V2ZVVGVaMDA0ZmY5bTBhOWo4WHRrVDBhVnVVQU1Rck9SeGVaVHRWeWx0bHZ2T2ZHNW4td0puN19KRmliQ3pibmxGZkY4UlREajNEbWRPNjhsQzlJcTRqaw?oc=5",
+        "source": "소셜밸류",
+        "description": "[SV 리포트] IBK기업은행, 중소기업 763곳 채무조정…부실 심화 전 선제 지원 강화 소셜밸류",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "“월급 200씩 더 드는데 정규직 뽑겠나”…이제 10명 뽑으면 9명이 ‘비정규직’",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXU21BM09TdGRyS2h4WVR0ZVdiZ0U4SUUyd0VseS1zYTBMdjdRd0lDRkVJWE9GWlN4OUtmR0EtZzc0N3VDYVNhOUt1R1pHRFluYXc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "“월급 200씩 더 드는데 정규직 뽑겠나”…이제 10명 뽑으면 9명이 ‘비정규직’ 매일경제 마켓",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "50개 기업 참가, 563명 일대일 현장면접, 223명 채용",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZ3RQbW1vZG92akZmeWlrWHp5WWN2a1FVRUM1LUx3VGhKMXdpTzlmam5qcVZNdzNnSWNFcjVMcXV3NEFFcmlSMGR4N2l1czJtdGVaVWxwcnZ5LVgtQ3F1c08tZWJxd1ha?oc=5",
+        "source": "광교신문",
+        "description": "50개 기업 참가, 563명 일대일 현장면접, 223명 채용 광교신문",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "CHRO의 의사결정 참여",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzRIUG1Rb29uVFZZd0tIV21zYUlvandoVUtSSEV4QWlCVUlMSzNRTENvUkdfSEpISUJweVU1ajdGZkE2RXFoWDhWM3Rrd015cGZKWkw3NUk0NG9aLXl5b21XOG5rX3Rxa1dzT1c5ekpXLWkxa0h3bkxQa1IwNXNwUlhoaEJybTZlSms5bTNVVTlrb1VTdk53WA?oc=5",
+        "source": "IBM",
+        "description": "CHRO의 의사결정 참여 IBM",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "GM, AI 도입해 신차 개발 기간 절반으로 줄인다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41V1VXQkhpODZJdFFMdjBjRXgzN3R0Vmk3T3FURmtGUnlFWUlBeWJyZGZVZTVVMjVaVHFfSFpENWJJN0pLNnRRVjYxcGNDMDlycXhJUnI1MVhtUHlhU1lJREpjdVJ3b1RpQzY5Z2FsTmJZZw?oc=5",
+        "source": "KB Think",
+        "description": "GM, AI 도입해 신차 개발 기간 절반으로 줄인다 KB Think",
+        "pub_date": "26.10.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "삼성전자 '제조 로봇' 핵심기지 中 쑤저우에 구축…DX 첫 해외 연구소 전격 가동",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yakpYdmh0LVVEanprUnZWZE9mX0plZHQtTHU1N01PMl9BTDc5Tm5hUHlXWFlUZDB3UlR5VmQ0MEVaMEtqYTN3QXU2VnlvZlBVanpTNFA5NjFJWWQtY2c?oc=5",
+        "source": "더구루",
+        "description": "[단독] 삼성전자 '제조 로봇' 핵심기지 中 쑤저우에 구축…DX 첫 해외 연구소 전격 가동 더구루",
+        "pub_date": "26.10.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "병원 AI 혁신의 명과 암…성과 뒤에 숨은 과제들",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TX3Z0UDlVbEppaVV4QkN4Z0JkdTRCM194QzI0UHQ5blZpRk50VDVya0tNcmFMR2lIZDlMWVU0OEpRWFRnVHFVRjROOGIyUjZ3OUVVcEdIWTlkVGZValoyQWJ2Q2Jwdm1vMjNkNkl1cExVMmPSAXNBVV95cUxOU192dFA5VWxKaWlVeEJDeGdCZHU0QjNfeEMyNFB0OW5WaUZOdFQ1cmtLTXJhTEdpSGQ5TFlVNDhKUVhUZ1RxVUY0TjhiMlI2dzlFVXBHSFk5ZFRmVWpaMkFidkNicHZtbzIzZDZJdXBMVTJj?oc=5",
+        "source": "청년의사",
+        "description": "병원 AI 혁신의 명과 암…성과 뒤에 숨은 과제들 청년의사",
+        "pub_date": "26.10.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "서울, 英유력지 선정 'AI 도입·활용 역량' 세계 1위도시",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4akkwcVN2N2t6SjVSZ2treGNoZTlweGptS0R1ZmcwWnpwNDBhTHlTZ3dDNkJFZE50WUNWakhwR2pISE9zUWdTMlppQ0ZlTTlOQ0Z3b1hMXzFQVTNZRk9qbG1xYzczT1ZaRFRQdkFHdnNnREdY?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "서울, 英유력지 선정 'AI 도입·활용 역량' 세계 1위도시 연합뉴스 한민족센터",
+        "pub_date": "26.10.22",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"PF 늘려라\" 정부 압박에…새마을금고 '속앓이'",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4N1J0Tm15bC1Ld3BQbVo0YzFEUlBfUnU0bUdrSjF4OUktS2hfMWpJQzBheXBsUWtrWlRWVUtYdjVBbEtsRWtuT3o0U1ZWSzlnSnBUWjN1Y0tQeFh2RGUyUmJqWVpSZ3FOR29GQmdCaUJHZw?oc=5",
+        "source": "KB Think",
+        "description": "[금융가 이모저모] \"PF 늘려라\" 정부 압박에…새마을금고 '속앓이' KB Think",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "통상 리스크 커지자 지원 확대…관세·수출규제 피해 기업도 정부 지원 받는다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wYl9rUjFOQnVMRVpjZG9ZejNkVVlpMFNtSzNiaG55ZjRKbVQzYUdRZ2xrNVdOY2JLMmxqejFYNkwtYzIyd19TRURObWZWYktQbV91bVZNQkJzWXNVeU8tVnFkaUUxNG9YQkE?oc=5",
+        "source": "https://www.sisaworld.kr/",
+        "description": "통상 리스크 커지자 지원 확대…관세·수출규제 피해 기업도 정부 지원 받는다 https://www.sisaworld.kr/",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "수출 역대 최대인데…임금근로자 증가분 91%는 비정규직",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BWWgxZkI5azYteEVwR1hfM05Yb283V3h5TVNUOUpjS0FXUVZyZEFMdkplbXk1Ynh4Rm9JQnFmNThMa0lodmZsRDZ5VGNLblFLa1VWZWozWjVybEhiUWJUeW1VdmgybHc2SkdZ?oc=5",
+        "source": "일간투데이",
+        "description": "수출 역대 최대인데…임금근로자 증가분 91%는 비정규직 일간투데이",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "한은, 기준금리 동결 유력 전망…11월 추가 인상 가능성 주목",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUXVUM2c2WFlwOWp5enRJaW1BVC0tZl96UlVuOVpLLTRiMV9MSmt4aTR0bmFPdGZKdWFfUElxWUdMVW1MeXplcThmenNaVkYteTktcW52VkhkZw?oc=5",
+        "source": "한국경제",
+        "description": "한은, 기준금리 동결 유력 전망…11월 추가 인상 가능성 주목 한국경제",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "연말 앞두고 빨라지는 IPO 시계추…두달새 27곳 심사 문턱 넘어",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeWlKNG16cV9rNHM4cFJqcTZQV3BfTlVZVWM4d0E2UktZZ0RuOHhuS1BPSGV2TmZkdHR1cE13NnA1UWxQbjF0NGNiYVRyLVkwNGI3b3MzLXFPaXhtUHh6eXgyRzkwMzVLWVE?oc=5",
+        "source": "비즈워치",
+        "description": "연말 앞두고 빨라지는 IPO 시계추…두달새 27곳 심사 문턱 넘어 비즈워치",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'AI 못 믿어'…도로 굴뚝산업 IPO 영업 뛰는 증권사",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcm5Hdm16WS1FRXZLa3BaTUswbzZCZ2FkdG1jZWVtcHFpUnhYTFRSMXFsSnZzQVFQZmI3M0UyWFJsUDVsYkdNUDc5NS1uUTRxOVZoVGZPanhsMDJ2Y1pTYXJ1S2FaVXBrVU50dGtlcEt2QmpYSS1vcWdKU0tYNFZtLUl5Yw?oc=5",
+        "source": "인베스트조선",
+        "description": "'AI 못 믿어'…도로 굴뚝산업 IPO 영업 뛰는 증권사 인베스트조선",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "네이션에이, 85억원 시리즈A 투자 유치…AI 영상 제작 플랫폼 통합·글로벌 확장 추진",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZnk3a2J6T0R6YWNVQVB4VUVXeDVFUFlKaGUwZXI0Tkxjd2NZWW1rWGlwQl9iMGN1V1FYMzdzZnRjNmdqckx5VHlTaEdaN3c?oc=5",
+        "source": "벤처스퀘어",
+        "description": "네이션에이, 85억원 시리즈A 투자 유치…AI 영상 제작 플랫폼 통합·글로벌 확장 추진 벤처스퀘어",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "‘집단소송제’ 도입 논의 ‘급물살’…벤처·스타트업 ‘우려 증폭’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FUS1KVTVwSVpTb0UwbU5qaVQzSDVOc2JqODV2Ym81Sng0R0RpYU96b3U5WmluTVAwNHRTMUZWSlhfUFNqb1VCMEZWd1VFbE5sM0FBbHFRdC10V28?oc=5",
+        "source": "에너지경제신문",
+        "description": "‘집단소송제’ 도입 논의 ‘급물살’…벤처·스타트업 ‘우려 증폭’ 에너지경제신문",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "큐리오시스, 세계 바이오 서밋서 AI 기반 자율실험실 비전 제시",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SRW9TT2FuYWN5X2F2LXZHU2ZzSVo3TmhLMzQzZzhYblhBVi1paVk3OGx3NWhfbW1rYXR3LW9tQzVBWnFXMTUya3RHWTIwU09kRk0xWENPUEhSVEI4YlJMTDY5cGRzb0tEb3BzOUJfUGNEVFk?oc=5",
+        "source": "마켓인",
+        "description": "큐리오시스, 세계 바이오 서밋서 AI 기반 자율실험실 비전 제시 마켓인",
+        "pub_date": "26.10.22",
+        "section": "innovation"
+      },
+      {
+        "title": "엔비디아, 로봇 개발 플랫폼 대폭 확대…휴머노이드 상용화 기간 단축 지원",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tdklfaDYtMVdWQ1lDMHNpbi0zaGJGOG9wcm4wMU42bXlTRHdQZW5iRE9wQkFrVWllZFJpTVpMb3NQTVVzZ2dqUFpxVWVOWjFja1VTNW1ncGdqTk8wbm54bVhsSVM?oc=5",
+        "source": "매일일보",
+        "description": "엔비디아, 로봇 개발 플랫폼 대폭 확대…휴머노이드 상용화 기간 단축 지원 매일일보",
+        "pub_date": "26.10.22",
+        "section": "innovation"
+      },
+      {
+        "title": "한국재난안전산업협회, ‘K-미래산업 혁신생태계’ 공동선언 참여... “AI·첨단교통기술, 재난안전에 접목”",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SbmUzQTVqZ2FpY3N4alZGVVVObXZUcE5FdmlaRFZfWUg4NVIzeDNvTDNiQkYzUWJPUWJta280YTR1N3RnVGVfOXRWUW83d3h1YUZmMy1Udlg1b1BlMGFEcjU4a0xLMHEySFpr?oc=5",
+        "source": "보안뉴스",
+        "description": "한국재난안전산업협회, ‘K-미래산업 혁신생태계’ 공동선언 참여... “AI·첨단교통기술, 재난안전에 접목” 보안뉴스",
+        "pub_date": "26.10.21",
+        "section": "innovation"
+      },
+      {
+        "title": "LG화학, 美플래그십과 'LG AI 바이오 컨퍼런스' 개최",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41cFN1UWl0SzVvTmpIVnJaVFg2UnJpMG5mazJGdHdmVV9vQk5kS3R0cEFoaXZYa0s5bjc4TDdOMEZ0NWR5UzRwcDNtWFU2ckYwSHU0cUVCWQ?oc=5",
+        "source": "바이오스펙테이터",
+        "description": "LG화학, 美플래그십과 'LG AI 바이오 컨퍼런스' 개최 바이오스펙테이터",
+        "pub_date": "26.10.21",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "연합뉴스",
         "description": "세계 바이오 리더들 21∼22일 서울 집결…AI 의료혁신 논의 연합뉴스",
         "pub_date": "26.10.14",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "news": [
-      {
-        "title": "한국앤컴퍼니그룹 \"미래 리더 양성 프로젝트 ‘주니어보드’로 구성원 주도 조직문화 변화 가속\"",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnZlFnZnpKZmJHQzkydWlzRjlkUG9mQ2dDVkQwU1hGUE1TUHNUOVNMMHFtcF95bFZRdjVWODVtbHoyRTM4UWgtZ1lfTkhrd0xnZ2hGR2NqMlVpVkJKZHIzR1hua0NhSzFLamVYcURuTQ?oc=5",
-        "source": "데일리e뉴스",
-        "description": "한국앤컴퍼니그룹 \"미래 리더 양성 프로젝트 ‘주니어보드’로 구성원 주도 조직문화 변화 가속\" 데일리e뉴스",
-        "pub_date": "26.10.14",
-        "section": "hr"
-      },
-      {
-        "title": "증평군, ‘2026 일자리 이음 취업박람회’서 212명 채용 추진",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQa0JVcEM1eEktTFVpbi0xcDZMZ0t5cmVsMklYenVGc2wwVm85QnNaYml1cGI2SUtLOUpPbGpSaGstNmtGSkJVZkNIY1JyUElldGtRZmxBVkk1QWNoZFQtSW9SdjB4VnYtSVhxTkxfZw?oc=5",
-        "source": "영남연합뉴스",
-        "description": "증평군, ‘2026 일자리 이음 취업박람회’서 212명 채용 추진 영남연합뉴스",
-        "pub_date": "26.10.14",
-        "section": "hr"
-      },
-      {
-        "title": "보건의료노조, 의사가 간호조무사 임금 9배, 격차 심화…\"정부·의협 격차 해소 대책나서야\"",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iam9EaWRlR1dWcDNqWGVycWdHZV9pY183Vk5YR2pIUFBISzNaVFlPSFNzWHpMU09rMjdOUFVQMnd4c2RnRU5yVEpoYUdFWG0wOW1XSEhn?oc=5",
-        "source": "MEDI:GATE NEWS",
-        "description": "보건의료노조, 의사가 간호조무사 임금 9배, 격차 심화…\"정부·의협 격차 해소 대책나서야\" MEDI:GATE NEWS",
-        "pub_date": "26.10.14",
-        "section": "hr"
-      },
-      {
-        "title": "액센츄어·워크데이, 인사·재무 업무용 AI 에이전트 도입 프로그램 출범 By Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85RG9RdEIwRktlMUd1Y1U0TVMyU3Y4czhZdDVFN250UVp0T3MyN3Vyb1RXbDJCaVhsbWZGQ2E2U0lnbXF2bGhySGdQR1M5VTlCcWFCMmpJclVRWHpmdEdueUNVVGxjaVRuYlFxdXpsc2s?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "액센츄어·워크데이, 인사·재무 업무용 AI 에이전트 도입 프로그램 출범 By Investing.com Investing.com 한국어",
-        "pub_date": "26.10.14",
-        "section": "hr"
-      },
-      {
-        "title": "기보, 유암코와 구조조정기업 재도약 위한 기술평가 협력",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNNGRyRmduTmxscXE2YjlNMElTNGsyVmtkeWpCOTk5TU1UcjJ5emlJSTdVaUFLUm5SQWYtVzZtNjloc1ZVMVFkdmtRVkRTSVBsNlQySTJzVGRhZDA5ZnVIQzdod0dlZ2VUb1Fr?oc=5",
-        "source": "마일드경제",
-        "description": "기보, 유암코와 구조조정기업 재도약 위한 기술평가 협력 마일드경제",
-        "pub_date": "26.10.13",
-        "section": "hr"
-      },
-      {
-        "title": "포스코 노사, 한 달 만에 본교섭…임금 격차 좁힐까",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kd0toTWw5TlV0Q3R2cnpTS3pTNksyNFFkQnQ3MTRlcmVCOHNWQUctRmZjbklKUXNWSWY2V2pUV2lkcEhOOExKNTFCdW9LYlg0QkFiRnY5Y0Q0b19oOWNUUzFGbzN4Ty1IOUZiRlFza1F6ZW8?oc=5",
-        "source": "마켓인",
-        "description": "포스코 노사, 한 달 만에 본교섭…임금 격차 좁힐까 마켓인",
-        "pub_date": "26.10.13",
-        "section": "hr"
-      },
-      {
-        "title": "그룹아이비, AI 에이전트로 사이버 위협 분석 자동화",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BNlRaeWU3RWZlcW95NGhHN1FhUUJoNnVEUndfd3ZGZE1JcEJXR0l4VEhyZjRqRklpWGF6ckNjU1hsdWJvQTNkNXluX2VtZw?oc=5",
-        "source": "전자신문",
-        "description": "그룹아이비, AI 에이전트로 사이버 위협 분석 자동화 전자신문",
-        "pub_date": "26.10.14",
-        "section": "ai_tech"
-      },
-      {
-        "title": "유진로봇, AMR 넘어 휴머노이드 사업으로 본격 확장",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQzF1WElqV3pPcjVkQlZWdnYycDRmenRteHI3M3BTcklXOTRTN05sdFh4UDV2V2ljQ2Z1N3B2Qkd3WVhTZk5HR0lhSjNQb0I2RUR2Q3k0eUJZUQ?oc=5",
-        "source": "한국경제",
-        "description": "유진로봇, AMR 넘어 휴머노이드 사업으로 본격 확장 한국경제",
-        "pub_date": "26.10.14",
-        "section": "ai_tech"
-      },
-      {
-        "title": "모건스탠리 \"AI 다음 수혜는 생산성 개선 기업…헬스케어·금융 등 주목\"",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Oclg4dlJ1dFd2SklQRGpuWHZrTnkyYS1VQTk5eDJvWURWOWJDUG1uOG52RXd4dnNpMU9iVTM0VDVKYkItNmM5STdyRjladzZDZlo5bHJXUVRpbE56TzN5NjJBOTFQb2Jud0h3dzdJcGQtQQ?oc=5",
-        "source": "KB Think",
-        "description": "모건스탠리 \"AI 다음 수혜는 생산성 개선 기업…헬스케어·금융 등 주목\" KB Think",
-        "pub_date": "26.10.14",
-        "section": "ai_tech"
-      },
-      {
-        "title": "코오롱베니트, AI 도입 성과 내는 AX 실행 전략과 사례 제시",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lMGVMazRlc0xsZ2N4bGNiaU9xZW5XejVPeXNCUWJRYlBYSmJkc2k1azZ1V2phQU1rWEx4VTNaYmt1YXZEQzRvS0NEM3h0akU?oc=5",
-        "source": "바이라인네트워크",
-        "description": "코오롱베니트, AI 도입 성과 내는 AX 실행 전략과 사례 제시 바이라인네트워크",
-        "pub_date": "26.10.14",
-        "section": "ai_tech"
-      },
-      {
-        "title": "사우디 석유 심장부 다란 피격…아람코 본사 화재와 중동 에너지 공급망 파장",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUkd1cm1QY2ZXcTFJYkk5QnFTUFlrNkl0M25oaThMY3ZtOUZFM0dDTjQyNVFiNE5SRFAtVHd6TEJMTk5VcG9tY1MtdllZd203QjlmMmRJU3NEU2VOM0tJQWlqS2RlRTN0LVE?oc=5",
-        "source": "www.sisaworld.kr",
-        "description": "[중동 안보 분석] 사우디 석유 심장부 다란 피격…아람코 본사 화재와 중동 에너지 공급망 파장 www.sisaworld.kr",
-        "pub_date": "26.10.14",
-        "section": "macro_industry"
-      },
-      {
-        "title": "SC \"10월 금리 동결 전망…인상 소수의견 가능성\"",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZcEZkZjJNUkc4dk5LSS1fT3NnNVhhb3pRdThucnY0WmV5Ym12VUx5ZnBwLWVUb1lvQW9DaVJWOWRSS0U5YzZIY2FnR3hyV0YwUkpHam9yajcwTmhlSlduN2Vua3hXUlYyTDdzanFYUFdEdw?oc=5",
-        "source": "KB Think",
-        "description": "[금통위 인터뷰] SC \"10월 금리 동결 전망…인상 소수의견 가능성\" KB Think",
-        "pub_date": "26.10.14",
-        "section": "macro_industry"
-      },
-      {
-        "title": "뉴욕증시 일제히 하락…美은행 실적 혼조·반도체 약세 여파",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqenprbEMybXJmWVh1eUpDekswMGNoaGZ6WjhUU2hpRVRYUF8xNXRGWEFaLWdlY2F2VGxMVEtscTJPOGViQ1p5SnRCUzBvVTRGSVN4SzJxWTVqdWpEUzFORFlNZ0JseDA?oc=5",
-        "source": "연합뉴스TV",
-        "description": "뉴욕증시 일제히 하락…美은행 실적 혼조·반도체 약세 여파 연합뉴스TV",
-        "pub_date": "26.10.14",
-        "section": "macro_industry"
-      },
-      {
-        "title": "9월 주요국 국채금리 동향 및 특징",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzBaQU1vS0RYeWZMWURwVTlQMVh4cnJsN0UxQXpUQzg4ZnJrbU5JaE5zUXVJSVZ3bmFIaElrOHNsejVnOWxrNGVOWWhmUlh4WTd5cUFRYXJUc0VwX2hfZzlCWGhvRTVKMDBKdlExcUZkN01tNVNxdF9jeTFqUmVMNnp5N2hoOER3a2lVSU9NT2F1ckNyWEZua2Y1VFdkb2d1Ymc?oc=5",
-        "source": "KDI 경제교육·정보센터",
-        "description": "9월 주요국 국채금리 동향 및 특징 KDI 경제교육·정보센터",
-        "pub_date": "26.10.13",
-        "section": "macro_industry"
-      },
-      {
-        "title": "인수금융 부담에 발 묶인 글로벌 PE들…기업들은 M&A 속도전",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5WVhrRERFRFZYaWVMNDNwVC13TndtYXNES1RMOEtlZ0JXT0oycG1jc2lETVNPSGstTFpCMW9KeWtIMDIyaGlxRFo4OTVRWVhnTW9qS0d4NEg4dGJkb2Y2R0taZ2Z0TF83bnRaUjZTaDJfQQ?oc=5",
-        "source": "마켓인",
-        "description": "인수금융 부담에 발 묶인 글로벌 PE들…기업들은 M&A 속도전 마켓인",
-        "pub_date": "26.10.13",
-        "section": "invest_ma"
-      },
-      {
-        "title": "태석광학, 코스닥 상장예비심사 통과",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVWxUWWRZRmsxZm9DSWZLU0RSdkIzM3lUcEFEZ1FiSkcwTk4xR2lacHZDUGhWY0dmMFFqakdYQVhyZmFxd0hLbWIwSS1hcVpaVG1fQTlrWXl1WEY3MnBnNA?oc=5",
-        "source": "아시아경제",
-        "description": "태석광학, 코스닥 상장예비심사 통과 아시아경제",
-        "pub_date": "26.10.13",
-        "section": "invest_ma"
-      },
-      {
-        "title": "10월 29일 ‘2026 광명 글로컬 데모데이’…우수 스타트업 투자유치 지원",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Q24yejFMM2l6NldSSDBYbFdKdE9idldBVFhpQnNsVEhucDdadzU5RUQ3YWczZFJob1RvNUNESVhhNjJVZDlQX0RmNnowMXFSbGh4Y3kzWHFlMERsalhzTDRCUE5vdHZfX1hpYzBB?oc=5",
-        "source": "G밸리타임스",
-        "description": "10월 29일 ‘2026 광명 글로컬 데모데이’…우수 스타트업 투자유치 지원 G밸리타임스",
-        "pub_date": "26.10.13",
-        "section": "invest_ma"
-      },
-      {
-        "title": "\"돈보다 GPU 우선\"... 미 VC 업계, 스타트업 인프라 확보 경쟁 재점화",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CYVVqRm1lcTV5bHdldUpwb0JQRUQyZE10VDhDNkJLUkxKV2c4Z2dsRWJaXy1YR0RuMlVwUlNxWnh4ZzlUZXVQVnl4dmMwOUdKRmJaTVh1U1A1X3pPUkxYdlg3cFM3T2VVRFE?oc=5",
-        "source": "AI타임스",
-        "description": "\"돈보다 GPU 우선\"... 미 VC 업계, 스타트업 인프라 확보 경쟁 재점화 AI타임스",
-        "pub_date": "26.10.13",
-        "section": "invest_ma"
-      },
-      {
-        "title": "이상일 용인특례시장, 프로젝트파이낸싱 규제 완화 건의",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QODNGMldUdEVPNVByWnNROWJKQ255UVRnbmRTdGhZRmRlNjBHR3pFWU9tTkpwYXNKMVZhaFVDaC1pWHFoeDJ4Zm9kSDUzS0dEUG1FMEdmcXM4bi1zYmt1LVo0MnBybHhs?oc=5",
-        "source": "수도권지역뉴스",
-        "description": "이상일 용인특례시장, 프로젝트파이낸싱(PF) 규제 완화 건의 수도권지역뉴스",
-        "pub_date": "26.10.14",
-        "section": "innovation"
-      },
-      {
-        "title": "레인, 지갑 서비스 출시…스테이블코인 결제 플랫폼의 핵심을 ‘계정’으로 재정의",
-        "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNemNVOUhqaEJ1STFRSUZYX05iMU0tZlcySk82SjdDZ1FVUTdXekxHdzBXQ1pST2VrT3FYQzlkQ1NhUVJDa2JycDA1YWZTeDFybUVFN1E1bVNNdy1tSnhiVmFQY1JpSUlyMzlNa0lnRE5yZEJ0R2thX3NJLUc0NWdYeFc1ZnhxOGN4SExIQjM3Y0ZldEFlTHlqZTY5UWQyWVI0dEFCSkNua05NQVc2aVpWbnU2QndzNlcyaXJ1YW9tSExWbFVCT2M2NGd0MEtPeVRHNm5zaFNrREFYTHRvQkFCSzFYUDVodjdidFVCTGJONlV2MGpwRkxKZFVMT2RYdy1SMDBwaGdrMGNzX09EM05DNTliRjBHTzktT2pCVnVMVXpqV19EWWV1OGxjMlFZQ05TYU9TQ0RuNlpZZk4tbExoRWlmWFQ5NWpYbVdrVjlSNFYwZzBoc01nMjgtZGVEV04xdDJmaFo2MkxDSnBPMjN5UGxKd2h1bHZJZXMzRDhNMlpoQlRUeUtwS0FySVRhWExsWjh5T0ZPUjJLV1BHS0R1aHVuWHh2MnJBakNxdDVES3gyNTJtMy1DYkw4RnhjbE5iU3FmQlBaZG5TWWc1c01jUTRiQ2dyRG1teVI2NDV0RnFKZTJ3eXZaazNJRnllUmhD?oc=5",
-        "source": "Yellow.com",
-        "description": "레인, 지갑 서비스 출시…스테이블코인 결제 플랫폼의 핵심을 ‘계정’으로 재정의 Yellow.com",
-        "pub_date": "26.10.13",
-        "section": "innovation"
-      },
-      {
-        "title": "이상일 용인시장, 반도체 건설근로자 숙소 공급 위한 PF 규제 완화 건의",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhWlV6bGcwT1FLLVI0bEVhckZtQ3cwdnVFd3RxUjRqN013T1BzRnlTYWtUWHpZY2N3cUFuQl95YzdkZ1J1SjJJeklIQnQwWklkUllIeUIzNlkxU3Nnd0xEVkNPLVg?oc=5",
-        "source": "매일일보",
-        "description": "이상일 용인시장, 반도체 건설근로자 숙소 공급 위한 PF 규제 완화 건의 매일일보",
-        "pub_date": "26.10.13",
-        "section": "innovation"
-      },
-      {
-        "title": "공원 순찰로봇·산업현장 휴머노이드 실증…AI·로봇 규제 완화 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1POHVoWFczRE53OUZ0YTZta2JJWVRnLWY1SHoyQ1YteUZuT2J3bG1mTE02b19OenNnbjlNQ3ZfX1pmcFBxd2NWS1Vvdnh4Qzd6dmZWNWQyN0pvQ0owR0J5NkZFMHdaQVJkNXlR0gFwQVVfeXFMT05EdlVRc1pPc3dvbklGTEdZYXh3SzRBYV9kOXRVQ1g3S2tMVk5UeTJVeWNubjVod3liQnVfQ3liRU4yVWJvMFJvRGRSOWVBNFA0TkJCbmJDSlFDMmpBdXlia2dUYUoxRW11UXdJZlphTQ?oc=5",
-        "source": "머니투데이",
-        "description": "공원 순찰로봇·산업현장 휴머노이드 실증…AI·로봇 규제 완화 - 머니투데이 머니투데이",
-        "pub_date": "26.10.13",
         "section": "innovation"
       }
     ]
