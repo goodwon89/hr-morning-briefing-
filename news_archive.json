@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-10-23",
+    "news": [
+      {
+        "title": "신세계그룹, 23일 임원인사 단행...백화점 독립경영 체제 정비 본격화",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4MVlJLXNZMXpzQ0UxMHcxNXd3THFBUjhtQUdxS3gxVDEyWDFVamgtXzZ5bmtIZHd4MENSV1VEUnNPYmtNRWdTVlBIdXd3UE14Vk43cnBOdjhGalNrSWJPbGRwQXdVS3RHSWdPd0lB?oc=5",
+        "source": "알파경제",
+        "description": "신세계그룹, 23일 임원인사 단행...백화점 독립경영 체제 정비 본격화 알파경제",
+        "pub_date": "26.10.23",
+        "section": "hr"
+      },
+      {
+        "title": "신세계그룹, 오늘 임원인사…이마트 대폭 쇄신 전망",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKSzhDNV9JblZSaFE2M3hvMTRRNUFta1BqcEkwaTJwTHFta1JDU3h5YjdKNkszdDNKM2tiLUl4UHZYeUJYX1pMSlNHSzgtVXRVVU9hU0k2X0J1XzRF?oc=5",
+        "source": "뉴스핌",
+        "description": "신세계그룹, 오늘 임원인사…이마트 대폭 쇄신 전망 뉴스핌",
+        "pub_date": "26.10.23",
+        "section": "hr"
+      },
+      {
+        "title": "신세계그룹, 23일 정기 임원인사, 60년대생 임원 대거 교체 될 듯",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LZmk4SmxMT1l4S05SX1o3MkJUeTJBQkVxd2VNVjEwV2k2MHFqYURINWxmcXRnYXlzRzFqQkxtQkZHQQ?oc=5",
+        "source": "남다른디테일",
+        "description": "신세계그룹, 23일 정기 임원인사, 60년대생 임원 대거 교체 될 듯 남다른디테일",
+        "pub_date": "26.10.23",
+        "section": "hr"
+      },
+      {
+        "title": "중소벤처기업진흥공단, 2026년 하반기 체험형 청년인턴 55명 채용",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wb1E2TWJrNnpQa3N4UllUVHh2Y1piUDJvM3phLWIyV1BxNjBQWEdhdmFnM2ZJdGtJZFFMMjlXQUNGOFlaTXUyWWlTc19WWER0SDN3ell5ZlpOb1FtdmlQbFhsNVN5bXpnNnJxMXlVTFBnQQ?oc=5",
+        "source": "아웃소싱타임스",
+        "description": "[오늘의 공기업 채용정보] 중소벤처기업진흥공단, 2026년 하반기 체험형 청년인턴 55명 채용 아웃소싱타임스",
+        "pub_date": "26.10.23",
+        "section": "hr"
+      },
+      {
+        "title": "비정규직 867만명 역대 최대…정규직과 임금 격차 194만원",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10NFdOREt2aU9iZFdNc1FkRGJhcVVpVmVvV1BZemtkZjVsNGJocEJYZEVOaDAtRkRORzJvOVNacU5qb3l0VVBZLUt6MjB1Y2V2alhlcmF2T2xiNV9JakRrSXlqZWlta3d6NVN5Rg?oc=5",
+        "source": "베이비뉴스",
+        "description": "비정규직 867만명 역대 최대…정규직과 임금 격차 194만원 베이비뉴스",
+        "pub_date": "26.10.23",
+        "section": "hr"
+      },
+      {
+        "title": "북한 IT 인력, 신분 위장해 국내 기업 취업…뚫린 채용 보안망, 국가안보위협으로 번지나",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84ZVU4YjJLS1pWSWVyU1ZwY0pmUGNpM01wUWd0NkZKOHhVYzgxcndfd1dkVzEtQTBRS0pVNWtGSW1ZN1ZFUHpMTnpWVC1PQlVMT2FnUWowT0Z5TlVtOW04SWFpTHp1N081?oc=5",
+        "source": "복지TV부울경방송",
+        "description": "북한 IT 인력, 신분 위장해 국내 기업 취업…뚫린 채용 보안망, 국가안보위협으로 번지나 복지TV부울경방송",
+        "pub_date": "26.10.22",
+        "section": "hr"
+      },
+      {
+        "title": "GS칼텍스, '딥 트랜스포메이션 데이'…디지털·AI 혁신 사례 공유 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrb0NXdXg3Zm9LMWtxY3pXZ3FPRTFMSldwUDRqVGNrM1JlaEVDTmxjc196SDdsLW9xODZ5WUZxLXN1ZkluQ09nWmdUS1dNdld3QjdpUDlLRG1WX1hKLWM4Y2lHMlQ1U3lTX1lhRNIBckFVX3lxTFA0aW5BMGl0VDFUb0pfV1RUWEpxZDZSbEYweFV1RWt3ZTZKcVUyc2twSVk0SVVRSGhSZ3lVMDFGMlZ0ZW1lSHdCd3pDMzUzT3UxSm1VeElDRkV4TVVoNmtRNDI0eVc3eEFWYUpQTE5tR3dSUQ?oc=5",
+        "source": "머니투데이",
+        "description": "GS칼텍스, '딥 트랜스포메이션 데이'…디지털·AI 혁신 사례 공유 - 머니투데이 머니투데이",
+        "pub_date": "26.10.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "AJ네트웍스-노바테크, 로봇 자동화 솔루션 렌탈 사업화 MOU",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmckJPNklDMzF6bUFfSlphc3VNUTY3djk2RnlJcFJqQ1NyU25mOVVUUXJEUFhiVksyMTlLY04wb0xIRjd5ZWJKU2l0SUcyZndTaUZXZkV0eEZ5MURtTzFHYWFMSGktZmg2VXNUUGItczQ4cFNjWWgtR9IBeEFVX3lxTFBmckJPNklDMzF6bUFfSlphc3VNUTY3djk2RnlJcFJqQ1NyU25mOVVUUXJEUFhiVksyMTlLY04wb0xIRjd5ZWJKU2l0SUcyZndTaUZXZkV0eEZ5MURtTzFHYWFMSGktZmg2VXNUUGItczQ4cFNjWWgtRw?oc=5",
+        "source": "뉴시스",
+        "description": "AJ네트웍스-노바테크, 로봇 자동화 솔루션 렌탈 사업화 MOU 뉴시스",
+        "pub_date": "26.10.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"AI 도입하면 끝?\"…세계 병원들 \"AI 성과를 숫자로 증명하라’”",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wbEYtR0JGVzdmZkswVTlUQmJaNlJNb0xHZVg3WFQweGhyNTkzZS01SUZOOV9ycFFMTU1NTC1id2hycVNrMTVyeUJRclYxaHVPWXdYX05KNA?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "description": "\"AI 도입하면 끝?\"…세계 병원들 \"AI 성과를 숫자로 증명하라’” MEDI:GATE NEWS",
+        "pub_date": "26.10.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "\"환자에게 닿지 않는 AI는 무용지물\"…의료혁신의 조건은 '형평성'",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QNi15ZzNMZVNQa2pjV2lFekhCYTBvSnpJWkpBRlNnSi1fRWZtZEhBQ2huV3VOT2FrUHZKdDV3R0l3cWZseVFPdV9IUEkwaDMtN3h6UHc4Z3o0QjQ2azVTcFQ0UkhWWEhRd0ZV?oc=5",
+        "source": "히트뉴스",
+        "description": "\"환자에게 닿지 않는 AI는 무용지물\"…의료혁신의 조건은 '형평성' 히트뉴스",
+        "pub_date": "26.10.23",
+        "section": "ai_tech"
+      },
+      {
+        "title": "한·영, G20 정상회의 의제 협력 강화…에너지·AI 논의",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PMEJfcEhZRTdldHRwMHF6MnEwbTFQRnUwQ2ZFQzhaaS1idUN6c2lxNzlUTTdhMGFMLUw4elBSWEg4bkk3c0NEOTJmMlpmZXRGRlpJ?oc=5",
+        "source": "강소기업뉴스",
+        "description": "한·영, G20 정상회의 의제 협력 강화…에너지·AI 논의 강소기업뉴스",
+        "pub_date": "26.10.23",
+        "section": "macro_industry"
+      },
+      {
+        "title": "William Blair, 주택시장 전망 악화에 Builders FirstSource 투자의견 하향",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xeERjVWNfMUFBcmtrblJkeE9aWm5UQ3hRTzNYLWltYllXYUZYUnFDNmZfOEJQcGNXVDBYRjBRdV9zNE1UUzk0MDZiR0tHSUlVT19yd1ZVbzJBVU9KRXBUQzZvVVJDY1VlY3lWcUdvWTdRODRG?oc=5",
+        "source": "Investing.com 한국어",
+        "description": "William Blair, 주택시장 전망 악화에 Builders FirstSource 투자의견 하향 Investing.com 한국어",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "HMS‑Peak Energy 출범이 한국 자동차 공급망과 산업·금융에 던지는 과제",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BT3c5RzZHdkxsOFhQNVZPckVwc1VyVENySk5hZ3ZoSHRTZzVfYV8tVUR2RElPemhzVUJ4ZmxGYWRKcjJ3WmdGTTc1RktWQWFMNFJFS3gxNHhqZ2s?oc=5",
+        "source": "데일리연합",
+        "description": "[ESG특집] HMS‑Peak Energy 출범이 한국 자동차 공급망과 산업·금융에 던지는 과제 데일리연합",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "최태원이 띄운 '반도체사이클 파괴', '공포의 붐앤버스트'도 끝인가",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55QUVKUHlscFl2aHdyaFdWYl9Mam5kY2ZRSUs0RzBwbnU5X0cyX3ZFdTlzS0JDWDQxUmVIZERhQ0oyYlVzeGFHOVBmVGg3UGItWmtqY0lST0dSdzlVUWQ4aU1n?oc=5",
+        "source": "이코노미스트",
+        "description": "최태원이 띄운 '반도체사이클 파괴', '공포의 붐앤버스트'도 끝인가 이코노미스트",
+        "pub_date": "26.10.22",
+        "section": "macro_industry"
+      },
+      {
+        "title": "경남투자청장에 이장희 전 KOTRA 무역관장 내정…‘글로벌 투자유치’ 승부수",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBESVZHT1UxR3VDQXRaLUtvN29xa0tmTkNGLTh2Unh5bzJMT0xvS3hWTk1CVm85ZFNZNlRyUmJkZ0QxZm80UGliazVDMGpRSG1MOFhLQ3JtMV9zbFJvM2hRMm9aUTFGRlBtMEc1Q0c0Q3NwT3FkY2Z3?oc=5",
+        "source": "진주인터넷뉴스",
+        "description": "경남투자청장에 이장희 전 KOTRA 무역관장 내정…‘글로벌 투자유치’ 승부수 진주인터넷뉴스",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "넥스아이, 코스닥 상장 수요예측 시동걸었다",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfRmw2YU1lTUJQQ21TWHlLeGxaQzBteVBGSHV2X2pkQW1LTnZqYlhKbXZkWXQ4OE9CSTlGZjk0V1Y0OFVoZ1hfWElmUjZ2TWhsNFlESHh4LVJDUEtRcDFrRVNLMFU4ZmQ3by1r?oc=5",
+        "source": "히트뉴스",
+        "description": "[HIT알공] 넥스아이, 코스닥 상장 수요예측 시동걸었다 히트뉴스",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "전남창조경제혁신센터, 지역 유망 스타트업 투자유치 역량 강화 'IR 피칭 DAY' 성료",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NYjNmZDM3eTVJRkpHdGwxbkYzQjhZaWtYRnNzWEttcWRrQmh1bHBRLXhFTU4xSFNXRG5hX1hobHBZVndyNlc3eG9CXzVyZw?oc=5",
+        "source": "전자신문",
+        "description": "전남창조경제혁신센터, 지역 유망 스타트업 투자유치 역량 강화 'IR 피칭 DAY' 성료 전자신문",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "올해 조단위 M&A, 해외 PEF가 싹슬이…국내 바이아웃 '씁쓸' - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZlFwQ0EzZmhXX1dzNG1mYjNNXzB0aGFuMFh6LXlGUnBZbHFIb1RkTHFQY19WY1FFRFc5blRaTVZ0eGR3UjBpMVpjZ1RTcVlQTUZNRkhPaEV4cks3dnBwRVM0N1Y0dWhMM2p0cHln0gFuQVVfeXFMT2lmUXBDQTNmaFdfV3M0bWZiM01fMHRoYW4wWHoteUZScFlscUhvVGRMcVBjX1ZjUUVEVzluVFpNVnR4ZHdSMGkxWmNnVFNxWVBNRk1GSE9oRXhySzd2cHBFUzQ3VjR1aEwzanRweWc?oc=5",
+        "source": "머니투데이",
+        "description": "올해 조단위 M&A, 해외 PEF가 싹슬이…국내 바이아웃 '씁쓸' - 머니투데이 머니투데이",
+        "pub_date": "26.10.22",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'혁신 신약' 탄생 예고, 삼성바이오에피스의 글로벌 확장",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTWprdzhtVEk1WGJtTkZqTU82cWE1b29wZ19DbzdZemRHZFNZUC1ZYXVJcWpqbjRwUUFJSXpwdzhLQUx2Nk9ZZXlXYnVPcVRsdkEyRkg4Umhrdmw2NXZ3b0luY1pSbzNSVE1IMA?oc=5",
+        "source": "팜뉴스",
+        "description": "[칼럼] '혁신 신약' 탄생 예고, 삼성바이오에피스의 글로벌 확장 팜뉴스",
+        "pub_date": "26.10.23",
+        "section": "innovation"
+      },
+      {
+        "title": "대구 스타기업, FIX 2026서 2100만 달러 투자·수출계약…글로벌 진출 성과",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1WnZ0UWlFRGxmM3ktQjFMNV85LXYyb2hvN3ZpaGNMOVFNTmxNWmdqaEh1SHlFU1M5cUZBbFNlSmtnNXJnZE5VV0NpZlpncEU4akJHaDlwRXQyUDQ1V2lialprcExPRGRuenNSVWxaSzN0dXJBS2ZUaGdZQdIBe0FVX3lxTFA1WnZ0UWlFRGxmM3ktQjFMNV85LXYyb2hvN3ZpaGNMOVFNTmxNWmdqaEh1SHlFU1M5cUZBbFNlSmtnNXJnZE5VV0NpZlpncEU4akJHaDlwRXQyUDQ1V2lialprcExPRGRuenNSVWxaSzN0dXJBS2ZUaGdZQQ?oc=5",
+        "source": "디지틀조선일보",
+        "description": "대구 스타기업, FIX 2026서 2100만 달러 투자·수출계약…글로벌 진출 성과 디지틀조선일보",
+        "pub_date": "26.10.22",
+        "section": "innovation"
+      },
+      {
+        "title": "라닉스, ‘KPEX 2026’서 마약 검출기 선보여… 치안·바이오 신사업 확대 \"고수익성 비즈니스 모델\"",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSGpGTkcyQkltZmo2RE9OQkVGNlFFVm9EdVZBbmpCX01jaWRZMnd6MGJPVHJvYlRPR09PaElHZDhFN3JtNXh1NFJVUHQ1Wlg5TW5sMktVbUtNb0pCXzRPUnN0LThGQ1duR3Nrcw?oc=5",
+        "source": "데일리경제",
+        "description": "라닉스, ‘KPEX 2026’서 마약 검출기 선보여… 치안·바이오 신사업 확대 \"고수익성 비즈니스 모델\" 데일리경제",
+        "pub_date": "26.10.22",
+        "section": "innovation"
+      },
+      {
+        "title": "“규제 완화에 투자 활기” 유럽 AI 생태계 성장 본격화, 재무장 기조 속 방산 스타트업도 약진",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44R1ZEeHNwVk1jbTQxQjdjd0Y0dlhTdkNneExRbHo5ejZzWmVpNzdpd0wxTWgyWEppbnROaHMtVldWRmpSVENodF96d1lNTkpJc2J2Y0pCb3NjMkk?oc=5",
+        "source": "The Economy Korea",
+        "description": "“규제 완화에 투자 활기” 유럽 AI 생태계 성장 본격화, 재무장 기조 속 방산 스타트업도 약진 The Economy Korea",
+        "pub_date": "26.10.21",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "특허뉴스",
         "description": "“기술만 앞서선 미래 못 잡는다”... 일본, AI·바이오 혁신전략 대전환 특허뉴스",
         "pub_date": "26.10.15",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "news": [
-      {
-        "title": "나인하이어, 채용 가이드북 콘텐츠 확대...중기·스타트업 실무 부담↓",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ZlZHd25CUW85UjlfZDhtdU1aQnppN2xGdVZrajFOSWxTQnBjcmJHdEtSY3RjOTI1eW52Z08yX0lvSjRnQjRaMFd3TWNSYTVkTnYxZU5jUlpvSE9SNjI4SGJmcUtUSWM?oc=5",
-        "source": "팍스경제TV",
-        "description": "나인하이어, 채용 가이드북 콘텐츠 확대...중기·스타트업 실무 부담↓ 팍스경제TV",
-        "pub_date": "26.10.15",
-        "section": "hr"
-      },
-      {
-        "title": "영진전문대 찾은 일본 IT기업 ISFNET, 우수 인재 채용 나서",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfTm5nUndTNk50TERiT1pRUmV0ZUpnRERBMTBMT0pNRW81QlY3SUdpcHYyYklTRS1FbmdaMjFseWdHb083NXAtd0RTY1BUTEhPNTA2RW5qTlloU2Y4RHhaTkhOZUJHMW8?oc=5",
-        "source": "교수신문",
-        "description": "영진전문대 찾은 일본 IT기업 ISFNET, 우수 인재 채용 나서 교수신문",
-        "pub_date": "26.10.15",
-        "section": "hr"
-      },
-      {
-        "title": "취업·이직 평균 3개월…합격자 56% 대·중견기업 입사",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QYXBhWGRiVEFKTUNVZXVhaG9DVHhtN1ZyQ2o1QTZNOW1mVkR3Z200QWMxNHJINXFTaHRiLU42aFBmVjMwcWd1Z3NBQnlRa2JDUGlsSXJwNUJoWUJ5OWhWc3l0T3RLNXFr?oc=5",
-        "source": "테크월드",
-        "description": "취업·이직 평균 3개월…합격자 56% 대·중견기업 입사 테크월드",
-        "pub_date": "26.10.15",
-        "section": "hr"
-      },
-      {
-        "title": "박성효 전 소진공 이사장, 연봉 '셀프 인상' 논란",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1UFB6NGFrNjhTZlpqZklDUFdUbGVvR3FiOFR4UmRkR1JGcEU1ZDVacTNVMUt1UC1Zck1OUWRseW9JSVV5Ql83dlF1bEFWU1k?oc=5",
-        "source": "대전MBC",
-        "description": "박성효 전 소진공 이사장, 연봉 '셀프 인상' 논란 대전MBC",
-        "pub_date": "26.10.15",
-        "section": "hr"
-      },
-      {
-        "title": "미 HR 담당자 500명 설문…금융사 4곳 중 1곳, AI 역량에 연봉·보너스·승진 연동",
-        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOS2toajVHeEd0LWRueEd5UUV4S0hMdC1MWElxd3dneERzQ2x6NFlGWllpMERXdHZobFdKd2lTd0JnY3RJY2NRZ0tiUEhieVRjbWgtLV9UR29kY0hrZnlsRVgxd1FGWkJfMFdZOFVBVkw5aVl1eWV0clNvanQwMUZLX1ZTYm9pZkIzaVBOOTdUcEZ5M2hQdDFCYW9RX0w1Y2Jkc0pwOVB4Wk1RTldBRVNUSTJqTzFMSFNJZ3p2eFpmWkJ2NXUzUXNaYzJ0QkxoczdJVEQ0ZHQ2Vzl5M1R2bG9UX0ZzUUkwZFV5NGVHV3pMbVEzZjNFVWlUOEliTzlSOUpabEJpa0VYcWxCM0F0MEZ6TzJ4VzlMZlROQzU3ckl6aXRhX1RvYmVsT2JMdmI5Q0k0ZzdHdDlpU3ZBOE1uU0Q5OC12czRLbTBSbkwtUURLSmRHNjlHSHRBZGpEWUFCVENTamIyMEtnVk5pem1OV1hRMHV2Mmhoc0pBUzBJeDl1THhFSHFrTXJUMGZtQnYzWnRmSGtxak5HZFRHRk5DS0hFNFVzdw?oc=5",
-        "source": "Yellow.com",
-        "description": "미 HR 담당자 500명 설문…금융사 4곳 중 1곳, AI 역량에 연봉·보너스·승진 연동 Yellow.com",
-        "pub_date": "26.10.15",
-        "section": "hr"
-      },
-      {
-        "title": "\"기업문화는 구호 아닌 실행\"…조현범 회장, 젊은 인재들과 '바텀업 혁신'",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85TFFweHhoN1hYT1FFNGFXNGQ2dlJvV1ZKSlhVZHNBdVYwMDAxY0llcFdDT0hNbzQ4bWo5Szdub2RfbjZYdkxTQzl1bzdCTlZQc1c4RjhJNHNkYVZocEZNV293NGwtQTRJSEhv?oc=5",
-        "source": "비즈월드",
-        "description": "[CEO+] \"기업문화는 구호 아닌 실행\"…조현범 회장, 젊은 인재들과 '바텀업 혁신' 비즈월드",
-        "pub_date": "26.10.14",
-        "section": "hr"
-      },
-      {
-        "title": "씨아이테크, ‘AI 스마트 너스패드’로 의료 디지털 전환 가속…주요 병원 도입 협의 확대",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXMzM2ZrYkIzdnpiQnNGVG12Wi1zbEdiQWtPdkQ2ZFl1STNkeFFtUUdIT3VDLWtPQm9aWVJNckdlQnFlbEZjQ0VTaUxkcEE2UV9EUGw0Mi13b3dhYW5OZktwVTlzU2dyOXpwLVZFZGlZYWxPU0FIVXowdXoxWXRDMV8xQ1NBdE5WRkZMdw?oc=5",
-        "source": "Chosunbiz",
-        "description": "씨아이테크, ‘AI 스마트 너스패드’로 의료 디지털 전환 가속…주요 병원 도입 협의 확대 Chosunbiz",
-        "pub_date": "26.10.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "SKT, AI-RAN으로 일반 차량 무인 이송 구현…글로벌 5G 혁신상 수상",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTWJUdkhGdzRVRTlsOTBrN0FuT0Mxd1BoV213RWpvamcxNnBHa3JBRDMtbFFIcVUwTmIzQWY2R3l2d2IwVDJqWndTMUdpb0dxQTdPWHhDQzM3clBUNEFhbjE0VTZKVzA?oc=5",
-        "source": "인공지능신문",
-        "description": "SKT, AI-RAN으로 일반 차량 무인 이송 구현…글로벌 5G 혁신상 수상 인공지능신문",
-        "pub_date": "26.10.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "영진전문대, 교육부 특성화 선도대학 선정…'피지컬 AI' 특성화 등 국고사업 7관왕 위업",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aWjMwZGdJREFndGRNcGgySGdieWx1ZnNNS3lDSndxcG9lekZwTkFPSVV4OGE0X2NDalYwekRKQW1kbHBLRHgwWTRaeGl0Zw?oc=5",
-        "source": "전자신문",
-        "description": "영진전문대, 교육부 특성화 선도대학 선정…'피지컬 AI' 특성화 등 국고사업 7관왕 위업 전자신문",
-        "pub_date": "26.10.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "바클레이즈 \"AI 도입 지연 우려\"…델·HPE·넷앱 투자의견 하향",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tdnNEaXlXeFZsUUVRb2c2eXl0ZGtWSHJvWVVKVGZxQjBOdFN5OXFzYjRobzU4NW1WUjBwazRvRFpVWHJBbHRSZFF0R2dTdTRmd0k3QVIzeHVrREJHYUJRbUJMREpkZEItamsweUtMVFk?oc=5",
-        "source": "연합인포맥스",
-        "description": "바클레이즈 \"AI 도입 지연 우려\"…델·HPE·넷앱 투자의견 하향 연합인포맥스",
-        "pub_date": "26.10.15",
-        "section": "ai_tech"
-      },
-      {
-        "title": "커지는 고성장·경상흑자 기대…힘 받는 1,200원대 환율 전망",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wREs2RG0zWDNJUXlvN3JrSzdwbjEtWVNGTkxVcEJxTWJHbjQxOUVrNUJnN3FTUGxVa0ZmRnpYOWs5YnJ6Zm1HbllKS2NBajdnTWxEdHhsTVNoTXc0OUVQZlRucVVuMDlmdUZrYU1TXzN4UQ?oc=5",
-        "source": "KB Think",
-        "description": "커지는 고성장·경상흑자 기대…힘 받는 1,200원대 환율 전망 KB Think",
-        "pub_date": "26.10.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "\"LG엔솔 코발트 공급망에 날개\"… 일렉트라, 원자재 트레이더 WMC와 전략적 투자 협약",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlVza2pwRGdQOFh1dW52YnB6NXZnd2o1aGIyOGlyczdfMXN6UWRxMXV0R0VnM1ZrclBmclUtSDd4OGZ0WjU0a1BDR1U5R1VSVUNISS1QMHo0X0RsYUFkd1JsbG4xeGNQUzFGSlVmaXRwOW5yMjA3NVpaajFlN1kyVUhfc2czTkt4?oc=5",
-        "source": "글로벌이코노믹",
-        "description": "\"LG엔솔 코발트 공급망에 날개\"… 일렉트라, 원자재 트레이더 WMC와 전략적 투자 협약 글로벌이코노믹",
-        "pub_date": "26.10.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "올해 신규보증 PF사업장 70% '저자본·고보증'…투자금 5% 안돼",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDQk95d05WUWY4TWdDdXlQdzBBbUkxUlpHSFlhVjJPOUxUYmltN3B1X293bzZuTkF6VzBLNEJGd2hCX3hKODAxM3QwamNVS3cyc0N1ZEEyRWVjUURIcHJVVQ?oc=5",
-        "source": "연합뉴스",
-        "description": "올해 신규보증 PF사업장 70% '저자본·고보증'…투자금 5% 안돼 연합뉴스",
-        "pub_date": "26.10.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "ESS 힘 싣는 K배터리, 실적 회복 기대감 커간다",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJdVBfSlNzZzlUbENpVzZYWG85UlFPVl8zQTlyMGRIWlZadFBYR0dnMDEyenM5dVZJVl9FNzVrcmFJNUlnekVWS2xZTlJGdk02UTlGWlJoMVRSX0ZCZ3c?oc=5",
-        "source": "동행미디어 시대",
-        "description": "ESS 힘 싣는 K배터리, 실적 회복 기대감 커간다 동행미디어 시대",
-        "pub_date": "26.10.15",
-        "section": "macro_industry"
-      },
-      {
-        "title": "경콘진, 유망 콘텐츠 스타트업 15개사 투자유치 지원 11월 대규모 데모데이",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NkhObXp0c1ZEbWd2VE9GSXplc01GWk43NG9HVXZHU0lOTXVOT3d1eWp0anlGZjRIZG1BanJkNUVwdnBJOE9zX1VKNWNod3Q5VUlvbTRPLUNjQUZEaVljeE5lMA?oc=5",
-        "source": "에너지경제신문",
-        "description": "경콘진, 유망 콘텐츠 스타트업 15개사 투자유치 지원 11월 대규모 데모데이 에너지경제신문",
-        "pub_date": "26.10.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "Iambic Therapeutics, 나스닥 IPO 공모가 주당 $16로 확정",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VSHlvcDZKVUN5MUFFWFlpal8tNDJ2Q1J6SE1aMDFXZHRuVFN4ZjM3Qnl3NF9ra1hMNlhKbUxWQWRWYkhDcDU3RVRNSjJJSFZxUkxQVDJFcW1OaU5ZSUlQNXR2TWR6NzhiWUw1SlFoWGVfOWx4RzRObw?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "Iambic Therapeutics, 나스닥 IPO 공모가 주당 $16로 확정 Investing.com 한국어",
-        "pub_date": "26.10.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "진코스텍 15일 코스닥 이전상장…공모가 2만3500원",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVXI1NEp3VnhWcVFpUFp6ejA5NWhKZW5YVjRwbF9EOFJESjJEWWZNMHlyYnNFVGZ1M1RGRGJra1pwTkZuSUlpUUllamxQNEpBOC1OcThjQnc2T3VROGtKQg?oc=5",
-        "source": "제주교통복지신문",
-        "description": "진코스텍 15일 코스닥 이전상장…공모가 2만3500원 제주교통복지신문",
-        "pub_date": "26.10.15",
-        "section": "invest_ma"
-      },
-      {
-        "title": "광명시, 우수 스타트업 투자유치 지원한다… ‘2026 광명 글로컬 데모데이’ 개최",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xZ3B4cmthVGdyemQxVGlIUUhwUDM1MEV3ejBtbEpaWUhNS1ZsYU01T3NFWUZRRUJVdWM5U01rWjZjaHdKUm9sOVhRVXhlc1JfTHVMOUZidWY0d2xlT3NJ?oc=5",
-        "source": "세계환경신문",
-        "description": "광명시, 우수 스타트업 투자유치 지원한다… ‘2026 광명 글로컬 데모데이’ 개최 세계환경신문",
-        "pub_date": "26.10.14",
-        "section": "invest_ma"
-      },
-      {
-        "title": "“AI가 불러올 바이오헬스 혁신의 확산”",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QVUUyWGVrM1F0N21QanlfbUtPbEFoSzBJVm11dThBUC1rOVJiOGR3bUtqRnAtSlJRVXJWbDA4cmxnUW9HRFdQTWtDODR1ODdsQXFvcHJCWFdLaFRrT1ZaLVJ3QlZLRG42VjQw?oc=5",
-        "source": "재활뉴스",
-        "description": "“AI가 불러올 바이오헬스 혁신의 확산” 재활뉴스",
-        "pub_date": "26.10.15",
-        "section": "innovation"
-      },
-      {
-        "title": "바이너리어스, 미래 모빌리티 SDV 상용화 이끌 초고속 통합 OS BINOS 발표",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wM000b1hVTVg3NnJOY3RRR2JZN1pWakQ2emZuQlIzODVmc3FjZUFrWVFuaW5PN0FNRHNDTTRSYnlUeENNd01LcVduYzRZZVdiRS1tY2ZQMW5fcVNQYzBMSlJNT25ObFnSAWtBVV95cUxOM0ZSUHU3dFNnQ2ptTGVvc0hzejhzbmR3dkdUSEN4WmVGV0VLTEowU0lMRlNHSHcxV0FTODBoZzAtWWdTbl94YVlqa0p4QkJJSXFXX2liYzEzcVhQMkF2R0djYmRRdjMwOFBlcw?oc=5",
-        "source": "에이빙",
-        "description": "바이너리어스, 미래 모빌리티 SDV 상용화 이끌 초고속 통합 OS BINOS 발표 에이빙",
-        "pub_date": "26.10.14",
-        "section": "innovation"
-      },
-      {
-        "title": "\"AI가 불러올 바이오 혁신\"…글로벌 빅파마·정부 수장들 총집결",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hbW1Md0F2ZjF6R3JFbDRkdE5qdVBjOS1zMURTLXNOaEhHaE5GUjZIeXgyUGNCRDg2SDBaUW9UNEUzc2VFTjNvU18zN2xOeEExdFlWZnhrVm1qUGNNTXdsdg?oc=5",
-        "source": "뉴스1",
-        "description": "\"AI가 불러올 바이오 혁신\"…글로벌 빅파마·정부 수장들 총집결 뉴스1",
-        "pub_date": "26.10.14",
-        "section": "innovation"
-      },
-      {
-        "title": "세계 바이오 리더들 21∼22일 서울 집결…AI 의료혁신 논의",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSTRUWnNSSFRPQy1GZkJqZzRobTlZNjQ5VlU4VXhCc0lmcm9ZOGxNQ3JudXFQcDhEMTJwREFiWjBhaGtSSjVXUk12RkRVbzFqNzNGRk5OYWpJa05JTHVnY9IBYEFVX3lxTE9JSTRUWnNSSFRPQy1GZkJqZzRobTlZNjQ5VlU4VXhCc0lmcm9ZOGxNQ3JudXFQcDhEMTJwREFiWjBhaGtSSjVXUk12RkRVbzFqNzNGRk5OYWpJa05JTHVnYw?oc=5",
-        "source": "연합뉴스",
-        "description": "세계 바이오 리더들 21∼22일 서울 집결…AI 의료혁신 논의 연합뉴스",
-        "pub_date": "26.10.14",
         "section": "innovation"
       }
     ]
