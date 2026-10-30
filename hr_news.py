@@ -62,33 +62,65 @@ NEWS_MAX_AGE_DAYS = 3   # 발행 후 이 일수 이내 기사만 수집
 #
 # enabled: False 로 바꾸면 해당 주 데이터 섹션이 이메일에서 숨겨집니다.
 # trend: "up" | "down" | "neutral"
-# ✅ 이번 주 업데이트 — 10.19~10.23  |  수집 완료: 2026-10-23 (자동수집)
+# ✅ 이번 주 업데이트 — 10.26~10.30  |  수집 완료: 2026-10-30 (자동수집)
 WEEKLY_DATA = {
-    "week_label": "10.19~10.23",
+    "week_label": "10.26~10.30",
     "enabled": True,
     "metrics": [
-        {"label": "취업자 수", "value": "2,926.6만명", "change": "전년동월 대비 +11.3만명", "trend": "up",
-         "source": "국가데이터처 2026년 9월 고용동향 (2026.10.16)"},
-        {"label": "고용률 (15~64세, OECD 기준)", "value": "70.6%", "change": "전년동월 대비 +0.2%p", "trend": "up",
-         "source": "국가데이터처 2026년 9월 고용동향 (2026.10.16)"},
-        {"label": "청년 실업률 (15~29세)", "value": "5.4%", "change": "전년동월 대비 +0.6%p", "trend": "up",
-         "source": "국가데이터처 2026년 9월 고용동향 (2026.10.16)"},
-        {"label": "신규채용 계획 기업 비율", "value": "66.6%", "change": "전년 대비 +5.8%p (2026.3 조사, 신규 발표 없어 유지)", "trend": "up",
-         "source": "경총 2026년 신규 채용 실태조사 (100인 이상 500개사)"},
+        {
+            "label": "취업자 수",
+            "value": "2,926.6만명",
+            "change": "전년동월 대비 +11.3만명",
+            "trend": "up",
+            "source": "통계청(국가데이터처) 2026년 9월 고용동향",
+        },
+        {
+            "label": "고용률 (15~64세, OECD)",
+            "value": "70.6%",
+            "change": "전년동월 대비 +0.2%p",
+            "trend": "up",
+            "source": "통계청(국가데이터처) 2026년 9월 고용동향",
+        },
+        {
+            "label": "청년 실업률 (15~29세)",
+            "value": "5.4%",
+            "change": "전년동월 대비 +0.6%p (악화)",
+            "trend": "up",
+            "source": "통계청(국가데이터처) 2026년 9월 고용동향",
+        },
+        {
+            "label": "신규채용 계획 기업 비율",
+            "value": "66.6%",
+            "change": "전년 60.8% 대비 +5.8%p (2026.3 조사, 신규 발표 없어 유지)",
+            "trend": "up",
+            "source": "경총 '2026년 신규 채용 실태조사' (100인 이상 500개사)",
+        },
     ],
     "reports": [
-        {"title": "2026년 9월 고용동향", "org": "국가데이터처(KDI 경제교육·정보센터 게재)", "date": "2026.10.16",
-         "summary": "취업자 +11.3만명, 청년(15~29세) 고용률 44.0%(-1.1%p), 구직단념자 36.8만명",
-         "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288191"},
-        {"title": "경총 청년 고용동향 조사 / 한경협 하반기 신졸 채용계획 (MTN 보도)", "org": "경총·한경협", "date": "2026.09.29",
-         "summary": "청년 62.9%가 고용시장 어렵다고 응답, 정년연장 시 신규채용 감소 우려 81.0%. 대기업 하반기 신졸 채용계획 51.2%",
-         "url": "https://news.mtn.co.kr/news-detail/2026092908562443196"},
-        {"title": "뽑긴 뽑는데, 10명 이하로만 — 2026 하반기 채용시장 흐름", "org": "KBR 코리아비즈니스리뷰(잡코리아·캐치·대한상의 데이터)", "date": "2026.08.12",
-         "summary": "하반기 채용 계획 78.7%이나 대다수가 10명 이하 소규모, 정규직 공고 비중 71%→50%, 인사·HR 공고 +12%",
-         "url": "https://www.koreabizreview.com/articles/kbr-news-deep-analysis-10-2026-20260812-1gs6"},
-        {"title": "Mercer Global Talent Trends 2026", "org": "Mercer(Marsh)", "date": "2026.02.25",
-         "summary": "글로벌 인재 트렌드: 인간+AI 역량 결합이 경쟁우위로 부상",
-         "url": "https://www.marsh.com/en/corp/about/news/mercers-global-talent-trends-2026-report.html"},
+        {
+            "title": "9월 취업자 11.3만명↑…15~64세 고용률 올랐지만 청년 실업문제는 심각",
+            "publisher": "머니투데이 (통계청 9월 고용동향 보도)",
+            "desc": "취업자 증가 폭은 8월(18.4만명)보다 축소. 청년층(15~29세) 고용률 44.0%로 1.1%p 하락.",
+            "url": "https://www.mt.co.kr/economy/2026/10/16/2026101608012299789",
+        },
+        {
+            "title": "청년 34세까지 넓혔더니 '고용 한파' 착시…실업률 상승폭 0.6→0.1%p",
+            "publisher": "파이낸셜뉴스 (뉴스1)",
+            "desc": "청년 기준 15~34세 신규 통계 첫 반영. 15~29세 실업률 5.4%(+0.6%p) vs 15~34세 4.2%(+0.1%p).",
+            "url": "https://www.fnnews.com/news/202610190606375667",
+        },
+        {
+            "title": "대기업 하반기 채용 기지개…2곳 중 1곳 \"신규 채용 계획 수립\"",
+            "publisher": "아시아경제 (한경협 조사)",
+            "desc": "매출 상위 500개사 중 하반기 채용계획 51.2%(전년 37.2%, +14.0%p). 채용 축소 계획은 25.8%로 감소.",
+            "url": "https://core.asiae.co.kr/article/2026092814392609833",
+        },
+        {
+            "title": "Mercer Global Talent Trends 2026",
+            "publisher": "Mercer (Marsh)",
+            "desc": "임직원 약 12,000명 조사. 'thriving' 응답 44%(2024년 66%), AI 일자리 불안 40%, C-suite 52%가 아닌 54%가 인재 부족을 최대 이슈로 지목.",
+            "url": "https://www.mercer.com/en-us/about/newsroom/mercer-s-global-talent-trends-2026-report/",
+        },
     ],
 }
 
