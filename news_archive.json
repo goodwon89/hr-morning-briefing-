@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-11-05",
+    "news": [
+      {
+        "title": "\"화상면접서 본 그 사람, 진짜 맞나요?\"…기업들 '초비상'",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JZFFDdFZwNmF0dHE3TDVtMWozck1LakNmd2xYY0d2c3ZDMjFsNnRvNEYzaHV2Q19WTU1lWWx3dE9ndGtPY012aEVfWm9HSHNxaldzTzQ1U3Y0dw?oc=5",
+        "source": "한국경제",
+        "description": "\"화상면접서 본 그 사람, 진짜 맞나요?\"…기업들 '초비상' 한국경제",
+        "pub_date": "26.11.05",
+        "section": "hr"
+      },
+      {
+        "title": "잡코리아, ‘연봉 벤치마크 리포트’ 발행...\"연봉 차이 10년 뒤 5배까지\"",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LOGJybG9sanJOMnpQY0pPd1pLcWxDN3F0aW81Nm1Qc1RTRW1TUEloLThKcUM1dEZiSHAzMHREWnpocFlkV2lzdXFNNW9NRzdIa0k3NXFKLXVJMWxHS0V1RmRQTWdRZDg?oc=5",
+        "source": "팍스경제TV",
+        "description": "잡코리아, ‘연봉 벤치마크 리포트’ 발행...\"연봉 차이 10년 뒤 5배까지\" 팍스경제TV",
+        "pub_date": "26.11.05",
+        "section": "hr"
+      },
+      {
+        "title": "방글라데시 의류노동자, 닷새째 임금인상 요구 대규모 시위",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUd2RJTHNLNTJRSGxPcUNIRFh3WHpIX0JQMWxDWVhsN05lQTZjOFZQSG0zMFVHMDRNcHQwQ0JNY2t0M1FIZk1Cc1hKUzVGNVhxY3BRNDk4bGJnajhZLVN2eVRYY1l4aU9ZbTB0U21XZWhjTWQt?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "방글라데시 의류노동자, 닷새째 임금인상 요구 대규모 시위 연합뉴스 한민족센터",
+        "pub_date": "26.11.05",
+        "section": "hr"
+      },
+      {
+        "title": "대보그룹, 2027년 정기 임원 인사 단행…‘내실 경영·현장 전문성’ 강화",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zRm5TOGtUYkFqWnI4dDN1LWxlVlNRZnM4UjR3QmlhVjg1Qk9LNHloYzRwaUlZRHRBLUwtRS13amtuSnVlMUIzb05ISzZZTW9UaUdXWThuVGhiU0NfUFFMX001eXRVWDVJT3BJ?oc=5",
+        "source": "라이센스뉴스",
+        "description": "대보그룹, 2027년 정기 임원 인사 단행…‘내실 경영·현장 전문성’ 강화 라이센스뉴스",
+        "pub_date": "26.11.05",
+        "section": "hr"
+      },
+      {
+        "title": "김영섭 도레이첨단소재 대표이사 사장, '2026 외국기업의 날' 산업포장 수훈",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZDFRcnFEVjFOZkVrdWhZQkw1c0sxVlB6b0N2YjVWTkNtdUtnc1l6dGg1Nm51SDlSMDZnbm9GbFllVmU4YlBfS1hvbjQ2TUZJUy01UTc2clY5MjVtc3NLYjI5Z0J4dw?oc=5",
+        "source": "데일리대구경북뉴스",
+        "description": "김영섭 도레이첨단소재 대표이사 사장, '2026 외국기업의 날' 산업포장 수훈 데일리대구경북뉴스",
+        "pub_date": "26.11.05",
+        "section": "hr"
+      },
+      {
+        "title": "동명대, 외국인 유학생 대상 ‘글로벌 채용박람회’ 성황리 개최",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04eVU2RWxZZ3FlQlVpZTRveVdDNC1NbkFTbUtPVjZyMS1GdEU2NW1oUXIzMGlybUg1TGZ4SjdoWVQ0cUJkSk5JS1BabkNRLU5lT05YN2hfV2pIZzJDRGQ4Z0dwU1MySEhqVzNN?oc=5",
+        "source": "유니메이트 알파",
+        "description": "동명대, 외국인 유학생 대상 ‘글로벌 채용박람회’ 성황리 개최 유니메이트 알파",
+        "pub_date": "26.11.05",
+        "section": "hr"
+      },
+      {
+        "title": "카카오, 5천만 관계망으로 AI 차별화…광고에도 AI 도입",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVmx3c2lLd2pXUFZoRkgtVkhJT2ZBaEcybVFFc0J3YUM0LTF3LVNuMGRxSDlhZnZtTFlGdS1MNzV6ak9WOUhKNXNJUmhGNFlkek5JYnB5MmZ6VEJrRXM0c0ZNMndScmc5YUcwS2R6dUM?oc=5",
+        "source": "연합인포맥스",
+        "description": "카카오, 5천만 관계망으로 AI 차별화…광고에도 AI 도입 연합인포맥스",
+        "pub_date": "26.11.05",
+        "section": "ai_tech"
+      },
+      {
+        "title": "우리은행, 해외송금 심사에 AI 도입…서류분석·입력 자동화",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoUUt5WEVFRlVSTDlJeHRHQWhuMXd4MjJWVW1jZ0EteWFmSjc1NjY1RVlLc3J3V0NXUV9vUXBtel91WG1VZFozYkpZUjByTzZucVJ1U2pzeE5ONmgwTFNsdTlfZmFoVlpiT0piQTFOb3dZQk5P?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "description": "우리은행, 해외송금 심사에 AI 도입…서류분석·입력 자동화 연합뉴스 한민족센터",
+        "pub_date": "26.11.05",
+        "section": "ai_tech"
+      },
+      {
+        "title": "플레이디, 사내 AI 에이전트 플랫폼 구축…광고 업무 자동화 도입",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Q2NCQUtyT2tBci02a2wwcWJ3VHE3ajF4VHhITm9vYlJMMGt1blY0MDVnUDZ0elJjdTYweFFJNDg1am5KVHJwb3dqbzRwYzFaS1pvSm5R?oc=5",
+        "source": "지디넷코리아",
+        "description": "플레이디, 사내 AI 에이전트 플랫폼 구축…광고 업무 자동화 도입 지디넷코리아",
+        "pub_date": "26.11.05",
+        "section": "ai_tech"
+      },
+      {
+        "title": "이민근 안산시장, 유럽 로봇기업 찾아 “제조 현장 연계 투자협력”",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13c1VQbll1NEJZRm5BVEl3Tkg4c3VPMi03aXM1eWFKRDdOZnBHMnNSc0FOdFBJbkV5QWFGc1FfcEZoWnZiSHN3dkhHSjVoWmdsNGpQZkxSRVVjblJHWndLZQ?oc=5",
+        "source": "아시아경제",
+        "description": "이민근 안산시장, 유럽 로봇기업 찾아 “제조 현장 연계 투자협력” 아시아경제",
+        "pub_date": "26.11.05",
+        "section": "ai_tech"
+      },
+      {
+        "title": "문경시, 에너지 공급망 완성 향한 도시가스 배관 확보 총력",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fd3lqdDJWek02TGpZSkZpUGtzZjJSZm5aLXVfQmhHRjBKaFRtS2tnUFp6bEx2WkQzSDN0a1FYX2lEYWVYWVB3M2p4V1A2ZFIwNzFtbHNlaS10SGRuY0N5MWNoRUxwZzQ?oc=5",
+        "source": "경상투데이",
+        "description": "문경시, 에너지 공급망 완성 향한 도시가스 배관 확보 총력 경상투데이",
+        "pub_date": "26.11.05",
+        "section": "macro_industry"
+      },
+      {
+        "title": "K-뷰티 美 수출 40% 급증에도 관세 부담…민주당 승리에도 불확실성",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9COFlXNnRkbnBTVkFlNFhQZmNybEdWS1BxQkdlVXdXRVpxWk5QczRnRVRERnBfNkFSN01MQzZ3b2paaHFRNVF6ZDFuamtmMU1PNDF3OFZ6aU1XU2NHb1h5V0pBS2dFbEpVc21N?oc=5",
+        "source": "www.hdnews.co.kr",
+        "description": "K-뷰티 美 수출 40% 급증에도 관세 부담…민주당 승리에도 불확실성 www.hdnews.co.kr",
+        "pub_date": "26.11.05",
+        "section": "macro_industry"
+      },
+      {
+        "title": "광해광업公, 핵심광물 공급 내재화·자립형 공급망 구축 ‘가속’",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92RjZnSjVIV2RyWGRTRV9jQlpYdzd1c0dvUlI4emsyd0Z2aDE0Sm8tdWowaWpuNDFfb2tnSkpGUFpEOFpUSTBRUEo3TXpiWHY1Z3daSDF3bjVlODNFbXF4UUxvLThJUWfSAWtBVV95cUxPdzVNSFRVYml4SGh2Z0I1VU9DUk5uT1VKRTlVcVZSbnZHZTFUVjYydXFRZzVMaWxnY0NIdU9ibG8xVHhIWldSMWR0bUFjbDlROHFaX3A2WWU3RFhSLUQ4QTFMTm5fRW90NFpzOA?oc=5",
+        "source": "인사이트에너지뉴스",
+        "description": "광해광업公, 핵심광물 공급 내재화·자립형 공급망 구축 ‘가속’ 인사이트에너지뉴스",
+        "pub_date": "26.11.05",
+        "section": "macro_industry"
+      },
+      {
+        "title": "LME 비철금속 및 환율 동향",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bl8wczVuSjNuMDVfT3BRVy0tMWlVQ2U3N0Zwbjg3RXYyaVRuYXVEWnh2NGdRcU5CUE5qRnRUWk9XUU1TYjJ1TTNFWUhxdFgwTzhjOGwzWjJiOThfY0I0Y1pTb2pZczJ0?oc=5",
+        "source": "철강금속신문",
+        "description": "[표] LME 비철금속 및 환율 동향(11월 4일) 철강금속신문",
+        "pub_date": "26.11.05",
+        "section": "macro_industry"
+      },
+      {
+        "title": "상장 예심 빨라졌지만…금감원 문턱서 줄줄이 증권신고서 정정",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IWnMzcVlMdTF2ZnVwNGVoMGpOQWp3ZldqZ0V0WE5DU2w0MFpOTVFMTVRlcWdCZENlSnZZRjRWNUVXOXk5bkdhemRRRXo4T2VmOFFMWVJqdFo5YzjSAWBBVV95cUxPYlNsbzI1ZTlFbkpvaE5ZY0tiUWRyaTB2OVJ0bGFua1VpRDRFcGliRkc1aC0tTWNWNW9wS2NXQlNOaEZXS05jTkhCNHRSU3FwZFpmZWVfTExabFZENFN5VG8?oc=5",
+        "source": "연합뉴스",
+        "description": "상장 예심 빨라졌지만…금감원 문턱서 줄줄이 증권신고서 정정 연합뉴스",
+        "pub_date": "26.11.05",
+        "section": "invest_ma"
+      },
+      {
+        "title": "코스닥 바이오 부진에…공모·프리IPO 동반 위축",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43TnBUNldBb2VOUExmc1lkODBoaXB4bzljWUxpM19BTklRNnhSYmwxRHAwTjlaS1F6VjRVM2lpWE00Y043T1Z6VzZFSWpSdkVUcnJ2ekRfS19FeFJsS3pNbVctLXc4ZjJhV2pCRDVIMA?oc=5",
+        "source": "비즈워치",
+        "description": "코스닥 바이오 부진에…공모·프리IPO 동반 위축 비즈워치",
+        "pub_date": "26.11.05",
+        "section": "invest_ma"
+      },
+      {
+        "title": "서울시, 벤처투자계 주역 육성 ‘주니어 VC 인베스터 데이’ 개최",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rZS14YUwxekNocnM2RkQtdmxCMTRkMlQ0V1BBNF9jSm1hdFBUVy0zbEk4WDRyWlhPZkxWemI1TmpUbVlZajMzSkNORFJjU1RKRVFIOWhZNUx3eEtKUC1oaDR0S1RjZw?oc=5",
+        "source": "벤처타임즈",
+        "description": "서울시, 벤처투자계 주역 육성 ‘주니어 VC 인베스터 데이’ 개최 벤처타임즈",
+        "pub_date": "26.11.05",
+        "section": "invest_ma"
+      },
+      {
+        "title": "“해외 진출하라면서 지원 자격은 제각각”…크로스보더 창업이 마주한 제도의 역설",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUDVRWF9iTnVvWjdZd3hfOERSRFlaZjFKVmhybDU2MWZ3a1ZWWnYybzZUZjhReDcyV1Yxa2RkQUJsTHRHbVpuN3BRdmVocTdOZ1h1T0FubFV3Nm9UUnFoVUhhMkgwX2dXRkNuT0hWY2tTLTFXM1FtelpIYjlzUGMtY00tR2VYbGwwdjRocl8zYmcyWlFkR053TjQtQy1sLVRoS3dDbS13UlZGaVkzcTVOdm0wNTk1dnpETjU4aWg4RmZvTC0tOHI2OS0wOGRxU0cxSUJQZTI0VkN4LUFxV0JiT0RkMmsxUnltckxFNFFHcEpLTzZSQ3NtY2dpdXg3b2g5ZkNlaFlLQmtVUjlEOGJCMjhQWk1IcWRqbDc0LWtn?oc=5",
+        "source": "테크42",
+        "description": "[현장] “해외 진출하라면서 지원 자격은 제각각”…크로스보더 창업이 마주한 제도의 역설 테크42",
+        "pub_date": "26.11.05",
+        "section": "invest_ma"
+      },
+      {
+        "title": "“에너지·딥테크 기업, 세계시장으로”…전남나주 강소특구, 글로벌 진출 교두보 마련",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VdXpqeTJlWGFaZTNiOTZOX1U1ZlktdjhfQURuMlhpUVgydUxJUklGQ2w4czVSdndYWDhRaWVKeEYtRlJRZ1pCTnRCOHlsMkdMbWhKbHJ0dlRrQ0Z5MlBKWmlEakFpRE5LQXdVV9IBcEFVX3lxTFBHM0Q4ZENnOVhkU1Ftakh2UG4wQi1fNWtLUU0ydFhPd0twc000WHh2WjhoQmtjT2t6MjlUTDFxRmgtWXZwNVE3TEp4aXFTeERmZmM3Q0dxdE9fbUE2a1dwak5mX3BXbjVJbnlsS3J2ZHU?oc=5",
+        "source": "전기신문",
+        "description": "[BIXPO 2026] “에너지·딥테크 기업, 세계시장으로”…전남나주 강소특구, 글로벌 진출 교두보 마련 전기신문",
+        "pub_date": "26.11.05",
+        "section": "innovation"
+      },
+      {
+        "title": "인천, 바이오 생산 넘어 신약개발·창업까지…글로벌 혁신도시 도약",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVUW1OMXl6ZnpPRDBVR0VxWElmaDVQbzE1a0NUaE1BQnRIR3ZZMkhfQ0QwMnNKV29qRDQ0TGllQ2dybTNTSDVTWU1FeDNvQjZtZE5lQkljV1ZSM2l1RnN1bkNR?oc=5",
+        "source": "경기신문",
+        "description": "[특집] 인천, 바이오 생산 넘어 신약개발·창업까지…글로벌 혁신도시 도약 경기신문",
+        "pub_date": "26.11.04",
+        "section": "innovation"
+      },
+      {
+        "title": "40년 신뢰의 K제약바이오 '규제과학 혁신'으로 초격차 미래를 열다",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vZ1VtWHhHcFpKVjdGMlVsaldRWHhDSUxDMkxUNXo5VkN0dVU1VV9IOTI0T0JYcDNkR0wxdGt2MUY2cGdNN0pNczFNeXh1dw?oc=5",
+        "source": "전자신문",
+        "description": "[ET시론]40년 신뢰의 K제약바이오 '규제과학 혁신'으로 초격차 미래를 열다 전자신문",
+        "pub_date": "26.11.04",
+        "section": "innovation"
+      },
+      {
+        "title": "화성특례시, 'MARS 2026' 개막 열기 후끈…투자 유치·AI 산업혁신 본격화",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEX2ZraFB4dWw0a3o0SVFLemQzNGgyTUpHdU5fZGVhdE9xbFF0MzRraGVtQmlCdFVVT085WXBDSllRckplS0tmWURydFlfWURYb05Fcmo1a0V0UkFSN280cA?oc=5",
+        "source": "메트로신문",
+        "description": "화성특례시, 'MARS 2026' 개막 열기 후끈…투자 유치·AI 산업혁신 본격화 메트로신문",
+        "pub_date": "26.11.04",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "news": [
       {
@@ -900,187 +1081,6 @@
         "source": "미주중앙일보",
         "description": "엔피엘옥션, ‘부실채권 정보 조회·입찰’ 플랫폼 서비스 출시 미주중앙일보",
         "pub_date": "26.10.26",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "news": [
-      {
-        "title": "147일 만에 타결된 HD현대重 임단협…한화오션도 마지막 관문",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzc0U0VhMmFJMmJJaEZJTjl1RVg4YUxPWmY2TDVaeDhjdzBGblMtbHFuSjl3RTdHVTg0SXRFcDJGVF9TajNXMlZZMHhSN3VMME1FVnlB?oc=5",
-        "source": "지디넷코리아",
-        "description": "147일 만에 타결된 HD현대重 임단협…한화오션도 마지막 관문 지디넷코리아",
-        "pub_date": "26.10.28",
-        "section": "hr"
-      },
-      {
-        "title": "“HR 동료 한 명 생긴 느낌”…다우오피스 HR 도입해보니",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12dEZuYlYteS1kUTBla09vb3JmOXRLOEk0a19HdURuVXd1ZWktaTZRc0J4cGMtSENlTUgzQkhMa2l5bm10UWtFQ3QtZHJGQQ?oc=5",
-        "source": "전자신문",
-        "description": "“HR 동료 한 명 생긴 느낌”…다우오피스 HR 도입해보니 전자신문",
-        "pub_date": "26.10.28",
-        "section": "hr"
-      },
-      {
-        "title": "한국수목원정원관리원 'AI 활용 채용 혁신' 인사혁신처장상",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CdWpnWE5reUJsTnlhQm9lWTBabUFtYjg0MjJtWFcxa0FVS1pnY3BDMTNHbW5KNF83N3pkMVRfSkRUUkdtMDBJMXlUbk1SamczRnFHSUZIUzlkaGxXam9aTw?oc=5",
-        "source": "뉴스1",
-        "description": "한국수목원정원관리원 'AI 활용 채용 혁신' 인사혁신처장상 뉴스1",
-        "pub_date": "26.10.28",
-        "section": "hr"
-      },
-      {
-        "title": "\"목적을 안내하고 가능성을 일깨운다\" 손미향 글로우손대표 인터뷰",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SdUVOTWJfTWJvVk1adXprRW9Hazhmdmt1Sk9vRUFvSmsySnV4aTJkYnUzS25XVEw2RkFZX0p1RlRUcFJVNHJvYlA0TVdFQ1lwbUxOcHhETWRGZkdxbm0xZ1prU3lsUndZMGFMT0xCYk8?oc=5",
-        "source": "한국강사신문",
-        "description": "[브랜딩연구소장 인터뷰] \"목적을 안내하고 가능성을 일깨운다\" 손미향 글로우손(GLOWSOHN GROUP)대표 인터뷰 한국강사신문",
-        "pub_date": "26.10.28",
-        "section": "hr"
-      },
-      {
-        "title": "헤이지니 전 직원, 급여·산재 서류 공개하며 재반박…“연봉 25% 인상은 사실과 달라”",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzVG42R21sd3ktQ3pVY3RMUG1DRTdzME1RVlZVU0J5MmZTeDU5QnE1eXdsRHI5SjBkaUg5UmN2ZVVITExaclNjSU5SV18ydWF5RHdZUkMxQkxpMDQtU0HSAWNBVV95cUxNMjVSTHhJWjlIX19qN0pPbXdjUS1zUTlSS1JGdlBCOFg1aUt5TXA4ck9zNXliN3VaS2FLbXhaM3JJU3ZjTWF4SG42WkgwNldRMjZzX0FHQmowWVlQU2xTdDRlU0E?oc=5",
-        "source": "스포츠경향",
-        "description": "헤이지니 전 직원, 급여·산재 서류 공개하며 재반박…“연봉 25% 인상은 사실과 달라” 스포츠경향",
-        "pub_date": "26.10.28",
-        "section": "hr"
-      },
-      {
-        "title": "Danantara, 국영기업 구조조정 및 전략적 투자 가속화",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNN3hTbG1LdWo0U2JMTmdKYzJoN0hXeUlnNXZMZU1tYzkxZWFDYXlOVk1rbGRRQjBDUnFFZ3c2V3VtZDVPZm5JemVfaFd1dTJZUmp2cy1QYkIyeGU5eFBPc1lFejRub2hrT0Z6SC1kM25nSWZuUTlyUGM5bU5nM0NJSW9XcjEwWjVudzNBa0Qxdm5KZFN6aUQ2Y09mU21VSWhLWGNMLV9sc3JIVktadXZ1U0lwa1FCaGJUbFFhUGxpMXgyMUNqNmQ1aVpqdHVELXJCZzYySUprZmNkLTBwYmJDMVRmM0pMaWtYOEtmaUFHOE84MGJPX0NGWDB0VEdXU2VUWU5xcURVemRKUFBsc190WlBhTUItSWdyOE5OdFFWOFFsXzdETGtCS1c0bmE2WkdiZXpHNjU2UQ?oc=5",
-        "source": "IDNFinancials",
-        "description": "Danantara, 국영기업 구조조정 및 전략적 투자 가속화 IDNFinancials",
-        "pub_date": "26.10.28",
-        "section": "hr"
-      },
-      {
-        "title": "오라클, 클라우드에 구글 TPU 첫 탑재…세레브라스 추가",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhR0dVa1JiTFJSc3hXU3ZaWVhKRUloSFpGdTd0UHVucTNjOXNPV3MyYmdWUTF1UlF6enE2bC11amRldTk4ajM4Y1FxWXhQWG03aGJkTmxxZl9oZG_SAWBBVV95cUxNQlI5a2lXcTJ2SUFPMUliNVY5YVlhMVNlT3BkbzlqWHAzWlRwRk9BVXdDRTJTMUpmZGNUUjcwcU1JZURWZEl0NjJVRGNvZ2JZZV9lWF9vTGF0dVAza3BiRmg?oc=5",
-        "source": "연합뉴스",
-        "description": "오라클, 클라우드에 구글 TPU 첫 탑재…세레브라스 추가 연합뉴스",
-        "pub_date": "26.10.28",
-        "section": "ai_tech"
-      },
-      {
-        "title": "대구·경북, 피지컬 AI 제조 로봇·반도체 인재 3천 명 육성… 국비 600억 원 확보",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZV1pSZFZPVlVzYnBOeFlZNkM2VlpXUFh0cWVoLWlwUllVRUcxY3JwNDVSdXk1ZHhkcTZ4S0xqYmlPb3JMSlpPTjhPTGd1enpTbk1OUmxJTEd3SlA4OFlUV3QwUS1BZw?oc=5",
-        "source": "기계신문",
-        "description": "대구·경북, 피지컬 AI 제조 로봇·반도체 인재 3천 명 육성… 국비 600억 원 확보 기계신문",
-        "pub_date": "26.10.28",
-        "section": "ai_tech"
-      },
-      {
-        "title": "보건산업진흥원 '바이온 GPT', 과학기술혁신대상 금상",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WTY0V1RqQkNiOVVkVDhteDJMVTRYUFVVVUhJb01XTFNIWHIxejZVUXhZNVFEcDJpd09XUVItUU55Ymx0cTM0bjRvUXBKZ2pTNUxLcVJfdFh6cjNCYVh1WkplVGdGQ3VpUjFJ?oc=5",
-        "source": "히트뉴스",
-        "description": "보건산업진흥원 '바이온 GPT', 과학기술혁신대상 금상 히트뉴스",
-        "pub_date": "26.10.28",
-        "section": "ai_tech"
-      },
-      {
-        "title": "AI가 업무 줄여도 '생산성' 별개…'병목' 풀어야",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wQVB4Q3JyQjk0ZmcyVjhFUmFwNXVVZ2pFTk80VGFFS1RJNjA4ZXpVRGpCSXZ4RkxpOVk2NXB3QzAwNk9TcHlsV3AzaUotWmR6Q3Q5ZkNjN2JqdnR1SWVJX20tSVpvbWFlQ0Fj?oc=5",
-        "source": "비즈워치",
-        "description": "[SFS 2.0]AI가 업무 줄여도 '생산성' 별개…'병목' 풀어야 비즈워치",
-        "pub_date": "26.10.28",
-        "section": "ai_tech"
-      },
-      {
-        "title": "조정식 의장, 영국 대사 접견 “AI·에너지·공급망 협력 강화해야”",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ydHVNaWp2U0NUMmFmQlNxMWNoOUFiNGt4b1FrOW0td3pmSmJVcW5qeDNoQ1VxWmdmS3djQlhlci1waXY0U3A3WFQtQTJaVS1GdnZ5b3dma21iZkJTSVN5ZkZWRzFhTGJFMlhJOFk3OGpqdTVX?oc=5",
-        "source": "파이낸셜리뷰",
-        "description": "조정식 의장, 영국 대사 접견 “AI·에너지·공급망 협력 강화해야” 파이낸셜리뷰",
-        "pub_date": "26.10.28",
-        "section": "macro_industry"
-      },
-      {
-        "title": "LME 비철금속 및 환율 동향",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xazEtOW1iSndBNDNwZUVkaWFqWkNSaW4zSjVYanNVbDE2U1BtNDluUGNnbUloekVzeHVOWnhOSk9MV0d4ZVhNUXdVZngzNEhzdDY5Rno4dldNQmVIWWhFbS00TU1zT3ktNFE?oc=5",
-        "source": "철강금속신문",
-        "description": "[표] LME 비철금속 및 환율 동향(10월 27일) 철강금속신문",
-        "pub_date": "26.10.28",
-        "section": "macro_industry"
-      },
-      {
-        "title": "반도체 실적 호조에도…2개월 연속 기업 경기 전망 ‘부정적’",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsem9xczNyamRjV1kyRmN3S3dBUElLN24xOTRQNHZYcmVZakNPMTF2WE9TTXRFeVZYYm1wblJHdkJhYzMtckJZU3kyczg1RWdhMDNxNnVwQWVqVUowVnlRX3FxZFI?oc=5",
-        "source": "서울경제TV",
-        "description": "반도체 실적 호조에도…2개월 연속 기업 경기 전망 ‘부정적’ 서울경제TV",
-        "pub_date": "26.10.28",
-        "section": "macro_industry"
-      },
-      {
-        "title": "국토부, 공공기관장 불러 주택통계 손질 논의",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lR0hhMjFiNnk4dEw1b0RmX3hnSWUxWnRqcHpuOERlbmM3ZVlnVmxET09Jcmhnckc1R25MMzRXYUFpN3AyMG9SRUgxX1ZCdUhZUEwxZGx0a1hKYnc?oc=5",
-        "source": "뉴스1",
-        "description": "[단독] 국토부, 공공기관장 불러 주택통계 손질 논의 뉴스1",
-        "pub_date": "26.10.28",
-        "section": "macro_industry"
-      },
-      {
-        "title": "인공지능산업융합사업단, AI 스타트업 10개사 투자유치 지원",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FOFNCN0FtQWZFMWlfcDRrUjRPVFpXbTl4ZVpzTmFIMmZFb0dTenl3ekhCWXpvTmVaOXZZbFlzenRzQXBxbGhVZjVWdUFaQUp5S1hwQUpBRU1fYkU3ZHdCRkFYRE1jQQ?oc=5",
-        "source": "벤처타임즈",
-        "description": "인공지능산업융합사업단, AI 스타트업 10개사 투자유치 지원 벤처타임즈",
-        "pub_date": "26.10.28",
-        "section": "invest_ma"
-      },
-      {
-        "title": "래블업, 11월 3일 코스닥 상장…공모가 1만9000원·예상 시총 2768억원",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRXJNQmJ3cjE2bDZVaWpkY3FpdW53RjM2eFo4Rk9GUmNoUVhVdk9lcXA0MVIzNnByWWRpbWJNN2txeFVJQTZQaG1KcGtoM2M?oc=5",
-        "source": "벤처스퀘어",
-        "description": "래블업, 11월 3일 코스닥 상장…공모가 1만9000원·예상 시총 2768억원 벤처스퀘어",
-        "pub_date": "26.10.27",
-        "section": "invest_ma"
-      },
-      {
-        "title": "베트남 기업 ‘글로벌 진출’ 가속화…해외 투자 확대하며 다국적 기업 도약 모색",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0UXY3aWV5d1hJbnd5V19zaXNQczBsSm1PX0RhOTVGUnB1OGJmaVY3TFZSSFdGT1laMzhaU1NIWlhONHRVNG5CS19JY3dmbmpVYU56cmphMHJFQlZIX1ZiRTdNbVZXUWI0bjcwMWswV1Y?oc=5",
-        "source": "굿모닝베트남미디어",
-        "description": "[특집] 베트남 기업 ‘글로벌 진출’ 가속화…해외 투자 확대하며 다국적 기업 도약 모색 굿모닝베트남미디어",
-        "pub_date": "26.10.27",
-        "section": "invest_ma"
-      },
-      {
-        "title": "Anthropic IPO 흥행 시 수혜 가능한 AI 주식은?",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jWG8tbU53QmMtajd4UDZIeUh5VEV6RldlbFdkQm5fLVctcWJjalpqblZFYXZrakJYbmcxaW1qejFJRHZ0UTUzSEpHckxUYVRtU2pfb1BBRUwxWGJWVktTRUJnM2NQQjRtdjJkTFZ4Mng?oc=5",
-        "source": "Investing.com 한국어",
-        "description": "Anthropic IPO 흥행 시 수혜 가능한 AI 주식은? Investing.com 한국어",
-        "pub_date": "26.10.27",
-        "section": "invest_ma"
-      },
-      {
-        "title": "충남혁신도시, 젊은 인구와 미래 신산업 집중",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TYkV5Y1QxaWVVMlUtdlIzVTNYZzBjWkZOcGF4Ri1zSmtZWFdjTl9oTFFENTVUbHlQU3NqZDdTUUJDYkZhUm1RU3BreGVsMERQVzFCb0NOQWc3TEg3UmZzVmdPRDdLNHd0UDNxNGhR?oc=5",
-        "source": "충남내포뉴스",
-        "description": "충남혁신도시, 젊은 인구와 미래 신산업 집중 충남내포뉴스",
-        "pub_date": "26.10.28",
-        "section": "innovation"
-      },
-      {
-        "title": "\"남극 데이터로 전통주 빚고 화장품 만든다\"…극지 기술 상용화 나선 10개 스타트업",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hSzhUc1RhZ1k3a1pEZ1otMF9JWmROdzFTZ0h2R2RWZUYzQkpnNEc5bHUxTjlDV3J2S0xUWEw4T2UzVGV4dEZRVU5ZYkZlSWN2bkFaOWJvSzZWWGZhOVVnNnhjVVBlbHhVU0pJ?oc=5",
-        "source": "비즈월드",
-        "description": "\"남극 데이터로 전통주 빚고 화장품 만든다\"…극지 기술 상용화 나선 10개 스타트업 비즈월드",
-        "pub_date": "26.10.28",
-        "section": "innovation"
-      },
-      {
-        "title": "KTL, 광양분소 개소…지역 혁신주체와 협력·전남권 산업혁신 지원 본격화",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90VFVMa0JCRW56djIzNFJsMVZsUFNVS19FMU9YbXBNT0pHVDF6THl1MzBVTHRtbHRlZXFwUjRmY21BYXI1bnF0LWo1LW5taTJoZnJHck5uVkdtb0pQaTZUNFhoSXdyeVk0eE9hallMQU1IT0VS?oc=5",
-        "source": "부산일보",
-        "description": "KTL, 광양분소 개소…지역 혁신주체와 협력·전남권 산업혁신 지원 본격화 부산일보",
-        "pub_date": "26.10.27",
-        "section": "innovation"
-      },
-      {
-        "title": "시흥시, 연구개발부터 산업화까지…경기도와 AI·바이오 산업 육성 협력",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zT3JKVFlKWTBudHI3YVpMNWx1NTEtYnpCNTA4N2JDNktoQTE2R1BoX04wd1Itb1NjdEFsTUVrUDJQSWg1dnZfbS1qN3BQdw?oc=5",
-        "source": "전자신문",
-        "description": "시흥시, 연구개발부터 산업화까지…경기도와 AI·바이오 산업 육성 협력 전자신문",
-        "pub_date": "26.10.27",
         "section": "innovation"
       }
     ]
