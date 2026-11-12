@@ -57,7 +57,7 @@ NEWSLETTER_SUBTLT = "Top Trends to Start Your Day"
 EMAIL_FROM_NAME   = "상상인그룹 인재경영실"
 
 # ─── 버튼 링크 ───
-INTRO_URL         = "https://ssihr.oopy.io"           # 인재경영실 소개
+INTRO_URL         = "https://goodwon89.github.io/HRCOE/"         # 인재경영실 소개
 ADMIN_EMAIL       = "jangkeunwon@gmail.com"            # 구독 신청·취소·실패 알림 수신
 SUBSCRIBE_SUBJ    = quote("인재경영실 Morning Briefing 구독 신청")
 UNSUBSCRIBE_SUBJ  = quote("인재경영실 Morning Briefing 구독 취소")
