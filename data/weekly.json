@@ -1,0 +1,61 @@
+{
+  "week_label": "11.02~11.06",
+  "enabled": true,
+  "metrics": [
+    {
+      "label": "취업자 수",
+      "value": "2,926.6만명",
+      "change": "전년동월 대비 +11.3만명",
+      "trend": "up",
+      "source": "국가데이터처 고용동향 2026.9월"
+    },
+    {
+      "label": "고용률 (15~64세, OECD 기준)",
+      "value": "70.6%",
+      "change": "전년동월 대비 +0.2%p",
+      "trend": "up",
+      "source": "국가데이터처 고용동향 2026.9월"
+    },
+    {
+      "label": "청년 실업률 (15~29세)",
+      "value": "5.4%",
+      "change": "전년동월 대비 +0.6%p (악화)",
+      "trend": "up",
+      "source": "국가데이터처 고용동향 2026.9월"
+    },
+    {
+      "label": "신규채용 계획 기업 비율",
+      "value": "66.6%",
+      "change": "전년 대비 +5.8%p (2025년 60.8%)",
+      "trend": "up",
+      "source": "경총 2026 신규 채용 실태조사 (100인 이상 500개사, 2026.3.12 발표)"
+    }
+  ],
+  "reports": [
+    {
+      "title": "2026년 9월 고용동향 (국가데이터처)",
+      "org": "국가데이터처",
+      "desc": "취업자 +11.3만명, 청년(15~29세) 고용률 44.0%(-1.1%p). 청년 취업자 14.7만명 감소. 이번부터 15~34세 기준 지표도 병기.",
+      "url": "https://mods.go.kr/board.es?mid=a10301010000&bid=210&act=view&list_no=447479"
+    },
+    {
+      "title": "2026년 하반기 대기업 신규채용 계획 조사 (한경협)",
+      "org": "한국경제인협회",
+      "desc": "매출 500대 기업 중 51.2%가 하반기 채용계획 수립(전년 37.2% 대비 +14.0%p). 채용 축소 계획은 25.8%로 감소(전년 37.8%).",
+      "url": "https://core.asiae.co.kr/article/2026092814392609833"
+    },
+    {
+      "title": "Global Talent Trends 2026 (Mercer)",
+      "org": "Mercer",
+      "desc": "전 세계 약 1.2만 명 대상 조사. 임직원 '업무 번영' 인식 44%(2024년 66%), AI로 인한 일자리 상실 우려 40%(2024년 28%).",
+      "url": "https://www.mercer.com/en-us/about/newsroom/mercer-s-global-talent-trends-2026-report/"
+    },
+    {
+      "title": "2026년 신규 채용 실태조사 (경총)",
+      "org": "한국경영자총협회",
+      "desc": "정기+수시 병행 채용 35.0%(전년 22.6%), 직무 중심 채용 강화 72.2%, 채용 시 AI 활용 확대 30.6%.",
+      "url": "https://www.hankyung.com/article/2026031266707"
+    }
+  ],
+  "_guide": "매월 고용동향 발표 후 수정 → main에 push. enabled=false면 섹션 숨김. trend: up|down|neutral"
+}
