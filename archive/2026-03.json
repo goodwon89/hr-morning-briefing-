@@ -1,0 +1,722 @@
+[
+ {
+  "date": "2026-03-31",
+  "news": [
+   {
+    "title": "SAP코리아, 젠틀몬스터 글로벌 통합 인사 관리 시스템 구축",
+    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZzRzbW5tQWlsdWJwY2xPX241eVRzT080bmNGYzBPYUUzLU9GcTRPMHNJSXpGUHlQYXcxVnF3YzBUajBfZG1YeGJLZzR6OG03dFZuSjZKRklqdkFka2hES2UyUDNWUm85SHo0ZEY2MFpsSk1IZ0ZPYUhyVjhOWHJ2UzJMVlFnLU5VeXlQQmpCckNyM0dMQmVWT1A0Skg3OE92SFZpTENDd2VZMGh2ZnlxMl90VTU4YlU2ekQ0NHhDQWdEd2VVOUZuYjF1TzFfZGc2cmhqXy1feGZ4VVJBXy1waXVWbHd5dHpUbEZyUVZKME1Ed09XcGZtNVhheTJGeVFjWkpsQW5jaVRxWGNlMjhkSGloMHo5YTctbF9NYm1YaTlBMkhYX0hNSVpud3NFU3ZZZDVjakVVNVdDSmEyS0JvZF9SYlhMaGV0?oc=5",
+    "source": "SAP News Center",
+    "pub_date": "26.03.30",
+    "section": "hr"
+   },
+   {
+    "title": "정부, 내년 예산 90조원 구조조정…‘적극 재정’ 기조 유지",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NcS1jN1REMDNwUF9jODctY2xuaG13V1V2cGR4ZUJjOElVeEw3QUVSUWJNZlFMX1Z1YjUwSnlzNHVuTEpvVTVYRGpNTk52aFVZaFhsUnpac2Q1b2JfR2Y2eDFmQUY4c2VZR1JaX2ZR?oc=5",
+    "source": "mstoday.co.kr",
+    "pub_date": "26.03.30",
+    "section": "hr"
+   },
+   {
+    "title": "제일파마홀딩스, 경영지원본부 신설…지주사·자회사 임원 인사도 단행",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcUVOdTF1b2YxaVB0b0hsTFMtejFZbzA2bVhmNFhvSkwzbVZwTVhqZGl0cDVpLWhGa2ZWSzNabWt4WUIwS3F4TEE5YWhSRTdaN3Z3aDd0cGdhRkZLbWtIaGRkSGtZcm5DaXRvUC1B?oc=5",
+    "source": "팜이데일리",
+    "pub_date": "26.03.30",
+    "section": "hr"
+   },
+   {
+    "title": "동국제강그룹, 32년 연속 무분규 임단협 체결",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBScUlkQjVHYmJQUVNXaTBOSmh4Zm1WcU5pSXd2MWZFM3FKaWU3TFZZQVpxeEg4eUhzYnA1MjBnUWFUeHVubC1GM2hIaDVsUWF6UDVDN3Nja1NVR19CRXB1a0ROVE1lOHlaaG9uQQ?oc=5",
+    "source": "페로타임즈",
+    "pub_date": "26.03.30",
+    "section": "hr"
+   },
+   {
+    "title": "동국제강·동국씨엠, 임단협 무분규 타결",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBS0tMT1dHVm9TTHdlVTU4OFQzRzhMWGdMQ3JOOGo1SmtabHFjTHNac3BvUlZpekxPYWJYcDdYX1o5b0VDVDQ4MXRUVzdseTgyelM1RV9zYW5odkJNeEMzejlGRk1HRnkwU2dhLXoxSE_SAXBBVV95cUxQQUtLTE9XR1ZvU0x3ZVU1ODhUM0c4TFhnTENyTjhqNUprWmxxY0xzWnNwb1JWaXpMT2FiWHA3WF9aOW9FQ1Q0ODF0VFc3bHk4MnpTNUVfc2FuaHZCTXhDM3o5RkZNR0Z5MFNnYS16MUhP?oc=5",
+    "source": "글로벌경제신문",
+    "pub_date": "26.03.30",
+    "section": "hr"
+   },
+   {
+    "title": "한국도로교통공단, '생성형 AI' 업무서비스 도입",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12Vkp3QTdBRDJOQ0M3SXpIeHlNejRIclNRTlB0R3ZfbVpQc3UzaFVDbWdGeVhlMTRSZjN4SGVNVTdqdHNlS08xTg?oc=5",
+    "source": "브레이크뉴스",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "이노룰스, '이노에이엑스'로 새 출발…AX 기업 전환 선언",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XVHhlVy03UDhTR2NIaUFpellwdVFEVEpJZ3F0N1pUN2dZbGRaRlVkZWd1M3VfbGRZZmJQemVGdmpFRzRsYU5PZVFHV3hhWU5aTkVoeWl3?oc=5",
+    "source": "지디넷코리아",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "“공공·금융 AI 전환 더 쉽게” 국내 DX 솔루션 1위 두 기업이 손잡은 이유",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQbDVXUFIxaGFfUW0tc0I0V3NXQ255ZW94MDR3MmJSQ2hwZ2E3aWUzNDJZemIyRmlpYUc5VnhETS1zemc5NDlvVmtsVkk5bnhuTjUtVVplRlU0QzFPNkVtV25sVDJkQmhPd2tzbTVrZGxGQS0wQXR4ODFRQThXVEFTaXphMFM4SERwZlJrSHpzZVdtVkZkSjF0WkhYTXZBRjNJWEFJcjZTS19kWkJvT09oVnMwZ0xGQk5fS2JJSHhud2pNdElMNGdzTWJuMnI1TkxDOXZzVFluVG5mN2hJZnczdjFrRExzMFZwb0Qtams0eGVpbVgyMTRUUFlLd1BjX1JtNjRpRDFZa2FRQlVTLXFNRmxSQ2hKWXdLNmtjM0dzLTg?oc=5",
+    "source": "디지털 인사이트 DIGITAL iNSIGHT",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "협동로봇 경쟁 축 바뀐다…두산로보틱스, 턴키 내재화로 '플랫폼 전환' 시동",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ITFRHRGRXOTlZX1lyTHFBMEp4UW5GT3o0blk5R1pHdi1GU296MWRfWVNqSzd3Y0Z2U0pfMURmUk5DQXJROGgzeUNzek80VlAxRklZ?oc=5",
+    "source": "네이트",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "글로벌 증시 동반 하락…금리 상승·달러 강세 압박",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xX2JkZENia2pHRnhKQm5Yck1hUHFZdWdfS3BKNzMwbWJNVHNHZWd4anpPSHR4TjE3Yzh1SmZPZExnMmNlUWRSTUtqQjJjd0E?oc=5",
+    "source": "v.daum.net",
+    "description": "[3월 넷째 주 세계경제동향 브리핑] 글로벌 증시 동반 하락…금리 상승·달러 강세 압박 v.daum.net",
+    "pub_date": "26.03.28",
+    "section": "macro_industry"
+   },
+   {
+    "title": "의약품 제조업 내수시장 위축, 수출은 확대 전망",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVDFRcnNfU1QyZlEyaTd2YnhzLXJOVkJ2YWpTTjRySGlDWk5NandsSDBzV0ZSTkNUUm1BSmt0OHlnNzlHUnlqTUFsYnBKMmYzTGFvMUpiNGlJdmJIak1ucFhzWEpiWkk?oc=5",
+    "source": "의약뉴스",
+    "pub_date": "26.03.27",
+    "section": "macro_industry"
+   },
+   {
+    "title": "중복상장 규제 '가시화'····6월 가이드라인 앞두고 IPO 위축",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BVTM1UFdxUjB3WEFKLWVLWThremwxYm5JdVhOZGFFdXV2QWRJMGRwNVNVenRDX0NUS1ZQYWUwb0tRNW5fYm5HeTNDRGt4dHRfeUlpSzg4TURPVUg3ZzN4TXBBamxlQVcwckE?oc=5",
+    "source": "서울파이낸스",
+    "pub_date": "26.03.30",
+    "section": "invest_ma"
+   },
+   {
+    "title": "래브라도랩스, 145억 원 규모 시리즈B 투자 유치 外",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TV3c4YUMtU1A1X20tcGg5UE9rcGlyR0Fud3praFYtQnJwYV9oSmQ5MVMtWDY4QzBiS25KLUFsWUhWRFFyVTBsaWJURUk0OWFRa3hNMjBMUG15eW1PTXpCcmM1UWNUUkRrOTBjUE1Zaw?oc=5",
+    "source": "동아일보",
+    "description": "[주간투자동향] 래브라도랩스, 145억 원 규모 시리즈B 투자 유치 外 동아일보",
+    "pub_date": "26.03.30",
+    "section": "invest_ma"
+   },
+   {
+    "title": "광주시, 'G-유니콘' 기업 5곳 육성…\"14개월간 집중 지원\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yaXdQU2pNSjJGaXRhdGRrcEo1TW5ERFRQWjh1TFFBNkdoU1JBdU13R2NDb0ZmdC1yM2lxdnZEcF9TRmRLNTRuZ29WakJwaGtVS2NWSFdfRGVRWXBELUdJ?oc=5",
+    "source": "뉴스1",
+    "pub_date": "26.03.30",
+    "section": "invest_ma"
+   },
+   {
+    "title": "\"창업기업 발굴·지원\" 광주시, G-유니콘 육성 프로그램",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40S2szMWxuVm00aXphR2VqdWczemNKTDJfTEN6X1hQczJHZGhVUV9MdkFRMDE5bjJhdTU3c2xCbjJXcUFuRk82YW96OGJxMEk2MXQ2TkpUalpnUTFMSFh5StIBeEFVX3lxTE5wdHJMRWZfN09sdi0xRE9Bb3RKS2VQV3ZBZDBLNkpmek40OVZQa1Jud0dPYlhReHJlb012Ul9kdFRMT0NNRW5oN2lmZmFlZVpvVEh2Yi0zaDVmYXBINTFBQXZlOTNIQ0VQNURpalNOMWNBN2VBNUNaXw?oc=5",
+    "source": "뉴시스",
+    "pub_date": "26.03.30",
+    "section": "invest_ma"
+   },
+   {
+    "title": "산업연 벤처 생태계, 창업 중심서 전주기 성장체계로 재편 필요",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OX1JTcjVBaUdCd1pIRlYtUDQ1SVJaa0M3RjN3N09YRHpxeVhWbTY2ZldWRF9UMm8wSzY1RjdpR3k1b01oM2lpRFRSdmZaRzhjRlJFWmQ5QkLSAVhBVV95cUxOTl9SU3I1QWlHQndaSEZWLVA0NUlSWmtDN0YzdzdPWER6cXlYVm02NmZXVkRfVDJvMEs2NUY3aUd5NW9NaDNpaURUUnZmWkc4Y0ZSRVpkOUJC?oc=5",
+    "source": "아주경제",
+    "pub_date": "26.03.29",
+    "section": "innovation"
+   },
+   {
+    "title": "AI 기반 해외진출 의사결정…슬로크, 딥테크창업사관학교 선정",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QMno4Z3NXcWxmSF9xM1NVZ0MzeHdJQlFpM3R4YVpzMm9hYWxEdk5mdVZwRG8teWktME84WjluWGNPYnFobHBPTzh5Z2Zib05vdHhmcjlqVjV3RDE4S09MeW5n?oc=5",
+    "source": "매일신문",
+    "pub_date": "26.03.27",
+    "section": "innovation"
+   },
+   {
+    "title": "디캠프·한국무라타전자, K-딥테크 스타트업 일본 진출 지원",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rMFFkNi10dXg0RmVHaHVGQVNhNkZXV1Y3M2lCakNsazYtbTlyeGtqMG9RbnU4bU1PQTZubkhJVnN2VVlRbmVtNDVoWEdUWHQ1WGtiQWhUYmJVelZfOVRvbXBRR2NkWDdy0gFsQVVfeXFMTXhMbXk3Q3c3UUxTa2pSZzd5LU54OEJGa3p6Q09vdHBuNXRSMk41M1hTNERpcUlESDZ2NDA5Uk05WU1HblgzTXlpTlNrZlkzcWRqQ3UxRWNuZE5VVW81d3dOVTRKaUlKcnZyTE5f?oc=5",
+    "source": "스타트업엔",
+    "pub_date": "26.03.27",
+    "section": "innovation"
+   }
+  ]
+ },
+ {
+  "date": "2026-03-30",
+  "news": [
+   {
+    "title": "산업부 \"경제6단체에 자율적 차량5부제·유연근무 당부\"",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UnpXcW16bFlPbVM5aFdfTG4zNlExM1JMWVphRHMtcjhwdUdnTHJCRDlIOGxaZ0JsS2RMWEN0Qm50dXRsUmlzZnpETm9VVEdsT2tpUTRncm10UjlfeXNueTVHYW9wbzA?oc=5",
+    "source": "e2news.com",
+    "pub_date": "26.03.27",
+    "section": "hr"
+   },
+   {
+    "title": "한국앤컴퍼니그룹, ′컬처 에이전트′ 도입…조직문화 실행력 강화",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zdEZsY3Rxb0YyU0RHam51cktDbWtQOVFiZTYxWVdaTmZ6TzMxek5LUzhLSmY2d0hmcGpIS1NQX3JPLUxaM0xNaktKdTZhYmFZdlYxSE9FX3lsZ3FiNTBqTldlQjdJN0ZLSkJZMUFISzZ2QdIBckFVX3lxTE8zdEZsY3Rxb0YyU0RHam51cktDbWtQOVFiZTYxWVdaTmZ6TzMxek5LUzhLSmY2d0hmcGpIS1NQX3JPLUxaM0xNaktKdTZhYmFZdlYxSE9FX3lsZ3FiNTBqTldlQjdJN0ZLSkJZMUFISzZ2QQ?oc=5",
+    "source": "메가경제",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "청주시, 공무직 정기평정 제도 도입… 인사관리 체계화 나선다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xcEpLb0tWY2ZIaFotdGJwRW9ic0RXcFMwX1FVU3FwRGR1eFd1RUMxYV9GZXhYSS1MZG5DUkJIWTI0aDFqd1NaTEhxZ21XSWVGckR1MXJFNnpLdUZMai1saDkwWE5rdjNWUU1QUXk3TQ?oc=5",
+    "source": "seoulcity.co.kr",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "군산시 역할바꾸기 시정공유회의 도입으로 조직문화 혁신 시도 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2LWdXZlBzRi1JbEQzNlFBem9yR0RTYnkwUjNoeEd5aTExM2FPMjNzM3Zwd0JnUXNKQ3VaM21TMUEyQVFTYTM0aXc0am1vcm1tWEtZdVhCaGk3NVNKdkFLbmo0M0ViS2hYX0JYdXdlSXE?oc=5",
+    "source": "더코리아",
+    "pub_date": "26.03.24",
+    "section": "hr"
+   },
+   {
+    "title": "에너지 대란에 '재택근무' 검토 나선 정부... 쿠팡 '주3일 출근제' 관심",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRMGEzdWxnRS05M2FzM25EYkxWNUpKS19PNThKb3ptQXVnU2tieFB0cnlsNTV0OXkyeHhHVmhtRjVUVldQY09kSzdXYzc1YS1tWUhVLWNJZFBVNXRLNEFIMmxaSGRFRTdOdnc?oc=5",
+    "source": "mt.co.kr",
+    "pub_date": "26.03.24",
+    "section": "hr"
+   },
+   {
+    "title": "한국도로교통공단, 전 직원 대상 '생성형 AI 기반 업무활용 서비스' 개시",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cFZCdzRCMVkwUUg2Zm5hU29IUm4yQzJZZ05UUTgxWW9nYmJUYVM1Qm9XczVCZVhpMmNBRmNnRzR6c0xoMkNLUEhDNVZ0OUlveHUw?oc=5",
+    "source": "네이트",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "기업 AI 도입 늘었지만 성과엔 '물음표'…전문가들이 짚는 해법은?",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OV1doQkVVV2tyN3Bja09ZeGdtMXFnWXJkbDhhdEVmcWhpVm5RMWdGYnpGYTJTV1VmYUp2ZDVJYXFTakNNYkc5aTUyNWxPVWNaWl94cDdCVUc2aXdUeVFz?oc=5",
+    "source": "헬로티",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "부산 강서구 생성형 AI 활용한 지역사회보장협의체 위원 역량강화 교육 실시 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwTjd1NWdBdGJhUkY5ZG5Iem5UdklfWXhyUGtBM2p4Uzh4U1c3a1RSOUlLNkNSNnZpTzh5V2tBT0ttZzVUdG1rUmVLOWVZdVRhWHdFT25FOGZEcnY2QWE1OUlpQkltRFBLSnpDVkV1SW8?oc=5",
+    "source": "더코리아",
+    "pub_date": "26.03.30",
+    "section": "ai_tech"
+   },
+   {
+    "title": "시흥산업진흥원-네이버클라우드-안산시, ‘시화․반월 제조 AX 수요·공급기업 매칭데이’ 개최",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BY0t2Y0k1dGl5OHlQZzlSbTVtR25qVTBhdkhuMDE4dnhkQ0UxMjNGdnJDTEhpNExiVXNJNWh0eC10NDd4Y2VGTEdwY2g1eFIyNlJTbmxucUtnTEtaQXd1c0ZGVGw?oc=5",
+    "source": "경기신문",
+    "description": "시흥산업진흥원-네이버 클라우드-안산시, ‘시화․반월 제조 AX 수요 공급기업 매칭데이’ 개최 경기신문",
+    "pub_date": "26.03.29",
+    "section": "ai_tech"
+   },
+   {
+    "title": "‘고유가·지정학 리스크 확대’…대체에너지 종목 급부상",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUG0yU1BNX0hkeThXZmx0MGpldUJVU0FhMkVrM1dYdmpfUzVqTXZLbmNsWlNxay1KTW4tNnFFcldqT2xucngxS21Sb29ySjRYUFRaNmZJVi11VlUzMF9sRHotYzdJV3pm0gFsQVVfeXFMTUM1M1YwUHFvOHZ4WGk0ZjdMYjZvSmxvTkdKc0V6Q1JiVGpqUXJqTU9sa2ota1BYZ0ZzZDVMaFJMQmFhRWVEcGNYVHk2Z0R2RTRlVWx5OHBZMC1EWE9vQnVLM2g4b1dqUnNLRTB6?oc=5",
+    "source": "직썰",
+    "description": "[추천주 직썰] ‘고유가·지정학 리스크 확대’…대체에너지 종목 급부상 직썰",
+    "pub_date": "26.03.30",
+    "section": "macro_industry"
+   },
+   {
+    "title": "휴전 협상에도 이어지는 불확실성…경제지표에 쏠리는 눈",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56aHJoZXYwclpzbTFFRE1abXFNRm0yeXVESkh4MGtQdnM0cW1CWC0xUlpWV2xDZkhLV3RDUFI3dDMtNW13OGtuSDVMRkRFWTc3VVMyedIBVEFVX3lxTE56aHJoZXYwclpzbTFFRE1abXFNRm0yeXVESkh4MGtQdnM0cW1CWC0xUlpWV2xDZkhLV3RDUFI3dDMtNW13OGtuSDVMRkRFWTc3VVMyeQ?oc=5",
+    "source": "한국경제",
+    "pub_date": "26.03.29",
+    "section": "macro_industry"
+   },
+   {
+    "title": "韓국채, WGBI 편입…美 고용지표·韓 물가지표 주목",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rSngzQWdkUUdRRElFaHpYajlhOTE3VnJ1Q3l4bVlZVEN6RjBiajV0eVlQb0F4WXp0UGpxTU1jTlIxM2MySl8xbEl3OUNodkU?oc=5",
+    "source": "v.daum.net",
+    "description": "[글로벌 경제지표] 韓국채, WGBI 편입…美 고용지표·韓 물가지표 주목 v.daum.net",
+    "pub_date": "26.03.29",
+    "section": "macro_industry"
+   },
+   {
+    "title": "중동 정세·한미 경제지표 주목…코스피 5300~6000",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRnFJemhNSzR4X1JjVzE4ZmN0YURFYmM3WWpZdmtJMmJwa3g5VHlhRDFMNDNRN291amE0T3NtVEJ2RGlDdEdoc1JCXzNCSWlRYm9aZjRvVDdZOW9WdjM0UXhYdWx5UHl3TXdhSmZ1OVNtaGpSTXJ0bE9BRDk0SnFSck9EWDM2QkUtcnlreTRWRHMxR0QtamloYldxOE5Fd1J6eWxEVU1nN0kwOFFtRlFHZHpOMjhPdHNmRkx2Ny1YSXV0VkdQNHRfVklnRl9YbGxtOHFIR1oxYTdGd2R1cDAxbE9PMWtxZmdLalJCRmRXeF9Idk92VXdYYndoVlNIa1FmRV9WSERHbElVQnNIdklmaDMwT1FVOC1m0gGbAkFVX3lxTE9VaXE5X1djOWpGajJkUTU0cXVxRnBXekFfLTNnZVEya2I1MmMtMklPNGQ4Z200UGw3TE1FS2RMejJIbml6NXRvX1lvbVBVN3QyLWhZbzNxMm0yVG1vMGl1dW9fUkRCWFAzT2VQTlgyQ2wyZ1dEUjFMSDVyeDhITFEzQTU4R0FVOElic1pGeS00RnFNbkVvc0wxM25SSGlNSmxLVkRmbXFxMExyMGV5X0JvRUJ4NjU3aWhjSS12dDNHQzlYdWNqSllPd0JYRTM0TG1RTVpobnd4cVV0enY3bnJNSXBWNXpRYzdxY19sby1uSlJoWFNCT2VsQmxiMXlvbTB2dVhoSjBZUG16c3BvQ18teXJOSWVaV08tNTg?oc=5",
+    "source": "데일리안",
+    "pub_date": "26.03.29",
+    "section": "macro_industry"
+   },
+   {
+    "title": "죽음의 계곡 탈출 더 어려워지는 이유",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqd20yRWdEODg1YmpBZE42OTQ3VnJkQ19SOTFKTFBYQUI1U1NzQS1IOE50bmJyWVoyWUoxV1BDS1J5UE5IZlFSdnlrVjVkUlZHQWpRZG9iMXcwSHQ1LTVzd3R6NU50cjZrcHNZNzQtNA?oc=5",
+    "source": "스타트업레시피",
+    "description": "[StartupRecipe] 죽음의 계곡 탈출 더 어려워지는 이유 스타트업레시피",
+    "pub_date": "26.03.30",
+    "section": "invest_ma"
+   },
+   {
+    "title": "MS 손잡고 스타트업 해외 진출 지원… 120개 기업에 408억원 투자 - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNkRHd1JUeUV6WS1fYmcwOWdhbUl4WElESUxubjdwNXM5Nkw3T1RwUW9fZzBFYVp5VmN4Q0d5bFNVTExVLVN1Q0txZFZ5eFVfcG53S1VHNXhhV1NmVVZNQkJoRFdJSUxEUC1ER0NEWTRiN2VOUmZLQlZaN0Q3SmhUOTZOZTNNd0Fy0gGcAUFVX3lxTE5CNTJtNWItYjd3UUNVRk1fbHhveUJhWkJ6TF81VEo2bDVPYl9oNnhHLTQ1UDZDLWVOT3pZNzNSR3Zsb0lDQ3k0aURYbGN1ZkhRVVZadG9CZ2JEY1hsdFJYb2h5ZVBYdUNLbUxhdF8tNEcwZmwwYlU5SnRoVXBGYzAtOEduVGRhQXpRRjhoRTRkaWlXb1RwSUlQTFhVbg?oc=5",
+    "source": "Chosunbiz",
+    "pub_date": "26.03.30",
+    "section": "invest_ma"
+   },
+   {
+    "title": "신약서 화장품·의료기기까지…제약사, VC 품고 직접 투자한다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkcTNUYWVNNE5MNXAxNVRGWjhiRldBOERqUGJhQXNlQjV1UldjVXZBNjdrTFNkUDhJWW43WDZxVlc5MWRFcjRNenpsc0h2REx2cmfSAVNBVV95cUxOT21HYmE1a3U2YTdQN3pYYlFpbXlvNjc0WmlHNENVaUkwWGpfekVoelpGMXBrRERvaDZoektYdUdBZTY2bF9tbEdQTnptaDRwUGt6bw?oc=5",
+    "source": "서울경제신문",
+    "pub_date": "26.03.29",
+    "section": "invest_ma"
+   },
+   {
+    "title": "\"양팔로봇·BMS 반도체까지\"…모험자본, 딥테크 투자 이어간다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nY1ZVbGJoM09sSkJIYVU5d2FEbGxiVVFzeks4Y2RneUNYUHJ5MGhPb25aWkliZGUyNEJGbFl3bW1ETWZxR3hGY0FvNmJtMVJ5U3VrZWFFdHpnVTFUbXdlRjN3a2U4aUVYajhFVQ?oc=5",
+    "source": "유니콘팩토리",
+    "pub_date": "26.03.29",
+    "section": "invest_ma"
+   },
+   {
+    "title": "인천대, '해양수산산업연구원' 설립...수도권형 해양 신산업 육성",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZjZOMXRBWElEWjhfS3BTN1hFN1kxUnltZEVRYkZpQjYyYXhqVGpuZGlCVlE0cHppUk14YlpkVFY2RW1FdHhUc3BCTVBIZEZMMjV0OEMxUTJvb2V0VGxLZGdBdDVHMFhIZHJJ?oc=5",
+    "source": "미디어인천신문",
+    "pub_date": "26.03.30",
+    "section": "innovation"
+   },
+   {
+    "title": "\"외형성장에 치우친 벤처 정책, 이제 전주기 지원으로 바꿔야\"",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZTM4REhVT2U4c1h1Ym9FWU91TjJTWVB4LThrTjBQV2o0RkwzWjB0UUJQRGZDak9zV1FRd2VqQkpZSWlNZzVBYzFUR09raWE4MElNSWNSMFppVDJYMXNEWHJZQmVlNXlUX3ZqTDlid3lkVldj?oc=5",
+    "source": "부산일보",
+    "pub_date": "26.03.29",
+    "section": "innovation"
+   },
+   {
+    "title": "한국 스타트업 생태계 진단: 5년 연속 창업 감소 속 ‘테크 편중’과 ‘성장 지체’의 딜레마",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EYXlDanBWY0R6akFFQ2lFc0JZR20tWHptVzJnWVdORDUzT2lNWGx2dFNLQl9rMjJ6YXhUOFB1V2EzeEVCamNnMHBNTF82LTJVUnN3YjBfbTlXay1hQVRTSFFUR0pKWEY5UDAyNENMMDA2MFZE?oc=5",
+    "source": "코리아비즈니스리뷰",
+    "pub_date": "26.03.29",
+    "section": "innovation"
+   },
+   {
+    "title": "유망 스타트업 1200개 팀 키워낸 산실…울산형 창업 생태계 세계로 확장한다",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tWU13dU1sMV9nbkJ6TVBPZlBqUUZEY0NablJuUEp5cXNZaFpfRElnc09xQXNQUS0td1hUVTZlalJWMEpNSkJuTExyTUloT2RQa0xiM9IBVEFVX3lxTE0tWU13dU1sMV9nbkJ6TVBPZlBqUUZEY0NablJuUEp5cXNZaFpfRElnc09xQXNQUS0td1hUVTZlalJWMEpNSkJuTExyTUloT2RQa0xiMw?oc=5",
+    "source": "한국경제",
+    "pub_date": "26.03.29",
+    "section": "innovation"
+   }
+  ]
+ },
+ {
+  "date": "2026-03-27",
+  "news": [
+   {
+    "title": "이번 해고는 미국 본사뿐만 아니라 글로벌 전역의 직원을 대상으로 한다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBkMjdYVXVtTnlIWE4tbHlCOEt6NEhoNWpIR0Nva0ptaFBXMHZYSG1SR1FmN3dRRUpJMmFiVUhNdm0?oc=5",
+    "source": "AI넷",
+    "description": "[메타, AI 투자 속 인력 구조조정 단행... 영업·채용·리얼리티 랩 타격] 이번 해고는 미국 본사뿐만 아니라 글로벌 전역의 직원을 대상으로 한다. AI넷",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "車5부제· 유연근무·AI 전력관리··· 중동전 한 달에 재계 '총력 절전'",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cVh3R1V2aEJidk9CX3EzWGhtR0dFT1hZZnQyV0x3LThhNnhGaHBqaThXNjR6MjhLMGNaN1M3TnlfWkwwSUo4cUl2Nl91T0xyQi1tbXZUYVhzX0JwSmRGOHV2NzZEUkhoLWF0TW1wMThwWVRXeXfSAXpBVV95cUxQU2F0UmQwUFFzZWZDQi1mZE5ZOU1MTEk2UUg4WV9OSEQ3Zkk1b1V3SHVqRjhkZS1pd1dGNTN2dHJmR0ZmclFDTWVmSnRMaVF0XzRYMEc2SDNySDh6Vmh4ckRDQ1gwRlRHRDd5Z2Jwak5aWXdnU0lwcV9Ydw?oc=5",
+    "source": "그린포스트코리아",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "한국앤컴퍼니그룹, ‘컬처 에이전트’ 제도 도입… 조직문화 실행 체계 강화",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RWHJJUnJoWUxqZ1hJSU45YjZSQWt2SUY1VlRPYjM2a2gwM0hROVZiOWZHNkh0cm9acWhUb3RPaGk3YVdUeUFyZEF1bDNSZE9kTzBLNkhUMTRQVm9NTkZSb01IS01WakY1a2lRRWN3cEpGUdIBckFVX3lxTE9RWHJJUnJoWUxqZ1hJSU45YjZSQWt2SUY1VlRPYjM2a2gwM0hROVZiOWZHNkh0cm9acWhUb3RPaGk3YVdUeUFyZEF1bDNSZE9kTzBLNkhUMTRQVm9NTkZSb01IS01WakY1a2lRRWN3cEpGUQ?oc=5",
+    "source": "팝콘뉴스",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "헤사이 그룹, 임직원에 78만주 RSU 부여..핵심 인재 확보 강화",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zRi1FNGNKYlVSRkJGSXFSUHVmNmc3UTkwUmdINmtLQjFCT1B5RnV3VWY4Y0NxcXBwZmJFamhZckdsazBFa1ExY2EzdGVPNzFCOVE?oc=5",
+    "source": "매일경제 마켓",
+    "pub_date": "26.03.25",
+    "section": "hr"
+   },
+   {
+    "title": "\"AI개발사 넘어 AI산업 선도\"...아크릴, 창립 15주년 기념식",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fWjZLVTRINlMwbEYyMDJCYk03TGdMQ2F0cWJIN2JETlZSdFIzaDVNVlhCMkVzQ3BETEZGaTBOX0o5MDc1QlRNNFBfRmxHb2VVUFh6aXJB?oc=5",
+    "source": "지디넷코리아",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "MS, 'AI 투어 서울'서 에이전트 도입 사례로 KT·인핸스 소개",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vbVFBMTB4Unp0Y1pOM2xZbU9yWVdiZFhlNWFLMHVkYmpyajMyMFExSExOczVxUmdzVzNvNzA4WFZDclJUeEZxSS1XSVBaclZvVWxzdEJmUGE1Mm4wQTJoMzIxc3JWSVRKaHc?oc=5",
+    "source": "AI타임스",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "영남이공대, 재학생·교직원에 LLM 기반 생성형 AI 무료 제공",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tWXRJaGNMUU90Y1BMYWlFVVlWYVRuRVd2YmxpTjFPN3NfNC1obW5YcGdtV1IyYlJDTWpQemhHVEhnSnN2djF1bENHQ25jX1lyeWV4Skp3?oc=5",
+    "source": "중앙일보",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "사천시 ‘AI교육· AI비서’로 공직혁신 가속. 행정현장에 인공지능 바람불어2025년 도내 최초 전직원 AI교육·AI비서 도입 조직명도 ‘AI데이터팀’으로 개편",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMWhkNnhuWTNnT01KaDBWZHpkQ0taTTV3V3JWV29NMXdMbzk4Yi1ETlNncURLR0Q1VWUwNVRXZEI2bzlTYlFoZmRCSFNhU0JtZUNoMzlsR3RnRDB1UVlfV1YxZkvSAWhBVV95cUxOWmcxbl9WUVZMdzFfQUpfQ1JhYlpXYV9ZYjNGUzV6NUdoRXFKc1ZTdG5TRUJWYnhISFVOR3lrY0tQWERaeE9MT21EUXdMV2Y2M3RoZngzVkdYM292dEd2RVltOFRhX1V0VA?oc=5",
+    "source": "경남뉴스통신",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "중동 긴장 고조, 글로벌 경제의 향방은?",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03YnlBX2dFX05iN3hWRjlkcXM3YVZQanp5MGNuQkNva2wyU01ETHVmMGlUa0hPeHZBRmxsek95M1dfeUthODItQ1hwVGNzOWc?oc=5",
+    "source": "환경감시일보",
+    "pub_date": "26.03.27",
+    "section": "macro_industry"
+   },
+   {
+    "title": "STO 반쪽 도입 우려…“스테이블코인·규제개혁 필요”",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52bXRkanhRdnV3S3VMdVZpczZlXzN2X0tDRlVkRTJ5Q3NQWThEZzJoSVhvcTZfbnhnbmdZRHRSVkx3bWozNWIwWnNZM3BKZXJvajhIcDZHLXlqRUplLUlobW95SHFNOURCaE1EQVlFRGdkSTA?oc=5",
+    "source": "마켓인",
+    "pub_date": "26.03.26",
+    "section": "macro_industry"
+   },
+   {
+    "title": "미국 경제와 연준의 딜레마: 한국 경제는 안전할까",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0RFhTRW1ZbmJpVFNYYUZoT2MyQVppdnJuLVBYenE4Vk9rYS1fX29lbk1zMkp5VzNvZDdIeHhMcFZSMUxXSEh4UVZTcng?oc=5",
+    "source": "한국AI부동산신문",
+    "pub_date": "26.03.26",
+    "section": "macro_industry"
+   },
+   {
+    "title": "미국 경제의 방향, 한국은 어디로?",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLcGtoR3NHYWNTNldXLXBhNDNqOFZFd2U2X3dvV0Y2Vy1BcWdsWFliUllrMFlGNEhNUVdQSTN0QmJmQ2dUb1hnZnQxSEw?oc=5",
+    "source": "브랜드경제신문",
+    "pub_date": "26.03.26",
+    "section": "macro_industry"
+   },
+   {
+    "title": "하이브랩, IPO 주관사에 SK증권 선정…상장 준비 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96eGV1S205SVFiSGJPNkl0ZnZkaHUzMzYxU0Zobm5GZnI5aW5iR1hEekpDYXlxMGlfRkV4WDk0ZWJhZzBNUkxvcXhzZ1hlV242ZGtEMUF2S05iTGFSUERJRdIBeEFVX3lxTFBKNlljRFRqLWxBcTJ6TjI3aEdYekhYMTdPdmdZdXVDbTVQd0dORmEzSzBFUTNhQndFWlY5TnlENk02R1YzLTdhYnBUYUwtVkZlYWtPVTJ2V1UxdEVuTG5RX1RFbkx2Umo2YTFfUFBQR2VHNDJiTVljbg?oc=5",
+    "source": "뉴시스",
+    "pub_date": "26.03.27",
+    "section": "invest_ma"
+   },
+   {
+    "title": "\"인류는 탈모를 극복할 수 있는가\"…탈모시장 향하는 VC들",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVU3dPbVpxU256ZjRpaXdBVmpwQkpqNTAtdU14OFZON2ZZWTRXZ2NHX2lyejVWc2xOSWdJREtHRGN5TVFaY0poV3A5Rjc4Z0d6RXY2N21JVVVkMmk3dW9MTldR?oc=5",
+    "source": "아시아경제",
+    "description": "[VC는 지금]\"인류는 탈모를 극복할 수 있는가\"…탈모시장 향하는 VC들 아시아경제",
+    "pub_date": "26.03.27",
+    "section": "invest_ma"
+   },
+   {
+    "title": "물 만난 방산 드론업체... 니어스랩, 몸값 2000억에 IPO 출격 - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajcwQjFkNExjU1ZlVi15Sm5lbDgxU1BFU2xjYVh1bXZVQjk5ZjlzOXRXYkdOdzNoMDg3anF6bzNfZy1zZ045RmE3VUFLeVZZSG5KckNXTnVaMVJhQmxJSElRZDJrNnNGV2dGTWViZHJhYnYwSXJPQXNvSW9ZUUhtdkZfT25nSHfSAZsBQVVfeXFMTWduVFZCaVE2YjZzdTRFcFFvdUk5M0NaOFBTSFJ0dDhLZmdqN3dncFBnX3o0b2tBbDdVTzdtd250cFdIenBOdFMyM1NHZ0FWeEZSYVNub2x0cDRUblRPcVJIa0xVWG5RWWNJdUtZOWVNZlNIa1ZwbDdGcG0yaG4wdWtXVzJ4YnJrbXlrRlNGNWpsSURxOG05WDN0d2M?oc=5",
+    "source": "Chosunbiz",
+    "pub_date": "26.03.27",
+    "section": "invest_ma"
+   },
+   {
+    "title": "'3000억' 상속세에 가업 포기…'청호나이스' 팔린다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByN1J2ZFJVbDljRUFWS1VSM2xmU1hILVJYREZ3UFBRYUZtZTljbXkzdUFkZ1VYNW14V0Y5ZzhpSHh4OWs4OGF2Vmg0Sm5Uak0wTkRnMG8wcXVEZ9IBVEFVX3lxTFBTZ2hYSlJXRXE5NE5fWktCbUZrSU1GLWFhUWtReHl5ck1pUERhU3BLaEU4NFQ0OTF0WnFqLWJhM0hseTFVaEJwUjZGSmVYQ1hYZEV1aA?oc=5",
+    "source": "한국경제",
+    "pub_date": "26.03.26",
+    "section": "invest_ma"
+   },
+   {
+    "title": "3년간 1.1조 계약 터졌다…K-스타트업, 글로벌 교두보 된 '이곳'",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWN2NZOEdSYm9VczdhdGpFNG9lN09HbFdPWlpBcWs3WFJZQXJDNUdza0dQTklySllibE93c2N3WXVKQlN1LWpDNE5lWklwNnFETVluelBHUG1RamNHR1BhWA?oc=5",
+    "source": "네이트",
+    "pub_date": "26.03.27",
+    "section": "innovation"
+   },
+   {
+    "title": "SK쉴더스, 글로벌 인증기관과 손잡고 국내기업 해외진출 지원",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3MUtNRS1LSGVCOWs1ZWhubmhpWlBGdHFFNnd1cDlpb3pZWGVPNXFQRVVpUFg5QW1MWVd1YWlwTWI2azAxTEF5R2hYZmtKUQ?oc=5",
+    "source": "dt.co.kr",
+    "pub_date": "26.03.26",
+    "section": "innovation"
+   },
+   {
+    "title": "‘2026 미국 소재 한국계 스타트업 맵’ 공개 및 현지 진출 동향 세미나 4월 개최",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05eW94bUZPYnRONUhISHFQZEJuVTFtc0pqSWMwSTFaU2VkcWNvTE1saHBuOU1DQXRFdDA3Zm5jbkdqampacFE?oc=5",
+    "source": "beSUCCESS",
+    "pub_date": "26.03.26",
+    "section": "innovation"
+   },
+   {
+    "title": "정부, '모두의 창업' 추진…국민 창업가 5000명 발굴한다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IV0pBWTFCRlAzbmFPNkxNdG5hcVZSSWNWSVRpcm5nNkpPZVdRaE9mcmwyWGF6MkpybEg2MkRDV21qWmxmakF3dVhGUlZLaHNWZWRINE1iNDlleVVRZ0xyOTAtWWx1cWxxS2JKcw?oc=5",
+    "source": "대한민국 정책브리핑",
+    "pub_date": "26.03.25",
+    "section": "innovation"
+   }
+  ]
+ },
+ {
+  "date": "2026-03-26",
+  "news": [
+   {
+    "title": "한국앤컴퍼니그룹, ‘컬처 에이전트’ 도입…조직문화 실행력 강화",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yZlZ4TU9TQmVYZXJIaHFNbnZBdU1nazh3ZDVXMkxncHZhQTFrTWJfX1AtQldjUzJoOGdmYk5UWDliNS1VVnFzME1ldnh0Y1ZRSkhBeWk5dDZNUjdnOUNuMk94ODBqMHR6T1VMQUkyR2LSAXRBVV95cUxQRFhtT0VwMVA0UEI5SDFueUUxLURtODlFaVo0eUJraHpSbFgtZk1COGlhU1ZuanZBelJrV0h3Q2NKNjg2Slpwa3c2NlBobVFaWnFpOG0wcm1MeXlKWTZpOGJyU3pLV1gwN0xPc0pBWWxBWEo5bA?oc=5",
+    "source": "포인트데일리",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "LG전자, 역대 최고 컬러 '더 넥스트 올레드'로 프리미엄TV 세대교체",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQbmExWWRQQlFGakw4ZHBtQm5zc245YzR2cnFhcGJFTk9aT2phZlVhbmcwY0NIdlZOV3hzbHZKTXFqbHJGRlpoUWc2MkZPMDV5VzRQaFFXWVVCeU9zdGdSaUpxbXlyd1EyM1NRMkg3Vm1sZl9r?oc=5",
+    "source": "파이낸셜포스트",
+    "pub_date": "26.03.26",
+    "section": "hr"
+   },
+   {
+    "title": "대전 화재 14명 사망…안전공업 대표, 중대재해처벌법 적용되나",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MejZjLUMxdnNjaXRXQ0pXWXFBcUZLb2xxN0VOeUxmQjQ3VFoyM295MHEzcDlPcFAzUWk2MnlYZVlGaDY0ZE5TMkdpS1Rfa1kwWl9CSUx2VmplamZ0ZzlZVVp0MmY?oc=5",
+    "source": "bntnews.co.kr",
+    "pub_date": "26.03.23",
+    "section": "hr"
+   },
+   {
+    "title": "에이블런, 실무형 ‘생성형 AI 활용 역량 레벨 테스트’ 공개…진단부터 교육 설계까지 일괄 지원",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BWnVKOFJwR1MwOWR5VHZ2QjRTMmlNUmYzOGFQUEFRaTEtVnptYkg5R0I3Q1FJajVNVzl2dGJLYnRPcm5SUWxUbw?oc=5",
+    "source": "플래텀(Platum)",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "춘천시, 공직자 대상 생성형 AI 실습교육…업무 혁신 속도",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYUhOb0dXS3A0SklnbzBfMHRfZERfS2JIc1EyNEtQOUhiNkwwMzdpdUE5Y29HUjh4X1gxYkFaa3UyMFd0U2lDV2dhS2Q0XzZ5NDQ1S2t1SFcycTlDZzJybWlJZThfNENfSGpjOVotMno?oc=5",
+    "source": "신아일보",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "에이블런, ‘생성형 AI 활용 역량 테스트’ 공개…기업 AI 전환 교육 시장 공략",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FcnNFUWxiMUxhYUt2MXIyamlXODVVRHdjVU80RUlCNmZPWC03SHcyRG8zempmRUtNN3dHUHpGMzZCbUxHcEFHRjJUaGloNkN6aGZkQzlHT1d3a2Fnd2JqdzhCa1E4M0VH0gFsQVVfeXFMTjdidWt6RmliQ1RURXZxQ3Zmc0FwcVN3c1FJOGk1UGx3Y0tHVFNPcVBKcjU1XzJyOUV3Vm9ldEU3WmphT1dxbllSc0FSNVdSWVBiTUpCZUxIOFQxSDZBczZIa1d2ckRTMTYzYm54?oc=5",
+    "source": "스타트업엔",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "국민은행 \"올해 AI 에이전트 200개 도입…고객 경험·서비스 강화\"",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FN2lHekNURXo3WTh2b2MxQS1Odnd3dG1IUE1KUUEweVBtVE84S1BzZ3VENEh5dkd5QmZrV2Y5NzFaQkItanRFVGhLc2pKVzJ4QTFVQU1n?oc=5",
+    "source": "지디넷코리아",
+    "description": "[현장] 국민은행 \"올해 AI 에이전트 200개 도입…고객 경험·서비스 강화\" 지디넷코리아",
+    "pub_date": "26.03.26",
+    "section": "ai_tech"
+   },
+   {
+    "title": "73조로 불어난 테마형 ETF…'트렌드 투자' 열풍 속 경고음",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41dUdtb0pQclg5UTFkSGFPMDVDT3NhVzdhcWlHdGs5T0w1MHZwT2VFTTVsOVdLYU5VbG04OWM4ODZCR0RCREdOaUFDeXYxQnlKVmd1T1JYay1sTFhwcHZFcUNIcjNTc1dmaXgwcQ?oc=5",
+    "source": "미래경제",
+    "pub_date": "26.03.26",
+    "section": "macro_industry"
+   },
+   {
+    "title": "연준의 딜레마, 한국 경제 영향은?",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zOFN5TFotVmRuNGktOG85LTdlT1pGcTJVbWJYd1BYZ1d0cFp2NWVWS3pnM3dELW5kWDBSUWV1d1VHeUhWcU4wa2pBUmhIX00?oc=5",
+    "source": "환경감시일보",
+    "pub_date": "26.03.26",
+    "section": "macro_industry"
+   },
+   {
+    "title": "국민성장펀드 50조원 '투트랙' 가동…벤처 '데스밸리' 해소 나선다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wb3NrWlJORVVmYnhVdzA4NVZpVDdzTi1HX3NFVm1HY1FJQWZ2cjV1U3BVUjRhQkZ2ZlVnUUFjVmVpZ3I4ZWNPVkw2VGZqU2VPaTA0Z1Nqd2RhclIyeUtmVzVUaVN3ZnhHdDZLbzc1QzU2dw?oc=5",
+    "source": "프라임경제",
+    "pub_date": "26.03.26",
+    "section": "invest_ma"
+   },
+   {
+    "title": "빌 게이츠 브레이크스루, 美 우주 태양광 스타트업 '아린나' 베팅",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81azhSa0o5Nm1mR3U5TklUR2tPNGNTVEladHlaZkF5cnp2SVZMZVJNYVZWVzRoMmRULVh1ZU9YZ0w1dDdVU0JFNDdONGtxLTRiOUVTMWsxdEM3LWV2?oc=5",
+    "source": "더구루",
+    "pub_date": "26.03.26",
+    "section": "invest_ma"
+   },
+   {
+    "title": "유니콘 못 키우는 한국…\"창업·투자·사업화 단절\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTnR5bllMQ3lMUlBEMWp3YzVtc1VDay11VFJTbXlqV3NuUDRVTkF6eFVWZmJtdXY2ZmNObWUwVU9qYmh0RV92R3BMb054V0tFUkg0NVBtMmtTeUgtbmRqeA?oc=5",
+    "source": "네이트",
+    "pub_date": "26.03.26",
+    "section": "invest_ma"
+   },
+   {
+    "title": "아주IB투자, '4호 PEF' 앞세워 폐기물ㆍ재활용 기업 인수",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JMHVfcjBRVGZTMEliNEl6d3l1X1RHSU13R3JoWk03MXRPS1R4Z1hGS2ZFZkI0VUp2SlF2WVFTMFNNa0pMQkxNSTZOa2o4REc3OVoyaGRodnB4QmxnSG1ha2tQMEZjWWdJSmJN?oc=5",
+    "source": "numbers.co.kr",
+    "pub_date": "26.03.26",
+    "section": "invest_ma"
+   },
+   {
+    "title": "SK쉴더스, TUV SUD와 협력해 국내 기업 해외 진출 지원",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdDFqbXYtV3hXWjlqd1I0SHBIZ0ZJbTQ4WFdqR2hfQm5MV0VKVEVtbzY5aVZ2UWJQNUh3YVRXcHVXM0UxLS1iMVoxeW5Oemc1SXZPUmg3Tm15RXNWRkQwcGQwbU9vRUJYZkNzbw?oc=5",
+    "source": "데이터넷",
+    "pub_date": "26.03.26",
+    "section": "innovation"
+   },
+   {
+    "title": "SK쉴더스, 티유브이슈드코리아와 MOU… 해외 진출 기업 글로벌 보안 지원",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwVFVBd25meUVSM1g4azY0WkVoaVJ1RzVlS2pLV2lqVGtrSnJsRk9BTXZQeXBwYmJxZjF1cklMU3NYRExJU2FXOXBKNFJrM2tIT3NkY214RmxETmkxZzgzU19XQ0FaOTA?oc=5",
+    "source": "핸드메이커",
+    "pub_date": "26.03.26",
+    "section": "innovation"
+   },
+   {
+    "title": "“법령 몰라 막막한 규제 장벽, 컨설팅으로 뚫는다!”... 에스와이피, 혁신기업 규제 샌드박스 원스톱 지원",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdnpqclh4MzRCcUdXS1NRVkZRdlVBbE9fU3ZvaGVEUV9KbVlQX3htUkVOWWtnY2xDdUlaNmNrdE82d2hGRE1NSDFHWEhoTVIzd2J3OUVrQk5EcFlwUGtwNXpVTGhEclXSAWtBVV95cUxOdmcyVXZvZlNiaE1jMjZiVExpN01sMTl0WldWSWEzSV9YY1lpRHB4OERRQ3U3RGlxZWFUN0RXZjhNeEdfZElSeDVpalhLaURMek9JazM5Y1ZGT3BZMGZ2VzJDSFpsYnYxZXUyWQ?oc=5",
+    "source": "에이빙",
+    "pub_date": "26.03.23",
+    "section": "innovation"
+   },
+   {
+    "title": "대구시·경북도 \"대학 규제 완화, 고등교육 혁신\"",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82V19vYm1XOUdReTVhNF9lak1QRmdtVzlNbm5OSjN6WVZROHh3N3hsOEdzSFFhT3U0YjdmVFFBay13QXNJdUl5VWtsRHBHeUxadUpoQ1Q5a2dGZFBhOTMwUnJn?oc=5",
+    "source": "매일신문",
+    "pub_date": "26.03.23",
+    "section": "innovation"
+   }
+  ]
+ },
+ {
+  "date": "2026-03-25",
+  "news": [
+   {
+    "title": "에픽게임즈, 업황 악화에 대규모 구조조정…인력 20% 축소",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tWVhEREgzMndjNUtZMjV1SGdzUGxOZndHbTNzNDM1emdLRWExRjVPcEpLeVlNNjFuWjE2MGlGZnBHNmVGZnJyV1JjaDR6aXRZb3pZaHNFZ2t0RzN6dmfSAW5BVV95cUxPX29JMVhJcHZDOHlFOTAzR3RabnBoOGtDTlc0dWZXSWlhVnhzSXI3cnV4WHJUVHVjNFNBd19JMkl2Q05DdnBJNE1TWEE1VWlNS0lFSlZWT2tpWG1ma3pIMXVUSFpmZGxtNHVNbEFXQQ?oc=5",
+    "source": "알파경제",
+    "pub_date": "26.03.25",
+    "section": "hr"
+   },
+   {
+    "title": "‘74명 사상’ 대전 안전공업 화재…중대재해처벌법 위반 혐의 대표이사 입건",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kaHFmbVJqX3pwbi0zamhYUHpIU3dHNXh6TXJyOHhTVklKZnN1UDV6TURDUkdGWWdNYXZCcUc1TVNhNUhOMzF3NGE4NzRUR1ZCS2t3emU2U3hCUHpEZGlXUUNn0gFsQVVfeXFMT3ROOEZQNXJuVW5Gd0xQS1dCSDJnbVZ1RnplVHJUQ2lINmd3ZWNiTHBLUXFTd1RJLWdvNFAxS200ZW9hZlVUbzBPYWZTUXRyamJVWjJpTDZpRkpDejVTN09NNmVuZUpDUWZ6NWZ6?oc=5",
+    "source": "메디컬투데이",
+    "pub_date": "26.03.24",
+    "section": "hr"
+   },
+   {
+    "title": "중동 분쟁 여파로 전세계 '비상'…곳곳서 재택근무·휴교령",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ENFExUUxWaGliNV92bTNYdWJjUEs3R3ZmQ2lrbHRoX2M0cW9JNzJYM29NV0czWmxYbWIxanpKYmNwbHVIbURXNG9uMFBFWnFJNVp1b3JrVXdyd9IBVEFVX3lxTE5KdUp4ZUdXMy00VVVkbTJKMkg1aldLMmpZU2NjT1RCWnU1ZU9kbG12OXh0OWFaWTI4TGlMV1pNR1RNd0xvS3Z3SlZ3RFJGLWRKQXRPTA?oc=5",
+    "source": "한국경제",
+    "pub_date": "26.03.24",
+    "section": "hr"
+   },
+   {
+    "title": "기후장관 \"'차량 5부제' 의무화…재택근무 도입도 검토\" |",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FRklseWI3bDAwLTUta3M0Y2g5ZDJtTUJUVG9wenhSX293SG92QmdtTEVzTXJEYkRzLUY5MjdZWndLblc1S3VKMHl6NGw5dFZCbVlvTEs3R1h0d0ZjeFhUU21ON09DbHlRWU5kLWhDUVMzQXM?oc=5",
+    "source": "대전일보",
+    "pub_date": "26.03.24",
+    "section": "hr"
+   },
+   {
+    "title": "김성환 장관 “원유 위기 심해지면 재택근무 검토…원전도 곧 재가동”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nd29ZbHlSOWk3RHlSX2Nfa09JcF9fMFdmNjJ5NTNkUkt6cUlUSW0zR2x1NllvdHoybzE2OHJCUUJkdXp3ZXY5clZYVDZMdWthOTVPak9na2NrWWFjUk93dXByUkJvUEJSTVc4QzBCRm7SAXBBVV95cUxOZ3dvWWx5UjlpN0R5Ul9jX2tPSXBfXzBXZjYyeTUzZFJLenFJVEltM0dsdTZZb3R6Mm8xNjhyQlFCZHV6d2V2OXJWWFQ2THVrYTk1T2pPZ2tja1lhY1JPd3VwclJCb1BCUk1XOEMwQkZu?oc=5",
+    "source": "전기신문",
+    "pub_date": "26.03.24",
+    "section": "hr"
+   },
+   {
+    "title": "코인회사들 줄줄이 해고…구조조정 공포 확산",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TdmhnMnppZ09IWk02QVR1blI0dUZrZzBNdkRLNGlaQlZPTllGbS1LdGZ2bHlyWno2Y0RmRmplOEZnZXM2MHh5OVhsc3ZTNUFH?oc=5",
+    "source": "블루밍비트",
+    "pub_date": "26.03.23",
+    "section": "hr"
+   },
+   {
+    "title": "마인드로직, 공공 데이터 특화 생성형 AI 출시…행정·입법 업무 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3UWxTbE4yNjBMc1JBUkd6bEZQd09KeWsyOThXU0dzakJEMjdybThUQi1KYTJDdlkxdkU2QkQxZXRlMlJ4dW5Qelh2MTRBcERFTFZKai1YLVFhVXI0bHdKbWgxSF9iM2FO?oc=5",
+    "source": "테크월드뉴스",
+    "pub_date": "26.03.25",
+    "section": "ai_tech"
+   },
+   {
+    "title": "“반복업무 AI로 자동화”…중기부, 맞춤형 AI 개발에 100억 투입",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQWhqdlBZeUI2emFGRmZ2ZERoUThYV3JKMHVjWWYxeS13UVVoVVNESkcwNTV1VEF5S3VoUTRtdmNaQkp6UlF6ajhTYzlCZDBaYVJOellGS29DZll1MGMwcGhPaE8?oc=5",
+    "source": "매일일보",
+    "pub_date": "26.03.25",
+    "section": "ai_tech"
+   },
+   {
+    "title": "부산진해경자청, 제3회 BJFEZ 기업현장포럼 성황리 개최",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2QTIzWVJlbDBvY2VtaTgyLUFIMExkY3I5LVlQMWxiQkMtWktSTHk0Qzd4NVlGanY0TkxCckdJUTJHa2xvNUZDU3JIanlKdGtrLWJDc3YyLVVMS1pIUVEzYjRkTGZERzhBMTV2THJFc29TRWvSAXZBVV95cUxPSENKeHMwamI3SXpNT0FNVnVJd2FCaXJZYWtqUXA2QXhqMWpqdXlJeWNGaDJON0EzWFo5R3d1ZF8xR0lYTERiOGxCQjFpejBHZ1JoSFVQdnR5UWphMjlyT1RMbVBIUUpkak5lVmR6aDJGWXlRUkRB?oc=5",
+    "source": "LG헬로비전",
+    "pub_date": "26.03.25",
+    "section": "ai_tech"
+   },
+   {
+    "title": "“에이전트 AI 시대 끝나고 자율·지능형 비서로”…‘월간 AX’ 런칭",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iM1BkRjN5QTRscW1iM0NFcDYxTk9lTUo2Y1RYcEh0M1FqbHpYVThCSnczOHZ1a1c0U0FaVVVqLUlTNExab3dwam9FejczdUZtS1JfNVFGRE96VnFDTjFsMGRoWlNMN28?oc=5",
+    "source": "교수신문",
+    "pub_date": "26.03.25",
+    "section": "ai_tech"
+   },
+   {
+    "title": "호주 2월 CPI 소폭 둔화, 근원 물가 압력은 지속 By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFZW1WUWNxa1puOTNjbzZQeElUd3VnMkpmbWJOQ3RKaUphb0UzOEI3Tkk3ZFJNWENVQ1JEQnJZczdEZWc1c25wV1gxdTRUeGdVbEhFakFnaEdWbWdCNFpRY29vcmxSYS1fNzFDa2lwMG9jb28?oc=5",
+    "source": "Investing.com 한국어",
+    "pub_date": "26.03.25",
+    "section": "macro_industry"
+   },
+   {
+    "title": "오늘 글로벌 경제지표와 일정",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XZmppVERVQUdVZTk5WEV2czhCdzMzWmNpUmpsMFlLZDBCRlhFTzlCQ25mS0dQRlhMQ1dIaTQyYlRJMGhKWExCR3pWV3M2SWUwQnhfXzctTVVTSjV3SEJRMHdTczhENThYZTdxQ3N6emfSAXRBVV95cUxQOFZXZi1qWEhZRW1iLTQxX0NvUVBmU0xSakdOMW5RejcyWVd3YmxJNGpPTGhnT0Zhdko4Z2NIdmtmeVlldHRUbVpUNlpPZmtJckRYTUxQc0p6aTR4WkVJQVpZTzdRVUxLMHcyaWk2emk2VTU0WA?oc=5",
+    "source": "연합인포맥스",
+    "pub_date": "26.03.25",
+    "section": "macro_industry"
+   },
+   {
+    "title": "“건설경기 점진적 회복, 서울·지방 격차는 여전”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdkZUREZqLWJtRW9SSlRYYk9fVlJkMVRMNEIwU3R0VlhBVkRQa09oZ1RZR1VBaEhKLTl4SFJUbWtjSXRKWW4yT0liMVZuTFZWbk5JWVYtTmpZcXR5VmxYRXptMUlBTnk3a21WNTln?oc=5",
+    "source": "더리포트",
+    "pub_date": "26.03.23",
+    "section": "macro_industry"
+   },
+   {
+    "title": "공급망 쇼크에 비료·에너지 가격 출렁",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92ZXpJTjBRUkVVcDc4T3Vpb2ptWW9kSkJ6TkpWelpfZVhLT0wyaElmdW02ekpZYXBYNzI0bDd0Z0xUcGRFbUNOd0REckd0WmZvclBWMmYzRTFxTW4zZExkSWYwaEFCUdIBakFVX3lxTE0xcVhpWEt6WnpadjQ1dk1ha3B0ZVVTOEdTRGh3Q2tQamNXak9YZDk2cjFQT2FtN3pXcTBsVkRnbW9hUnFaUXQ1VzNfMnlreUtEZU5BU2cyc19PcUxHZ21SYmVEWW0tSk5SYkE?oc=5",
+    "source": "농촌여성신문",
+    "pub_date": "26.03.23",
+    "section": "macro_industry"
+   },
+   {
+    "title": "KB국민은행, ‘유니콘’ 꿈꾸는 청년 창업가 모여라…6기 스타트업 모집",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdkREenYtTnRNNGFiTGZQRjJqbV8tMWttbkJrelZmMVpyb1ExOTZYNWhNOE4xTy1oMGVzZUd6N29HMzdMU2l2d3JvbGJHZVFxSHlCZmlWeFdaekxxTXZLQUwtTGM?oc=5",
+    "source": "PRESS9",
+    "pub_date": "26.03.25",
+    "section": "invest_ma"
+   },
+   {
+    "title": "'배터리 관리 반도체' 아나배틱세미, 150억 시리즈B 투자유치",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JMEFOTzFsWDlBWmppQ25ZZ1RETC1aeV9fM01fME5NdlU4VEtDVzRRR200R2k1LThKQ2ZzTmNSNEdrUENmZ3hZMF9iS3dTeHZTSFNr?oc=5",
+    "source": "네이트",
+    "pub_date": "26.03.25",
+    "section": "invest_ma"
+   },
+   {
+    "title": "벤처투자 계약 불공정 개선 나선다…중기부, 정책 논의 착수 - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdy1hcVN5dHF0UTU0alN3UzM5QVpkdFFVdFZITTMyaUR4N1lBdWRtT0d4UmpDV3p3ZFlmWUxQRWVtcm5wcUhnbXFtOFYtNzlDcmZ3WkY3SUpiU05Wb3Y3Rk1uTWw4VFFPOTV3STNleGUzMkM3eGY1TlZuS2lTUzNQN19MSDNxSHQwOE1uTTl1MkbSAaQBQVVfeXFMT0xDWE83aTdCakRhRER6ZjVmS2s3Z2hYWkcybnh6YnEtdWg1VWttdThwcmF6QTUtTHNVS1JKYTVNU2NiS3psVHp1MDJqWUYxVU9GYTZmbThoNjdpV0E4UVFnUklZSEMxUF8zcnM4RWw1dG43bDJzdUhOakotN0RzREctalZiWk9iNV9pdFVPMDZOUzhCV0MwenlUbEQya2JySk03VkI?oc=5",
+    "source": "Chosunbiz",
+    "pub_date": "26.03.25",
+    "section": "invest_ma"
+   },
+   {
+    "title": "\"모두의 창업 기반 다진다\"…중기부, '벤처투자 계약문화 포럼' 출범",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VenpVSGVkekpMeXFaUGNQREdKMTBVcEl5TVNST2JKQWRnV0RKZnFPVVJoRmVhZDBHTExvSi1Ba2gxX1d0SEFrRDcydXBFN0hIdVJxOG1Va19uUlBB?oc=5",
+    "source": "뉴스1",
+    "pub_date": "26.03.25",
+    "section": "invest_ma"
+   },
+   {
+    "title": "베트남과 독일의 혁신 및 스타트업 생태계 간의 연결성을 증진합니다.",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUENsMXhUWFZETWlOWHdDWEZuV1lNZE54V2RFNHZTZlRTZ0tSYXc1SlBscW9UZDZvbVNZX1ZJZjNTWDBUVlFyNHJZa3ZpRHRuMVFBVlBOaC1DVlowX2p6cUxZYTJLVjFMRlpfZkd2ak8wVElDN001TTNWT1JmX3NvRW1uQUNEeHNlZWV4b0VHMlJXek01MzdQQVc1bTFjdngtWHc?oc=5",
+    "source": "Vietnam.vn",
+    "pub_date": "26.03.25",
+    "section": "innovation"
+   },
+   {
+    "title": "한림대 'Station C-Core' 개소…지역 창업 생태계 허브 구축",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HZmZKVTBLeWxlZzNBcFBHLVFtWlhhYkhnaThpWjJEYzlIekIxeUx4cVUwdXlYVXo4T3JzbERaeFhubXNDbnZtSHpua3JTdw?oc=5",
+    "source": "전자신문",
+    "pub_date": "26.03.25",
+    "section": "innovation"
+   },
+   {
+    "title": "창업생태계 핵심은 ‘관계망’ - 스피커스의 토론 | 내 손 안의 광장, 빠띠",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLQW5RYUo1MENXbGpuNk9WWjA4Z3lncl9PSXZXb3VCUUNubjFBeE51NkpEeFVPcWhCbng2ZUYxcHpKVnRpX3U2WW03VVRkZw?oc=5",
+    "source": "campaigns.do",
+    "pub_date": "26.03.25",
+    "section": "innovation"
+   },
+   {
+    "title": "대구·경북, 고등교육혁신특화지역 변경지정 신청… 대학·산업 혁신 가속",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UbHpoblZ1b2NSMlhKSTRNd0l1czExVW9Rb1ZzdzRBMFNLSmVOVDZxaU5FUkM4bUJSUW0tbnl6SUdYb3NPNEItSGNPanE4TkZOZ0JGNjk2c3UwRGoyN3VweVh1VW9iMU5CTm54S09B0gFyQVVfeXFMTnlXRUJ0dk5USzJnNFNwQjNHYTBJUk9SVjd6Z2N1SFI5VkRRbzJMU2c2Zm1fMmpkTU5ucTFDSG55N3E3NTM2MTRjZXc5MWw0YVV6aURfelh1WmZULXoxb29xX3BTSWhEaXhDdFYzbnRCRzVR?oc=5",
+    "source": "잡포스트",
+    "pub_date": "26.03.24",
+    "section": "innovation"
+   }
+  ]
+ }
+]

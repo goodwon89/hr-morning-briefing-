@@ -306,9 +306,15 @@ function setupMailLinks() {
 /* ── 아카이브 로드 ── */
 async function loadArchive() {
   try {
-    const resp = await fetch("news_archive.json?" + Date.now());
-    if (!resp.ok) throw new Error("not found");
-    allData = await resp.json();
+    // 월별 아카이브(archive/YYYY-MM.json) 전체를 불러와 최신순으로 합침
+    const bust = "?" + Date.now();
+    const idxResp = await fetch("archive/index.json" + bust);
+    if (!idxResp.ok) throw new Error("not found");
+    const { months = [] } = await idxResp.json();
+    const parts = await Promise.all(months.map(m =>
+      fetch(`archive/${m}.json` + bust).then(r => r.ok ? r.json() : []).catch(() => [])
+    ));
+    allData = parts.flat().filter(e => e && e.date).sort((a, b) => b.date.localeCompare(a.date));
     populateMonthFilter();
     render();
   } catch(e) {
@@ -351,7 +357,8 @@ function getFiltered() {
   if (query) data = data.filter(e =>
     e.news && e.news.some(a =>
       (a.title||"").toLowerCase().includes(query) ||
-      (a.description||"").toLowerCase().includes(query)
+      (a.so_what||"").toLowerCase().includes(query) ||
+      (a.source||"").toLowerCase().includes(query)
     )
   );
   return { data, isSearch: query.length > 0 };
@@ -409,7 +416,8 @@ function renderEntry(entry) {
       const meta2   = [src, pubDate].filter(Boolean).join(" | ");
       return `<tr>
         <td class="article-title-cell">
-          <a href="${a.url||'#'}" target="_blank">${esc(a.title||"")}</a>
+          <a href="${esc(a.url||'#')}" target="_blank">${esc(a.title||"")}</a>
+          ${a.so_what ? `<div style="font-size:12px;color:#0f8a8a;margin-top:2px;">▸ ${esc(a.so_what)}</div>` : ""}
         </td>
         <td class="article-meta-cell">${meta2}</td>
       </tr>`;
