@@ -25,6 +25,16 @@
 | `ANTHROPIC_API_KEY` | 선택 | 넣으면 AI가 관련도 높은 기사를 고르고 1줄 시사점(▸)을 붙임. 없거나 실패하면 규칙 기반으로 자동 진행 |
 | `ANTHROPIC_MODEL` (Variables) | 선택 | 기본값 `claude-haiku-5-5` |
 
+## 운영 웹앱 (클릭 추적·구독 관리)
+`apps_script/Code.gs`를 Google Apps Script 웹앱으로 배포해 연결합니다. 연결하지 않으면 기존 방식 그대로 동작합니다.
+- **클릭 추적**: 메일의 기사·리포트 링크 클릭을 '운영 데이터' 시트에 기록 (누가 눌렀는지는 저장하지 않음, 메일 보안 스캐너의 자동 접속은 제외)
+- **요약 탭**: 섹션별 클릭, 발행일별 수신자당 클릭, 많이 읽은 기사 TOP 20 자동 계산
+- **구독 취소**: 수신자별 링크 → 확인 버튼 → 시트에 `unsubscribed` 기록 → 다음 발송부터 제외 (Gmail '구독 취소' 버튼도 지원)
+- **구독 신청**: 신청 페이지 → 시트에 `pending` + 관리자 메일 → 상태를 `active`로 바꾸면 다음 발송부터 포함
+- 발송 명단 = `EMAIL_RECIPIENTS` + 시트 `active` − 시트 `unsubscribed`
+
+연결 설정: Variables `TRACK_URL`(웹앱 /exec 주소), Secrets `TRACK_SECRET`(setup 실행 로그의 비밀키)
+
 ## 수동 실행·테스트
 Actions → "인재경영실 Morning Briefing 자동 발송" → Run workflow
 - `dry_run` 체크(기본): 발신 계정에만 `[TEST]` 메일, 아카이브 저장 안 함

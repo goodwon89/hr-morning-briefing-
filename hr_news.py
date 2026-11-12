@@ -20,11 +20,11 @@ v2 변경 요약
   FORCE_SEND=true → 공휴일·중복·대기 조건 무시하고 즉시 발송
 """
 
-import os, re, sys, json, time, smtplib, functools, html as html_lib
+import os, re, sys, json, time, hmac, hashlib, smtplib, functools, html as html_lib
 from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from urllib.parse import quote
+from urllib.parse import quote, urlencode
 
 import feedparser
 import requests
@@ -77,6 +77,13 @@ _FEEDBACK_BODY_RAW = (
 )
 FEEDBACK_SUBJ = quote(_FEEDBACK_SUBJ_RAW)
 FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
+
+# ─── 운영 웹앱(클릭 추적·구독 관리, apps_script/Code.gs) ───
+# 둘 다 설정되면: 기사 링크 클릭 집계, 개인별 원클릭 구독 취소, 구독자 시트 동기화, 발송 기록
+TRACK_URL    = (os.environ.get("TRACK_URL") or "").strip()
+TRACK_SECRET = (os.environ.get("TRACK_SECRET") or "").strip()
+UNSUB_TOKEN  = "%%UNSUB_URL%%"     # 수신자별 구독 취소 링크로 치환되는 자리
+ISSUE_DATE   = ""                  # 발행일(YYYY-MM-DD) — 추적 링크에 사용
 
 # ─── AI 큐레이션 ───
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL") or "claude-haiku-5-5"
@@ -183,6 +190,38 @@ SECTION_META = {
 SECTION_ORDER = ["hr", "ai_tech", "macro_industry", "invest_ma", "innovation"]
 
 RUN_LOG = {"failed_queries": [], "blocked": 0, "dup": 0, "curation": "rule"}
+
+
+def tracking_on() -> bool:
+    return bool(TRACK_URL and TRACK_SECRET)
+
+
+def sign(value: str) -> str:
+    return hmac.new(TRACK_SECRET.encode(), str(value).encode(), hashlib.sha256).hexdigest()[:20]
+
+
+def track(url: str, section: str, idx: int, source: str = "", title: str = "") -> str:
+    """기사 링크 → 클릭 집계용 링크 (서명 포함, 웹앱 미설정 시 원래 링크)"""
+    if not tracking_on() or not str(url).startswith("http"):
+        return url
+    q = urlencode({"a": "c", "d": ISSUE_DATE, "s": section, "i": idx,
+                   "src": (source or "")[:40], "t": (title or "")[:90], "u": url, "h": sign(url)})
+    return f"{TRACK_URL}?{q}"
+
+
+def unsub_url(email: str) -> str:
+    e = email.strip().lower()
+    return f"{TRACK_URL}?{urlencode({'a': 'u', 'e': e, 'h': sign(e)})}"
+
+
+def webapp_post(payload: dict, timeout: int = 30) -> dict:
+    r = SESSION.post(TRACK_URL, data=json.dumps({**payload, "key": TRACK_SECRET}),
+                     headers={"Content-Type": "application/json"}, timeout=timeout)
+    r.raise_for_status()
+    data = r.json()
+    if not data.get("ok"):
+        raise RuntimeError(f"웹앱 응답 오류: {data}")
+    return data
 
 
 def env_flag(name: str) -> bool:
@@ -590,7 +629,7 @@ def make_linked_text(title: str, url: str) -> str:
 
 def build_article_row(item: dict) -> str:
     """기사 1건 → 제목(좌)+출처·날짜(우), 시사점이 있으면 제목 아래 한 줄"""
-    linked_text = make_linked_text(item.get("title", ""), item.get("url", "#"))
+    linked_text = make_linked_text(item.get("title", ""), item.get("_link") or item.get("url", "#"))
     source_date = " | ".join(x for x in (item.get("source", ""), item.get("pub_date", "")) if x)
     so_what = item.get("so_what", "")
     so_what_html = (
@@ -688,8 +727,9 @@ def build_data_insight_html(data: dict) -> str:
         metric_table_rows = "".join(rows)
 
     report_rows = ""
-    for r in reports:
+    for ri, r in enumerate(reports):
         org = r.get("org") or r.get("publisher", "")   # [버그 수정] 기존 코드는 publisher만 읽어 항상 공란
+        r = dict(r, url=track(r.get("url", "#"), "data", ri, org, r.get("title", "")))
         report_rows += f"""
       <tr>
         <td style="padding:5px 0; border-bottom:1px solid #f0f0f0;">
@@ -735,7 +775,11 @@ def build_data_insight_html(data: dict) -> str:
 def build_email_html(news_items: list, today_str: str, logo_url: str = "", pages_url: str = "#") -> str:
     by_section: dict = {}
     for item in news_items:
-        by_section.setdefault(item.get("section", "etc"), []).append(item)
+        sec = item.get("section", "etc")
+        item = dict(item)
+        item["_link"] = track(item.get("url", "#"), sec, len(by_section.get(sec, [])),
+                              item.get("source", ""), item.get("title", ""))
+        by_section.setdefault(sec, []).append(item)
 
     sections_html = "".join(
         build_section_html(k, by_section[k]) for k in SECTION_ORDER if by_section.get(k)
@@ -747,8 +791,12 @@ def build_email_html(news_items: list, today_str: str, logo_url: str = "", pages
         if logo_url
         else '<span style="font-size:12px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
     )
-    subscribe_href   = f"mailto:{ADMIN_EMAIL}?subject={SUBSCRIBE_SUBJ}"
-    unsubscribe_href = f"mailto:{ADMIN_EMAIL}?subject={UNSUBSCRIBE_SUBJ}"
+    if tracking_on():
+        subscribe_href   = f"{TRACK_URL}?a=s"
+        unsubscribe_href = UNSUB_TOKEN                      # 발송 시 수신자별 링크로 치환
+    else:
+        subscribe_href   = f"mailto:{ADMIN_EMAIL}?subject={SUBSCRIBE_SUBJ}"
+        unsubscribe_href = f"mailto:{ADMIN_EMAIL}?subject={UNSUBSCRIBE_SUBJ}"
     feedback_href    = f"mailto:{ADMIN_EMAIL}?subject={FEEDBACK_SUBJ}&body={FEEDBACK_BODY}"
     FONT = "font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;"
 
@@ -853,7 +901,7 @@ def build_email_text(news_items: list, today_str: str, pages_url: str) -> str:
             lines.append(f"  {n['url']}")
         lines.append("")
     lines.append(f"전체 아카이브: {pages_url}")
-    lines.append(f"구독 취소: {ADMIN_EMAIL} (제목: 구독 취소)")
+    lines.append(f"구독 취소: {UNSUB_TOKEN if tracking_on() else ADMIN_EMAIL + ' (제목: 구독 취소)'}")
     return "\n".join(lines)
 
 
@@ -877,6 +925,55 @@ def _smtp_send(subject: str, html_body: str, text_body: str, recipients: list) -
             msg.attach(MIMEText(html_body, "html", "utf-8"))
             server.sendmail(gmail_user, batch, msg.as_string())
             print(f"  발송 {i + len(batch)}/{len(recipients)}명")
+
+
+def send_newsletter(subject: str, html_body: str, text_body: str, recipients: list) -> None:
+    """웹앱 설정 시 수신자별로 개별 발송(개인별 구독 취소 링크), 아니면 BCC 묶음 발송"""
+    if not tracking_on():
+        _smtp_send(subject, html_body, text_body, recipients)
+        return
+    gmail_user = os.environ["GMAIL_USER"]
+    gmail_pass = os.environ["GMAIL_APP_PASS"]
+    failed = []
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as server:
+        server.login(gmail_user, gmail_pass)
+        for n, rcpt in enumerate(recipients, 1):
+            u = unsub_url(rcpt)
+            msg = MIMEMultipart("alternative")
+            msg["Subject"] = subject
+            msg["From"]    = f"{EMAIL_FROM_NAME} <{gmail_user}>"
+            msg["To"]      = rcpt
+            msg["List-Unsubscribe"] = f"<{u}>, <mailto:{ADMIN_EMAIL}?subject={UNSUBSCRIBE_SUBJ}>"
+            msg["List-Unsubscribe-Post"] = "List-Unsubscribe=One-Click"
+            msg.attach(MIMEText(text_body.replace(UNSUB_TOKEN, u), "plain", "utf-8"))
+            msg.attach(MIMEText(html_body.replace(UNSUB_TOKEN, esc(u)), "html", "utf-8"))
+            try:
+                server.sendmail(gmail_user, [rcpt], msg.as_string())
+            except smtplib.SMTPRecipientsRefused as e:
+                failed.append(rcpt)
+                print(f"  [경고] 수신 거부: {rcpt} ({e})")
+            if n % 25 == 0 or n == len(recipients):
+                print(f"  발송 {n}/{len(recipients)}명")
+    if failed:
+        RUN_LOG.setdefault("send_failed", []).extend(failed)
+
+
+def resolve_recipients() -> list:
+    """GitHub Secret 명단 + 시트 'active' − 시트 'unsubscribed'"""
+    base = [r.strip().lower() for r in os.environ.get("EMAIL_RECIPIENTS", "").split(",") if r.strip()]
+    if not tracking_on():
+        return list(dict.fromkeys(base))
+    try:
+        data = webapp_post({"action": "list"})
+        active = [e.strip().lower() for e in data.get("active", []) if e.strip()]
+        unsub = {e.strip().lower() for e in data.get("unsubscribed", [])}
+        merged = [e for e in dict.fromkeys(base + active) if e not in unsub]
+        print(f"  수신자: 기본 {len(base)} + 시트 신규 {len(set(active) - set(base))} − 구독취소 {len(unsub & set(base + active))} = {len(merged)}명")
+        return merged
+    except Exception as e:
+        print(f"  [경고] 구독자 시트 조회 실패 → 기본 명단으로 발송: {e}")
+        RUN_LOG["failed_queries"].append(f"구독자 시트 조회 실패: {e}"[:80])
+        return list(dict.fromkeys(base))
 
 
 def send_alert(title: str, detail: str) -> None:
@@ -929,9 +1026,11 @@ def write_step_summary(lines: list) -> None:
 # ──────────────────────────────────────────────────────────────
 
 def run() -> None:
+    global ISSUE_DATE
     dry_run, force = env_flag("DRY_RUN"), env_flag("FORCE_SEND")
     now = datetime.now(KST)
     today_key = now.strftime("%Y-%m-%d")
+    ISSUE_DATE = today_key
 
     print("=" * 50)
     print(f"  인재경영실 Morning Briefing  |  {today_key}  |  "
@@ -987,18 +1086,24 @@ def run() -> None:
             f.write(html_body)
         target = [os.environ["GMAIL_USER"]] if os.environ.get("GMAIL_USER") else []
         if target:
-            _smtp_send("[TEST] " + subject, html_body, text_body, target)
+            send_newsletter("[TEST] " + subject, html_body, text_body, target)
         print("  DRY RUN — 발신 계정에만 테스트 발송, 아카이브 저장 생략 (preview/email.html)")
     else:
-        recipients = [r.strip() for r in os.environ.get("EMAIL_RECIPIENTS", "").split(",") if r.strip()]
+        recipients = resolve_recipients()
         if not recipients:
-            raise RuntimeError("EMAIL_RECIPIENTS가 비어 있습니다.")
-        _smtp_send(subject, html_body, text_body, recipients)
+            raise RuntimeError("수신자 명단이 비어 있습니다 (EMAIL_RECIPIENTS·구독자 시트 확인).")
+        send_newsletter(subject, html_body, text_body, recipients)
 
         # 3. 아카이브 (발송 직후 기록 → 재실행 시 중복 발송 방지)
         print("\n[3] 아카이브 저장")
         save_entry({"date": today_key, "sent_at": datetime.now(KST).strftime("%H:%M"),
                     "news": news_items})
+        if tracking_on():
+            try:
+                webapp_post({"action": "log_send", "date": today_key, "recipients": len(recipients),
+                             "articles": len(news_items), "curation": RUN_LOG["curation"]})
+            except Exception as e:
+                print(f"  [경고] 발송 기록 실패(발송은 완료): {e}")
 
     by_sec = {k: sum(1 for n in news_items if n["section"] == k) for k in SECTION_ORDER}
     write_step_summary([

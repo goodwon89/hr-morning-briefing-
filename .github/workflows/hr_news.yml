@@ -50,6 +50,8 @@ jobs:
           EMAIL_RECIPIENTS:  ${{ secrets.EMAIL_RECIPIENTS }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 선택: 없으면 규칙 기반 선별
           ANTHROPIC_MODEL:   ${{ vars.ANTHROPIC_MODEL }}        # 선택: 모델 변경 시 Variables에 등록
+          TRACK_URL:         ${{ vars.TRACK_URL }}              # 선택: 운영 웹앱 주소 (클릭 추적·구독 관리)
+          TRACK_SECRET:      ${{ secrets.TRACK_SECRET }}        # 선택: 운영 웹앱 비밀키
           GITHUB_OWNER:      ${{ github.repository_owner }}
           GITHUB_REPO:       ${{ github.event.repository.name }}
           DRY_RUN:           ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
