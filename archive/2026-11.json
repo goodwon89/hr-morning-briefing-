@@ -1,5 +1,187 @@
 [
  {
+  "date": "2026-11-13",
+  "sent_at": "08:46",
+  "news": [
+   {
+    "title": "인도네시아 신 근로기준법 제정에 따른 노동법제 개편",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBidVhkNk9nel8wbTJHQTZYNFlCcm50MThWVEpXWHNpekk0QmxWeWNtQW9TNGVVaEw1eFJOZEowX2JQSC1qNlQ3TnJ6RXlBbm03TW1pMGNjQ1hRcVBuS1ZmTUNyNUV0b3hTdkRUM21R0gFyQVVfeXFMT0JkMXdpLUF3YmVJdXVUSDJrZkpzX2RueldHaFJDb2ota2cxLXdrLS1QUDk0T0NJcXE2M2dFWmpVNjlZM2kxeWtSSG5DVmprZjRxNTQ1X0NmejdFZC1jU01CS2tRRzdUOUVaZVlVa2d2aWZn?oc=5",
+    "source": "법률신문",
+    "pub_date": "26.11.12",
+    "section": "hr",
+    "so_what": "해외 법인 노무 규정 변경 시 현지 노동법 점검 필요"
+   },
+   {
+    "title": "하청 임금 결정권 쥔 원청에 교섭 책임…위탁계약서가 근거 됐다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82c0pEdDBUMmw4RjNWZ1kxZy1pUGtfWFc5WExVdnA1a2JNd0RvSk14SGVDNHdQbG5PX1NhdFRmM0NqNFNQRnp2YTdwSzU5ekcxS3ZGWDE4cHFRRThaLWlWVlN1RFRBalUwRl9ZRGlsTnNKdw?oc=5",
+    "source": "아웃소싱타임스",
+    "pub_date": "26.11.13",
+    "section": "hr",
+    "so_what": "원청 교섭 책임 확대 시 하도급 인건비 관리 점검 필요"
+   },
+   {
+    "title": "공항철도 노사, 파업 1시간 30분 앞두고 극적 타결…임금 4.9% 인상 합의",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZHJ1eERPTnRZTzE5QzctSlFDZEpybmp4YkNsMFZiYVJDZ0ZDRnhiM1RYejlKUnFvZDdmeDJCZXlkUDEzY2I2T1QwMEZfQ3hKa1JPdlJIWld6aDFjQ2V1M0J0UTlDdEdiZjZHbkVlTXRsU3JENTRkOW0wTGJOM2VvbHhrNi15T0NXMW5iX0NvRk5ZV0RMeERaSllLYnRPbjdjR3pURGNvUjJEdHJIT2NhRWUxOWZyUXhKcFF4WjBucGxZOXpEM0dXRVJpWHRjcC1IT1pXX2NqZEd4ckFLNHJtZ1kxTk9DWEZEZkR4YUdVTFBKNnJlRTFYcDF0WFJDeE9nRmFwUk9jRmxsa29zWHl1bVNZbjBBZEp4NlVQaUJ2a3BRbzJCc3AwaFBWVEEzU3ZGdUo1OWFSMGI?oc=5",
+    "source": "뉴스필드",
+    "pub_date": "26.11.13",
+    "section": "hr",
+    "so_what": "노사 임금 협상 타결 수준, 계열사 임금 협상 벤치마크로 참고"
+   },
+   {
+    "title": "중소기업서 이직한 20대, 대기업행 5.7%…청년에게 첫 직장이 중요한 이유",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fcFROTm9vSEZLYjhxUEp4V0I1a3RDZlIxakYwSUlTRlo2b1I1OHl0TXVrNUx2S09QUHRJelZ5dWMyN05aUG1IX3RPX0ZpWVZwck0xTmJ6bGpLMXVCQXI0UWxZOWlMUUxISkprbG40amZ3QQ?oc=5",
+    "source": "아웃소싱타임스",
+    "pub_date": "26.11.13",
+    "section": "hr",
+    "so_what": "중소기업 출신 이직 실태, 청년 채용 전략 수립 시 참고"
+   },
+   {
+    "title": "NH농협금융, 내년 전 계열사 AI 전환 확대···성과평가 연계",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84LWNqeFRJenlxNjdfTFE1VTdHQWdZSi1UUTF0N1AwLS1scTh0aFV4TVREVjJRQUs4RVVucFdqVURVYi1DRWRiTUhEeVBtWndjZVNYeGNqVmxTSzBLZDE2ajlSdzdyYzlhVkd30gFrQVVfeXFMTzgtY2p4VEl6eXE2N19MUTVVN0dBZ1lKLVRRMXQ3UDAtLWxxOHRoVXhNVERWMlFBSzhFVW5wV2pVRFViLUNFZGJNSER5UG1ad2NlU1h4Y2pWbFNLMEtkMTZqOVJ3N3JjOWFWR3c?oc=5",
+    "source": "현대경제신문",
+    "pub_date": "26.11.12",
+    "section": "hr",
+    "so_what": "계열사 AI 전환과 성과평가 연계 방식, 그룹 HR 제도 설계 시 참고"
+   },
+   {
+    "title": "프랑스 보안업체 “북한 연계 채용 사기, 기업 50여 곳 사칭”",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUtMNC1iTmxfS3dxc2t4UnVpVFJmYkdYZmh4LThLZnI2aDNUamt4dkFaMy1xOVo3T1A0a3NzQjRmaGtZUEdjM2lxeXB4dUpZc2s4RUIyVENSSUYzUVZEdnpDdW9CTWc0LVJKdnJGSEJ1YUJYOHVsLTVPcXJ3bUdoc2VSTExfc1dBRWtB0gGLAUFVX3lxTE81S0w0LWJObF9Ld3Fza3hSdWlUUmZiR1hmaHgtOEtmcjZoM1Rqa3h2QVozLXE5WjdPUDRrc3NCNGZoa1lQR2MzaXF5cHh1SllzazhFQjJUQ1JJRjNRVkR2ekN1b0JNZzQtUkp2ckZIQnVhQlg4dWwtNU9xcndtR2hzZVJMTF9zV0FFa0E?oc=5",
+    "source": "VOA 한국어 홈페이지",
+    "pub_date": "26.11.13",
+    "section": "hr",
+    "so_what": "채용 사기 위협 확산, 채용 공고·지원자 검증 절차 점검 필요"
+   },
+   {
+    "title": "AI 활용 400% 넘게 늘었다…수익 낸 사례는 5개 중 1개",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xc1JteDZGR2p5MTRnMnF4UFliVFpnU25Oa2cwZlRvWjNDWW5BdmNNc1R6QTJET1Y3bTRXeC1HRUVpZ3FOTGplekROdVJwaWhxcnJBUjRqUE9Xa29RVVRpbXNwdUp0Y1dlc2V3UmpaNnpYQQ?oc=5",
+    "source": "아웃소싱타임스",
+    "pub_date": "26.11.13",
+    "section": "ai_tech",
+    "so_what": "AI 활용 확대 대비 수익화 성과 격차, 투자 우선순위 설정 시 참고"
+   },
+   {
+    "title": "“AI가 상품 구매까지”…유통업계, ‘에이전틱 커머스’ 대응 본격화",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TY2tOb2R6MjVxUjg5eFZsQ0pIYzBqbFV5VjRjalRmblF2RDdXSllKUEliWVc0STROMjlfY3ByOEVFbVVVSEhnay1RSWZDNWlSVk9ZczRJUHB5S2dWTFhPZE1yVmFIN1dUYzFMODRFVk53aVE?oc=5",
+    "source": "마켓인",
+    "pub_date": "26.11.13",
+    "section": "ai_tech",
+    "so_what": "에이전틱 커머스 확산, 금융·플랫폼 연계 서비스 검토 시 참고"
+   },
+   {
+    "title": "포스코그룹, 로봇 자동화 솔루션 기업에 70억 투자…제조 AX전환 추진",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SXFTN3NBTkJaenRMV0hQMFFfUko1NnZWSHBSUkhmb1lXSWEzMS1tZXk1WkRDeTVlb3p3QlNXUVNMVDhoTnBfMDY4M0ZwTG52NVFPelk0T19fazdZbi1MYXRCNEpYU2fSAWZBVV95cUxOdFZ6TElpMklwMm5DejNwbzZhdFpHem5temN3ajZuczdxTHdRemthX3FKSXQzWjdZQjk5UFNsVDBjS1Exa1Z4dlNoN1M0bHlrbENQUGlZeTJYVDYxd3FjYkFPWjdFTHc?oc=5",
+    "source": "더팩트",
+    "pub_date": "26.11.13",
+    "section": "ai_tech",
+    "so_what": "제조 AX 투자 사례, 로봇 자동화 투자 판단 시 참고"
+   },
+   {
+    "title": "연준 바 총재, AI 도입이 불평등 심화시킬 수 있다고 경고",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSkpoSkxGLTd1b21PcEw2eDhqREpiNERjVzhRV2tUODlETXJ5WGVpQ210cEpqN1UwcEwtN0JraGJndnYtTFlWZmVFa3R6WU44UFR1X3JHblhFdVJZdExHRWIzbjB0a0h1dnc?oc=5",
+    "source": "Investing.com 한국어",
+    "pub_date": "26.11.13",
+    "section": "ai_tech",
+    "so_what": "AI 도입의 불평등 우려, 인력 재교육 계획 수립 시 참고"
+   },
+   {
+    "title": "반도체 호황 속 中企 경기지표 약 4년 만에 최고…전망은 '흐림', 왜?",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xb281eENOd1BPd2V3OFJaNEp3SkppUFFIckhzODZHZTBHeGJKZzduN3l2OTdockVaS1pqVVRnMDZCRS1EYWV5UDBveHNhUWRJX3o1d2NCQUI5c3g2bU9pR3AwMDl4cnZZc1ExUEpyMDZYTnRPRG1BTNIBeEFVX3lxTE0xb281eENOd1BPd2V3OFJaNEp3SkppUFFIckhzODZHZTBHeGJKZzduN3l2OTdockVaS1pqVVRnMDZCRS1EYWV5UDBveHNhUWRJX3o1d2NCQUI5c3g2bU9pR3AwMDl4cnZZc1ExUEpyMDZYTnRPRG1BTA?oc=5",
+    "source": "뉴시스",
+    "pub_date": "26.11.13",
+    "section": "macro_industry",
+    "so_what": "중소기업 경기 회복 속 전망 악화, 거시 경기 판단 시 참고"
+   },
+   {
+    "title": "반도체 주도의 수출 호황, 여전히 풍부한 달러",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
+    "source": "KB Think",
+    "pub_date": "26.11.12",
+    "section": "macro_industry",
+    "so_what": "수출 호황과 풍부한 달러 유동성, 금융 계열사 자금 운용 참고"
+   },
+   {
+    "title": "부동산 PF 다음은 ‘AI 데이터센터’…한투, 시장 27% 선점",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12SGl0bUk2cF9CcV9SamJXZHJUU2c1Wi0ybTl3WEp5cTVMNWNHU2pVQlJTVmswbVFLSW94M3d6b205OGF0REZycnVEbE9IY2tSS3AteFo4SlluQ29SRVV1RjAyNA?oc=5",
+    "source": "쿠키뉴스",
+    "pub_date": "26.11.12",
+    "section": "macro_industry",
+    "so_what": "AI 데이터센터 금융 시장 부상, 금융계열사 투자 기회 검토 시 참고"
+   },
+   {
+    "title": "소부장 수입자금 조달 지원… 무보, 보험 한도 최대 두 배",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83RDBFcHVnMzE3Rk81azBWaVJ4R29FMmdYUTVIY0lUZnRnNGtCd3d3WVNxYkpXZE1rZ0loa1RWYThGa0d6NFRIQ044QW8tZ1FzcHBBX2EzT0xvZzhaZWNuUzVaM21aVC03N1Y5ZXhBb9IBb0FVX3lxTE83RDBFcHVnMzE3Rk81azBWaVJ4R29FMmdYUTVIY0lUZnRnNGtCd3d3WVNxYkpXZE1rZ0loa1RWYThGa0d6NFRIQ044QW8tZ1FzcHBBX2EzT0xvZzhaZWNuUzVaM21aVC03N1Y5ZXhBbw?oc=5",
+    "source": "한국보험신문",
+    "pub_date": "26.11.12",
+    "section": "macro_industry",
+    "so_what": "소부장 수입 자금 보증 한도 확대, 정책금융 연계 참고"
+   },
+   {
+    "title": "삼성화재 \"캐노피우스 인수 후 해외 비중 20% 중반대로 확대\"",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wMjhyZklMbTladHhJSmZfQ0ZmM3hsQ2VzTFJwSFRyZ1pDeHIzTi1BRE1KOUVCcllDSTFEdVR5VmVjUmo0aG9EMmhNN0VKb1pmWWFZTEJYcnlGeVU1dngyeWkyTkdRYldEWFY2YUZSdHJ3bXRM?oc=5",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.12",
+    "section": "invest_ma",
+    "so_what": "해외 M&A 후 해외 비중 확대 목표, 그룹 해외 전략 비교 참고"
+   },
+   {
+    "title": "따따블도 무너졌다...올해 상장주 '열에 아홉' 공모가 밑돌아",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYUFTWlRmRDdCNmpoRWVWX3BEeWYtWk9wMmw4R09JLVotMFpIRFFOcjdCQ1E5LTIyR2dXckRLZ0JKdk84NEVfQW45clA4anZtOUp1UTlhYkNSWFhpR0tYay1WZVNCVjNUNnc?oc=5",
+    "source": "비즈워치",
+    "pub_date": "26.11.13",
+    "section": "invest_ma",
+    "so_what": "상장주 공모가 하회 확산, 공모 투자 밸류에이션 점검 시 참고"
+   },
+   {
+    "title": "앤트로픽 IPO 수배 초과 청약…상장 후 25조 매수 수요 전망",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fcGVUTWd3T01zanU5ai1uM0U0WVQ3T1VUeHUxWW9MU0hLdVNlYnF4MGd5ZUFuaHRYS1A1TFBUWUs1dFZuV2s3ZWtSOXdUVUYwTF84Q1daOHlIeERZeGdocTVtZzdVRkpNb3c?oc=5",
+    "source": "AI타임스",
+    "pub_date": "26.11.12",
+    "section": "invest_ma",
+    "so_what": "대형 IPO 수요 과열, 투자 자금 조달 여건 판단 시 참고"
+   },
+   {
+    "title": "영국 AI 칩 스타트업 프랙타일, 9.3조 가치로 1조 투자 유치",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QOEdhZlpBS1FYWWhNMTN2ZzlJT3BCWDh6YTVRR3FLYzVxcjFtWVgxQ05jSDhzbFVYUERmWGI3VndJcGRRX043YkJjeEkzUzVQWGJXUzlONGlwckh0QlJCMTA5WHpHRkNEMUE?oc=5",
+    "source": "AI타임스",
+    "pub_date": "26.11.12",
+    "section": "invest_ma",
+    "so_what": "AI 칩 스타트업 대규모 투자, AI 투자 밸류에이션 참고"
+   },
+   {
+    "title": "생명·안전 규제 완화도 심사…정부, 13일부터 적정성 심사 확대",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMYzJnRTEtV3RxSkRTY0YzMVZZalVFbFdhY1pHd1NKalRwazZEcXlKZ1YwZTFRMS1BR3RFekx2bnpHRlVjNzZFSlJtZGNIRDlvLUFN?oc=5",
+    "source": "산업종합저널",
+    "pub_date": "26.11.12",
+    "section": "innovation",
+    "so_what": "규제 샌드박스 심사 확대, 바이오·IT 신사업 인허가 일정 참고"
+   },
+   {
+    "title": "한미·일동·GC녹십자, 글로벌 진출·신약 상업화·바이오 혁신 경쟁 가속",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FZDV2UGE1X053aHVZNVYycjJFT0Z1T1M2a0FpaURBcXNUOUFDbEYtZXVDanFzR29oUkhhT0FyaHJsR3V5T3dwNFQ5UHp1NUVYdjM5ZklZYjVPbXJ3VndBckloS3bSAWhBVV95cUxOaFNHcG01b2Z6cXhVcWVjcHlfR195bEJnY3pCSi1fM3RFdUY4YTQ3Q0k4RDZKS1JBVDQxWk9PM3FFYmpQODdNM3lFTWtkdURlUXgycmZIazFKQWZxeTlfdFlxaVdtT2hhRQ?oc=5",
+    "source": "경인방송 뉴스",
+    "pub_date": "26.11.12",
+    "section": "innovation",
+    "so_what": "국내 바이오 기업 글로벌 진출 경쟁, 바이오 계열사 전략 비교 참고"
+   },
+   {
+    "title": "미래 신산업·혁신기업에 300조원 지원… 스타트업에 투자자 연결",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEJRNGJMTXhZSjZNT2d1MDByd090ZHBiMkRjSEw3UEFZV2I3ejhULWhMMmtqTGFsZVcxSWFraW9MTDFhekpkLXZfeFJHS0JxX2hTVk9wOGZtMnBjQlEtZTdYc0p1ejQ3bEhZTXdhZWtwTUJRai1LU0M2RjV2ODFIVnZ6OUg1TmVqRjFHTEJn?oc=5",
+    "source": "조선일보",
+    "pub_date": "26.11.13",
+    "section": "innovation",
+    "so_what": "정부 300조 신산업 지원, 그룹 정책자금 활용 검토 시 참고"
+   },
+   {
+    "title": "AI 전환 생존 과제라지만 중소기업에겐 그림의 떡",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5VVJGQnNkdWF1akh2bmsxbndnTkUyb25ZZGZXdUhRZnBQSkY0RmlJbzY3VmlaV1pTYzNxbW1qdGlwNXd6TnMtQ2dZQjdJRWVNWVRFWE9JRUvSAVhBVV95cUxQOVVSRkJzZHVhdWpIdm5rMW53Z05FMm9uWWRmV3VIUWZwUEpGNEZpSW82N1ZpWldaU2MzcW1tanRpcDV3ek5zLUNnWUI3SUVlTVlURVhPSUVL?oc=5",
+    "source": "아주경제",
+    "pub_date": "26.11.13",
+    "section": "innovation",
+    "so_what": "중소기업 AI 전환 격차, 그룹 계열사 지원 방식 설계 시 참고"
+   }
+  ]
+ },
+ {
   "date": "2026-11-12",
   "news": [
    {
