@@ -483,26 +483,46 @@ def ai_curate(pools: dict):
 
 so_what: 해당 기사가 그룹 경영·HR에 주는 시사점을 30자 이내 한 줄로. 제목 반복·추측·과장 금지, 명사형 종결(예: "계열사 성과급 재원 산정 시 참고").
 
-출력은 아래 JSON만, 다른 설명 없이:
-{{"hr":[{{"id":"hr-0","so_what":"..."}}], "ai_tech":[...], "macro_industry":[...], "invest_ma":[...], "innovation":[...]}}
+결과는 select_articles 도구로 제출한다. id는 위 목록의 ID를 그대로 쓴다.
 {chr(10).join(lines)}"""
 
+    pick_schema = {"type": "array", "items": {"type": "object",
+                   "properties": {"id": {"type": "string"}, "so_what": {"type": "string"}},
+                   "required": ["id", "so_what"]}}
+    tool = {
+        "name": "select_articles",
+        "description": "섹션별로 선발한 기사 ID와 1줄 시사점을 제출한다.",
+        "input_schema": {"type": "object",
+                         "properties": {k: pick_schema for k in SECTION_ORDER},
+                         "required": list(SECTION_ORDER)},
+    }
     try:
         r = requests.post(
             "https://api.anthropic.com/v1/messages",
             headers={"x-api-key": api_key, "anthropic-version": "2023-06-01",
                      "content-type": "application/json"},
-            json={"model": ANTHROPIC_MODEL, "max_tokens": 3000,
+            json={"model": ANTHROPIC_MODEL, "max_tokens": 4000,
+                  "tools": [tool], "tool_choice": {"type": "tool", "name": "select_articles"},
                   "messages": [{"role": "user", "content": prompt}]},
-            timeout=90,
+            timeout=120,
         )
-        r.raise_for_status()
-        text = "".join(b.get("text", "") for b in r.json().get("content", []))
-        m = re.search(r"\{.*\}", text, re.S)
-        picks = json.loads(m.group(0))
+        if r.status_code != 200:
+            raise RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
+        body = r.json()
+        picks = next((b.get("input") for b in body.get("content", []) if b.get("type") == "tool_use"), None)
+        if not isinstance(picks, dict):
+            # 도구 호출이 없으면 텍스트에서 JSON 추출 시도
+            text = "".join(b.get("text", "") for b in body.get("content", []) if b.get("type") == "text")
+            m = re.search(r"\{.*\}", text, re.S)
+            if not m:
+                raise RuntimeError(f"응답에 선발 결과 없음 (stop_reason={body.get('stop_reason')}, "
+                                   f"blocks={[b.get('type') for b in body.get('content', [])]}, text={text[:150]!r})")
+            picks = json.loads(m.group(0))
+        usage = body.get("usage", {})
+        print(f"  AI 큐레이션 완료 (입력 {usage.get('input_tokens')} / 출력 {usage.get('output_tokens')} 토큰)")
     except Exception as e:
         print(f"  [경고] AI 큐레이션 실패 → 규칙 기반으로 진행: {e}")
-        RUN_LOG["curation"] = f"rule (AI 실패: {str(e)[:80]})"
+        RUN_LOG["curation"] = f"rule (AI 실패: {str(e)[:120]})"
         return None
 
     result = {}
