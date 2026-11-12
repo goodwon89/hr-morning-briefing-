@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026-11-12",
+    "news": [
+      {
+        "title": "\"월 238만원으로는 못 산다\"…'임금 파업'에 유럽 오페라 극장들 스톱",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rbzg2RFZEai1TcnlMZzVPX2UwUVJuUHpCRVVLZVFsb2NPZ2VXdmdxU3ZWX1cwUFpwQk5WS1pnMEg3NGYwQ05aMkt4UTlFbU9VdnZ6OG1wSFpwdw?oc=5",
+        "source": "한국경제",
+        "description": "\"월 238만원으로는 못 산다\"…'임금 파업'에 유럽 오페라 극장들 스톱 한국경제",
+        "pub_date": "26.11.12",
+        "section": "hr"
+      },
+      {
+        "title": "낮은 임금·감정노동에 ‘탈출구’ 찾는 식품·외식 인재…일자리 질 개선 시급",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OTWg0VnpEbk40aHZCTTZBTEtIOXVKU0NWYTM5aDNsdDVLdnB1QXUxRlVMdWZnQ1dQVHI5NDNqTjJLOXdFTUk0T3piSUo3ZHY1SUVGUC0zcUd3RThwWUk4QjlSb29tc0Zzd0dxUVF0Zw?oc=5",
+        "source": "식품음료신문",
+        "description": "낮은 임금·감정노동에 ‘탈출구’ 찾는 식품·외식 인재…일자리 질 개선 시급 식품음료신문",
+        "pub_date": "26.11.12",
+        "section": "hr"
+      },
+      {
+        "title": "사람인, 채용 전 과정에 AI 도입…기업 인사담당자 업무 효율화",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03X1BUNWpfU1VjUmlaT0N1Rl9rWDVVNzNwN0tuTjhOd3RLbDhxVEJTdGdObjhBSG9rOFduNWZQRXJfRGQ1UVM3eUkwbEc5b1lkczBmYXpTUWMwSDBTUldzN2E1R08?oc=5",
+        "source": "매일일보",
+        "description": "사람인, 채용 전 과정에 AI 도입…기업 인사담당자 업무 효율화 매일일보",
+        "pub_date": "26.11.12",
+        "section": "hr"
+      },
+      {
+        "title": "HR AI의 신뢰, ‘조직 체계와 시스템’이 결정한다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUU010OTJNUlVMb1dvdHI3bGR2UGltZEtxemFHTVZnNHo3cGh4cEgzcHBvZHJQZEgyVXprYUM4OFdlcWpOZ0VZRnIzRHZNMUEyblVmSlpn?oc=5",
+        "source": "지디넷코리아",
+        "description": "HR AI의 신뢰, ‘조직 체계와 시스템’이 결정한다 지디넷코리아",
+        "pub_date": "26.11.12",
+        "section": "hr"
+      },
+      {
+        "title": "인사업무에 AI 도입…당직 근무표도 작성",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ua0t1aDVBTkRrdzdPLVlMOC1FYmd6VENGOElseDFpRW9kaXVGaHRqTU5QUFFzOEk5bHpwRVZLSW5McF93ZTktbHE1YVQ3cTdXd25qZHhvNk8wTUQycF9SejF4ZTFrOE0xaTR3?oc=5",
+        "source": "시정일보",
+        "description": "인사업무에 AI 도입…당직 근무표도 작성 시정일보",
+        "pub_date": "26.11.12",
+        "section": "hr"
+      },
+      {
+        "title": "로봇기업 채용 직무·학생 역량, 대구가톨릭대 현장면접서 연결",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVzVJLTZ3THFwQ0JVVWdrUG9lVVdPMjNRZTJ1NXpGTWxjeGc0dHlEVl9KNWZUVjV5eE1WU1FqTndfSXlJeWlHUjJ6aFdKeTZBV0M3WnNFR0dpUnJCVHQ3SDdBQW9LTkZ5RG5PZEI3WUhyT2M?oc=5",
+        "source": "오늘경제",
+        "description": "로봇기업 채용 직무·학생 역량, 대구가톨릭대 현장면접서 연결 오늘경제",
+        "pub_date": "26.11.12",
+        "section": "hr"
+      },
+      {
+        "title": "기업 IT 인프라의 판을 바꾸다…하이브리드 클라우드·AI로 확장",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93eVNVNTRmanAwNlc5NE5YZGN3cDRsV2lOUWJLc2I3VVRHM3NsVTJPUWRsUHpDNUo3T0YxSm52RW1obVdMYU9ueE1QbTJBc2dlSlNGNi1ma2k4ZVNxdGl1UEZQdmlNalpUSlVKR2Qwaw?oc=5",
+        "source": "비즈니스리포트",
+        "description": "[분석-글로벌성공기업] [뉴타닉스] 기업 IT 인프라의 판을 바꾸다…하이브리드 클라우드·AI로 확장 비즈니스리포트",
+        "pub_date": "26.11.12",
+        "section": "ai_tech"
+      },
+      {
+        "title": "웨인힐스 브라이언트에이아이, 구글 클라우드 파트너 선정",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SdmJwM0pFSDdCeGVGZ0Z3bWs4VDMzRUVVamk3Nkx4amM4YVJjQ0EyTjNFWk9MNVhUYUlEcDdlTXpCcTdVUE5IaVAzOVVjQQ?oc=5",
+        "source": "전자신문",
+        "description": "웨인힐스 브라이언트에이아이, 구글 클라우드 파트너 선정 전자신문",
+        "pub_date": "26.11.12",
+        "section": "ai_tech"
+      },
+      {
+        "title": "마이크로소프트가 제시한 기업 AI 도입 성공 전략은",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fRVEzaFBnd0ZhMzUwcXhlTzB1c29UZGpPU0VLQzh4cEZ6OXozUEFodHlmeW9XSkV5NGtfYnNBUHRPWWF0NkVvWjFORThGa3VyVFBTMjd3?oc=5",
+        "source": "지디넷코리아",
+        "description": "마이크로소프트가 제시한 기업 AI 도입 성공 전략은 지디넷코리아",
+        "pub_date": "26.11.12",
+        "section": "ai_tech"
+      },
+      {
+        "title": "LG CNS, 제조·물류 로봇 도입 과제 논의…학계와 피지컬 AI 교류 확대",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdHNHTVdTYUVnM01lZnhXV3FIR3YxZ3U5dnRHR2pKNzZuaVE3aXFINlI4U1hqT0dXTlhUWU5rdWtMRTdpV0V3czBXLWJSaXFWczVoOFp3?oc=5",
+        "source": "지디넷코리아",
+        "description": "LG CNS, 제조·물류 로봇 도입 과제 논의…학계와 피지컬 AI 교류 확대 지디넷코리아",
+        "pub_date": "26.11.12",
+        "section": "ai_tech"
+      },
+      {
+        "title": "K-배터리, ESS 전환 ‘실적’으로… 북미 공백 속 반등 경로 찾는다",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZ3pPWnpzZVV3Z0lzWlY5b0VlTUtnamZXRXlmdjZ6TDdDOTAxSmk3R3d6SEZqSldfZGJlOGZRUGRXTEVjT3lUaFUweHhLUm16WTZic3NlZ3JxZDIwU0p1UERWYkZsY2ZQY1ZTaU1rM1k?oc=5",
+        "source": "솔라투데이",
+        "description": "[B트렌드] K-배터리, ESS 전환 ‘실적’으로… 북미 공백 속 반등 경로 찾는다 솔라투데이",
+        "pub_date": "26.11.12",
+        "section": "macro_industry"
+      },
+      {
+        "title": "李대통령, 필리핀 아세안·中APEC 정상회의 참석…공급망·통상질서 회복촉구",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5dXhKT3lOb3BBWnRhZDJacldSQ0xrenFPYnU0Z0NEN3ZfdG0wd21SU0haYU15X1p0S2dDeFM5RzdaZ3k5eXdiRjFzQ1NTZGhnSkRnNzVDMXhGOEVGMGxjbXdCLVJDZERUOTJvZERNVlh3QQ?oc=5",
+        "source": "KB Think",
+        "description": "李대통령, 필리핀 아세안·中APEC 정상회의 참석…공급망·통상질서 회복촉구(종합) KB Think",
+        "pub_date": "26.11.12",
+        "section": "macro_industry"
+      },
+      {
+        "title": "李, 아세안·APEC 외교전…공급망 위기 대응·한반도 평화 모색",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ha096WlY2cV9BUjktVnpwb0stRUtvZ051aTVITjhDbmQtSUhpWmJkUmNiOEZNZkFMWXJFS3E0aTRkaVRxV3ZXb2MxckY5cUFuWlNhZnBTN2poSzdkendWQ01zZkVRcHpUWkhOdA?oc=5",
+        "source": "아시아투데이",
+        "description": "李, 아세안·APEC 외교전…공급망 위기 대응·한반도 평화 모색 아시아투데이",
+        "pub_date": "26.11.12",
+        "section": "macro_industry"
+      },
+      {
+        "title": "환율 하락폭보다 컸던 원화 절상 압력…'EMP' 뭐길래",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZ2dvYXZELWp1eVpBNUgwTElDZlMtVEozLXE0Rk5MQU5SSFdIVjZjbWVEcVl4TEgzSHplSW0xV1JuQ19lU2owa2xvU19RejlJM0R4WWVJdmxSMHdGNWFISWcwSHJGNEdMcWg4MEtFX0tSZw?oc=5",
+        "source": "KB Think",
+        "description": "환율 하락폭보다 컸던 원화 절상 압력…'EMP' 뭐길래 KB Think",
+        "pub_date": "26.11.12",
+        "section": "macro_industry"
+      },
+      {
+        "title": "신한금융, 도쿄서 스타트업 데모데이…국내 기업 일본 진출 지원",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91M1UwMTlBWmJhMXhLQ1VkcG5kOW9wbWhnMl9EOVBsTllKdjgyd0NtWmNmVW5DaHk2X1JnMjFhVUFleUo4RGRHSEt6S3dRejRyVkVQQkNjTXRMN1Z6RG9hSEY5MGt5MGhJSm1LRU15Zw?oc=5",
+        "source": "조세일보",
+        "description": "신한금융, 도쿄서 스타트업 데모데이…국내 기업 일본 진출 지원 조세일보",
+        "pub_date": "26.11.12",
+        "section": "invest_ma"
+      },
+      {
+        "title": "“AI주 더 갈까, 꺾일까”…‘몸값 1.4조 달러’ 앤트로픽 상장에 투심 달렸다",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MOW5PU3RUVjQzT1h2dUstVTVDRWUyQXZqWHRySm9CRGNfVDFnY3F6TTkzbjFqeWZPT3l2SWxPelZYWWJyMGtEQV9FdXM5TFZIVWc?oc=5",
+        "source": "매일경제 마켓",
+        "description": "“AI주 더 갈까, 꺾일까”…‘몸값 1.4조 달러’ 앤트로픽 상장에 투심 달렸다 매일경제 마켓",
+        "pub_date": "26.11.12",
+        "section": "invest_ma"
+      },
+      {
+        "title": "항암·치매 신약부터 정밀의료까지…연말 바이오 IPO '빅 랠리'",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zbUlKdkk1Y3J5X21GVkIyYVBxeU5YWnVFUDd3enNUbkZrbWlrNS1LcVk1blVORnZZbVFyWEhudkNleWE3bUZOMGtYVHgzaDk5LWlELTFzZjZHMGsxbjdvYV9CNm93OHhoUG1v?oc=5",
+        "source": "히트뉴스",
+        "description": "항암·치매 신약부터 정밀의료까지…연말 바이오 IPO '빅 랠리' 히트뉴스",
+        "pub_date": "26.11.12",
+        "section": "invest_ma"
+      },
+      {
+        "title": "'19일 상장' 앤트로픽 공모가 올리나…\"공모 물량 몇 배 주문 몰려\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1RjM1Vzc3QzZlQjJVYlNEOGlNaUJSbDlwQ0cwZDlpTGY0eU9vbWFwLU8xSVVNXzdVVkZ6Tk9FcXZFa2E1VUhnbHJDeFpOQVlaTFlXUVA3Wm0xNlhBVDRQS256QS04VjZ40gFuQVVfeXFMT3drbDlyRnZndWVrNURPMmFreU9yTTVMOXQwdGFfTWxadXRiMWhNc0RSMkU1YzBqdWpqSnZJcFoyQnlzMUs2eVQyT3huT0tqcTd4TFVrZENnUHZPVGtRNHlKWjhhTEFmSXZ4bUR3c0E?oc=5",
+        "source": "머니투데이",
+        "description": "'19일 상장' 앤트로픽 공모가 올리나…\"공모 물량 몇 배 주문 몰려\" - 머니투데이 머니투데이",
+        "pub_date": "26.11.12",
+        "section": "invest_ma"
+      },
+      {
+        "title": "GC녹십자-충북, 유망 바이오 스타트업 키운다",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qaWNWMGhVOVJhcFhjLTMzSXBGUEliTzZkYWNtMkdVTllmdmNreGdKNHRjRGJ3VG10UmF1TDZfN3J0UDE1MXlxZFZ1a3BQUQ?oc=5",
+        "source": "전자신문",
+        "description": "GC녹십자-충북, 유망 바이오 스타트업 키운다 전자신문",
+        "pub_date": "26.11.12",
+        "section": "innovation"
+      },
+      {
+        "title": "\"미·중은 10배 속도로 달린다\"…한국, '소버린 바이오'로 맞선다",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QajJKajJqV1ltSU96RXVzUjdJMmsxUFp1THU4clF6Rm5jYXhkTmtCSmc2SF9SVE5IWmNPT3VYZDdIZzJtejdzU2R1dEp2Ui1ZdUctWktCRk4ydF9SZElUSmdsMTJQMTRZZkZn?oc=5",
+        "source": "히트뉴스",
+        "description": "\"미·중은 10배 속도로 달린다\"…한국, '소버린 바이오'로 맞선다 히트뉴스",
+        "pub_date": "26.11.12",
+        "section": "innovation"
+      },
+      {
+        "title": "규제샌드박스에 갇힌 창업자들 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RV25lZm1RczVMUGZZYzdoYVVhU2xoX1BPUllCZzZvbmNlai1qeVZjVldCRUk4RFBUWkFTN2xibG9Nc1YzLXBQb3pETkllTUtYejlzZng1SGFHZzB5UUdkcVBCOU9rQXRjRTFkd1JQSkZwYldtNEVRN9IBfkFVX3lxTE9ZbjJZdzl0VFhJR2g4V2RRZTdiZkgwUmZrSi1WUGhwVERXOGw3MVhsOW5FUU8zVklQd2dXMkRkdURacFlBbzVXenZDU2pyMXdMdWJmTFRfWGNSR3M4Q2JBTEgwLWJya3FSVXF6Q2ZDRmw2OEFlQlJweDU3RzdlQQ?oc=5",
+        "source": "머니투데이",
+        "description": "[기자수첩] 규제샌드박스에 갇힌 창업자들 - 머니투데이 머니투데이",
+        "pub_date": "26.11.12",
+        "section": "innovation"
+      },
+      {
+        "title": "과기정통부, '2026 바이오미래포럼' 개최…바이오 정책 아젠다 발굴 外",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40dUZzSzBLc0E3alFxeGZqVjY0VUxxcE5NdDVLMjlsY0F4b0prLThwSXhHZWtkN3lhVWNycUJJUW9XMThuYWhZVmdzdm01R3F4M1hKMw?oc=5",
+        "source": "DongA Science",
+        "description": "[사이언스게시판] 과기정통부, '2026 바이오미래포럼' 개최…바이오 정책 아젠다 발굴 外 DongA Science",
+        "pub_date": "26.11.11",
+        "section": "innovation"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "news": [
       {
@@ -892,187 +1073,6 @@
         "source": "메트로신문",
         "description": "화성특례시, 'MARS 2026' 개막 열기 후끈…투자 유치·AI 산업혁신 본격화 메트로신문",
         "pub_date": "26.11.04",
-        "section": "innovation"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-04",
-    "news": [
-      {
-        "title": "베트남, 2027년 지역별 최저임금 인상…월 31만~39만 동 올려",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80Tk50aTFGUkU2THRpQU5YRHNWUDhYSWZ6clp3aEpnbUZFWXBLNC1rRzZPYUZzS3JvMDlfQlJXV3hGYk9QbzYzbw?oc=5",
-        "source": "씬짜오베트남",
-        "description": "베트남, 2027년 지역별 최저임금 인상…월 31만~39만 동 올려 씬짜오베트남",
-        "pub_date": "26.11.04",
-        "section": "hr"
-      },
-      {
-        "title": "AI 충격 속 칸바, 대규모 구조조정 돌입｜Global Money Club",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xR1EwRVBMcWJ6N2hyRVFGNXJzaHV3YXlNOGxITDdMbmE3TDFSajV0UXhjUHVCZkVNYWVFTldjVDE3T2phTEJzZ2pFWW82My1yLTcwM0t2VDRITWc?oc=5",
-        "source": "중앙일보",
-        "description": "AI 충격 속 칸바, 대규모 구조조정 돌입｜Global Money Club 중앙일보",
-        "pub_date": "26.11.04",
-        "section": "hr"
-      },
-      {
-        "title": "김영섭 도레이첨단소재 사장, '외국기업의 날' 산업포장 수훈…\"국내 투자 확대 공로\"",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aelh0OF81aXl1bXJpbDhWcXpxdGdIWjRJLTYtVVBXbE82NEdlbENRZXROQW1hMUxGY0w2NlhxbTNHTXBES1RHTmRjQ2tPX0p1WkhHLWhoQkl5clZFLWZtctIBeEFVX3lxTFBZZUt5bmtYMjJZVTM4Y25CUWhidDlhVUo4amljbXo2dnVoMW9NQmwxNW9fYkhNaHF4cW1LdEhoQzFQWlo1T1BnZXozU3NNSjJteW9CNmtXdXJsODNEUVA4LVpYVWk4cVVRazdPZnI4RFRNWUYzdVVvZQ?oc=5",
-        "source": "뉴시스",
-        "description": "김영섭 도레이첨단소재 사장, '외국기업의 날' 산업포장 수훈…\"국내 투자 확대 공로\" 뉴시스",
-        "pub_date": "26.11.04",
-        "section": "hr"
-      },
-      {
-        "title": "청양군 PRO혁신추진단, 현장에서 찾은 혁신 성과 공유",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUkhHa3FsTFFFWVNDMmZLRURiaE1aTVl5Sm9raFE4TEZuQ2JOcHBDVDd3U3BwV2JsWUVPbXU2Mlk1emsxbVJnSDRR?oc=5",
-        "source": "www.mediatoday.asia",
-        "description": "청양군 PRO혁신추진단, 현장에서 찾은 혁신 성과 공유 www.mediatoday.asia",
-        "pub_date": "26.11.04",
-        "section": "hr"
-      },
-      {
-        "title": "HD현대중 임단협 타결 후 울산시장 현장행…산업전환 협력 논의",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URkpTaVNxQmYxc0JldnpiY0hQMmc5QmNXWTBSM2hKUlU5aFlIcTA4TVRnUGVDbGp4QmJFMFlBTGM2RkpJQjJvbmU1TWxZRVBaUm9HNlJDaU41OENxazQ2NF9ldkh6UUFla3Jn?oc=5",
-        "source": "해사신문",
-        "description": "HD현대중 임단협 타결 후 울산시장 현장행…산업전환 협력 논의 해사신문",
-        "pub_date": "26.11.04",
-        "section": "hr"
-      },
-      {
-        "title": "\"충남 73개 기업서 860명 채용\"…충남도, 백석대서 '일자리 박람회' 연다",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1COWt2SnZoSDdZa0k2MWNfZ0xiVDYzTjRSaWdDQUUwQXlybVR2MUwzaWtZRF8zZVNUSFpiRTE5NGRhNlR2SEJnWDB1YjVRYktqZlkyNEJtZEZtaXF4eENrdExnNjhFV1BJdkhLVg?oc=5",
-        "source": "ER 이코노믹리뷰",
-        "description": "\"충남 73개 기업서 860명 채용\"…충남도, 백석대서 '일자리 박람회' 연다 ER 이코노믹리뷰",
-        "pub_date": "26.11.04",
-        "section": "hr"
-      },
-      {
-        "title": "영림원소프트랩·싱크트루, 로펌 업무 통합·법률 AI 도입 전략 제시",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtMi1qUVVzNkNDdFpWQk8zQUZhdUxsbU04WEUwbG52WmFaTjUyYmE4c2hSY2xpWkd4RzNZQm1iUTNJbmkwVU82M3QxZ1E1dw?oc=5",
-        "source": "전자신문",
-        "description": "영림원소프트랩·싱크트루, 로펌 업무 통합·법률 AI 도입 전략 제시 전자신문",
-        "pub_date": "26.11.04",
-        "section": "ai_tech"
-      },
-      {
-        "title": "디트리움, 디지털트윈 혁신 도전…AI로 공장 바꾸고 로봇 미래를 설계한다",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZnZUTjgxNjJIREg1cFB5T2hGQ1FYeDBOaERiV3ozdnBLODktVW8yV2xDcWREMEw2RXJ6d2tEWWhXcWJKVWxFSUFIRld3QQ?oc=5",
-        "source": "전자신문",
-        "description": "디트리움, 디지털트윈 혁신 도전…AI로 공장 바꾸고 로봇 미래를 설계한다 전자신문",
-        "pub_date": "26.11.04",
-        "section": "ai_tech"
-      },
-      {
-        "title": "네이버클라우드 “국방 AI, 빠른 실증·구독형 인프라 필요”",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVI4cG5rZl9OM1NMNTA5T3RWYlRaX3JEMmljZkZZMG04NGdxVURHVlY2MlpVWks4XzJ0R1RJcnFGQ0R5cUUwSkVNQTAxRG5qTl9wbm5aY2Y0WDM2QlpyS3N5Rk9qWmhlX0FpdXJsZHBlM2xtNExSRjFkSnlHT0JIQw?oc=5",
-        "source": "이데일리",
-        "description": "네이버클라우드 “국방 AI, 빠른 실증·구독형 인프라 필요” 이데일리",
-        "pub_date": "26.11.04",
-        "section": "ai_tech"
-      },
-      {
-        "title": "\"제안서 작성에도 AI 도입\"…한컴, 건설·엔지니어링 분야 공략",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HU2htVXRWclFENFkwdzF1UnlwekVEMFQ4V21IQ3RWcGxLUTdiM2ZlTUZkbU5KczJ4WkZHclJIYksxbUlQVFNpT25YeU11RVlJUEtPdThMY0lNOF9saDVNRlBXTUw?oc=5",
-        "source": "서울경제TV",
-        "description": "\"제안서 작성에도 AI 도입\"…한컴, 건설·엔지니어링 분야 공략 서울경제TV",
-        "pub_date": "26.11.04",
-        "section": "ai_tech"
-      },
-      {
-        "title": "관세청, '코리아 커스텀즈 위크 2026' 성공적 마무리…수출기업 통관 장벽 낮췄다",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zU1JYcURBbUczM0ZMeWxiQXQ2TU5RYVVWMFJlTGZZTUtzZktQLUl5Z0oyZmg0bUlFOHpTMngxbDJEenZKcjZHUnZpcGpBLTVUbEd6OHYtYUR5MWhlUEVZbzhQZWpDeTJMT0E?oc=5",
-        "source": "Daily NTN",
-        "description": "관세청, '코리아 커스텀즈 위크 2026' 성공적 마무리…수출기업 통관 장벽 낮췄다 Daily NTN",
-        "pub_date": "26.11.04",
-        "section": "macro_industry"
-      },
-      {
-        "title": "외교2차관 “중동발 위기에 아태지역 취약...에너지 공급망 협력 강화해야”",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LM1NhNXZmUGtLQjJramhuS29pdV9vSDI5S3VESGF5bmdHcm5JZVdjekR5MWFCZDI2dTdWWnFsSGFsZjZreWk5OUFhRzIzYWppRm5HRzA5YjYwV3hjYzk3UWU1aE02MHc?oc=5",
-        "source": "M이코노미뉴스",
-        "description": "외교2차관 “중동발 위기에 아태지역 취약...에너지 공급망 협력 강화해야” M이코노미뉴스",
-        "pub_date": "26.11.04",
-        "section": "macro_industry"
-      },
-      {
-        "title": "전기차 부진 메운 ESS…K배터리 실적 반등, 진짜 승부는 내년",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSYXFvcnVzejd2aGhya3hrUTYwNzJOSWVNS3ppUnhjQkRTM0lyYlU1MEVWQnRjejlZTGtzRktNZVUzSk5wTE9zVnEwLTAtR2tHdVpQUjJYSDFHb09mMGFoVjJkMlY?oc=5",
-        "source": "뉴스1",
-        "description": "전기차 부진 메운 ESS…K배터리 실적 반등, 진짜 승부는 내년 뉴스1",
-        "pub_date": "26.11.04",
-        "section": "macro_industry"
-      },
-      {
-        "title": "외교2차관, APEC 각료회의서 AI·에너지 공급망 협력 강조",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mRi1XT1hXUFJDaEtRTkVIQkVGVVVQQWtmaUxrcEtESmM3cW5TTVVGV3VDSnFlVVYwRUtQRkFvNFItODlyMDRZcVBlbmRZTk9tbnJGcUwydVZScnYyUk1XaVdaUl9RaDg?oc=5",
-        "source": "뉴스1",
-        "description": "외교2차관, APEC 각료회의서 AI·에너지 공급망 협력 강조 뉴스1",
-        "pub_date": "26.11.04",
-        "section": "macro_industry"
-      },
-      {
-        "title": "안산시, 스페인 스마트시티 엑스포 참가…글로벌 투자유치 총력",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LQjhSYjlnSG1rZ3AtdkhIenNmWkpoX0NXSlpUQ3RGRFFCVXc3VWxZeEVJeWIybTVUajB6Nm81emVVSXJyeENmNWJyLUc3ZGZPdlk1NlRHSE1xZWdE?oc=5",
-        "source": "뉴스핌",
-        "description": "안산시, 스페인 스마트시티 엑스포 참가…글로벌 투자유치 총력 뉴스핌",
-        "pub_date": "26.11.04",
-        "section": "invest_ma"
-      },
-      {
-        "title": "이에스티, 코스닥 상장 첫날 강세… 공모가 대비 28%대 급등",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlBVbEt3Mkc5bW5CeldZVnlfT2ZEaUZERl9FU2ZER0RoX05naUhWM21XZHdWdFdXZXhLVG1PMTJabzR6dldZUFU2V0Z3QTY5MUw1Ml9idFp3OF84WE4xWmM1YWItNmtkNnZSclBocjZFQW80RFhwSWhHV0dqV2NPM1NzR3hLR2pN0gGcAUFVX3lxTE9uSVlZQmNjQ0VmZTNJTWZ0MTVkOGNvaGNNU2hhalN0VVE2NVh0bHRSbkJOMVRXbzE5dFBrMUJDX1doOGYyRkhLN25ickZaaHVvSTlLWjFUSENYN2Y2YjVzZklRUWg3REdLYmtFeFdUT0l3em9IcnZwbVBJQzZXaTFPd0xqWHR2MkRxZGFjWHFBRklZeVIyUzNLUzdaZg?oc=5",
-        "source": "Chosunbiz",
-        "description": "[특징주] 이에스티, 코스닥 상장 첫날 강세… 공모가 대비 28%대 급등 Chosunbiz",
-        "pub_date": "26.11.04",
-        "section": "invest_ma"
-      },
-      {
-        "title": "강원창조경제혁신센터, 바이오·헬스케어 스타트업 투자유치 성과",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHZDFSdF9Fd0ZwMkR4SFd1UV9fMWtfWjVNbFNmbE5PRDN2QnJpS2Zoc0tISlAwT25qSmdXdktiT01WSXZGcnBXemc4djlTZw?oc=5",
-        "source": "전자신문",
-        "description": "강원창조경제혁신센터, 바이오·헬스케어 스타트업 투자유치 성과 전자신문",
-        "pub_date": "26.11.04",
-        "section": "invest_ma"
-      },
-      {
-        "title": "강원 벤처기업 해외 투자 유치 물꼬…강원도, 기업 설명회 개최",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KWUFJVUljWVpNSUN3aDJLd1dmQXVjZ0RBOWs3WWtET1BlVS1MUDFKakJyenBVNERYenljaGJEV2Y2ajZfX3pnNldZUUtSeTEzZ2pEUWhHRjNZQlRKMXoxMkMwMjN2WXRia0JN?oc=5",
-        "source": "프레시안",
-        "description": "강원 벤처기업 해외 투자 유치 물꼬…강원도, 기업 설명회 개최 프레시안",
-        "pub_date": "26.11.04",
-        "section": "invest_ma"
-      },
-      {
-        "title": "인천경제청, 청라 K-콘텐츠·송도 바이오 육성··· 강화 경제자유구역 확대",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84RzVzUExyakcxU0phbGlOZ196ZXh5S1k0WDktMmw4Mnd0RVd4Zk1GUDZXb3F5SjVTWUNmdnhuUTJoc3M1VXBYOVZ2QWRvLWhycVlsalNRaE5CSGhNSkU3QWRZTFJuYTIwNE1helA5YnA?oc=5",
-        "source": "인천투데이",
-        "description": "인천경제청, 청라 K-콘텐츠·송도 바이오 육성··· 강화 경제자유구역 확대 인천투데이",
-        "pub_date": "26.11.04",
-        "section": "innovation"
-      },
-      {
-        "title": "대전TP, 글로벌 혁신특구 첨단 바이오제조 실증사업 참여기업 모집",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJUVMzd3lyQWpWUkxiWGVfU0pqcThleF9Na3JjVlJicnkyQXJmSDlCOUxGbmFxekVjd2ZTZW5QWHdnSks3NlVtcjhuMDg1ekJ3VHc2Y3RFWFlzN192am53QTV2ZThtRklXOFk2WDZnelg?oc=5",
-        "source": "신아일보",
-        "description": "대전TP, 글로벌 혁신특구 첨단 바이오제조 실증사업 참여기업 모집 신아일보",
-        "pub_date": "26.11.04",
-        "section": "innovation"
-      },
-      {
-        "title": "강원창조경제혁신센터, 바이오·헬스케어 스타트업 투자유치 성과",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHZDFSdF9Fd0ZwMkR4SFd1UV9fMWtfWjVNbFNmbE5PRDN2QnJpS2Zoc0tISlAwT25qSmdXdktiT01WSXZGcnBXemc4djlTZw?oc=5",
-        "source": "전자신문",
-        "description": "강원창조경제혁신센터, 바이오·헬스케어 스타트업 투자유치 성과 전자신문",
-        "pub_date": "26.11.04",
-        "section": "innovation"
-      },
-      {
-        "title": "화성특례시 ‘MARS 2026’ 개막… AI 산업혁신·우주항공 미래 제시",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVTJmeE9iUE0zMU5YbU1uNHVQR1BrelB6amR2cUtDVmlLUXRxU1hrd0lLU3FOMmJER0hLblExWnZRaGNwQjRqeGNWV2tZd0NIOUJTY1RKVTJtOXNUSXJQSmVZNkZkaUNzTUE?oc=5",
-        "source": "천지일보",
-        "description": "화성특례시 ‘MARS 2026’ 개막… AI 산업혁신·우주항공 미래 제시 천지일보",
-        "pub_date": "26.11.03",
         "section": "innovation"
       }
     ]
