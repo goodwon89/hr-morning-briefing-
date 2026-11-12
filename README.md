@@ -30,13 +30,13 @@ Actions → "인재경영실 Morning Briefing 자동 발송" → Run workflow
 - `dry_run` 체크(기본): 발신 계정에만 `[TEST]` 메일, 아카이브 저장 안 함
 - `force_send` 체크: 공휴일·중복 확인 없이 전체 수신자에게 즉시 발송
 
-## (권장) 정시 발송용 외부 트리거
-GitHub 예약 실행은 지연·누락될 수 있어, 외부 스케줄러를 하나 더 걸어두면 안정적입니다. 중복 실행돼도 하루 한 번만 발송됩니다.
-1. GitHub → Settings → Developer settings → Fine-grained token 발급 (이 저장소, `Contents: Read and write`)
-2. [cron-job.org](https://cron-job.org)에서 평일 06:25 KST 작업 생성
-   - URL: `https://api.github.com/repos/goodwon89/hr-morning-briefing-/dispatches` (POST)
-   - Headers: `Authorization: Bearer <토큰>`, `Accept: application/vnd.github+json`
-   - Body: `{"event_type":"morning-briefing"}`
+## 정시 발송용 외부 트리거 (설정 완료)
+GitHub 예약 실행은 지연·누락될 수 있어 cron-job.org에서도 호출합니다. 여러 번 실행돼도 하루 한 번만 발송됩니다.
+- cron-job.org 작업: "Morning Briefing 정시 발송 (평일 06:25)", 평일 06:25 Asia/Seoul
+- 호출: `POST https://api.github.com/repos/goodwon89/hr-morning-briefing-/actions/workflows/hr_news.yml/dispatches`
+  - Body: `{"ref":"main","inputs":{"dry_run":"false","force_send":"false"}}`
+  - Headers: `Content-Type: application/json`, `Accept: application/vnd.github+json`, `Authorization: Bearer <토큰>`
+- 토큰: GitHub fine-grained token `morning-briefing-cron` (이 저장소, Actions 읽기·쓰기만) — **2027-11-12 만료, 만료 전 재발급 후 cron-job.org 헤더 교체**
 
 ## 품질 필터 조정
 `hr_news.py` 상단의 `BLOCK_SOURCES`(차단 언론사), `BLOCK_TITLE_PATTERNS`(지자체·정치·인물동정 등), `SECTION_BLOCK_WORDS`, `QUERIES`를 수정합니다.
