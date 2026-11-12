@@ -33,7 +33,7 @@
 - **구독 신청**: 신청 페이지 → 시트에 `pending` + 관리자 메일 → 상태를 `active`로 바꾸면 다음 발송부터 포함
 - 발송 명단 = `EMAIL_RECIPIENTS` + 시트 `active` − 시트 `unsubscribed`
 
-연결 설정: Variables `TRACK_URL`(웹앱 /exec 주소), Secrets `TRACK_SECRET`(setup 실행 로그의 비밀키)
+연결 설정: Secrets `TRACK_SECRET`(setup 실행 로그의 비밀키). 웹앱 주소는 코드 기본값(`DEFAULT_TRACK_URL`)이며 Variables `TRACK_URL`로 바꿀 수 있음. 비밀키가 없으면 기존 방식으로 동작
 
 ## 수동 실행·테스트
 Actions → "인재경영실 Morning Briefing 자동 발송" → Run workflow

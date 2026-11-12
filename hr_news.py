@@ -80,7 +80,8 @@ FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
 
 # ─── 운영 웹앱(클릭 추적·구독 관리, apps_script/Code.gs) ───
 # 둘 다 설정되면: 기사 링크 클릭 집계, 개인별 원클릭 구독 취소, 구독자 시트 동기화, 발송 기록
-TRACK_URL    = (os.environ.get("TRACK_URL") or "").strip()
+DEFAULT_TRACK_URL = "https://script.google.com/macros/s/AKfycbxgZ8L-VjxiBG6DFAR380DIlx7VDLUEz1U_4DMYqfXMwoz0LOdedvgDYOO9pCrMfMNF/exec"
+TRACK_URL    = (os.environ.get("TRACK_URL") or DEFAULT_TRACK_URL).strip()   # 공개 주소(비밀 아님)
 TRACK_SECRET = (os.environ.get("TRACK_SECRET") or "").strip()
 UNSUB_TOKEN  = "%%UNSUB_URL%%"     # 수신자별 구독 취소 링크로 치환되는 자리
 ISSUE_DATE   = ""                  # 발행일(YYYY-MM-DD) — 추적 링크에 사용
