@@ -1085,6 +1085,8 @@ def run() -> None:
         os.makedirs("preview", exist_ok=True)
         with open("preview/email.html", "w", encoding="utf-8") as f:
             f.write(html_body)
+        if tracking_on():
+            print(f"  (점검) 실제 발송 시 수신자 {len(resolve_recipients())}명")
         target = [os.environ["GMAIL_USER"]] if os.environ.get("GMAIL_USER") else []
         if target:
             send_newsletter("[TEST] " + subject, html_body, text_body, target)
