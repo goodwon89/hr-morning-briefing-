@@ -695,7 +695,7 @@ def fetch_kosis_metrics():
     try:
         r = SESSION.get(KOSIS_URL, timeout=60, params={
             "method": "getList", "apiKey": key, "format": "json", "jsonVD": "Y",
-            "orgId": org, "tblId": tbl, "itmId": "T30 T80 T90", "objL1": "00 63 75",
+            "orgId": org, "tblId": tbl, "itmId": "T30 T80 T90", "objL1": "00 63 75",  # 00 전체, 63 15~64세, 75 15~29세
             "prdSe": "M", "newEstPrdCnt": "13"})
         rows = r.json()
         if not isinstance(rows, list):
@@ -726,8 +726,24 @@ def fetch_kosis_metrics():
             change += " (개선)" if (trend == good) else " (악화)"
         out.append({"label": label, "value": value, "change": change, "trend": trend,
                     "good": good, "source": f"국가데이터처 고용동향 {ym}", "_kosis": True})
+    # 이주의 리포트 첫 줄: 고용동향 요약 (KOSIS 수치로 자동 작성)
+    def fmt(age, itm, kind):
+        cur, old = val.get((age, itm, latest)), val.get((age, itm, prev))
+        if cur is None or old is None:
+            return None
+        d = cur - old
+        return (f"{cur / 10:,.1f}만명({d / 10:+,.1f}만명)" if kind == "count" else f"{cur:.1f}%({d:+.1f}%p)")
+    parts = [("취업자", fmt("00", "T30", "count")), ("15~64세 고용률", fmt("63", "T90", "rate")),
+             ("청년층(15~29세) 고용률", fmt("75", "T90", "rate")), ("청년층 실업률", fmt("75", "T80", "rate"))]
+    report = {
+        "title": f"{latest[:4]}년 {int(latest[4:])}월 고용동향 (국가데이터처)",
+        "org": "국가데이터처",
+        "desc": ", ".join(f"{k} {v}" for k, v in parts if v) + " (괄호는 전년동월 대비)",
+        "url": f"https://kosis.kr/statHtml/statHtml.do?orgId={org}&tblId={tbl}",
+        "_kosis": True,
+    }
     print(f"  KOSIS 고용동향 {ym} 반영: " + ", ".join(f"{m['label']} {m['value']}" for m in out))
-    return out
+    return out, report
 
 
 def refresh_weekly_data(now: datetime) -> None:
@@ -742,7 +758,14 @@ def refresh_weekly_data(now: datetime) -> None:
     label = f"{monday:%m.%d}~{monday + timedelta(days=4):%m.%d}"
     if data.get("week_label") != label:
         data["week_label"], changed = label, True
-    fresh = fetch_kosis_metrics()
+    got = fetch_kosis_metrics()
+    fresh, report = got if got else (None, None)
+    if report:
+        others = [r for r in data.get("reports", [])
+                  if not r.get("_kosis") and "고용동향" not in r.get("title", "")]
+        new_reports = [report] + others
+        if new_reports != data.get("reports"):
+            data["reports"], changed = new_reports, True
     if fresh:
         manual = [m for m in data.get("metrics", []) if not m.get("_kosis")
                   and m.get("label") not in {x["label"] for x in fresh}]
