@@ -676,6 +676,84 @@ def build_section_html(section_key: str, items: list) -> str:
   </div>"""
 
 
+KOSIS_URL = "https://kosis.kr/openapi/Param/statisticsParameterData.do"
+KOSIS_TABLE = ("101", "DT_1DA7002S")   # 경제활동인구조사 > 연령별 경제활동인구 총괄(월)
+# (라벨, 연령코드, 항목코드, 형식, 좋아지는 방향)
+KOSIS_METRICS = [
+    ("취업자 수",                  "00", "T30", "count", "up"),
+    ("고용률 (15~64세, OECD 기준)", "63", "T90", "rate",  "up"),
+    ("청년 실업률 (15~29세)",       "75", "T80", "rate",  "down"),
+]
+
+
+def fetch_kosis_metrics():
+    """KOSIS에서 최신 고용동향 3개 지표 + 전년동월 대비 증감 계산. 실패 시 None"""
+    key = os.environ.get("KOSIS_API_KEY", "").strip()
+    if not key:
+        return None
+    org, tbl = KOSIS_TABLE
+    try:
+        r = SESSION.get(KOSIS_URL, timeout=60, params={
+            "method": "getList", "apiKey": key, "format": "json", "jsonVD": "Y",
+            "orgId": org, "tblId": tbl, "itmId": "T30 T80 T90", "objL1": "00 63 75",
+            "prdSe": "M", "newEstPrdCnt": "13"})
+        rows = r.json()
+        if not isinstance(rows, list):
+            raise RuntimeError(str(rows)[:120])
+    except Exception as e:
+        print(f"  [경고] KOSIS 조회 실패 → data/weekly.json 기존 값 사용: {str(e).replace(key, '***')}")
+        return None
+
+    val = {(x["C1"], x["ITM_ID"], x["PRD_DE"]): float(x["DT"]) for x in rows if x.get("DT") not in (None, "", "-")}
+    latest = max(p for (_, _, p) in val)
+    prev = f"{int(latest[:4]) - 1}{latest[4:]}"
+    ym = f"{latest[:4]}.{int(latest[4:])}월"
+    out = []
+    for label, age, itm, kind, good in KOSIS_METRICS:
+        cur, old = val.get((age, itm, latest)), val.get((age, itm, prev))
+        if cur is None or old is None:
+            print(f"  [경고] KOSIS {label} {latest}/{prev} 값 없음 → 기존 값 사용")
+            return None
+        diff = cur - old
+        if kind == "count":                       # 천명 → 만명
+            value, change = f"{cur / 10:,.1f}만명", f"전년동월 대비 {diff / 10:+,.1f}만명"
+        else:
+            value, change = f"{cur:.1f}%", f"전년동월 대비 {diff:+.1f}%p"
+        trend = "up" if diff > 0.05 else "down" if diff < -0.05 else "neutral"
+        if trend == "neutral":
+            change = "전년동월과 동일"
+        if trend != "neutral":
+            change += " (개선)" if (trend == good) else " (악화)"
+        out.append({"label": label, "value": value, "change": change, "trend": trend,
+                    "good": good, "source": f"국가데이터처 고용동향 {ym}", "_kosis": True})
+    print(f"  KOSIS 고용동향 {ym} 반영: " + ", ".join(f"{m['label']} {m['value']}" for m in out))
+    return out
+
+
+def refresh_weekly_data(now: datetime) -> None:
+    """data/weekly.json의 KOSIS 지표·주간 표기를 최신으로 갱신 (수기 지표·리포트는 유지)"""
+    try:
+        with open(WEEKLY_DATA_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return
+    changed = False
+    monday = now - timedelta(days=now.weekday())
+    label = f"{monday:%m.%d}~{monday + timedelta(days=4):%m.%d}"
+    if data.get("week_label") != label:
+        data["week_label"], changed = label, True
+    fresh = fetch_kosis_metrics()
+    if fresh:
+        manual = [m for m in data.get("metrics", []) if not m.get("_kosis")
+                  and m.get("label") not in {x["label"] for x in fresh}]
+        new_metrics = fresh + manual
+        if new_metrics != data.get("metrics"):
+            data["metrics"], changed = new_metrics, True
+    if changed:
+        with open(WEEKLY_DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def load_weekly_data() -> dict:
     try:
         with open(WEEKLY_DATA_FILE, encoding="utf-8") as f:
@@ -700,6 +778,9 @@ def build_data_insight_html(data: dict) -> str:
     def _card_td(m: dict, col_count: int) -> str:
         t = m.get("trend", "neutral")
         w = 100 // col_count
+        good = m.get("good", "up")
+        color = trend_color["neutral"] if t == "neutral" else (
+            trend_color["up"] if t == good else trend_color["down"])
         return f"""
       <td style="padding:0 6px 6px 0; vertical-align:top; width:{w}%;">
         <div style="background:#f0fafa; border:1px solid #b2e8e8; border-radius:8px;
@@ -711,7 +792,7 @@ def build_data_insight_html(data: dict) -> str:
           <div style="font-size:17px; font-weight:800; color:#1a1a2a; {FONT} letter-spacing:-0.5px;">
             {esc(m.get('value', ''))}
           </div>
-          <div style="font-size:11.5px; font-weight:700; color:{trend_color.get(t, '#6b7280')}; margin-top:2px; {FONT}">
+          <div style="font-size:11.5px; font-weight:700; color:{color}; margin-top:2px; {FONT}">
             {trend_icon.get(t, '–')} {esc(m.get('change', ''))}
           </div>
           <div style="font-size:10px; color:#9ca3af; margin-top:3px; {FONT}">
@@ -1065,6 +1146,8 @@ def run() -> None:
     repo  = os.environ.get("GITHUB_REPO", "")
     logo_url  = f"https://raw.githubusercontent.com/{owner}/{repo}/main/logo.png" if owner and repo else ""
     pages_url = f"https://{owner}.github.io/{repo}" if owner and repo else "#"
+
+    refresh_weekly_data(now)
 
     # 1. 수집
     print(f"\n[1] 뉴스 수집 (최근 {RECENT_DAYS}일 발송분 {sum(len(e.get('news', [])) for e in recent)}건과 중복 제외)")

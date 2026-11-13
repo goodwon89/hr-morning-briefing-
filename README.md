@@ -7,7 +7,7 @@
 |---|---|
 | `hr_news.py` | 수집 → (선택) AI 선별 → 메일 발송 → 아카이브 저장 |
 | `.github/workflows/hr_news.yml` | 실행 스케줄·트리거 |
-| `data/weekly.json` | 메일 상단 '이주의 HR 데이터' (이 파일만 고치면 반영) |
+| `data/weekly.json` | 메일 상단 '이주의 HR 데이터'. 취업자 수·고용률·청년 실업률은 KOSIS에서 매 발송 시 자동 갱신(`KOSIS_API_KEY`), 그 외 지표·리포트는 이 파일을 직접 수정 |
 | `archive/YYYY-MM.json` | 월별 발송 기록 (전체 보관, 아카이브 페이지가 읽음) |
 | `index.html` | GitHub Pages 아카이브 페이지 |
 

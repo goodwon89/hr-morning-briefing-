@@ -52,6 +52,7 @@ jobs:
           ANTHROPIC_MODEL:   ${{ vars.ANTHROPIC_MODEL }}        # 선택: 모델 변경 시 Variables에 등록
           TRACK_URL:         ${{ vars.TRACK_URL }}              # 선택: 운영 웹앱 주소 (클릭 추적·구독 관리)
           TRACK_SECRET:      ${{ secrets.TRACK_SECRET }}        # 선택: 운영 웹앱 비밀키
+          KOSIS_API_KEY:     ${{ secrets.KOSIS_API_KEY }}       # 선택: 고용동향 지표 자동 갱신
           GITHUB_OWNER:      ${{ github.repository_owner }}
           GITHUB_REPO:       ${{ github.event.repository.name }}
           DRY_RUN:           ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
@@ -61,7 +62,7 @@ jobs:
       - name: 아카이브 커밋
         if: always()           # 발송 후 단계에서 실패해도 발송 기록은 남겨 중복 발송을 막음
         run: |
-          git add archive
+          git add archive data
           if git diff --cached --quiet; then
             echo "변경 없음"
             exit 0
