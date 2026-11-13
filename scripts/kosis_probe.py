@@ -25,7 +25,7 @@ if args[0].startswith("search:"):
 if args[0].startswith("raw:"):
     from urllib.parse import parse_qsl
     code, res = call("https://kosis.kr/openapi/Param/statisticsParameterData.do",
-                     {"method": "getList", **dict(parse_qsl(args[0][4:]))})
+                     {"method": "getList", **dict(kv.split("=", 1) for kv in args[0][4:].split(","))})
     if isinstance(res, list):
         for x in res[:80]:
             print("  ", x.get("PRD_DE"), x.get("C1"), x.get("C1_NM"), "|", x.get("C2_NM", ""), "|", x.get("ITM_NM"), x.get("DT"), x.get("UNIT_NM"))
