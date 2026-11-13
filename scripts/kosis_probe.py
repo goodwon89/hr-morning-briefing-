@@ -13,13 +13,25 @@ def call(url, params):
     except Exception:
         return r.status_code, r.text[:300].replace(KEY, "***")
 
-for tbl in sys.argv[1:] or ["DT_1DA7002S", "DT_1DA7001S"]:
+args = sys.argv[1:] or ["DT_1DA7002S"]
+if args[0].startswith("search:"):
+    code, res = call("https://kosis.kr/openapi/statisticsSearch.do",
+                     {"method": "getList", "searchNm": args[0][7:], "resultCount": "30", "startCount": "1"})
+    for x in (res if isinstance(res, list) else []):
+        print(" ", x.get("ORG_ID"), x.get("TBL_ID"), x.get("TBL_NM"), "|", x.get("STAT_NM"), "|", x.get("STRT_PRD_DE"), "~", x.get("END_PRD_DE"), x.get("PRD_SE", ""))
+    if not isinstance(res, list):
+        print(code, str(res)[:300])
+    sys.exit(0)
+org = "101"
+if args[0].startswith("org:"):
+    org, args = args[0][4:], args[1:]
+for tbl in args:
     print("=" * 70, "\n", tbl)
     code, meta = call("https://kosis.kr/openapi/statisticsData.do",
-                      {"method": "getMeta", "type": "TABLE", "orgId": "101", "tblId": tbl})
+                      {"method": "getMeta", "type": "TABLE", "orgId": org, "tblId": tbl})
     print(" TABLE:", code, json.dumps(meta, ensure_ascii=False)[:300])
     code, itm = call("https://kosis.kr/openapi/statisticsData.do",
-                     {"method": "getMeta", "type": "ITM", "orgId": "101", "tblId": tbl})
+                     {"method": "getMeta", "type": "ITM", "orgId": org, "tblId": tbl})
     if isinstance(itm, list):
         by = collections.defaultdict(list)
         for x in itm:
@@ -29,7 +41,7 @@ for tbl in sys.argv[1:] or ["DT_1DA7002S", "DT_1DA7001S"]:
     else:
         print(" ITM:", code, str(itm)[:300])
     code, data = call("https://kosis.kr/openapi/Param/statisticsParameterData.do",
-                      {"method": "getList", "orgId": "101", "tblId": tbl, "itmId": "ALL",
+                      {"method": "getList", "orgId": org, "tblId": tbl, "itmId": "ALL",
                        "objL1": "ALL", "objL2": "", "prdSe": "M", "newEstPrdCnt": "2"})
     if isinstance(data, list):
         print(" DATA rows:", len(data), "keys:", list(data[0].keys()))
