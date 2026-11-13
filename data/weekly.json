@@ -1,27 +1,33 @@
 {
-  "week_label": "11.02~11.06",
+  "week_label": "11.09~11.13",
   "enabled": true,
   "metrics": [
     {
       "label": "취업자 수",
-      "value": "2,926.6만명",
-      "change": "전년동월 대비 +11.3만명",
+      "value": "2,917.9만명",
+      "change": "전년동월 대비 +13.9만명 (개선)",
       "trend": "up",
-      "source": "국가데이터처 고용동향 2026.9월"
+      "good": "up",
+      "source": "국가데이터처 고용동향 2026.10월",
+      "_kosis": true
     },
     {
       "label": "고용률 (15~64세, OECD 기준)",
-      "value": "70.6%",
-      "change": "전년동월 대비 +0.2%p",
+      "value": "70.4%",
+      "change": "전년동월 대비 +0.3%p (개선)",
       "trend": "up",
-      "source": "국가데이터처 고용동향 2026.9월"
+      "good": "up",
+      "source": "국가데이터처 고용동향 2026.10월",
+      "_kosis": true
     },
     {
       "label": "청년 실업률 (15~29세)",
-      "value": "5.4%",
-      "change": "전년동월 대비 +0.6%p (악화)",
-      "trend": "up",
-      "source": "국가데이터처 고용동향 2026.9월"
+      "value": "5.2%",
+      "change": "전년동월 대비 -0.1%p (개선)",
+      "trend": "down",
+      "good": "down",
+      "source": "국가데이터처 고용동향 2026.10월",
+      "_kosis": true
     },
     {
       "label": "신규채용 계획 기업 비율",
