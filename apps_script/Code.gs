@@ -157,10 +157,19 @@ function unsubscribePage_(p) {
     return page_('잘못된 링크', '<h1>잘못된 링크입니다</h1><p>메일 하단의 구독 취소 링크를 다시 눌러 주세요.</p>');
   }
   const body =
-    '<h1>구독을 취소할까요?</h1><p><b>' + esc_(email) + '</b> 주소로 더 이상 브리핑을 보내지 않습니다.</p>' +
-    '<button id="b" onclick="this.disabled=true;google.script.run.withSuccessHandler(function(){document.querySelector(\'.box\').innerHTML=' +
-    '\'<h1>구독이 취소되었습니다</h1><p>다음 발송부터 메일이 가지 않습니다. 다시 받으시려면 구독 신청을 해 주세요.</p>\';})' +
-    '.unsubscribe(' + JSON.stringify(email) + ',' + JSON.stringify(p.h) + ')">구독 취소</button>';
+    '<div id="ask"><h1>구독을 취소할까요?</h1><p><b>' + esc_(email) + '</b> 주소로 더 이상 브리핑을 보내지 않습니다.</p>' +
+    '<button id="b">구독 취소</button></div>' +
+    '<div id="done" style="display:none"><h1>구독이 취소되었습니다</h1>' +
+    '<p>다음 발송부터 메일이 가지 않습니다. 다시 받으시려면 구독 신청을 해 주세요.</p></div>' +
+    '<p class="muted" id="m"></p>' +
+    '<script>' +
+    'var E=' + JSON.stringify(email) + ',H=' + JSON.stringify(String(p.h)) + ';' +
+    'document.getElementById("b").addEventListener("click",function(){' +
+    'this.disabled=true;google.script.run' +
+    '.withSuccessHandler(function(){document.getElementById("ask").style.display="none";document.getElementById("done").style.display="block";})' +
+    '.withFailureHandler(function(){document.getElementById("m").textContent="처리 중 오류가 발생했습니다. 잠시 후 다시 시도해 주세요.";})' +
+    '.unsubscribe(E,H);});' +
+    '</script>';
   return page_('구독 취소', body);
 }
 
@@ -174,12 +183,20 @@ function unsubscribe(email, h) {
 // 3) 구독 신청 — 관리자 승인 후 발송 대상에 포함
 function subscribePage_() {
   const body =
-    '<h1>구독 신청</h1><p>받으실 이메일 주소를 입력해 주세요. 담당자 확인 후 다음 발송부터 받으실 수 있습니다.</p>' +
+    '<div id="ask"><h1>구독 신청</h1><p>받으실 이메일 주소를 입력해 주세요. 담당자 확인 후 다음 발송부터 받으실 수 있습니다.</p>' +
     '<input id="e" type="email" placeholder="name@company.com" autocomplete="email">' +
-    '<button onclick="var v=document.getElementById(\'e\').value;if(!/^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$/.test(v)){alertBox();return;}' +
-    'this.disabled=true;google.script.run.withSuccessHandler(function(){document.querySelector(\'.box\').innerHTML=' +
-    '\'<h1>신청되었습니다</h1><p>담당자 확인 후 다음 발송부터 받으실 수 있습니다.</p>\';}).subscribe(v)">신청하기</button>' +
-    '<p class="muted" id="m"></p><script>function alertBox(){document.getElementById("m").textContent="이메일 주소를 확인해 주세요.";}</script>';
+    '<button id="b">신청하기</button></div>' +
+    '<div id="done" style="display:none"><h1>신청되었습니다</h1><p>담당자 확인 후 다음 발송부터 받으실 수 있습니다.</p></div>' +
+    '<p class="muted" id="m"></p>' +
+    '<script>' +
+    'document.getElementById("b").addEventListener("click",function(){' +
+    'var v=document.getElementById("e").value.trim();' +
+    'if(!/^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$/.test(v)){document.getElementById("m").textContent="이메일 주소를 확인해 주세요.";return;}' +
+    'var btn=this;btn.disabled=true;google.script.run' +
+    '.withSuccessHandler(function(){document.getElementById("ask").style.display="none";document.getElementById("done").style.display="block";})' +
+    '.withFailureHandler(function(){btn.disabled=false;document.getElementById("m").textContent="처리 중 오류가 발생했습니다.";})' +
+    '.subscribe(v);});' +
+    '</script>';
   return page_('구독 신청', body);
 }
 
