@@ -12,10 +12,28 @@
       "_kosis": true
     },
     {
-      "label": "고용률 (15~64세, OECD 기준)",
+      "label": "고용률 (15~64세)",
       "value": "70.4%",
       "change": "전년동월 대비 +0.3%p (개선)",
       "trend": "up",
+      "good": "up",
+      "source": "국가데이터처 고용동향 2026.10월",
+      "_kosis": true
+    },
+    {
+      "label": "빈 일자리 수",
+      "value": "16.0만개",
+      "change": "전년동월 대비 +1.3만개",
+      "trend": "up",
+      "good": "up",
+      "source": "고용노동부 사업체노동력조사 2026.9월",
+      "_kosis": true
+    },
+    {
+      "label": "청년 고용률 (15~29세)",
+      "value": "42.9%",
+      "change": "전년동월 대비 -1.7%p (악화)",
+      "trend": "down",
       "good": "up",
       "source": "국가데이터처 고용동향 2026.10월",
       "_kosis": true
@@ -28,13 +46,6 @@
       "good": "down",
       "source": "국가데이터처 고용동향 2026.10월",
       "_kosis": true
-    },
-    {
-      "label": "신규채용 계획 기업 비율",
-      "value": "66.6%",
-      "change": "전년 대비 +5.8%p (2025년 60.8%)",
-      "trend": "up",
-      "source": "경총 2026 신규 채용 실태조사 (100인 이상 500개사, 2026.3.12 발표)"
     }
   ],
   "reports": [
@@ -46,23 +57,24 @@
       "_kosis": true
     },
     {
-      "title": "2026년 하반기 대기업 신규채용 계획 조사 (한경협)",
-      "org": "한국경제인협회",
-      "desc": "매출 500대 기업 중 51.2%가 하반기 채용계획 수립(전년 37.2% 대비 +14.0%p). 채용 축소 계획은 25.8%로 감소(전년 37.8%).",
-      "url": "https://core.asiae.co.kr/article/2026092814392609833"
+      "title": "취준생 AI 역량 인식 조사 (취준생 77% vs 기업 20%)",
+      "org": "매일경제 마켓",
+      "desc": "취준생 77%가 취업에 AI 역량이 중요하다고 답했으나, 공식 평가하는 기업은 20%에 그쳐.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUVU83V05QY2hvTlNRNG00UmxSa0o3RE9GY3IybUdGQ0JHQnRCVGJEekJzTEgydUYzNmROVVdCVDBqZ1JBRXU3eEdNTXU3NGZVVEE?oc=5"
     },
     {
-      "title": "Global Talent Trends 2026 (Mercer)",
-      "org": "Mercer",
-      "desc": "전 세계 약 1.2만 명 대상 조사. 임직원 '업무 번영' 인식 44%(2024년 66%), AI로 인한 일자리 상실 우려 40%(2024년 28%).",
-      "url": "https://www.mercer.com/en-us/about/newsroom/mercer-s-global-talent-trends-2026-report/"
+      "title": "AI 활용 직장인 업무시간 조사",
+      "org": "마켓인",
+      "desc": "AI를 쓰는 직장인은 안 쓰는 직원보다 업무일이 최대 90분 길었다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmeEEwTk1JRkNGT0RReU93NlZrd2R5Y0VLcUlUZlVtTFRHc29maW9vc2lEYW1PSkZNS0RNVnViWG93QWU1QXFMRkJJdmthTkFuS1UzeTMwTXRaSmROU1lRdDlURFRmUEV3M3FWMUtYMEktOGc?oc=5"
     },
     {
-      "title": "2026년 신규 채용 실태조사 (경총)",
-      "org": "한국경영자총협회",
-      "desc": "정기+수시 병행 채용 35.0%(전년 22.6%), 직무 중심 채용 강화 72.2%, 채용 시 AI 활용 확대 30.6%.",
-      "url": "https://www.hankyung.com/article/2026031266707"
+      "title": "신입 AI 역량 기업 인식 조사",
+      "org": "한경협",
+      "desc": "기업 70%가 신입 AI 역량은 검색·요약 수준이면 충분하다고 응답.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Sk16S2hoZmJWTVcyQVJTTFJhWHZZSkVHRWt3dG82aHVSVTVSNkljM0U4UVVTUHV5S19HYVNIQndWdjg3NG5rWDRmYmRaNXUxRWttX0JGbWVSUQ?oc=5"
     }
   ],
-  "_guide": "매월 고용동향 발표 후 수정 → main에 push. enabled=false면 섹션 숨김. trend: up|down|neutral"
+  "_guide": "매월 고용동향 발표 후 수정 → main에 push. enabled=false면 섹션 숨김. trend: up|down|neutral",
+  "reports_week": "2026-11-09"
 }
