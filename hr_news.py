@@ -83,6 +83,8 @@ FEEDBACK_BODY = quote(_FEEDBACK_BODY_RAW)
 DEFAULT_TRACK_URL = "https://script.google.com/macros/s/AKfycbxgZ8L-VjxiBG6DFAR380DIlx7VDLUEz1U_4DMYqfXMwoz0LOdedvgDYOO9pCrMfMNF/exec"
 TRACK_URL    = (os.environ.get("TRACK_URL") or DEFAULT_TRACK_URL).strip()   # 공개 주소(비밀 아님)
 TRACK_SECRET = (os.environ.get("TRACK_SECRET") or "").strip()
+REDIRECT_URL = (os.environ.get("REDIRECT_URL") or
+                "https://goodwon89.github.io/hr-morning-briefing-/r.html").strip()  # 클릭 기록 후 원문 이동 페이지
 UNSUB_TOKEN  = "%%UNSUB_URL%%"     # 수신자별 구독 취소 링크로 치환되는 자리
 ISSUE_DATE   = ""                  # 발행일(YYYY-MM-DD) — 추적 링크에 사용
 
@@ -207,7 +209,7 @@ def track(url: str, section: str, idx: int, source: str = "", title: str = "") -
         return url
     q = urlencode({"a": "c", "d": ISSUE_DATE, "s": section, "i": idx,
                    "src": (source or "")[:40], "t": (title or "")[:90], "u": url, "h": sign(url)})
-    return f"{TRACK_URL}?{q}"
+    return f"{REDIRECT_URL}?{q}"
 
 
 def unsub_url(email: str) -> str:

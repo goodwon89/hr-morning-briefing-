@@ -115,6 +115,7 @@ function page_(title, bodyHtml) {
 function doGet(e) {
   const p = (e && e.parameter) || {};
   try {
+    if (p.a === 'c' && p.fmt === 'json') return clickJson_(p);
     if (p.a === 'c') return clickPage_(p);
     if (p.a === 'u') return unsubscribePage_(p);
     if (p.a === 's') return subscribePage_();
@@ -124,7 +125,17 @@ function doGet(e) {
   return page_('Morning Briefing', '<h1>요청을 처리할 수 없습니다</h1><p>링크가 올바른지 확인해 주세요.</p>');
 }
 
-// 1) 클릭 추적 — 서명된 URL만 이동 (임의 사이트로의 우회 이동 방지)
+// 1-a) 클릭 추적 (GitHub Pages의 r.html이 호출) — 서명 확인 후 기록, 이동할 URL 반환
+//      r.html은 브라우저에서 스크립트가 실행될 때만 호출하므로 메일 보안 스캐너의 자동 접속은 집계되지 않음
+function clickJson_(p) {
+  const url = String(p.u || '');
+  if (!/^https?:\/\//.test(url) || sign_(url) !== p.h) return json_({ ok: false });
+  try { logClick({ d: p.d || '', s: p.s || '', i: p.i || '', src: p.src || '', t: p.t || '', u: url }); }
+  catch (err) { console.error(err); }
+  return json_({ ok: true, u: url });
+}
+
+// 1-b) 클릭 추적 (예비 경로) — 서명된 URL만 이동 (임의 사이트로의 우회 이동 방지)
 function clickPage_(p) {
   const url = String(p.u || '');
   if (!/^https?:\/\//.test(url) || sign_(url) !== p.h) {

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>기사로 이동 중… | 인재경영실 Morning Briefing</title>
+<style>
+  body{font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",sans-serif;background:#f7f9fa;margin:0;color:#1a1a2a}
+  .box{max-width:440px;margin:80px auto;background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:26px}
+  .muted{font-size:12px;color:#9ca3af} h1{font-size:17px;margin:6px 0} p{font-size:14px;color:#4b5563;line-height:1.6}
+  a{color:#00A7A7;font-weight:700}
+</style>
+</head>
+<body>
+<div class="box">
+  <div class="muted">인재경영실 Morning Briefing</div>
+  <h1 id="h">기사로 이동 중…</h1>
+  <p id="p">잠시만 기다려 주세요.</p>
+</div>
+<script>
+/* 메일의 기사 링크 → 운영 웹앱에서 서명 확인·클릭 기록 → 원문으로 이동
+   (스크립트가 실행되는 실제 브라우저에서만 기록되므로 메일 보안 스캐너의 자동 접속은 집계되지 않음) */
+(function () {
+  var TRACK = "https://script.google.com/macros/s/AKfycbxgZ8L-VjxiBG6DFAR380DIlx7VDLUEz1U_4DMYqfXMwoz0LOdedvgDYOO9pCrMfMNF/exec";
+  var q = new URLSearchParams(location.search);
+  var u = q.get("u") || "";
+  var done = false;
+  function host(x) { try { return new URL(x).hostname; } catch (e) { return ""; } }
+  function go(url) { if (done) return; done = true; location.replace(url); }
+  function manual() {
+    if (done) return;
+    if (host(u) === "news.google.com") return go(u);   // 구글 뉴스 링크는 서명 확인 없이도 안전
+    document.getElementById("h").textContent = "링크를 확인하지 못했습니다";
+    var p = document.getElementById("p"); p.textContent = "";
+    if (/^https?:\/\//.test(u)) {
+      var a = document.createElement("a"); a.href = u; a.rel = "noopener"; a.textContent = "원문 열기 →";
+      p.appendChild(a);
+    }
+  }
+  if (!u) { manual(); return; }
+  q.set("fmt", "json");
+  var timer = setTimeout(manual, 5000);
+  fetch(TRACK + "?" + q.toString())
+    .then(function (r) { return r.json(); })
+    .then(function (d) { clearTimeout(timer); if (d && d.ok && d.u) go(d.u); else manual(); })
+    .catch(function () { clearTimeout(timer); manual(); });
+})();
+</script>
+</body>
+</html>
