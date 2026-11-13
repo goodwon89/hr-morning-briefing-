@@ -7,7 +7,7 @@
 |---|---|
 | `hr_news.py` | 수집 → (선택) AI 선별 → 메일 발송 → 아카이브 저장 |
 | `.github/workflows/hr_news.yml` | 실행 스케줄·트리거 |
-| `data/weekly.json` | 메일 상단 '이주의 HR 데이터'. 취업자 수·고용률·청년 실업률은 KOSIS에서 매 발송 시 자동 갱신(`KOSIS_API_KEY`), 그 외 지표·리포트는 이 파일을 직접 수정 |
+| `data/weekly.json` | 메일 상단 '이주의 HR 데이터' — **전부 자동**: 지표 5종(취업자·고용률·빈 일자리·청년 고용률·청년 실업률)은 KOSIS에서 매 발송 시, 리포트는 고용동향 1건(KOSIS) + 매주 첫 발송 때 AI가 고른 HR 조사·보고서 3건. 직접 고칠 필요 없음 |
 | `archive/YYYY-MM.json` | 월별 발송 기록 (전체 보관, 아카이브 페이지가 읽음) |
 | `index.html` | GitHub Pages 아카이브 페이지 |
 
@@ -30,7 +30,7 @@
 - **클릭 추적**: 메일 링크 → `r.html`(GitHub Pages) → 웹앱이 서명 확인·기록 → 원문 이동. 기사·리포트 클릭을 '운영 데이터' 시트에 기록 (누가 눌렀는지는 저장하지 않음, 메일 보안 스캐너의 자동 접속은 제외)
 - **요약 탭**: 섹션별 클릭, 발행일별 수신자당 클릭, 많이 읽은 기사 TOP 20 자동 계산
 - **구독 취소**: 수신자별 링크 → 확인 버튼 → 시트에 `unsubscribed` 기록 → 다음 발송부터 제외 (Gmail '구독 취소' 버튼도 지원)
-- **구독 신청**: 신청 페이지 → 시트에 `pending` + 관리자 메일 → 상태를 `active`로 바꾸면 다음 발송부터 포함
+- **구독 신청**: 신청 페이지 → 시트에 즉시 `active` 등록(다음 발송부터 포함) + 관리자 알림 메일. 차단이 필요하면 상태를 `unsubscribed`로 변경
 - 발송 명단 = `EMAIL_RECIPIENTS` + 시트 `active` − 시트 `unsubscribed`
 
 연결 설정: Secrets `TRACK_SECRET`(setup 실행 로그의 비밀키). 웹앱 주소는 코드 기본값(`DEFAULT_TRACK_URL`)이며 Variables `TRACK_URL`로 바꿀 수 있음. 비밀키가 없으면 기존 방식으로 동작

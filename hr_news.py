@@ -681,9 +681,15 @@ KOSIS_TABLE = ("101", "DT_1DA7002S")   # 경제활동인구조사 > 연령별 �
 # (라벨, 연령코드, 항목코드, 형식, 좋아지는 방향)
 KOSIS_METRICS = [
     ("취업자 수",                  "00", "T30", "count", "up"),
-    ("고용률 (15~64세, OECD 기준)", "63", "T90", "rate",  "up"),
+    ("고용률 (15~64세)", "63", "T90", "rate",  "up"),
+    ("청년 고용률 (15~29세)",       "75", "T90", "rate",  "up"),
     ("청년 실업률 (15~29세)",       "75", "T80", "rate",  "down"),
 ]
+# 고용노동부 사업체노동력조사 > 산업/규모별 고용(월): 전체 산업·전체 규모 빈 일자리
+VACANCY = {"orgId": "118", "tblId": "DT_118N_MON066", "itmId": "16118MF_5",
+           "objL1": "260225INDUSTRY_11S0", "objL2": "13102732820SIZES.0"}
+METRIC_ORDER = ["취업자 수", "고용률 (15~64세)", "빈 일자리 수",
+                "청년 고용률 (15~29세)", "청년 실업률 (15~29세)"]
 
 
 def fetch_kosis_metrics():
@@ -746,6 +752,32 @@ def fetch_kosis_metrics():
     return out, report
 
 
+def fetch_vacancy_metric():
+    """사업체노동력조사 빈 일자리 수(전년동월 대비). 실패 시 None"""
+    key = os.environ.get("KOSIS_API_KEY", "").strip()
+    if not key:
+        return None
+    try:
+        r = SESSION.get(KOSIS_URL, timeout=60, params={
+            "method": "getList", "apiKey": key, "format": "json", "jsonVD": "Y",
+            "prdSe": "M", "newEstPrdCnt": "13", **VACANCY})
+        rows = r.json()
+        if not isinstance(rows, list):
+            raise RuntimeError(str(rows)[:120])
+        val = {x["PRD_DE"]: float(x["DT"]) for x in rows if x.get("DT") not in (None, "", "-")}
+        latest = max(val)
+        prev = f"{int(latest[:4]) - 1}{latest[4:]}"
+        cur, old = val[latest], val[prev]
+    except Exception as e:
+        print(f"  [경고] 빈 일자리 조회 실패 → 기존 값 사용 (통계표 개편 시 VACANCY 설정 확인): {str(e).replace(key, '***')[:150]}")
+        return None
+    diff = cur - old
+    trend = "up" if diff > 0 else "down" if diff < 0 else "neutral"
+    change = f"전년동월 대비 {diff / 10000:+.1f}만개" if diff else "전년동월과 동일"
+    return {"label": "빈 일자리 수", "value": f"{cur / 10000:.1f}만개", "change": change, "trend": trend,
+            "good": "up", "source": f"고용노동부 사업체노동력조사 {latest[:4]}.{int(latest[4:])}월", "_kosis": True}
+
+
 def refresh_weekly_data(now: datetime) -> None:
     """data/weekly.json의 KOSIS 지표·주간 표기를 최신으로 갱신 (수기 지표·리포트는 유지)"""
     try:
@@ -766,15 +798,93 @@ def refresh_weekly_data(now: datetime) -> None:
         new_reports = [report] + others
         if new_reports != data.get("reports"):
             data["reports"], changed = new_reports, True
-    if fresh:
-        manual = [m for m in data.get("metrics", []) if not m.get("_kosis")
-                  and m.get("label") not in {x["label"] for x in fresh}]
-        new_metrics = fresh + manual
+    vacancy = fetch_vacancy_metric()
+    if fresh or vacancy:
+        cur = {m.get("label"): m for m in data.get("metrics", []) if m.get("_kosis")}  # 실패한 항목은 기존 값 유지
+        for m in (fresh or []) + ([vacancy] if vacancy else []):
+            cur[m["label"]] = m
+        new_metrics = [cur[l] for l in METRIC_ORDER if l in cur]
         if new_metrics != data.get("metrics"):
             data["metrics"], changed = new_metrics, True
+    if refresh_weekly_reports(data, now):
+        changed = True
     if changed:
         with open(WEEKLY_DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+REPORT_QUERIES = [
+    "(조사 OR 설문조사 OR 실태조사) (결과 OR 발표) (채용 OR 임금 OR 연봉 OR 직장인 OR 인사 OR 노동시장 OR 고용 OR 조직문화) -정치",
+    "(보고서 OR 리포트 OR 백서) (HR OR 인적자원 OR 인재 OR 노동 OR 고용 OR 조직문화 OR 리더십) 발표 -정치",
+    "(경총 OR 한경협 OR 대한상의 OR 한국노동연구원 OR 고용노동부 OR 잡코리아 OR 사람인 OR 인크루트) 조사 결과",
+    "(McKinsey OR Deloitte OR Mercer OR Gartner OR PwC OR 콘페리 OR 링크드인 OR 맥킨지 OR 딜로이트 OR 머서) (보고서 OR 조사) (인재 OR HR OR 직원 OR 일자리)",
+]
+
+
+def refresh_weekly_reports(data: dict, now: datetime) -> bool:
+    """매주 첫 발송 때 최근 7일 뉴스에서 HR 조사·보고서 3건을 골라 '이주의 HR 리포트'에 반영"""
+    week = (now - timedelta(days=now.weekday())).strftime("%Y-%m-%d")
+    if data.get("reports_week") == week:
+        return False
+    cands, seen = [], set()
+    for q in REPORT_QUERIES:
+        for entry in fetch_feed(q, 7)[:15]:
+            c = parse_entry(entry, "report", now, 7)
+            if not c or _norm_key(c["title"]) in seen or any(is_similar_title(c["title"], x["title"]) for x in cands):
+                continue
+            seen.add(_norm_key(c["title"]))
+            cands.append(c)
+    if len(cands) < 3:
+        print(f"  [경고] 리포트 후보 {len(cands)}건 — 이번 주 리포트 갱신 생략")
+        return False
+
+    picks = None
+    if os.environ.get("ANTHROPIC_API_KEY", "").strip():
+        lines = "\n".join(f"r-{i} | {c['title']} | {c['source']}" for i, c in enumerate(cands[:40]))
+        prompt = f"""{GROUP_CONTEXT}
+
+아래는 최근 7일 뉴스 중 HR 관련 조사·보고서 발표 기사 후보다(ID | 제목 | 언론사).
+뉴스레터의 '이주의 HR 리포트'에 실을 3건을 골라라.
+
+기준: 공신력 있는 기관(정부·연구원·경제단체·글로벌 컨설팅·대형 HR 플랫폼)의 조사·보고서 발표, 수치가 있는 것 우선.
+제외: 지자체·대학 행사, 홍보성 기사, 정치 기사, 같은 조사의 중복.
+각 항목: org(발표 기관명, 제목에서 확인되는 것만), title(조사·보고서 이름을 25자 이내로), desc(제목에 나온 사실만으로 60자 이내 요약. 제목에 없는 수치·내용 추가 금지).
+결과는 select_reports 도구로 제출한다.
+
+{lines}"""
+        tool = {"name": "select_reports", "description": "선정한 리포트 3건 제출",
+                "input_schema": {"type": "object", "properties": {"reports": {"type": "array", "items": {
+                    "type": "object", "properties": {"id": {"type": "string"}, "org": {"type": "string"},
+                                                     "title": {"type": "string"}, "desc": {"type": "string"}},
+                    "required": ["id", "org", "title", "desc"]}}}, "required": ["reports"]}}
+        try:
+            r = requests.post("https://api.anthropic.com/v1/messages", timeout=120,
+                              headers={"x-api-key": os.environ["ANTHROPIC_API_KEY"].strip(),
+                                       "anthropic-version": "2023-06-01", "content-type": "application/json"},
+                              json={"model": ANTHROPIC_MODEL, "max_tokens": 1500, "tools": [tool],
+                                    "tool_choice": {"type": "tool", "name": "select_reports"},
+                                    "messages": [{"role": "user", "content": prompt}]})
+            r.raise_for_status()
+            inp = next(b["input"] for b in r.json()["content"] if b.get("type") == "tool_use")
+            picks = []
+            for x in inp.get("reports", []):
+                m = re.fullmatch(r"r-(\d+)", str(x.get("id", "")).strip())
+                if m and int(m.group(1)) < len(cands):
+                    c = cands[int(m.group(1))]
+                    picks.append({"title": str(x.get("title") or c["title"])[:40],
+                                  "org": str(x.get("org") or c["source"])[:20],
+                                  "desc": str(x.get("desc") or c["title"])[:90], "url": c["url"]})
+            picks = picks[:3] if len(picks) >= 2 else None
+        except Exception as e:
+            print(f"  [경고] 리포트 AI 선정 실패 → 규칙 기반: {e}")
+    if not picks:
+        picks = [{"title": c["title"][:40], "org": c["source"], "desc": c["title"], "url": c["url"]} for c in cands[:3]]
+
+    kosis = [r for r in data.get("reports", []) if r.get("_kosis")]
+    data["reports"] = kosis + picks
+    data["reports_week"] = week
+    print("  이주의 HR 리포트 갱신: " + " / ".join(f"{p['org']} {p['title']}" for p in picks))
+    return True
 
 
 def load_weekly_data() -> dict:
@@ -828,9 +938,12 @@ def build_data_insight_html(data: dict) -> str:
     if n <= 3:
         metric_table_rows = "<tr>" + "".join(_card_td(m, max(n, 1)) for m in metrics) + "</tr>"
     else:
+        cols = 2 if n == 4 else 3
         rows = []
-        for i in range(0, n, 2):
-            rows.append("<tr>" + "".join(_card_td(m, 2) for m in metrics[i:i + 2]) + "</tr>")
+        for i in range(0, n, cols):
+            chunk = metrics[i:i + cols]
+            pad = "".join(f'<td style="width:{100 // cols}%;"></td>' for _ in range(cols - len(chunk)))
+            rows.append("<tr>" + "".join(_card_td(m, cols) for m in chunk) + pad + "</tr>")
         metric_table_rows = "".join(rows)
 
     report_rows = ""

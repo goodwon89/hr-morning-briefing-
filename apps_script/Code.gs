@@ -4,7 +4,7 @@
  * 기능
  *   1) 기사 클릭 추적:  ?a=c  → 클릭 기록 후 원문으로 이동 (보안 스캐너의 자동 접속은 기록 안 함)
  *   2) 구독 취소:       ?a=u  → 확인 버튼을 눌러야 취소 (메일 보안 스캐너의 오작동 방지)
- *   3) 구독 신청:       ?a=s  → 신청서 입력 → '대기' 등록 + 관리자 메일
+ *   3) 구독 신청:       ?a=s  → 신청서 입력 → 즉시 'active' 등록(다음 발송부터 포함) + 관리자 알림
  *   4) 발송 시스템 API: POST {action:'list'|'log_send', key} → 수신자 목록 / 발송 기록
  *
  * 최초 1회: 편집기에서 setup 함수 실행 → 실행 로그의 '시트 URL'과 '비밀키'를 확인
@@ -191,13 +191,13 @@ function unsubscribe(email, h) {
   return true;
 }
 
-// 3) 구독 신청 — 관리자 승인 후 발송 대상에 포함
+// 3) 구독 신청 — 즉시 발송 대상에 포함 (관리자에게는 알림만)
 function subscribePage_() {
   const body =
-    '<div id="ask"><h1>구독 신청</h1><p>받으실 이메일 주소를 입력해 주세요. 담당자 확인 후 다음 발송부터 받으실 수 있습니다.</p>' +
+    '<div id="ask"><h1>구독 신청</h1><p>받으실 이메일 주소를 입력해 주세요. 다음 발송(평일 오전 6시 30분)부터 받으실 수 있습니다.</p>' +
     '<input id="e" type="email" placeholder="name@company.com" autocomplete="email">' +
     '<button id="b">신청하기</button></div>' +
-    '<div id="done" style="display:none"><h1>신청되었습니다</h1><p>담당자 확인 후 다음 발송부터 받으실 수 있습니다.</p></div>' +
+    '<div id="done" style="display:none"><h1>구독되었습니다</h1><p>다음 발송(평일 오전 6시 30분)부터 받으실 수 있습니다.</p></div>' +
     '<p class="muted" id="m"></p>' +
     '<script>' +
     'document.getElementById("b").addEventListener("click",function(){' +
@@ -216,9 +216,11 @@ function subscribe(email) {
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) throw new Error('invalid email');
   const current = findRow_(email);
   if (current && current.status === 'active') return true;
-  setStatus_(email, 'pending', '구독신청 페이지');
-  MailApp.sendEmail(ADMIN_EMAIL, '[Morning Briefing] 구독 신청: ' + email,
-    email + ' 님이 구독을 신청했습니다.\n승인하려면 운영 시트 \'구독자\' 탭에서 상태를 pending → active 로 바꿔 주세요.\n' + ss_().getUrl());
+  setStatus_(email, 'active', '구독신청 페이지');
+  try {
+    MailApp.sendEmail(ADMIN_EMAIL, '[Morning Briefing] 신규 구독: ' + email,
+      email + ' 님이 구독했습니다. 다음 발송부터 자동 포함됩니다.\n(차단이 필요하면 운영 시트 \'구독자\' 탭에서 상태를 unsubscribed 로 바꾸세요)\n' + ss_().getUrl());
+  } catch (err) { console.error(err); }
   return true;
 }
 
