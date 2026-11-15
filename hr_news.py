@@ -912,35 +912,50 @@ def build_data_insight_html(data: dict) -> str:
     reports = data.get("reports", [])
     GOOD, BAD, NEUTRAL = "#059669", "#dc2626", "#6b7280"
 
+    # 3열×2행 컴팩트 카드 — 폴드 커버(약 360px)에서도 한 화면에 6개가 들어가도록 라벨·수치를 짧게
+    SHORT = {"취업자 수": "취업자", "고용률 (15~64세)": "고용률(15~64)", "빈 일자리 수": "빈 일자리",
+             "청년 고용률 (15~29세)": "청년 고용률", "청년 실업률 (15~29세)": "청년 실업률", "이직률": "이직률"}
+    GRID = ["취업자 수", "고용률 (15~64세)", "빈 일자리 수",          # 1행: 전체 고용 + 구인 수요
+            "청년 고용률 (15~29세)", "청년 실업률 (15~29세)", "이직률"]  # 2행: 청년 + 인력 이동
+    rank = {l: i for i, l in enumerate(GRID)}
+    metrics = sorted(metrics, key=lambda m: rank.get(m.get("label"), 99))
+
+    def short_value(v: str) -> str:
+        mm = re.fullmatch(r"([\d,]+\.\d)만명", v or "")          # 2,917.9만명 → 2,918만명
+        return f"{round(float(mm.group(1).replace(',', ''))):,}만명" if mm else v
+
     def card(m: dict) -> str:
         t, good = m.get("trend", "neutral"), m.get("good", "up")
         c = NEUTRAL if t == "neutral" else (GOOD if t == good else BAD)
-        delta, judge = _delta_text(m)
-        judge_html = f' <span style="font-weight:600;">· {esc(judge)}</span>' if judge else ""
+        delta, _ = _delta_text(m)
+        label = SHORT.get(m.get("label", ""), m.get("label", ""))
         return f"""
-        <td width="50%" valign="top" style="width:50%; background:#f0fafa; border:1px solid #c9eded; border-radius:10px; padding:12px 12px 11px; {FONT_STACK}">
-          <div style="font-size:12px; color:#6b7280; line-height:1.4; {KEEP}">{esc(m.get('label', ''))}</div>
-          <div style="font-size:21px; font-weight:800; color:#1a1a2a; letter-spacing:-0.5px; margin-top:4px; line-height:1.2;">{esc(m.get('value', ''))}</div>
-          <div style="font-size:13px; font-weight:700; color:{c}; margin-top:4px; line-height:1.4;">{esc(delta)}{judge_html}</div>
-          <div style="font-size:11px; color:#9ca3af; margin-top:5px; line-height:1.4; {KEEP}">{esc(m.get('source', ''))}</div>
+        <td width="33%" valign="top" style="width:33.33%; background:#f0fafa; border:1px solid #c9eded; border-radius:8px; padding:8px 8px 7px; {FONT_STACK}">
+          <div style="font-size:11px; color:#6b7280; line-height:1.3; white-space:nowrap;">{esc(label)}</div>
+          <div style="font-size:17px; font-weight:800; color:#1a1a2a; letter-spacing:-0.6px; margin-top:3px; line-height:1.2; white-space:nowrap;">{esc(short_value(m.get('value', '')))}</div>
+          <div style="font-size:11.5px; font-weight:700; color:{c}; margin-top:2px; line-height:1.3; white-space:nowrap;">{esc(delta)}</div>
         </td>"""
 
     rows = []
-    for i in range(0, len(metrics), 2):
-        pair = metrics[i:i + 2]
-        cells = "".join(card(m) for m in pair)
-        if len(pair) == 1:
-            cells += '<td width="50%" style="width:50%;"></td>'
+    for i in range(0, len(metrics), 3):
+        trio = metrics[i:i + 3]
+        cells = "".join(card(m) for m in trio) + '<td width="33%" style="width:33.33%;"></td>' * (3 - len(trio))
         rows.append(f"<tr>{cells}</tr>")
+    # 카드별 출처는 한 줄로 모아 표시 (예: 국가데이터처 26.10월 · 고용노동부 26.9월)
+    sources = []
+    for m in metrics:
+        src = str(m.get("source", "")).replace(" · ", " ")
+        if src and src not in sources:
+            sources.append(src)
 
     report_rows = ""
     for ri, r in enumerate(reports):
         org = r.get("org") or r.get("publisher", "")
         url = track(r.get("url", "#"), "data", ri, org, r.get("title", ""))
         report_rows += f"""
-      <tr><td style="padding:9px 0; border-bottom:1px solid #eef0f2;">
-        <a href="{esc(url)}" target="_blank" style="font-size:14px; line-height:1.5; color:#1a1a2a; font-weight:600; text-decoration:none; {KEEP}">→ {esc(r.get('title', ''))}</a>
-        <div style="font-size:12px; color:#9ca3af; margin-top:2px; padding-left:18px;">{esc(org)}</div>
+      <tr><td style="padding:7px 0; border-bottom:1px solid #eef0f2; line-height:1.45; {KEEP}">
+        <a href="{esc(url)}" target="_blank" style="font-size:14px; color:#1a1a2a; font-weight:600; text-decoration:none;">→ {esc(r.get('title', ''))}</a>
+        <span style="font-size:12px; color:#9ca3af; white-space:nowrap;">&nbsp;· {esc(org)}</span>
       </td></tr>"""
     reports_block = f"""
     <div style="margin-top:16px;">
@@ -951,8 +966,9 @@ def build_data_insight_html(data: dict) -> str:
     return f"""
   <div style="border-top:2px solid #00A7A7; padding-top:14px;">
     <div style="font-size:17px; font-weight:800; color:#1a1a2a; letter-spacing:-0.3px; {FONT_STACK}">📊&nbsp; 이주의 HR 데이터</div>
-    <div style="font-size:12px; color:#9ca3af; margin-top:3px;">{esc(data.get('week_label', ''))} · 증감은 전년동월 대비</div>
-    <table width="100%" cellpadding="0" cellspacing="6" role="presentation" style="border-collapse:separate; margin-top:6px;">{''.join(rows)}</table>
+    <div style="font-size:12px; color:#9ca3af; margin-top:3px; line-height:1.5; {KEEP}">{esc(data.get('week_label', ''))} · 증감은 전년동월 대비</div>
+    <table width="100%" cellpadding="0" cellspacing="4" role="presentation" style="border-collapse:separate; margin-top:6px; table-layout:fixed;">{''.join(rows)}</table>
+    <div style="font-size:11px; color:#9ca3af; margin-top:2px; line-height:1.5; {KEEP}">출처: {esc(' · '.join(sources))} · 초록=개선, 빨강=악화</div>
     {reports_block}
   </div>"""
 
