@@ -5,46 +5,61 @@
     {
       "label": "취업자 수",
       "value": "2,917.9만명",
-      "change": "전년동월 대비 +13.9만명 (개선)",
+      "change": "+13.9만명",
+      "judge": "개선",
       "trend": "up",
       "good": "up",
-      "source": "국가데이터처 고용동향 2026.10월",
+      "source": "국가데이터처 · 26.10월",
       "_kosis": true
     },
     {
       "label": "고용률 (15~64세)",
       "value": "70.4%",
-      "change": "전년동월 대비 +0.3%p (개선)",
+      "change": "+0.3%p",
+      "judge": "개선",
       "trend": "up",
       "good": "up",
-      "source": "국가데이터처 고용동향 2026.10월",
-      "_kosis": true
-    },
-    {
-      "label": "빈 일자리 수",
-      "value": "16.0만개",
-      "change": "전년동월 대비 +1.3만개",
-      "trend": "up",
-      "good": "up",
-      "source": "고용노동부 사업체노동력조사 2026.9월",
+      "source": "국가데이터처 · 26.10월",
       "_kosis": true
     },
     {
       "label": "청년 고용률 (15~29세)",
       "value": "42.9%",
-      "change": "전년동월 대비 -1.7%p (악화)",
+      "change": "-1.7%p",
+      "judge": "악화",
       "trend": "down",
       "good": "up",
-      "source": "국가데이터처 고용동향 2026.10월",
+      "source": "국가데이터처 · 26.10월",
       "_kosis": true
     },
     {
       "label": "청년 실업률 (15~29세)",
       "value": "5.2%",
-      "change": "전년동월 대비 -0.1%p (개선)",
+      "change": "-0.1%p",
+      "judge": "개선",
       "trend": "down",
       "good": "down",
-      "source": "국가데이터처 고용동향 2026.10월",
+      "source": "국가데이터처 · 26.10월",
+      "_kosis": true
+    },
+    {
+      "label": "빈 일자리 수",
+      "value": "16.0만개",
+      "change": "+1.3만개",
+      "judge": "",
+      "trend": "up",
+      "good": "up",
+      "source": "고용노동부 · 26.9월",
+      "_kosis": true
+    },
+    {
+      "label": "이직률",
+      "value": "5.3%",
+      "change": "+0.8%p",
+      "judge": "",
+      "trend": "up",
+      "good": "down",
+      "source": "고용노동부 · 26.9월",
       "_kosis": true
     }
   ],
