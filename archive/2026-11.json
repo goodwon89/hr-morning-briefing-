@@ -1,5 +1,187 @@
 [
  {
+  "date": "2026-11-16",
+  "sent_at": "06:33",
+  "news": [
+   {
+    "title": "1천대 기업 대표이사 중 여성 3.3% 불과…66%는 오너가",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SU1pHUmRhQnd0YzBRRnl5cUZqT0NBY0xGdV9QVUJ2LV9FMVN4Q3FuVHZkaGhWTjcwV21GbDloNWtoM2VTLWxmdlV5WVptLThIdVVIYjhZR3hJb2ozNk1Vd0NjMHBweGlsNXZBX29XcE50eWly?oc=5",
+    "source": "연합뉴스 한민족센터",
+    "pub_date": "26.11.16",
+    "section": "hr",
+    "so_what": "그룹 임원 다양성 점검 시 여성 임원 비율 벤치마크로 참고"
+   },
+   {
+    "title": "기업 10곳 중 9곳 “승진 적체”…정년 연장에 세대 갈등 뇌관 되나",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSeTJueXM0X3NMenVFVnU4dGl2OEx2SE9hamRWWVZ3UnR2ZHBEX1YzcE9nV05ad3VHT202ZThQQ0gtbmdLbWl0UE1GWGtRdlNhZmlBcHVhNk5Jai0wWXRNWWRnX2ZhTFFOVVJWd0ZDd9IBb0FVX3lxTFBSeTJueXM0X3NMenVFVnU4dGl2OEx2SE9hamRWWVZ3UnR2ZHBEX1YzcE9nV05ad3VHT202ZThQQ0gtbmdLbWl0UE1GWGtRdlNhZmlBcHVhNk5Jai0wWXRNWWRnX2ZhTFFOVVJWd0ZDdw?oc=5",
+    "source": "더퍼블릭",
+    "pub_date": "26.11.14",
+    "section": "hr",
+    "so_what": "정년 연장 대비 승진 체계 재설계 필요성 점검 시 참고"
+   },
+   {
+    "title": "\"AI 부정행위 막아라\"…대기업 채용 보안, 전담 TF로 확대될까",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aSHl6Y205X0k2VHNFMEZRdUMycS1na2k2LUt6elpuX3FCc3E5U1dzVFNIY3J0OEFRY2RJQ1Qtc1pNN0pBUkQ2aHB1ck5KUko1ZFA2MzhGUnl1S0MxdDY4WEpKRmNLMS1VbGVWakJyWFcwc3B1UWdpNtIBeEFVX3lxTE5aSHl6Y205X0k2VHNFMEZRdUMycS1na2k2LUt6elpuX3FCc3E5U1dzVFNIY3J0OEFRY2RJQ1Qtc1pNN0pBUkQ2aHB1ck5KUko1ZFA2MzhGUnl1S0MxdDY4WEpKRmNLMS1VbGVWakJyWFcwc3B1UWdpNg?oc=5",
+    "source": "뉴시스",
+    "pub_date": "26.11.16",
+    "section": "hr",
+    "so_what": "채용 단계 AI 부정행위 대응 체계 도입 검토 시 참고"
+   },
+   {
+    "title": "AI가 바꾼 인사관리 '인재 검증·조직평가' 고도화",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uRGVwRnhScm01ZFJSdzlZbmZadUE5dTF3Y3gyNC1LamExWFpCTXNYMXJ2MjYtLThyY2ptRlM2cC1jVWlDR09nYWw0MTcxWVFvQm5GRXY3Xzc4YmJDWUFEa1hLMHBMb1Q1V2ZubNIBbEFVX3lxTE9uRGVwRnhScm01ZFJSdzlZbmZadUE5dTF3Y3gyNC1LamExWFpCTXNYMXJ2MjYtLThyY2ptRlM2cC1jVWlDR09nYWw0MTcxWVFvQm5GRXY3Xzc4YmJDWUFEa1hLMHBMb1Q1V2ZubA?oc=5",
+    "source": "블로터",
+    "pub_date": "26.11.15",
+    "section": "hr",
+    "so_what": "AI 기반 인재 검증·조직평가 도입 검토 시 참고"
+   },
+   {
+    "title": "첫 출근도 안 했는데 \"보너스 4000만원 드려요\"…이 회사 어디?",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0cGltWUhwWUVyQndCaVFObFVRbThld0JUNFkxU0xNQnFFaEl4cGhvMXlxRmx1Mmt6S1JpaEpUZFhFSFdxd3VORHNEcmR6NnV4b1Zid182NFhHWUUyX2s3NTktbHEyV0x2dklsN0tuVlU4WkU?oc=5",
+    "source": "마켓인",
+    "pub_date": "26.11.16",
+    "section": "hr",
+    "so_what": "입사 전 보상 제시 관행의 내부 형평성 점검 시 참고"
+   },
+   {
+    "title": "출연연 조직문화 학습 '리서치컬처랩', 올해 학습 마무리...“출연연 변화·혁신 이끈다”",
+    "url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxPbGptdHlyUW9ienF6dlZzaDlVdjZZOGxISXZsc202ZjgwczN3aHhjUHI0cEhxbTZWYWhIZEFNUkR2cWRiMjBNeTdycmc2LUJqSk9QV2dFSnJucFRpOXp5QVJ0ampyODhXeS1rWFBmUXFMT3FqdWJlSU05SEpGSEl3dThNYkdtLU1aZGZfSERZcWJnT1d6Z1Jia291VmdaWWpMUUN4TXNxblpPaDBNNUJwTFdTMTVGQU1TUTMwcXNfQ1pQdTRDWnhWOFgyYkZDMTlpNGRESnNLUlp4cGVEa1dmMXdMZjBCYmJLOFdVZWFfN0NRdjU3RHJOb3IyZ0JwVDE4M296dGd1WUpTNHBZSkVqMGtCcUtGYU9GeXhyV3BoYjFBRGNmdjZpNzRKU2s5NnRmQ0c0WHdiTWdNYjNQOVhBc2F6V0NINkNsM05xUTRtcEN0RGhwdkdHT0ltd0MycDlVS0JzSEotbkQyQzZubG5WSi1ndWpfZ3l6Mjd5Vi1lNnV3NEZqcXFWZGpXNFRhS0lWWkxlZl9ESTBNd2s5QVVnMFNuRTBzT3NucHh5N2o2dlN1cHQ0RWkwbnVJTU1WOFQ4R3JncTBrb1pkRG1HTlJfUmJZVDNId2FSYmVVNWpNQzh1THZKSU9VXzVOZ25mdHRoQ3M5dFZYRFpxVnZkYWtLR0tSRE13Z09yQlpLZDB0NXV6U0pkWEdjVnFPakwtbk1idkNrdUFEam1sbzBNM0pXLUhPWTJJcjZPYURCMTY4dWtjT2RhZ3NwVUY4NXg4aUEwNkc3dEFyX3pObDNfWlNiMmN3Y1hpNHZpNEdTd2JmSUZIc1FVS3NqeXdFQk5lZjVEMlI3TFJXYUQxdG5PWmlvVGViaWdCUkphek44bUJEc3JZVm92QzRfRE9RbHI0SkgyWUFudXlZWGRBSVlvbUJ4cHAzbmFHeGRTODdRT2F3VVVCalM4dlFCZkZ5YVVZV2UwbndIRmtLNEtWNkVvX2pCaGY3UFk3MUVmYUpaTVFMYTlBeW43X0JwR0VoVVB3cTFGSXdwbGs2dUt1dnVOQTFqVXVROXVsT2s4YVJIRFhBRWY1Wi1yWnBoem9PNHNfUWprbldtQzBWcXFDT2ZTSGtuVEQ5bGtrcTB2ZGlzdWxxLXZlaDdjWldGbmZ4dUN1LTd6Q0RaOHdSWDlEVVo3TUg5RHI1NjJlLXJpZjhlNmVROUNWckFqc1FXSGFLTXEwd3J2NmdFSHFmNFpncmpEMVRXSE5HWEpQOFdzUmwzQ0xBOW00X1F1UVln?oc=5",
+    "source": "전자신문",
+    "pub_date": "26.11.14",
+    "section": "hr",
+    "so_what": "출연연 조직문화 학습 사례, 그룹 조직문화 프로그램 참고"
+   },
+   {
+    "title": "“파일럿 끝나고 수확기 왔다”… 제어 엔지니어 92%, “AI로 가시적 성과 창출”",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80YnRQRk4xN0F5RmZSZFJ4eTN6bXJsUm5yc0RZekFTR3NHNTg1UXJ6YkF5XzJZRVRiUzdEOHlXaU5qMGVkdUxmZTJLWEd6SUF3SVBrTzNIZzRUWk1UcG9n?oc=5",
+    "source": "헬로티",
+    "pub_date": "26.11.15",
+    "section": "ai_tech",
+    "so_what": "제조 외 계열사 AI 성과 측정 지표 설계 시 참고"
+   },
+   {
+    "title": "개인의 AI 생산성은 급증하지만 조직 차원의 성과는 정체… 미로 조사 결과 발표",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oVzg0cW1EQjJOQ2RTY0hodkVCNXc0Qm5leGRtSjhwamdIZVdtMHRWNWU0Z2dvVGhIU014aUxqWGcwSXFfNlRveUdxc01EZGZ6YlM0V2JDcmhxZXZFSG1xMGRncDJZMzDSAWdBVV95cUxPaFc4NHFtREIyTkNkU2NIaHZFQjV3NEJuZXhkbUo4cGpnSGVXbTB0VjVlNGdnb1RoSFNNeGlMalhnMElxXzZUb3lHcXNNRGRmemJTNFdiQ3JocWV2RUhtcTBkZ3AyWTMw?oc=5",
+    "source": "국민기자뉴스",
+    "pub_date": "26.11.16",
+    "section": "ai_tech",
+    "so_what": "개인 AI 생산성과 조직 성과 간 격차 관리 방안 필요"
+   },
+   {
+    "title": "풀무원, 직원이 직접 AI 에이전트 개발…업무 혁신 전사 확대",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZaE42Z3FkRDBCOGlFMjN1TXZXQWNEMmtmMnQtaU5kWFhIZktmQ0ZjSkdVVDlwU2dHd0d2bzdHaGgteVBubXpHVWpsNlJTTm5Bb0U3dGlWY1dpZlg5RGhIcWF3?oc=5",
+    "source": "디지털데일리",
+    "pub_date": "26.11.15",
+    "section": "ai_tech",
+    "so_what": "현업 직원 주도 AI 에이전트 개발 확산 방식 참고"
+   },
+   {
+    "title": "시스코 혁신 수장 \"韓, AI 투자만으론 부족…보안·인재 함께 키워야\"",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rWF9UdkE4b0EwVzBpY3RtOUN2N3B3S1RYRlE1X2c0R3FKSlY5Mm9fQWNLWXBMUW9ZcmkxdGhjUzFEVXdjNDNjZEl6UXBqRE9GSTBVVVdB?oc=5",
+    "source": "지디넷코리아",
+    "pub_date": "26.11.15",
+    "section": "ai_tech",
+    "so_what": "AI 투자와 보안·인재 투자 병행 필요성 참고"
+   },
+   {
+    "title": "인플레 위기감 짙어진 연준…'AI 테마' 향방도 주목",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mLTRzbjBScXRNcEdIenZGcTlteE5tTndmc05YNElacldzUmt2bVdUNEUyU0RWaF9VZE5uYnBoU29ubXkwcGlDOWNCZzJQRTdVR2RsNEpqdFVBRkFINkUxTk1uRGhybEpsTVN1WmZOakY0eXNE?oc=5",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.15",
+    "section": "macro_industry",
+    "so_what": "금리·AI 테마 변동성에 따른 투자 포트폴리오 점검 시 참고"
+   },
+   {
+    "title": "\"내년엔 집값보다 전셋값이 더 오를 것\"",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWs0LWN5WjFRb25QSi1aZndTRkpad3ZPS1NJQVgyOGNMWFZFWEctUGRmVkhPeU4zOUdiaTVPUDRSWFNhYVZiSk16Y3dzQ2c5NmE1N29QNmNLQ2xxNGhCZ0lucUJZZDU3eWRMVkdLVUkyTnE5X3Y5U2pseFNOWFEwbURmOUdMdVRK?oc=5",
+    "source": "조선일보",
+    "pub_date": "26.11.16",
+    "section": "macro_industry",
+    "so_what": "전세가 상승 전망에 따른 임직원 주거 지원 설계 시 참고"
+   },
+   {
+    "title": "우리금융저축銀, NPL 비율 최저…하나저축銀 개선세 지속 [2026 지주계 저축은행 3분기 리그테이블",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80cnNEMXp6VHQ4MU1UUFBGVFIxWnZnQ3k2V3FCdFZJNjd5SzZIQ25YQkRnODVHd0RiTHBWd1BOcXFSLU9ZWFgxLTJXVnJYUHJvOGJ3aFplQnZ0akpDVHF1S25xSldRUy16SGFxbFBfU21hMmdKNFJhUVBJMjg?oc=5",
+    "source": "한국금융신문",
+    "pub_date": "26.11.16",
+    "section": "macro_industry",
+    "so_what": "저축은행 계열사 NPL 비율 벤치마크로 참고"
+   },
+   {
+    "title": "돈 벌던 증권사들…이젠 대체상품 경쟁",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GeXpCQTFxUnFWc2Y0VVZfSmg1TjhuUnpFQWlXbjlXdUpLUGQ1UHVRQ252ald0TVdXV3BPM1NFdjc4RmNVaU1zZGtxUkkyUERkbzVUQWJ6em9tZklR?oc=5",
+    "source": "서플 뉴스",
+    "pub_date": "26.11.16",
+    "section": "macro_industry",
+    "so_what": "증권 계열사 수익원 다변화 전략 점검 시 참고"
+   },
+   {
+    "title": "신약 기술을 살까, 회사째 품을까…빅파마 10월 거래 33건의 선택",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9veWVTbGt0WUdLZjhCUmpCNUhRNWVWa2I4dFh2N0VvbjRFcUhrS3hoek1vTVBBSzdZZ2VrM3RoX2xtUWlISktpczhiOWVhWnZVeUk2Zi1mUWItbV9UVFlXeTBOcnMteHBkdjZr?oc=5",
+    "source": "메디파나뉴스",
+    "pub_date": "26.11.14",
+    "section": "invest_ma",
+    "so_what": "바이오 계열사 기술이전·인수 전략 비교 시 참고"
+   },
+   {
+    "title": "李, M&A 활성화 주문에 의무공개매수 '매각 방식' 쟁점…소액주주 보호방안은?",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wVlVCOU90WWxhaF9CTHRkcjBNd3lHMVI0UHZMX1FCTTJmOUludHY0Zk9fX0hSdTV3dkg5dE1wTTJLbkdGRF9PTHZFa21tRDdxYm83YmVJcW5UaUJJWEgzTjB0VkhGcWVZYVlud2Zab2N2NktpZUJGQjZEYw?oc=5",
+    "source": "이데일리TV",
+    "pub_date": "26.11.15",
+    "section": "invest_ma",
+    "so_what": "의무공개매수 제도 변화 시 M&A 일정·비용 재검토 필요"
+   },
+   {
+    "title": "증시 급락에 IPO 시장 찬 바람…상장 포기 속출에 새내기주도 '울상'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13Vk5tRjdiS1lXa2UxVHVmTzJJV1VaZXdObVQ0bFFIbjBEUDQxem5PZkdOZ05oSDJfV2N5VXRxYjlEcTYtQnhBQ1NNZnY3ZlhmSUdYWXFNbjhQVWtRcGRTcTNaSTVnT1JwYVBsTzhTd3I0cHPSAXNBVV95cUxNd1ZObUY3YktZV2tlMVR1Zk8ySVdVWmV3Tm1UNGxRSG4wRFA0MXpuT2ZHTmdOaEgyX1djeVV0cWI5RHE2LUJ4QUNTTWZ2N2ZYZklHWFlxTW44UFVrUXBkU3EzWkk1Z09ScGFQbE84U3dyNHBz?oc=5",
+    "source": "한국일보",
+    "pub_date": "26.11.15",
+    "section": "invest_ma",
+    "so_what": "IPO 시장 냉각 시 상장 계획 및 투자 회수 일정 점검"
+   },
+   {
+    "title": "노랑통닭, 공차, 컴포즈커피, 피자헛…M&A 거래를 살펴보니",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jdWZFQmVNbHNVaDdZck5mUGRCeW9jcVAydlBVN25nNjBBdjdNQVRHREFyaDN1S2FKMTA2YWl3REl3YmRkd2FJX2J0NU9ESmRnQTNZWlJYeVRRR3NBV1JDT0w5TTdrLVhDM2c?oc=5",
+    "source": "중기이코노미",
+    "pub_date": "26.11.16",
+    "section": "invest_ma",
+    "so_what": "프랜차이즈 M&A 거래 동향, 투자 대상 검토 시 참고"
+   },
+   {
+    "title": "대기업 절반 오픈이노베이션 나섰지만…스케일업 경험 10% 그쳐",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAySnJpOEdqbEc1cWZwb2VkQWlSdl9oR1Q5Wmdad3ltM0VnRUo0SmV4X19saXN0N0Nkc19Sa1d3MVM5aEZac1hBMnVhR1Q0djZCU1F0Yk1wX0lDeXFsc0c0Q2VkY0JIQlF3Y0w3Wm84LTNKYUk?oc=5",
+    "source": "마켓인",
+    "pub_date": "26.11.16",
+    "section": "innovation",
+    "so_what": "오픈이노베이션 스케일업 역량 강화 방안 수립 시 참고"
+   },
+   {
+    "title": "영국, 규제기관에 '성장 지원' 의무 추진…\"한국도 도입해야\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54amM1Z0JSV01ScVg2MXpUYVpjb1EyR2tiVUtHbXdrZHhHSVhRcnJRTi05ZGdIWUEtaUt1N0k1UFBwOHJKVWxzYUNkbVBmdW9qWHpVV3dnVVctU0tpNGVsd9IBYEFVX3lxTE54amM1Z0JSV01ScVg2MXpUYVpjb1EyR2tiVUtHbXdrZHhHSVhRcnJRTi05ZGdIWUEtaUt1N0k1UFBwOHJKVWxzYUNkbVBmdW9qWHpVV3dnVVctU0tpNGVsdw?oc=5",
+    "source": "연합뉴스",
+    "pub_date": "26.11.15",
+    "section": "innovation",
+    "so_what": "규제기관 성장지원 의무 제도 도입 동향 참고"
+   },
+   {
+    "title": "\"대기업·스타트업 협업, 개념검증·R＆D 편중…상용화는 26%뿐\"",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZUVpTU44bUFuT1JIdUpsODFQa3paMWlkOWpndmlnLUpJT2ZUMFpiUW5oZ2NQMmtPckk4YzFuVXJtdW9ycUx6WS1MTm1PM3daRmxnS1lld0NTX1nSAWBBVV95cUxOMk9OY1h4X3ZvMTVFajdoakhvN0RVZ1pTWkl1anAyaXZUTzJoUzZ1NDZhSDQtaXo0VW5KN2E4QjI3Ny1LZlJPVHQ0bnBwSk5sM05uWE9tR19KZWY4YzlmOEE?oc=5",
+    "source": "연합뉴스",
+    "pub_date": "26.11.16",
+    "section": "innovation",
+    "so_what": "스타트업 협업의 상용화 단계 성과 관리 시 참고"
+   },
+   {
+    "title": "규제 샌드박스 4건 중 1건만 제도 개선…한경협 “성장 지원 의무 강화해야”",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1eWJDam9uMXo4TUdtekRmOHBXTUNaUklCQm90VHppTDJMZWlhMEtSdWpaRURHMnRWNEU3MHBhN2hRSm11RVduLXNqSUJaenUxVDhrbU1Pdi03SENYM2ljclJJZWU?oc=5",
+    "source": "서울경제TV",
+    "pub_date": "26.11.15",
+    "section": "innovation",
+    "so_what": "규제 샌드박스 실효성 점검 및 바이오·IT 규제 대응 시 참고"
+   }
+  ]
+ },
+ {
   "date": "2026-11-13",
   "sent_at": "08:46",
   "news": [
