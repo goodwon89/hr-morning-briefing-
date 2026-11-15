@@ -618,59 +618,37 @@ def collect_all_news(now: datetime, recent_entries: list) -> list:
 # 이메일 HTML 생성
 # ──────────────────────────────────────────────────────────────
 
-def make_linked_text(title: str, url: str) -> str:
-    """제목에 링크 — 한 줄을 넘지 않도록 글자 수 제한"""
-    MAX_CHARS = 38
-    display_text = title if len(title) <= MAX_CHARS else title[:MAX_CHARS] + "..."
-    LINK_STYLE = (
-        "color:#1a1a2a; text-decoration:none; font-weight:500; "
-        "display:block; width:100%; white-space:nowrap; "
-        "overflow:hidden; text-overflow:ellipsis;"
-    )
-    return f'<a href="{esc(url)}" target="_blank" title="{esc(title)}" style="{LINK_STYLE}">{esc(display_text)}</a>'
+FONT_STACK = "font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;"
+KEEP = "word-break:keep-all; overflow-wrap:break-word;"   # 한국어 어절 단위 줄바꿈
 
 
 def build_article_row(item: dict) -> str:
-    """기사 1건 → 제목(좌)+출처·날짜(우), 시사점이 있으면 제목 아래 한 줄"""
-    linked_text = make_linked_text(item.get("title", ""), item.get("_link") or item.get("url", "#"))
-    source_date = " | ".join(x for x in (item.get("source", ""), item.get("pub_date", "")) if x)
+    """기사 1건 — 모바일 우선 1열: 제목 → 시사점 → 출처·날짜 (좁은 화면에서도 잘리지 않음)"""
+    url = item.get("_link") or item.get("url", "#")
+    meta = " · ".join(x for x in (item.get("source", ""), item.get("pub_date", "")) if x)
     so_what = item.get("so_what", "")
-    so_what_html = (
-        f'<div style="font-size:12px; color:#0f8a8a; line-height:1.5; margin-top:2px;">'
-        f'▸ {esc(so_what)}</div>' if so_what else ""
-    )
+    so_what_html = (f'<div style="font-size:13px; color:#0f8a8a; line-height:1.55; margin-top:4px; {KEEP}">'
+                    f'▸ {esc(so_what)}</div>') if so_what else ""
     return f"""
-      <tr>
-        <td style="padding:11px 16px 11px 0; border-bottom:1px solid #f0f0f0;
-                   font-size:13.5px; line-height:1.65; color:#1a1a2a;
-                   vertical-align:top; width:75%;">
-          {linked_text}{so_what_html}
-        </td>
-        <td style="padding:11px 0 11px 8px; border-bottom:1px solid #f0f0f0;
-                   font-size:12px; color:#9ca3af; white-space:nowrap;
-                   vertical-align:top; text-align:right; width:25%;">
-          {esc(source_date)}
-        </td>
-      </tr>"""
+      <tr><td style="padding:13px 0 12px; border-bottom:1px solid #eef0f2;">
+        <a href="{esc(url)}" target="_blank"
+           style="font-size:15px; line-height:1.5; color:#1a1a2a; font-weight:600; text-decoration:none; {KEEP}">{esc(item.get("title", ""))}</a>
+        {so_what_html}
+        <div style="font-size:12px; color:#9ca3af; margin-top:4px;">{esc(meta)}</div>
+      </td></tr>"""
 
 
 def build_section_html(section_key: str, items: list) -> str:
     meta = SECTION_META.get(section_key, {})
     rows = "".join(build_article_row(item) for item in items)
     return f"""
-  <div style="margin-bottom:8px;">
-    <div style="border-top:2px solid #1a1a2a; padding:14px 0 8px;">
-      <span style="font-size:15px; font-weight:800; color:#1a1a2a;
-                   letter-spacing:-0.3px; vertical-align:baseline;">
-        {meta.get('icon', '📌')}&nbsp; {meta.get('title', section_key)}
-      </span>
-      <span style="font-size:11px; color:#9ca3af; font-weight:400;
-                   margin-left:8px; vertical-align:baseline;">
-        {meta.get('desc', '')}
-      </span>
+  <div style="margin-top:22px;">
+    <div style="border-top:2px solid #1a1a2a; padding:14px 0 6px;">
+      <div style="font-size:17px; font-weight:800; color:#1a1a2a; letter-spacing:-0.3px; {FONT_STACK}">
+        {meta.get('icon', '📌')}&nbsp; {meta.get('title', section_key)}</div>
+      <div style="font-size:12px; color:#9ca3af; margin-top:3px; line-height:1.5; {KEEP}">{meta.get('desc', '')}</div>
     </div>
-    <table width="100%" cellpadding="0" cellspacing="0"
-           style="border-collapse:collapse; border-top:1px solid #e5e7eb;">
+    <table width="100%" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;">
       {rows}
     </table>
   </div>"""
@@ -685,11 +663,13 @@ KOSIS_METRICS = [
     ("청년 고용률 (15~29세)",       "75", "T90", "rate",  "up"),
     ("청년 실업률 (15~29세)",       "75", "T80", "rate",  "down"),
 ]
-# 고용노동부 사업체노동력조사 > 산업/규모별 고용(월): 전체 산업·전체 규모 빈 일자리
-VACANCY = {"orgId": "118", "tblId": "DT_118N_MON066", "itmId": "16118MF_5",
+# 고용노동부 사업체노동력조사 > 산업/규모별 고용(월): 전체 산업·전체 규모 — 빈 일자리 수, 이직률
+VACANCY = {"orgId": "118", "tblId": "DT_118N_MON066", "itmId": "16118MF_5 16118MP_13",
            "objL1": "260225INDUSTRY_11S0", "objL2": "13102732820SIZES.0"}
-METRIC_ORDER = ["취업자 수", "고용률 (15~64세)", "빈 일자리 수",
-                "청년 고용률 (15~29세)", "청년 실업률 (15~29세)"]
+# 2열×3행: 전체 고용 / 청년 / 기업 인력 흐름
+METRIC_ORDER = ["취업자 수", "고용률 (15~64세)",
+                "청년 고용률 (15~29세)", "청년 실업률 (15~29세)",
+                "빈 일자리 수", "이직률"]
 
 
 def fetch_kosis_metrics():
@@ -722,16 +702,15 @@ def fetch_kosis_metrics():
             return None
         diff = cur - old
         if kind == "count":                       # 천명 → 만명
-            value, change = f"{cur / 10:,.1f}만명", f"전년동월 대비 {diff / 10:+,.1f}만명"
+            value, change = f"{cur / 10:,.1f}만명", f"{diff / 10:+,.1f}만명"
         else:
-            value, change = f"{cur:.1f}%", f"전년동월 대비 {diff:+.1f}%p"
+            value, change = f"{cur:.1f}%", f"{diff:+.1f}%p"
         trend = "up" if diff > 0.05 else "down" if diff < -0.05 else "neutral"
+        judge = "" if trend == "neutral" else ("개선" if trend == good else "악화")
         if trend == "neutral":
-            change = "전년동월과 동일"
-        if trend != "neutral":
-            change += " (개선)" if (trend == good) else " (악화)"
-        out.append({"label": label, "value": value, "change": change, "trend": trend,
-                    "good": good, "source": f"국가데이터처 고용동향 {ym}", "_kosis": True})
+            change = "변동 없음"
+        out.append({"label": label, "value": value, "change": change, "judge": judge, "trend": trend,
+                    "good": good, "source": f"국가데이터처 · {latest[2:4]}.{int(latest[4:])}월", "_kosis": True})
     # 이주의 리포트 첫 줄: 고용동향 요약 (KOSIS 수치로 자동 작성)
     def fmt(age, itm, kind):
         cur, old = val.get((age, itm, latest)), val.get((age, itm, prev))
@@ -752,11 +731,11 @@ def fetch_kosis_metrics():
     return out, report
 
 
-def fetch_vacancy_metric():
-    """사업체노동력조사 빈 일자리 수(전년동월 대비). 실패 시 None"""
+def fetch_business_metrics() -> list:
+    """사업체노동력조사 빈 일자리 수·이직률(전년동월 대비). 실패 시 []"""
     key = os.environ.get("KOSIS_API_KEY", "").strip()
     if not key:
-        return None
+        return []
     try:
         r = SESSION.get(KOSIS_URL, timeout=60, params={
             "method": "getList", "apiKey": key, "format": "json", "jsonVD": "Y",
@@ -764,18 +743,32 @@ def fetch_vacancy_metric():
         rows = r.json()
         if not isinstance(rows, list):
             raise RuntimeError(str(rows)[:120])
-        val = {x["PRD_DE"]: float(x["DT"]) for x in rows if x.get("DT") not in (None, "", "-")}
-        latest = max(val)
-        prev = f"{int(latest[:4]) - 1}{latest[4:]}"
-        cur, old = val[latest], val[prev]
     except Exception as e:
-        print(f"  [경고] 빈 일자리 조회 실패 → 기존 값 사용 (통계표 개편 시 VACANCY 설정 확인): {str(e).replace(key, '***')[:150]}")
-        return None
-    diff = cur - old
-    trend = "up" if diff > 0 else "down" if diff < 0 else "neutral"
-    change = f"전년동월 대비 {diff / 10000:+.1f}만개" if diff else "전년동월과 동일"
-    return {"label": "빈 일자리 수", "value": f"{cur / 10000:.1f}만개", "change": change, "trend": trend,
-            "good": "up", "source": f"고용노동부 사업체노동력조사 {latest[:4]}.{int(latest[4:])}월", "_kosis": True}
+        print(f"  [경고] 사업체노동력조사 조회 실패 → 기존 값 사용 (통계표 개편 시 VACANCY 설정 확인): {str(e).replace(key, '***')[:150]}")
+        return []
+    val = {(x["ITM_ID"], x["PRD_DE"]): float(x["DT"]) for x in rows if x.get("DT") not in (None, "", "-")}
+    out = []
+    for itm, label, good in (("16118MF_5", "빈 일자리 수", "up"), ("16118MP_13", "이직률", "down")):
+        periods = sorted(p for (i, p) in val if i == itm)
+        if not periods:
+            print(f"  [경고] 사업체노동력조사 {label} 값 없음 → 기존 값 사용")
+            continue
+        latest = periods[-1]
+        prev = f"{int(latest[:4]) - 1}{latest[4:]}"
+        if (itm, prev) not in val:
+            continue
+        cur, diff = val[(itm, latest)], val[(itm, latest)] - val[(itm, prev)]
+        if itm == "16118MF_5":
+            value, change = f"{cur / 10000:.1f}만개", f"{diff / 10000:+.1f}만개"
+            trend = "up" if diff > 0 else "down" if diff < 0 else "neutral"
+        else:
+            value, change = f"{cur:.1f}%", f"{diff:+.1f}%p"
+            trend = "up" if diff > 0.05 else "down" if diff < -0.05 else "neutral"
+        if trend == "neutral":
+            change = "변동 없음"
+        out.append({"label": label, "value": value, "change": change, "judge": "", "trend": trend, "good": good,
+                    "source": f"고용노동부 · {latest[2:4]}.{int(latest[4:])}월", "_kosis": True})
+    return out
 
 
 def refresh_weekly_data(now: datetime) -> None:
@@ -798,10 +791,10 @@ def refresh_weekly_data(now: datetime) -> None:
         new_reports = [report] + others
         if new_reports != data.get("reports"):
             data["reports"], changed = new_reports, True
-    vacancy = fetch_vacancy_metric()
-    if fresh or vacancy:
+    business = fetch_business_metrics()
+    if fresh or business:
         cur = {m.get("label"): m for m in data.get("metrics", []) if m.get("_kosis")}  # 실패한 항목은 기존 값 유지
-        for m in (fresh or []) + ([vacancy] if vacancy else []):
+        for m in (fresh or []) + business:
             cur[m["label"]] = m
         new_metrics = [cur[l] for l in METRIC_ORDER if l in cur]
         if new_metrics != data.get("metrics"):
@@ -898,98 +891,68 @@ def load_weekly_data() -> dict:
         return {"enabled": False}
 
 
+def _delta_text(m: dict) -> tuple:
+    """(화살표 포함 증감, 판정) — 예전 형식('전년동월 대비 +x (개선)')도 처리"""
+    ch = str(m.get("change", "")).replace("전년동월 대비", "").strip()
+    judge = m.get("judge") or ""
+    mm = re.search(r"\s*\((개선|악화)\)\s*$", ch)
+    if mm:
+        judge, ch = judge or mm.group(1), ch[:mm.start()].strip()
+    if ch in ("전년동월과 동일", ""):
+        ch = "변동 없음"
+    arrow = {"up": "▲", "down": "▼"}.get(m.get("trend"), "–")
+    return f"{arrow} {ch}", judge
+
+
 def build_data_insight_html(data: dict) -> str:
-    """이주의 HR 데이터 섹션 (data/weekly.json)"""
+    """이주의 HR 데이터 — 2열 카드(모바일·데스크톱 공통, 같은 행 높이 동일) + 리포트(제목/기관 2줄)"""
     if not data.get("enabled", True):
         return ""
+    metrics = data.get("metrics", [])
+    reports = data.get("reports", [])
+    GOOD, BAD, NEUTRAL = "#059669", "#dc2626", "#6b7280"
 
-    week_label = data.get("week_label", "")
-    metrics    = data.get("metrics", [])
-    reports    = data.get("reports", [])
-    FONT = "font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;"
-    trend_icon  = {"up": "▲", "down": "▼", "neutral": "–"}
-    trend_color = {"up": "#059669", "down": "#dc2626", "neutral": "#6b7280"}
-
-    def _card_td(m: dict, col_count: int) -> str:
-        t = m.get("trend", "neutral")
-        w = 100 // col_count
-        good = m.get("good", "up")
-        color = trend_color["neutral"] if t == "neutral" else (
-            trend_color["up"] if t == good else trend_color["down"])
+    def card(m: dict) -> str:
+        t, good = m.get("trend", "neutral"), m.get("good", "up")
+        c = NEUTRAL if t == "neutral" else (GOOD if t == good else BAD)
+        delta, judge = _delta_text(m)
+        judge_html = f' <span style="font-weight:600;">· {esc(judge)}</span>' if judge else ""
         return f"""
-      <td style="padding:0 6px 6px 0; vertical-align:top; width:{w}%;">
-        <div style="background:#f0fafa; border:1px solid #b2e8e8; border-radius:8px;
-                    padding:10px 12px; text-align:left;">
-          <div style="font-size:10.5px; color:#6b7280; margin-bottom:3px; {FONT}
-                      white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
-            {esc(m.get('label', ''))}
-          </div>
-          <div style="font-size:17px; font-weight:800; color:#1a1a2a; {FONT} letter-spacing:-0.5px;">
-            {esc(m.get('value', ''))}
-          </div>
-          <div style="font-size:11.5px; font-weight:700; color:{color}; margin-top:2px; {FONT}">
-            {trend_icon.get(t, '–')} {esc(m.get('change', ''))}
-          </div>
-          <div style="font-size:10px; color:#9ca3af; margin-top:3px; {FONT}">
-            {esc(m.get('source', ''))}
-          </div>
-        </div>
-      </td>"""
+        <td width="50%" valign="top" style="width:50%; background:#f0fafa; border:1px solid #c9eded; border-radius:10px; padding:12px 12px 11px; {FONT_STACK}">
+          <div style="font-size:12px; color:#6b7280; line-height:1.4; {KEEP}">{esc(m.get('label', ''))}</div>
+          <div style="font-size:21px; font-weight:800; color:#1a1a2a; letter-spacing:-0.5px; margin-top:4px; line-height:1.2;">{esc(m.get('value', ''))}</div>
+          <div style="font-size:13px; font-weight:700; color:{c}; margin-top:4px; line-height:1.4;">{esc(delta)}{judge_html}</div>
+          <div style="font-size:11px; color:#9ca3af; margin-top:5px; line-height:1.4; {KEEP}">{esc(m.get('source', ''))}</div>
+        </td>"""
 
-    n = len(metrics)
-    if n <= 3:
-        metric_table_rows = "<tr>" + "".join(_card_td(m, max(n, 1)) for m in metrics) + "</tr>"
-    else:
-        cols = 2 if n == 4 else 3
-        rows = []
-        for i in range(0, n, cols):
-            chunk = metrics[i:i + cols]
-            pad = "".join(f'<td style="width:{100 // cols}%;"></td>' for _ in range(cols - len(chunk)))
-            rows.append("<tr>" + "".join(_card_td(m, cols) for m in chunk) + pad + "</tr>")
-        metric_table_rows = "".join(rows)
+    rows = []
+    for i in range(0, len(metrics), 2):
+        pair = metrics[i:i + 2]
+        cells = "".join(card(m) for m in pair)
+        if len(pair) == 1:
+            cells += '<td width="50%" style="width:50%;"></td>'
+        rows.append(f"<tr>{cells}</tr>")
 
     report_rows = ""
     for ri, r in enumerate(reports):
-        org = r.get("org") or r.get("publisher", "")   # [버그 수정] 기존 코드는 publisher만 읽어 항상 공란
-        r = dict(r, url=track(r.get("url", "#"), "data", ri, org, r.get("title", "")))
+        org = r.get("org") or r.get("publisher", "")
+        url = track(r.get("url", "#"), "data", ri, org, r.get("title", ""))
         report_rows += f"""
-      <tr>
-        <td style="padding:5px 0; border-bottom:1px solid #f0f0f0;">
-          <a href="{esc(r.get('url', '#'))}" target="_blank"
-             style="font-size:13px; color:#1a1a2a; text-decoration:none; font-weight:500; {FONT}
-                    display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">
-            → {esc(r.get('title', ''))}
-          </a>
-        </td>
-        <td style="padding:5px 0 5px 10px; border-bottom:1px solid #f0f0f0;
-                   font-size:11px; color:#9ca3af; white-space:nowrap; text-align:right; {FONT}">
-          {esc(org)}
-        </td>
-      </tr>"""
-
+      <tr><td style="padding:9px 0; border-bottom:1px solid #eef0f2;">
+        <a href="{esc(url)}" target="_blank" style="font-size:14px; line-height:1.5; color:#1a1a2a; font-weight:600; text-decoration:none; {KEEP}">→ {esc(r.get('title', ''))}</a>
+        <div style="font-size:12px; color:#9ca3af; margin-top:2px; padding-left:18px;">{esc(org)}</div>
+      </td></tr>"""
     reports_block = f"""
-    <div style="margin-top:14px;">
-      <div style="font-size:11.5px; font-weight:700; color:#6b7280; margin-bottom:6px; {FONT} letter-spacing:0.2px;">
-        📄 이주의 HR 리포트 &amp; 통계
-      </div>
-      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-        {report_rows}
-      </table>
+    <div style="margin-top:16px;">
+      <div style="font-size:13px; font-weight:700; color:#4b5563; margin-bottom:2px; {FONT_STACK}">📄 이주의 HR 리포트 &amp; 통계</div>
+      <table width="100%" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;">{report_rows}</table>
     </div>""" if reports else ""
 
     return f"""
-  <div style="margin-bottom:20px; border-top:2px solid #00A7A7; padding-top:14px;">
-    <div style="margin-bottom:12px;">
-      <span style="font-size:15px; font-weight:800; color:#1a1a2a; letter-spacing:-0.3px; {FONT}">
-        📊&nbsp; 이주의 HR 데이터
-      </span>
-      <span style="font-size:11px; color:#9ca3af; font-weight:400; margin-left:8px; {FONT}">
-        {esc(week_label)} 채용시장 주요 지표
-      </span>
-    </div>
-    <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-      {metric_table_rows}
-    </table>
+  <div style="border-top:2px solid #00A7A7; padding-top:14px;">
+    <div style="font-size:17px; font-weight:800; color:#1a1a2a; letter-spacing:-0.3px; {FONT_STACK}">📊&nbsp; 이주의 HR 데이터</div>
+    <div style="font-size:12px; color:#9ca3af; margin-top:3px;">{esc(data.get('week_label', ''))} · 증감은 전년동월 대비</div>
+    <table width="100%" cellpadding="0" cellspacing="6" role="presentation" style="border-collapse:separate; margin-top:6px;">{''.join(rows)}</table>
     {reports_block}
   </div>"""
 
@@ -1009,10 +972,14 @@ def build_email_html(news_items: list, today_str: str, logo_url: str = "", pages
     data_insight_html = build_data_insight_html(load_weekly_data())
 
     logo_img = (
-        f'<img src="{logo_url}" alt="상상인그룹" style="height:29px; display:block;">'
+        f'<img src="{logo_url}" alt="상상인그룹" height="24" style="height:24px; width:auto; display:block; border:0;">'
         if logo_url
         else '<span style="font-size:12px; font-weight:800; color:#1a1a2a;">상상인그룹</span>'
     )
+    hr_first = next((n.get("title", "") for n in news_items if n.get("section") == "hr"), "")
+    preheader = f"오늘의 HR 이슈: {hr_first}" if hr_first else "오늘의 HR·경제 주요 뉴스"
+    BTN = ("display:inline-block; margin:4px; padding:11px 16px; border-radius:8px; font-size:14px; line-height:1.3; "
+           "font-weight:700; text-decoration:none; white-space:nowrap; " + FONT_STACK)
     if tracking_on():
         subscribe_href   = f"{TRACK_URL}?a=s"
         unsubscribe_href = UNSUB_TOKEN                      # 발송 시 수신자별 링크로 치환
@@ -1020,86 +987,49 @@ def build_email_html(news_items: list, today_str: str, logo_url: str = "", pages
         subscribe_href   = f"mailto:{ADMIN_EMAIL}?subject={SUBSCRIBE_SUBJ}"
         unsubscribe_href = f"mailto:{ADMIN_EMAIL}?subject={UNSUBSCRIBE_SUBJ}"
     feedback_href    = f"mailto:{ADMIN_EMAIL}?subject={FEEDBACK_SUBJ}&body={FEEDBACK_BODY}"
-    FONT = "font-family:'Pretendard','Apple SD Gothic Neo',sans-serif;"
 
+    # 모바일 우선 1열 레이아웃: 폴드 커버(약 360px)~펼침(약 700px)~PC까지 같은 구조로 자연스럽게 늘어남
     return f"""<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
   <title>{NEWSLETTER_TITLE}</title>
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 </head>
-<body style="margin:0; padding:0; background:#ffffff;
-             font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;">
-  <div style="max-width:660px; margin:0 auto; padding:32px 28px;">
+<body style="margin:0; padding:0; background:#ffffff; -webkit-text-size-adjust:100%; {FONT_STACK}">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent;">{esc(preheader)}</div>
+  <div style="max-width:640px; margin:0 auto; padding:22px 16px 28px;">
 
-    <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:6px;">
-      <tr>
-        <td style="vertical-align:bottom;">
-          <div style="font-size:24px; font-weight:900; color:#1a1a2a; letter-spacing:-0.5px; line-height:1.2; {FONT}">
-            {NEWSLETTER_TITLE}
-          </div>
-          <div style="font-size:12px; color:#9ca3af; margin-top:6px; {FONT}">
-            뉴스레터 &nbsp;|&nbsp; {today_str}
-          </div>
-        </td>
-        <td style="vertical-align:top; text-align:right; white-space:nowrap; padding-left:20px; width:1%;">
-          {logo_img}
-        </td>
-      </tr>
-    </table>
+    <div>{logo_img}</div>
+    <div style="font-size:23px; font-weight:900; color:#1a1a2a; letter-spacing:-0.5px; line-height:1.3; margin-top:14px; {KEEP}">
+      {NEWSLETTER_TITLE}</div>
+    <div style="font-size:13px; color:#9ca3af; margin-top:4px;">뉴스레터 · {today_str}</div>
 
-    <div style="height: 20px;"></div>
+    <div style="height:18px;"></div>
 
     {data_insight_html}
 
     {sections_html}
 
-    <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0 20px;">
+    <div style="border-top:1px solid #e5e7eb; margin:26px 0 14px;"></div>
 
-    <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
-      <tr>
-        <td style="padding:4px;">
-          <a href="{pages_url}" target="_blank"
-             style="display:inline-block; background:#fef9c3; color:#1a1a2a; font-size:13px; font-weight:700;
-                    padding:10px 18px; border-radius:8px; text-decoration:none; border:1px solid #fde047; {FONT}">
-            📁 전체 뉴스 아카이브 보기
-          </a>
-        </td>
-        <td style="padding:4px; text-align:right; white-space:nowrap;">
-          <a href="{subscribe_href}"
-             style="display:inline-block; background:#1a1a2a; color:#ffffff; font-size:13px; font-weight:700;
-                    padding:10px 16px; border-radius:8px; text-decoration:none; margin-right:6px; {FONT}">
-            ✉ 구독 신청
-          </a>
-          <a href="{unsubscribe_href}"
-             style="display:inline-block; background:#f3f4f6; color:#6b7280; font-size:13px; font-weight:600;
-                    padding:10px 14px; border-radius:8px; text-decoration:none; border:1px solid #e5e7eb;
-                    margin-right:8px; {FONT}">
-            구독 취소
-          </a>
-          <a href="{INTRO_URL}" target="_blank"
-             style="display:inline-block; background:none; color:#1a1a2a; font-size:13px; font-weight:800;
-                    padding:10px 4px; text-decoration:none; {FONT}">
-            🏢 인재경영실 소개
-          </a>
-        </td>
-      </tr>
-    </table>
-
-    <div style="text-align:center; margin-bottom:20px;">
-      <a href="{feedback_href}"
-         style="display:inline-block; background:#00A7A7; color:#ffffff; font-size:13px; font-weight:700;
-                padding:11px 28px; border-radius:8px; text-decoration:none; {FONT}">
-        💬 Morning Briefing 피드백 보내기
-      </a>
+    <div style="text-align:center; font-size:0; line-height:0;">
+      <a href="{pages_url}" target="_blank" style="{BTN} background:#fef9c3; color:#1a1a2a; border:1px solid #fde047;">📁 전체 아카이브</a>
+      <a href="{subscribe_href}" style="{BTN} background:#1a1a2a; color:#ffffff; border:1px solid #1a1a2a;">✉ 구독 신청</a>
+      <a href="{unsubscribe_href}" style="{BTN} background:#f3f4f6; color:#6b7280; border:1px solid #e5e7eb; font-weight:600;">구독 취소</a>
+      <a href="{INTRO_URL}" target="_blank" style="{BTN} background:#ffffff; color:#1a1a2a; border:1px solid #e5e7eb;">🏢 인재경영실 소개</a>
     </div>
 
-    <hr style="border:none; border-top:1px solid #e5e7eb; margin:0 0 16px;">
+    <div style="text-align:center; margin:12px 0 22px;">
+      <a href="{feedback_href}"
+         style="display:inline-block; background:#00A7A7; color:#ffffff; font-size:14px; font-weight:700;
+                padding:12px 26px; border-radius:8px; text-decoration:none; {FONT_STACK}">💬 피드백 보내기</a>
+    </div>
 
-    <div style="font-size:11px; color:#9ca3af; line-height:1.7; {FONT}">
+    <div style="font-size:11px; color:#9ca3af; line-height:1.7; text-align:center;">
       Copyright {datetime.now(KST).year} {EMAIL_FROM_NAME}, All rights reserved.
     </div>
 
