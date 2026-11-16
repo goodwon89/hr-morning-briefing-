@@ -1,5 +1,187 @@
 [
  {
+  "date": "2026-11-17",
+  "sent_at": "06:32",
+  "news": [
+   {
+    "title": "기업 생산성 분석으로 살펴본 실질임금 정체의 배경과 시사점",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtd203cVpBWmN6eEV4VWdLNHlRZzg4b0JqT0R2d3RQNVlNNXFvZnhDdVFtc2w0WFRFWDI5S1RMdGJyQ0JxVHdRWWMwTUZ0bXNfeTZSSGxoRkYwNUYteU1aTWk5QzlTN0NEM2NF?oc=5",
+    "source": "KDI 경제교육·정보센터",
+    "pub_date": "26.11.17",
+    "section": "hr",
+    "so_what": "실질임금 정체 원인 파악 시 생산성 지표 참고"
+   },
+   {
+    "title": "기업 외면받는 자율구조조정지원…1년새 40% 급감",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55d3ZUeFVhdXRDd3huM1hNTzBRM2ZxUnZvUVNFaExWMEh4d2dPV3ZBWUZobFZrc1ZGWW9NMnU4QnEyemcwQmNUQ2hES1hOeDJRZ0MxYTJLcE00QQ?oc=5",
+    "source": "한국경제",
+    "pub_date": "26.11.16",
+    "section": "hr",
+    "so_what": "자율구조조정 지원 급감, 구조조정 방식 재검토 시 참고"
+   },
+   {
+    "title": "대한항공·조종사노조, 3년치 임단협 일괄 타결 잠정합의",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bEI1YmVEQnVFY2x1dnBhQmZ5dk84YXZjc05TNVZEQ0ROemFyU3Z3SWFxZVVSeDk0akRMSF93QWFhbEhONUZvUDhMUWxvTHJMRGt4VWFESFJMQkUwM19YclZucHBlTXJZYXJoVFU3N1cxOUJY?oc=5",
+    "source": "파이낸셜포스트",
+    "pub_date": "26.11.16",
+    "section": "hr",
+    "so_what": "업계 임단협 타결 사례, 노사협상 일정 관리 참고"
+   },
+   {
+    "title": "‘2027 연차 개편·포괄임금 지침, 취업규칙 어디서부터 손대나’… 복지플랫폼 애드웰, HR 실무 대응 무료 웨비나 개최",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdVU0Y1RSdFMyUlRlZ0pSQnJkeGZXcGdldGwyRzNURGF4WTBKZW5XcnhPSXFGdFR5bDVBUThIT2Zia3Rxbm8tYkc2MWQ5ekdsYXYzcHBkUGlubE1uU2t6dmc4SlB5TTh0cGQwdGRKRFdmV2FwQjJV0gF3QVVfeXFMTmx1VTRjVFJ0UzJSVGVnSlJCcmR4ZldwZ2V0bDJHM1REYXhZMEplbldyeE9JcUZ0VHlsNUFROEhPZmJrdHFuby1iRzYxZDl6R2xhdjNwcGRQaW5sTW5Ta3p2ZzhKUHlNOHRwZDB0ZEpEV2ZXYXBCMlU?oc=5",
+    "source": "한국시민기자협회 뉴스포털1",
+    "pub_date": "26.11.16",
+    "section": "hr",
+    "so_what": "2027 연차·포괄임금 변화, 취업규칙 점검 시 참고"
+   },
+   {
+    "title": "\"8년 다녔는데 신입과 연봉 차이 고작 100만원\"…직장인 허탈감 호소",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzbkdjbnozbnpFVUZ6eDNienRYNFFNbkROUFVQSzM1VkM3NjhwLXdSYnkySzVocTVsWVI1NE9ZRHR6RG5GaS1VWXhMT3lNTlZOaDRuRER3RUdURS1uNXhmT1RGZUR2TTJ2QjlyXzNmb3ZmQVN0X1h0LdIBeEFVX3lxTFBzbkdjbnozbnpFVUZ6eDNienRYNFFNbkROUFVQSzM1VkM3NjhwLXdSYnkySzVocTVsWVI1NE9ZRHR6RG5GaS1VWXhMT3lNTlZOaDRuRER3RUdURS1uNXhmT1RGZUR2TTJ2QjlyXzNmb3ZmQVN0X1h0LQ?oc=5",
+    "source": "뉴시스",
+    "pub_date": "26.11.17",
+    "section": "hr",
+    "so_what": "동일 직급 내 연봉 격차 이슈, 보상체계 점검 시 참고"
+   },
+   {
+    "title": "‘롯데 3세’ 신유열, 입사 6년 만에 사장 승진…그룹 경영전략 총괄",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KcGNyclVqQWpnZ0NwTl9MeFA3R0dIcDFWRmdhdGh2RFpJV3EtcDdvRWh3VFFucURsY3BvcWEwSTM2V3BpbElncTNRT0V3WWJ6ZGRCY2pDU1Q2SHU3M0tJLVB2Zm81OHRvVkE?oc=5",
+    "source": "한겨레",
+    "pub_date": "26.11.17",
+    "section": "hr",
+    "so_what": "대기업 후계 승진 사례, 그룹 리더십 승계 참고"
+   },
+   {
+    "title": "\"AI 인한 생산성 향상 효과 아직 없다\"…케빈 워시의 경고",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVdk0tLUxqbkQtcG90LTVybTVEMFFPN3FkbzhUd0NlbXVzTWxRUHdyMWVDUVU5c0REZTJYT3NVOGxLNDR2WHc1bGFJSzZLdThLNzJjQTZrOWNKQQ?oc=5",
+    "source": "한국경제",
+    "pub_date": "26.11.17",
+    "section": "ai_tech",
+    "so_what": "AI 생산성 효과 불확실성, 투자 성과 기준 재검토 시 참고"
+   },
+   {
+    "title": "AI 쓰는데 일하는 시간은 늘었다?…생산성의 역설",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UWXhTdUhOV3loUWtnWnBwTXFBOGJWVUF3Z1QzMmFnNVkzOFhfU3RWNGI2M2EtQjh1SmUxZ0VMS0w3M21zYWJSeGgyTzdaODNOVE9fSGJtY1hvR09FMXR2MVY0bzV3dDRx0gFuQVVfeXFMTU5nbkNpM3ozdGpiaGkzdDM0aEZibVNRSnA4MENhV0duMEktblhfUDhHdUJYZ0lUZ3NyNHVjMHU1eURIcjdWbGhsbldqUFFsNzVoa3lDNGx3NTVSQkY0WnlEWGpvSWJreXJ6NVpLUHc?oc=5",
+    "source": "머니투데이",
+    "pub_date": "26.11.16",
+    "section": "ai_tech",
+    "so_what": "AI 도입 후 업무시간 증가, 생산성 측정 지표 설계 참고"
+   },
+   {
+    "title": "IT서비스 4사, AI·클라우드 타고 3분기 외형 성장…수익성은 '희비'",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdU8yVHBCcVAwTFhoLWowcl9NVFJNUnd3TnlMdnc0YXZCYXhoYkFsZzViNVJ1cTVaUWhEQU40RjBlVXFIbGNUZWJGdXRRTWdlUGtkblFB?oc=5",
+    "source": "지디넷코리아",
+    "pub_date": "26.11.16",
+    "section": "ai_tech",
+    "so_what": "IT서비스 기업 AI·클라우드 매출 대비 수익성 차이 참고"
+   },
+   {
+    "title": "최신 설문조사 결과, 기존 소프트웨어와 AI 현대화 사이에 갇힌 기업들",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1U5dzdNdG1Kc2JsdGlnMmZSb0toQllmVE5wM3N6c0F4aHdqb0JtOVJmYUFWWkdYWndLY2NXeGxEUkt6aTQwVDJkM3d2Mlo4VTBucVR2aVd3ZFBjVTZHVVBvWjR5XzRCcFVRRW54ZXd2dEtTcEFlTTYyUV8wMjZoUnJEOFFBbE53UVZkX01UR1p2QmVhZDRjdjNhMzJnSm5rMURZNkFzNmdfeS14MXY1YTl5UGh6cWl6cDNVOEdqeDNOSjd4d2lVSGl3SXlDNnZXWllEczFwQmNaYlU?oc=5",
+    "source": "Google Cloud",
+    "pub_date": "26.11.16",
+    "section": "ai_tech",
+    "so_what": "레거시 소프트웨어와 AI 현대화 격차, IT 투자 우선순위 참고"
+   },
+   {
+    "title": "역대급 실적 이어간 ‘반도체 투톱’…엔비디아 쏠림 줄고 中 비중 늘어",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90Z2ZWd09nNkYtbVB5ZjZnZEhMRFVGQTA2clc2M2lEckp0TlZMTnRfSEg1TVBWTG5wVXJtZlVlZlBZNHRRdEhmY1U5YVduQ01CZlFUYkl6M1dQNHgzck5mdmpmRWZmbHVYWVRsN3JQMXdHaTFmc24tYkhjdw?oc=5",
+    "source": "서울신문",
+    "pub_date": "26.11.16",
+    "section": "macro_industry",
+    "so_what": "반도체 실적 호조와 수출 구조 변화, 시장 환경 점검 참고"
+   },
+   {
+    "title": "ECB 부총재 \"2027년 추가 금리 인상 전망, 비합리적이지 않아\"",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52OFRFOVg5aTUwZEtTRFFBTUl1eHFWTjU5SjQ3SDdqYmozY19YTWlsRGFhN0d1YlItdTJkT1h0amRsMW1XZzZNdEZSVGUzUFFsMHFiZDBYSjBmb3hSYUhIdGJ1YXI3UWdQQVdNbHhaSkk?oc=5",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.17",
+    "section": "macro_industry",
+    "so_what": "ECB 추가 금리 인상 가능성, 해외 조달 금리 변수 참고"
+   },
+   {
+    "title": "집값은 주춤, 전셋값은 급등 전망…내년 부동산 엇박자",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzUjBUYWZsUzZrb1lGeXY1TkVaYkdjd3EydVBhUVV0bDJFMmp5NXhHUWdqRVBMcFUyRXVVcGFhalFjcHlfNGxpUkU3U0FON0dTUUJIYTREQ1E1Q2ZKSkZIc2VrS3VrX0tJRFcwN0lmYkvSAXBBVV95cUxQc1IwVGFmbFM2a29ZRnl2NU5FWmJHY3dxMnVQYVFVdGwyRTJqeTV4R1FnakVQTHBVMkV1VXBhYWpRY3B5XzRsaVJFN1NBTjdHU1FCSGE0RENRNUNmSkpGSHNla0t1a19LSURXMDdJZmJL?oc=5",
+    "source": "엠에스투데이",
+    "pub_date": "26.11.16",
+    "section": "macro_industry",
+    "so_what": "내년 전셋값 급등 전망, 임직원 주거비 지원 설계 참고"
+   },
+   {
+    "title": "연간 실적 '뒷걸음'…자동차 수출 '불안한 회복'",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qWmJKOW96NjgxeEM1UmN5T19WMmltODFkNjhZd2pUam9jeDVSSDhQVjZET1lUdUgxX0UzYkhud0doTmoyOEhMZU44ZmFrZmhVQWJFRm9rV3lGUTFFemRDag?oc=5",
+    "source": "뉴스토마토",
+    "pub_date": "26.11.16",
+    "section": "macro_industry",
+    "so_what": "자동차 수출 불안한 회복, 산업 경기 흐름 참고"
+   },
+   {
+    "title": "\"연말인데 꼭 봄철 같네\"…비수기 잊은 M&A 시장",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40M1c3OFlzMElYNjRvLWtZYzMwV01qbHNLOWhmckt4cVFEY2VpSmIzSjVLUVQtaUk4LXdSZHJzcHUzNjc5VW9Ca3hfQ1Fub3hrRHFGSVJ2anVTVk1TaWtnLUxHSi1PSko3dnFhbFEwSG8wZw?oc=5",
+    "source": "마켓인",
+    "pub_date": "26.11.16",
+    "section": "invest_ma",
+    "so_what": "M&A 시장 활황, 그룹 인수합병 검토 시 참고"
+   },
+   {
+    "title": "증시 변동성에 IPO시장도 위축…'상장 철회·수요예측 연기' 잇따라",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZXzlpN1k1dUVtODBfWk1MaV9kWktRZ01hQUJtQXpQTXBOZFAydUQ2bUdNN0MtYTdEMVdKRFNoQ1RiV0tFT3JXSWpJOXBpbU40RFoyZ1h6NzdGMG1uR0ZNWkxUNUIzMnNob3VLbi1UQjk?oc=5",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.16",
+    "section": "invest_ma",
+    "so_what": "증시 변동성에 IPO 연기 확산, 상장 일정 재검토 참고"
+   },
+   {
+    "title": "인텔릭스·클러쉬, 코스닥 상장 예비심사 신청",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NdWNoRXo4Nng1T2p6Ti1qQ1BfbTZqcEZ5TC1UYnRrY2JZQ1VQVnBKWllkNjVnUVhlUFF0RnF3SXRLd0pHWG9ZS1JzTjZVeGRsU0pPb0xvQVlXb1ZUYl93cdIBYEFVX3lxTE9NdWNoRXo4Nng1T2p6Ti1qQ1BfbTZqcEZ5TC1UYnRrY2JZQ1VQVnBKWllkNjVnUVhlUFF0RnF3SXRLd0pHWG9ZS1JzTjZVeGRsU0pPb0xvQVlXb1ZUYl93cQ?oc=5",
+    "source": "연합뉴스",
+    "pub_date": "26.11.16",
+    "section": "invest_ma",
+    "so_what": "코스닥 상장 예비심사 신청 동향, 투자 포트폴리오 참고"
+   },
+   {
+    "title": "유캐스트 상장 도전…공모가 근거 60%가 '판매 0' 기지국",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiQjRsWktiTk82MExRcUlvYjlDNHdHcUt1YVF0SDFCUzFnTjBET2xWTnR5S2U1X0hBbE93VlJiYmpvdVc5VFcxOFI2cXk0cHM5QVZDM19UWkxJb1AtNkJ6SjhGWnhLVFFxbUtJ?oc=5",
+    "source": "넘버스",
+    "pub_date": "26.11.16",
+    "section": "invest_ma",
+    "so_what": "공모가 근거 취약 사례, 바이오·IT 투자 밸류 검증 참고"
+   },
+   {
+    "title": "\"실증 단계에 머문 대기업·스타트업 협업…상용화 26% 그쳐\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdXY1Z2NUR2c4aWNvUnl1UGFTVktna01DaktzOGZQVHRjNVl4MGUxQk5QMVdZMDNvSW1vVHBjQnpnaHV0Y1VlRjJXaXFlRHdVVFJpeDRueWN4OW5mUm9Gaw?oc=5",
+    "source": "아시아경제",
+    "pub_date": "26.11.16",
+    "section": "innovation",
+    "so_what": "대기업·스타트업 협업 상용화율 26%, 협업 성과 기준 참고"
+   },
+   {
+    "title": "\"대덕특구 바이오 기업 세계로\"···특구재단·美 존스홉킨스대 '맞손'",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EY1ZweXY2UlVvNjIzWVNnTEgzaDlIbUVOM1psOGVfZUdtS0ZkZjUzNllydkRxZE1BSTUwNFVRY0ExWGtNaFh4YXIzdV9LaDR2ZWZLLUpOR0JDVFRJaVMtTzBQN3ltUHVJWmc?oc=5",
+    "source": "헬로디디",
+    "pub_date": "26.11.16",
+    "section": "innovation",
+    "so_what": "대덕특구 바이오 해외 협력, 바이오 계열사 기술협력 참고"
+   },
+   {
+    "title": "한국 규제샌드박스 2787건 승인…STEPI, 아세안 협력 5대 과제 제안",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbHBnMmg0bjBlZ1ZDSUFuSjlMQmhSdzNIb2MwR2llcjVoMjV1YTREcXZYai0zU3FTVl9aLXdmVkVlMTZJN2dueDJlTXB5R0psNF9YN0NZOHQ0dWQzVkFHS2R5bWJwN2lRV3FXcTEtV0ZDMTk5NkJjME5tdFBISy12cng1aUhMbVdxTEc1RGE2WVEtZ1dqdURkelhnSjVZemp4LTg2dDJKOGNHbF9MTTk3LXZyX185Q1ozNF8tdDl3eGJndTdCSG9uU1EtT1Y5d1JTYXFlazNvZ1RPR0xaNEZaZDFXNEptZC1UaWtpNzVn?oc=5",
+    "source": "데일리안",
+    "pub_date": "26.11.16",
+    "section": "innovation",
+    "so_what": "규제샌드박스 승인 현황, 신사업 규제 대응 전략 참고"
+   },
+   {
+    "title": "K-치과의료 해외진출, 의사 아닌 ‘사업가’ 마인드로",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtTG1HQS1mSTVoeVJFanhpTlp1S0dXRFJzTVVfQ1FfdEZRaTFodXZzeGowS3dseUw1azliNEJLaFpQcXpSS0pZdndxbmRvQWdPeENhMVNkSnNyd2JmeTFCRFFodDhIdw?oc=5",
+    "source": "치과신문",
+    "pub_date": "26.11.15",
+    "section": "innovation",
+    "so_what": "의료 해외진출 사업모델 관점, 바이오 해외 사업 참고"
+   }
+  ]
+ },
+ {
   "date": "2026-11-16",
   "sent_at": "06:33",
   "news": [
