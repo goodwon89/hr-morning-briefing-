@@ -420,8 +420,9 @@ class Deduper:
                 if n.get("title"):
                     self.keys.add(_norm_key(n["title"]))
                     self.recent_titles.append(n["title"])
-                if n.get("url"):
-                    self.keys.add(n["url"].split("?")[0])
+                for k in ("url", "gnews"):          # gnews: 원문 변환 전 구글 뉴스 링크
+                    if n.get(k):
+                        self.keys.add(n[k].split("?")[0])
 
     def is_dup(self, c: dict) -> bool:
         if _norm_key(c["title"]) in self.keys or c["url"].split("?")[0] in self.keys:
@@ -611,7 +612,51 @@ def collect_all_news(now: datetime, recent_entries: list) -> list:
             c = {k: v for k, v in c.items() if not k.startswith("_")}
             news.append(c)
         print(f"  [{key}] 최종 {len(selected.get(key, []))}건")
+    resolve_original_urls(news)
     return news
+
+
+# ──────────────────────────────────────────────────────────────
+# 구글 뉴스 중계 링크 → 언론사 원문 링크
+#   news.google.com/rss/articles/... 링크는 같은 회사망에서 여러 명이 누르면 구글이
+#   '자동화된 요청'으로 차단(We're sorry 화면)할 수 있어, 발송 전에 원문 주소로 바꿈
+# ──────────────────────────────────────────────────────────────
+
+def _clean_amp(url: str) -> str:
+    """모바일 AMP 주소를 일반 기사 주소로 (PC·모바일 모두 정상 표시)"""
+    url = url.replace("/articleViewAmp.html", "/articleView.html")
+    m = re.match(r"https?://mobile\.newsis\.com/view_amp\.html\?ar_id=([A-Z0-9_]+)", url)
+    if m:
+        return f"https://www.newsis.com/view/{m.group(1)}"
+    return url
+
+
+def resolve_original_url(url: str) -> str:
+    if "news.google.com" not in (url or ""):
+        return url
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        r = gnewsdecoder(url, interval=1)
+        dec = r.get("decoded_url") if isinstance(r, dict) else None
+        if dec and dec.startswith("http") and "news.google.com" not in dec:
+            return _clean_amp(dec)
+    except Exception as e:
+        print(f"  [경고] 원문 링크 변환 실패(구글 링크 유지): {str(e)[:80]}")
+    return url
+
+
+def resolve_original_urls(items: list) -> None:
+    ok = 0
+    for it in items:
+        g = it.get("url", "")
+        orig = resolve_original_url(g)
+        if orig != g:
+            it["gnews"], it["url"] = g, orig
+            ok += 1
+    if items:
+        print(f"  원문 링크 변환 {ok}/{len(items)}건")
+    if ok < len(items):
+        RUN_LOG["failed_queries"].append(f"원문 링크 변환 실패 {len(items) - ok}건 (구글 링크로 발송)")
 
 
 # ──────────────────────────────────────────────────────────────
@@ -874,6 +919,7 @@ org는 조사를 발표한 기관(제목에 없으면 언론사명).
             print(f"  [경고] 리포트 AI 선정 실패 → 규칙 기반: {e}")
     if not picks:
         picks = [{"title": c["title"][:40], "org": c["source"], "desc": c["title"], "url": c["url"]} for c in cands[:3]]
+    resolve_original_urls(picks)
 
     kosis = [r for r in data.get("reports", []) if r.get("_kosis")]
     data["reports"] = kosis + picks

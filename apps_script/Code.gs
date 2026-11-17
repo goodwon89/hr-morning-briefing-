@@ -132,7 +132,36 @@ function clickJson_(p) {
   if (!/^https?:\/\//.test(url) || sign_(url) !== p.h) return json_({ ok: false });
   try { logClick({ d: p.d || '', s: p.s || '', i: p.i || '', src: p.src || '', t: p.t || '', u: url }); }
   catch (err) { console.error(err); }
-  return json_({ ok: true, u: url });
+  return json_({ ok: true, u: originalUrl_(url, p.d) });
+}
+
+// 구글 뉴스 중계 링크면 아카이브에서 언론사 원문 링크를 찾아 반환
+// (구글이 같은 회사망의 반복 접속을 '자동화 요청'으로 차단하는 문제 방지 — 이미 발송된 메일 포함)
+const PAGES_ARCHIVE = 'https://goodwon89.github.io/hr-morning-briefing-/archive/';
+function originalUrl_(url, d) {
+  if (url.indexOf('news.google.com') < 0) return url;
+  const key = 'orig:' + Utilities.base64EncodeWebSafe(Utilities.computeDigest(Utilities.DigestAlgorithm.MD5, url));
+  const cache = CacheService.getScriptCache();
+  const hit = cache.get(key);
+  if (hit) return hit;
+  try {
+    const month = /^\d{4}-\d{2}/.test(String(d || '')) ? String(d).slice(0, 7)
+      : Utilities.formatDate(new Date(), TZ, 'yyyy-MM');
+    const res = UrlFetchApp.fetch(PAGES_ARCHIVE + month + '.json', { muteHttpExceptions: true });
+    if (res.getResponseCode() === 200) {
+      const entries = JSON.parse(res.getContentText());
+      for (let i = 0; i < entries.length; i++) {
+        const news = entries[i].news || [];
+        for (let j = 0; j < news.length; j++) {
+          if (news[j].gnews === url && news[j].url) {
+            cache.put(key, news[j].url, 21600);
+            return news[j].url;
+          }
+        }
+      }
+    }
+  } catch (err) { console.error(err); }
+  return url;
 }
 
 // 1-b) 클릭 추적 (예비 경로) — 서명된 URL만 이동 (임의 사이트로의 우회 이동 방지)

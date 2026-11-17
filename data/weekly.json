@@ -75,19 +75,22 @@
       "title": "직장인 온라인 혐오 표현 노출 실태 조사",
       "org": "뉴시스",
       "desc": "직장인 64%가 온라인에서 혐오 표현을 접했다고 답했고, 그중 48%는 여성·특정지역이 대상이었다고 응답.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hUlMxNUlFaG5JTGVOOUZ3Mmd2MGNranlCLTBSTng2MWVUOHpkdkM2eXFKa3B1c0FGV0hSdDlIVU5WUTB1dl9iUllReDlHNnFqTEZWT2JFOS1mWERNOHE5aDlOaTN0cVlnWWloZ2V3RXhOWmt1YzBfStIBeEFVX3lxTE1hUlMxNUlFaG5JTGVOOUZ3Mmd2MGNranlCLTBSTng2MWVUOHpkdkM2eXFKa3B1c0FGV0hSdDlIVU5WUTB1dl9iUllReDlHNnFqTEZWT2JFOS1mWERNOHE5aDlOaTN0cVlnWWloZ2V3RXhOWmt1YzBfSg?oc=5"
+      "url": "https://www.newsis.com/view/NISX20261113_0003867370",
+      "gnews": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hUlMxNUlFaG5JTGVOOUZ3Mmd2MGNranlCLTBSTng2MWVUOHpkdkM2eXFKa3B1c0FGV0hSdDlIVU5WUTB1dl9iUllReDlHNnFqTEZWT2JFOS1mWERNOHE5aDlOaTN0cVlnWWloZ2V3RXhOWmt1YzBfStIBeEFVX3lxTE1hUlMxNUlFaG5JTGVOOUZ3Mmd2MGNranlCLTBSTng2MWVUOHpkdkM2eXFKa3B1c0FGV0hSdDlIVU5WUTB1dl9iUllReDlHNnFqTEZWT2JFOS1mWERNOHE5aDlOaTN0cVlnWWloZ2V3RXhOWmt1YzBfSg?oc=5"
     },
     {
       "title": "AI 활용 직장인 근무시간 비교 분석",
       "org": "마켓인",
       "desc": "AI를 쓰는 직장인이 안 쓰는 직원보다 업무일이 최대 90분 길었다는 결과.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmeEEwTk1JRkNGT0RReU93NlZrd2R5Y0VLcUlUZlVtTFRHc29maW9vc2lEYW1PSkZNS0RNVnViWG93QWU1QXFMRkJJdmthTkFuS1UzeTMwTXRaSmROU1lRdDlURFRmUEV3M3FWMUtYMEktOGc?oc=5"
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04375526645645064",
+      "gnews": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmeEEwTk1JRkNGT0RReU93NlZrd2R5Y0VLcUlUZlVtTFRHc29maW9vc2lEYW1PSkZNS0RNVnViWG93QWU1QXFMRkJJdmthTkFuS1UzeTMwTXRaSmROU1lRdDlURFRmUEV3M3FWMUtYMEktOGc?oc=5"
     },
     {
       "title": "청년 임금근로자 비정규직 실태 통계",
       "org": "매일경제TV",
       "desc": "청년 임금근로자의 46%가 비정규직으로, 통계 작성 이후 최고 수준으로 나타남.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iRUNEbjJuaENQQUhEMFFpa0xmd2g2QjBqMHJwQ1dyRTZ2TEtJUVl2Vm1ncGJyZ05kU2hIc0tRcEJFRU1md2E5cFc3bzdneFYwNjlPZThoeG1JUXR4dTE3SUJRRWtCemNz?oc=5"
+      "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005962571",
+      "gnews": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iRUNEbjJuaENQQUhEMFFpa0xmd2g2QjBqMHJwQ1dyRTZ2TEtJUVl2Vm1ncGJyZ05kU2hIc0tRcEJFRU1md2E5cFc3bzdneFYwNjlPZThoeG1JUXR4dTE3SUJRRWtCemNz?oc=5"
     }
   ],
   "_guide": "매월 고용동향 발표 후 수정 → main에 push. enabled=false면 섹션 숨김. trend: up|down|neutral",
