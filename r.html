@@ -40,11 +40,34 @@
   }
   if (!u) { manual(); return; }
   q.set("fmt", "json");
-  var timer = setTimeout(manual, 5000);
-  fetch(TRACK + "?" + q.toString())
+  var logged = fetch(TRACK + "?" + q.toString())           // 서명 확인 + 클릭 기록
+    .then(function (r) { return r.json(); }).catch(function () { return null; });
+
+  if (host(u) !== "news.google.com") {
+    // 원문 링크: 웹앱 서명 확인을 통과해야 이동 (임의 사이트 우회 이동 방지)
+    var timer = setTimeout(manual, 5000);
+    logged.then(function (d) { clearTimeout(timer); if (d && d.ok && d.u) go(d.u); else manual(); });
+    return;
+  }
+
+  // 구글 뉴스 중계 링크(과거 발송분): 구글이 회사망의 반복 접속을 차단할 수 있어
+  // 같은 사이트의 아카이브에서 언론사 원문 링크를 찾아 이동
+  var d0 = q.get("d") || "";
+  var month = /^\d{4}-\d{2}/.test(d0) ? d0.slice(0, 7) : new Date().toISOString().slice(0, 7);
+  var original = fetch("archive/" + month + ".json", { cache: "no-cache" })
     .then(function (r) { return r.json(); })
-    .then(function (d) { clearTimeout(timer); if (d && d.ok && d.u) go(d.u); else manual(); })
-    .catch(function () { clearTimeout(timer); manual(); });
+    .then(function (entries) {
+      for (var i = 0; i < entries.length; i++) {
+        var news = entries[i].news || [];
+        for (var j = 0; j < news.length; j++) {
+          if (news[j].gnews === u && news[j].url) return news[j].url;
+        }
+      }
+      return null;
+    }).catch(function () { return null; });
+  var waitLog = Promise.race([logged, new Promise(function (r) { setTimeout(r, 1500); })]);
+  Promise.all([original, waitLog]).then(function (res) { go(res[0] || u); });
+  setTimeout(function () { go(u); }, 6000);
 })();
 </script>
 </body>
