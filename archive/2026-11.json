@@ -1,5 +1,208 @@
 [
  {
+  "date": "2026-11-20",
+  "sent_at": "06:32",
+  "news": [
+   {
+    "title": "경제계, '기업구조조정 촉진법' 상시화 촉구...워크아웃 미루면 국민 피해로 이어져",
+    "url": "https://www.banronbodo.com/news/articleView.html?idxno=33401",
+    "source": "반론보도닷컴",
+    "pub_date": "26.11.19",
+    "section": "hr",
+    "so_what": "구조조정 제도 상시화 논의, 계열사 워크아웃 대응 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZWlwTVMtZnYtODk1TmpaTkdKV2JBSDRvWnpZbWFoNUlQVEFWWVQ2SjE4dXFNamhOV2ZCcTJwNmptb0h5UGhFNS1TZkMxZkdsS01hMURWUks5VzYzZ0x2LVA2VnJESVg1VDhNbdIBcEFVX3lxTE9LdXgtVFlCVzViUDVWZW9TeFJrN0JDTW5hbUpaZ0FCNy01ZzAtRzFLZTlwV09DbXowbU1zb2hOdjFfX2w4WE9WeS02TUZJTURlcy1aQjUtdGp0eEo0eWc3VkF2UVpPazBXUHdnSDBtTnk?oc=5"
+   },
+   {
+    "title": "유연근무제도 효과 제각각…일·생활 균형엔 ‘근로시간 단축’ 가장 뚜렷",
+    "url": "https://www.ibabynews.com/news/articleView.html?idxno=157075",
+    "source": "베이비뉴스",
+    "pub_date": "26.11.19",
+    "section": "hr",
+    "so_what": "근로시간 단축이 일·생활 균형에 가장 효과, 근무제 설계 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOFItSjR2dXdIMEU4U2JoQkQzdVpmMDE4Mzg1ZF9Uam1VdFF5bjYzcTdzV1h4b3FtM1Y4aEpQWmV5WlVEdmRZTXlBTWtFeDN4MDYxZ2JqbnVJdkx5eFI1YWp2aG5razA0eTNnQw?oc=5"
+   },
+   {
+    "title": "중대재해처벌법 최근 판결동향 및 시사점(11)",
+    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251672",
+    "source": "안전신문",
+    "pub_date": "26.11.19",
+    "section": "hr",
+    "so_what": "중대재해 판결 흐름, 계열사 안전관리 체계 점검 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xYVdSanktN25HcVNtV09qQXpucGd6cHNKOW9FSFNOMFhOdGwxbFp0YXlxUUJVN2JabFhMaEJVRHEyVUtnQ084ZzFBdU0yVWRoMFRpdEp2Qzl5bGVJWkZ4RzZRSl9CSUxxalBVR0x5YlM?oc=5"
+   },
+   {
+    "title": "LG그룹, '안정에 방점' 2027년 임원 인사…승진 132명·신규 임원 89명",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445597",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.19",
+    "section": "hr",
+    "so_what": "대기업 임원 인사 기조(안정·승진 규모), 그룹 인사 전략 비교 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIRFRtSV9UdFRWSkFISGxVZzM0OGlCXzZsSk83NHNnNkgzSk9jc3g3NVRyOGxQMWpEWFlRMmFrSFNhVmlmYlBXNEFObEpnbnM0OVRGM3lxNjdpY01LMEtBcW8wU3NHdHZoeDliUEtuUnY?oc=5"
+   },
+   {
+    "title": "LG그룹, 세대교체 다음은 기술혁신…R&D 인재 대거 중용",
+    "url": "https://stock.mk.co.kr/news/view/1202624",
+    "source": "매일경제 마켓",
+    "pub_date": "26.11.19",
+    "section": "hr",
+    "so_what": "대기업 R&D 인재 중용 흐름, 기술 인재 승진 기준 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Qc2hSZDJsMm5wekVMNHJrUGxnWHBwaUtlQlJfcllzZC1sU0pwN3cwTjZHYXFYcXFoZUZMdGZaSDlCU0tLcGVRVEtLQ2dHdGxQTnc?oc=5"
+   },
+   {
+    "title": "\"대기업선 54세도 젊은 피\"…20대와 월급 격차도 벌렸다",
+    "url": "https://www.hankyung.com/article/202611017743i",
+    "source": "한국경제",
+    "pub_date": "26.11.20",
+    "section": "hr",
+    "so_what": "대기업 연령별 임금 격차 데이터, 직무·보상 체계 점검 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kSjQ4WkliMDdlZ1BoZThHMWphRTFJNHBUbXZVaUYxdW9XOVJzVDgtTzRkRllDcTg4bzZKR21famtJcGpTa1RZVUU2Z0RIQjdsQmNPM1NDejRnZw?oc=5"
+   },
+   {
+    "title": "박스, AI 도입 따른 매출 성장 가속화 기대...투자의견 '상향'-UBS",
+    "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04795366645647360",
+    "source": "마켓인",
+    "pub_date": "26.11.19",
+    "section": "ai_tech",
+    "so_what": "AI 도입 매출 성장 기대, 기업 AI 투자 효과 평가 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wX21BQjJLNFowVVg3NUtxU1liUXpiUXBWdGRMSHR6dExDYXhpakxCczRzT1VzbjY0Y3pVcDhlbkhldWJERVdMblJQU05WSENaWkYyWXlaMmJrYnduTkxPbExiTnVvaDNLYWxRUVVlOFMtRG8?oc=5"
+   },
+   {
+    "title": "美 연쇄 전산마비에 '디지털 회복탄력성' 테마 부상…보안·인프라주 급등",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445561",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.19",
+    "section": "ai_tech",
+    "so_what": "디지털 회복탄력성 부각, 그룹 IT 인프라 보안 점검 필요성 시사",
+    "gnews": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uQzZtQlM1TmFSa2hYMndOeWxQSm1fMHlwRXd4VUJnS2lwUkZPeXVlNEJjRUlaczVKYXhGZktFNTZoX0xJRllMRjlOM0Vna3diRzZiUTFfbV8tMzJkUHVDMnlGMTNfelhLU0JfZmY5bktaS3pR0gF0QVVfeXFMT25DNm1CUzVOYVJraFgyd055bFBKbV8weXBFd3hVQmdLaXBSRk95dWU0QmNFSVpzNUpheEZmS0U1NmhfTElGWUxGOU4zRWdrd2JHNmJRMV9tXy0zMmRQdUMyeUYxM196WEtTQl9mZjluS1pLelE?oc=5"
+   },
+   {
+    "title": "인하대병원, 전 직원 생성형 AI·클라우드 업무 도입",
+    "url": "https://www.sedaily.com/article/20116435",
+    "source": "서울경제",
+    "pub_date": "26.11.19",
+    "section": "ai_tech",
+    "so_what": "병원권 생성형 AI 전사 도입 사례, 계열사 업무 AI 도입 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnTVN2TnJMZmIydDgzVTB4YkZBeU9UQWRLWVBKYlFwTmF5N3A5ZUdBdTg2WnNmWlRldmo3a1ZyWXViUUxXRThGdEI4eWU2Z0h3UWfSAVNBVV95cUxPMFBNeEY0WkEyeWZ2eV9jMGkzaXR2OWJ0NFdMa3ByT3BDT1Q2a2VhWmpUb19NU193bnc3Tlk5M1BPMjdzazRvc19xLVpQMXl1aVg2Zw?oc=5"
+   },
+   {
+    "title": "인프라 장애 나면 AI가 해결…베스핀글로벌, '클라우드플렉스' 개발한다",
+    "url": "https://zdnet.co.kr/view/?no=20261118171207",
+    "source": "지디넷코리아",
+    "pub_date": "26.11.18",
+    "section": "ai_tech",
+    "so_what": "AI 기반 인프라 장애 자동 대응, 네트워크/IT 계열사 운영 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQ1BEanNDTzlKanRaRTRUdDNBdFpQek5kZDc1Szd5VFlHZjJHOWEyZVlySlJXUU1kMFFKRVQzR18tSFd1N2NiV19jZThJRVJsSUZ6cG53?oc=5"
+   },
+   {
+    "title": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\"",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445627",
+    "source": "연합인포맥스",
+    "pub_date": "26.11.20",
+    "section": "macro_industry",
+    "so_what": "미 금리 인상 전망, 금융 계열사 금리 리스크 점검 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsdkt5LXdWTkNZWTV3ZjFPdHVpNUlIWjd5bHFUeG5vRm5LTjFiQlNpaHVqajJMekoySWxHQ2pxVWpZOGdHdDRQQ3hhSHVadTJWcjFVZGMxSlp3cFp5QWxVY1QxUmlGWEJ0LUg5bDN6WmM?oc=5"
+   },
+   {
+    "title": "한국 수출 1조 달러 돌파…세계 4번째로 수출 순위 日 가볍게 제쳐",
+    "url": "https://m.tf.co.kr/amp/economy/2390985.htm",
+    "source": "더팩트",
+    "pub_date": "26.11.19",
+    "section": "macro_industry",
+    "so_what": "수출 1조 달러 달성, 경기 흐름 판단 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BeW9wSXZ4QVFwS0lQRGdXZFhQUWpsdHplUHVLeEgxQlRkWWF5aFlTaVZZSFhNdDBLdl8zSG9HdGFHTVBNWFV6UXJ0RFFSOFRtZEMtQ9IBVEFVX3lxTE9BeW9wSXZ4QVFwS0lQRGdXZFhQUWpsdHplUHVLeEgxQlRkWWF5aFlTaVZZSFhNdDBLdl8zSG9HdGFHTVBNWFV6UXJ0RFFSOFRtZEMtQw?oc=5"
+   },
+   {
+    "title": "수출 1조 달러 열었지만…통상압박·양극화·반도체사이클 ‘삼중 과제’도",
+    "url": "https://www.hani.co.kr/arti/economy/economy_general/1288204.html",
+    "source": "한겨레",
+    "pub_date": "26.11.19",
+    "section": "macro_industry",
+    "so_what": "수출 성과 속 통상압박·반도체 사이클 리스크 점검 필요",
+    "gnews": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tYnQ4WXdWZ001RkgxUE1vVjJibE5GN3lnNDVGY3YyX0Q1SFhRd19BRnVGN3J2ZW5xaG1HQ1FLeWZzNUw0STRpOXpJSW94Zm94cTJRaXFSVFZNUURfMXNDUkptaU5MOTRtVG9rdHV0Y3hJUQ?oc=5"
+   },
+   {
+    "title": "서울 아파트값 상승 지속…강남권은 하락",
+    "url": "https://news.dlive.kr/news/articleView.html?idxno=29114",
+    "source": "딜라이브뉴스",
+    "pub_date": "26.11.19",
+    "section": "macro_industry",
+    "so_what": "서울 아파트 시장 양극화, 부동산 PF 익스포저 관리 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GY25kTHJLdFA2TmFhS2lWYkRlaDZUSlJKbndMR0tEODkzcnY2cFN4NHI3ZXM4eHpmTGFkZmpCM0dBT3BDNkZpdTJ6dFNkOVIzdFY1dFBqWVk3UlV1amJOcm13WG1MUQ?oc=5"
+   },
+   {
+    "title": "빅파마, 내년 'M&A 큰장' 관측…K바이오에 기회?",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YdVpyU2s5ZHRONUNLa2ZOdEo2Zl9wMUhkUGhBd3ZNdG1zUGZMT0dYZlQ5anhDSXVxSjFrbVFaWlQzMjVCck9vQTM2ZEtUYkM0SHdsd0dCMzJEUWo2RzdTNmdRaEVhYy1HSE5seU1JUVlGMjl6eThsZdIBeEFVX3lxTE1YdVpyU2s5ZHRONUNLa2ZOdEo2Zl9wMUhkUGhBd3ZNdG1zUGZMT0dYZlQ5anhDSXVxSjFrbVFaWlQzMjVCck9vQTM2ZEtUYkM0SHdsd0dCMzJEUWo2RzdTNmdRaEVhYy1HSE5seU1JUVlGMjl6eThsZQ?oc=5",
+    "source": "뉴시스",
+    "pub_date": "26.11.19",
+    "section": "invest_ma",
+    "so_what": "빅파마 M&A 확대 전망, 바이오 계열사 제휴·인수 기회 검토 시 참고"
+   },
+   {
+    "title": "앤트로픽, IPO 공모가 83달러 확정…역대 최대 813억 달러 조달",
+    "url": "https://wowtale.net/2026/11/20/268368/",
+    "source": "와우테일",
+    "pub_date": "26.11.20",
+    "section": "invest_ma",
+    "so_what": "대형 IPO 흥행, 금융 계열사 IPO 주관·투자 전략 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBdlJxVE56N011WHlTTW9qczc1N2VPaFJNaF96dDBmeEFmZGJONnZkajBLcC1YTXVxTk9hVmoxaFJOZ2JGNy1hcjlzX09XdGs?oc=5"
+   },
+   {
+    "title": "LP성장펀드 세컨더리 GP에 컴퍼니케이 등 13곳 몰려…경쟁률 4.3대1",
+    "url": "https://www.numbers.co.kr/news/articleView.html?idxno=23168",
+    "source": "넘버스",
+    "pub_date": "26.11.19",
+    "section": "invest_ma",
+    "so_what": "LP성장펀드 세컨더리 경쟁률 데이터, 증권사 펀드 투자 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFVFkzRGxlV3FWbDd3SFREb3FQU21tbE1tMDhHc1ZpU1E5YnRaUm5hc1BucGFOSVU4X1RIazBOQ0FMWEJOQnZFV0ZicjVqSm5TN2lwQzBCeFZGS3ZiUk9NZlYwUWYwTFRmdjdj?oc=5"
+   },
+   {
+    "title": "공모가 1만9000원 확정…코스닥 입성 초읽기",
+    "url": "https://dealsite.co.kr/articles/173083",
+    "source": "딜사이트",
+    "pub_date": "26.11.19",
+    "section": "invest_ma",
+    "so_what": "코스닥 공모가 확정 사례, 증권 계열사 IPO 밸류에이션 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUEQ2MFdTc1dnT01hT0MyWEd5cHRLekVyTkxZRUZxY2tiQURHcVJ0Xzc0RzdtNi1RUTlzRFpTTGlXdV81LXM1YlVyQ3pmeDg?oc=5"
+   },
+   {
+    "title": "로킷헬스케어, 80억 수주 기반 AI 메디컬 플랫폼 상용화 추진",
+    "url": "https://www.newspost.kr/news/articleView.html?idxno=227570",
+    "source": "뉴스포스트",
+    "pub_date": "26.11.19",
+    "section": "innovation",
+    "so_what": "AI 메디컬 플랫폼 수주 기반 상용화, 바이오 계열사 사업화 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZVh6LU8zNmlQdDg1eHlRaGprU0daXzA3bTVGRk5zZGNFTFpIYzNoeVN5T19STlNvRWhyZUNCa2doMktMbHNJQXd5cUQzcTVBTlhFUk9VOGZkZjUyUjdyQUw1M0pORjdTeGc?oc=5"
+   },
+   {
+    "title": "동구바이오제약, ‘혁신형 제약기업’ 재인증",
+    "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016867",
+    "source": "의학신문",
+    "pub_date": "26.11.19",
+    "section": "innovation",
+    "so_what": "혁신형 제약기업 재인증, 바이오 계열사 인증 전략 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ocTh0akFjdEZpSTFKamFrazVIVUtKUU1JSGJOc2VqaFRVQVFfZ2RrOUZVZUFUMU9nTTh3dERfTFVNSVdUSDRzZnNaT2pyUXVLMzQ0TXlzVXBibHpUOWdNWVBUU0NSbDdaVVE?oc=5"
+   },
+   {
+    "title": "“수출 1조달러, 반도체 착시 경계해야”…中企, 해외시장 개척·현지화로 돌파구",
+    "url": "https://www.etnews.com/20261119000302",
+    "source": "전자신문",
+    "pub_date": "26.11.19",
+    "section": "innovation",
+    "so_what": "수출 반도체 쏠림 경고, 중소기업 해외 전략 점검 시 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85RkhVX0JKdm9BbG5OR2pUNFJQTm9kLWUwdlRIMTZnUThyNU5vTTFKRHVDYUtTQ0p3aldvSUNWRVJhMEVvQndBOXB4YUIwdw?oc=5"
+   },
+   {
+    "title": "창립 10주년 ‘원프레딕트’, 산업 AI 플랫폼 기업 도약 박차",
+    "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300334",
+    "source": "데이터넷",
+    "pub_date": "26.11.19",
+    "section": "innovation",
+    "so_what": "산업 AI 플랫폼 기업 성장 사례, IT 계열사 사업 모델 참고",
+    "gnews": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwY3dVY1J2TzBCZmRVeWlTVTN3d0xyZWhXRy01TXdiVG1Uc2YyWHZMb3dCTjJLZ0NYdFZ2Q2p4NWVzclhpeXpTUFVadjl1N1FneWVPRGNrRVQzVWc5dTZBSTQ3dVJzV0FTc0RsUw?oc=5"
+   }
+  ]
+ },
+ {
   "date": "2026-11-19",
   "sent_at": "06:32",
   "news": [
